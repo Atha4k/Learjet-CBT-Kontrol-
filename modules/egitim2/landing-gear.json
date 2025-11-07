@@ -1,0 +1,13 @@
+{
+  "id": "landing-gear",
+  "title": "Landing Gear",
+  "summary": "Landing gear system overview and lessons.",
+  "topics": [
+    { "id": "lg-01", "title": "General", "type": "lesson", "description": "" },
+    { "id": "lg-02", "title": "Gear Operation", "type": "lesson", "description": "" },
+    { "id": "lg-03", "title": "Gear Warning", "type": "lesson", "description": "" },
+    { "id": "lg-04", "title": "Brake System", "type": "lesson", "description": "" },
+    { "id": "lg-05", "title": "Nose Wheel Steering", "type": "lesson", "description": "" },
+    { "id": "lg-07", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

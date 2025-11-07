@@ -1,0 +1,14 @@
+{
+  "id": "fuel",
+  "title": "Fuel",
+  "summary": "Fuel system overview and lessons.",
+  "topics": [
+    { "id": "fl-01", "title": "Fuel Tanks", "type": "lesson", "description": "" },
+    { "id": "fl-02", "title": "Tank Venting", "type": "lesson", "description": "" },
+    { "id": "fl-03", "title": "Quantity İndication", "type": "lesson", "description": "" },
+    { "id": "fl-04", "title": "Fuel Transfer", "type": "lesson", "description": "" },
+    { "id": "fl-05", "title": "Fuel Feed", "type": "lesson", "description": "" },
+    { "id": "fl-06", "title": "Refueling & Defueling", "type": "lesson", "description": "" },
+    { "id": "fl-08", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Airline CBT ✅</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <header class="appbar">
+    <h1>Airline CBT ✅</h1>
+  </header>
+
+  <main id="app">
+    <!-- HERO -->
+    <section id="hero" style="background-image:url('assets/bg-clouds.jpg');background-size:cover;background-position:center;">
+      <div class="hero-wrap">
+        <button class="plane-card" id="plane-learjet" title="Learjet 45 XR">
+          <img src="assets/learjet.png" alt="Learjet 45 XR">
+          <span class="plane-label">Learjet 45 XR</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Player alanı -->
+    <section id="player" hidden aria-live="polite">
+      <nav class="player-nav">
+        <button class="btn" id="backHome">← Geri</button>
+        <h3 id="moduleTitle"></h3>
+        <span id="progress"></span>
+      </nav>
+      <article id="lesson"></article>
+      <section id="quiz" hidden></section>
+    </section>
+  </main>
+
+  <script type="module" src="scripts/app.js"></script>
+</body>
+</html>
+  <title>Airline CBT ✅</title>
+  <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+  <header class="appbar">
+    <h1>Airline CBT ✅</h1>
+  </header>
+
+  <main id="app">
+    <!-- HERO -->
+    <section id="hero" style="background-image:url('assets/bg-clouds.jpg');background-size:cover;background-position:center;">
+      <div class="hero-wrap">
+        <button class="plane-card" id="plane-learjet" title="Learjet 45 XR">
+          <img src="assets/learjet.png" alt="Learjet 45 XR">
+          <span class="plane-label">Learjet 45 XR</span>
+        </button>
+      </div>
+    </section>
+
+    <!-- Player alanı -->
+    <section id="player" hidden aria-live="polite">
+      <nav class="player-nav">
+        <button class="btn" id="backHome">← Geri</button>
+        <h3 id="moduleTitle"></h3>
+        <span id="progress"></span>
+      </nav>
+      <article id="lesson"></article>
+      <section id="quiz" hidden></section>
+    </section>
+  </main>
+
+  <script type="module" src="scripts/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "id": "fire-protection",
+  "title": "Fire Protection",
+  "summary": "Fire protection system overview and lessons.",
+  "topics": [
+    { "id": "fp-01", "title": "Fire Detection", "type": "lesson", "description": "" },
+    { "id": "fp-02", "title": "Fire Extinguishing", "type": "lesson", "description": "" },
+    { "id": "fp-03", "title": "Detection System Test", "type": "lesson", "description": "" },
+    { "id": "fp-05", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

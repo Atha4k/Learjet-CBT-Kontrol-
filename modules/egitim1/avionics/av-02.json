@@ -1,0 +1,15 @@
+{
+  "id": "av-02",
+  "title": "Avionics 2",
+  "summary": "Avionics 2 alt başlıkları.",
+  "topics": [
+    { "id": "av-02-a", "title": "IC-600 Computer", "type": "lesson", "description": "" },
+    { "id": "av-02-b", "title": "Attitude & Reading System (AHRS)", "type": "lesson", "description": "" },
+    { "id": "av-02-c", "title": "Air Data Computer (ADC)", "type": "lesson", "description": "" },
+    { "id": "av-02-d", "title": "Data Acquisition Unit (DAU)", "type": "lesson", "description": "" },
+    { "id": "av-02-e", "title": "Radio Altimeter System", "type": "lesson", "description": "" },
+    { "id": "av-02-f", "title": "Weather Radar System", "type": "lesson", "description": "" },
+    { "id": "av-02-g", "title": "Ground Proximity/Windshear Warning", "type": "lesson", "description": "" },
+    { "id": "av-02-h", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

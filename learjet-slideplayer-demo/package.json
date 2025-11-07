@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "scripts": {
+    "ocr": "node scripts/ocr-build.mjs"
+  },
+  "name": "learjet-slideplayer-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^6.7.0",
+    "sharp": "^0.34.4",
+    "tesseract.js": "^6.0.1"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "airconditioning",
+  "title": "Airconditioning",
+  "summary": "Air conditioning system overview and lessons.",
+  "topics": [
+    { "id": "ac-01", "title": "General", "type": "lesson", "description": "" },
+    { "id": "ac-02", "title": "System Operation", "type": "lesson", "description": "" },
+    { "id": "ac-03", "title": "Cooling Operations", "type": "lesson", "description": "" },
+    { "id": "ac-04", "title": "Temperature Control", "type": "lesson", "description": "" },
+    { "id": "ac-06", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

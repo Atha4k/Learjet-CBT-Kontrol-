@@ -1,0 +1,9 @@
+{
+  "id": "sep",
+  "title": "SEP",
+  "summary": "Survival and Emergency Procedures başlığı. Altında Equipment ve Procedures bulunur.",
+  "topics": [
+    { "id": "sep-equipment", "title": "SEP Equipment", "type": "section", "file": "sep-equipment.json" },
+    { "id": "sep-procedures", "title": "SEP Procedures", "type": "section", "file": "sep-procedures.json" }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "autoflight-system",
+  "title": "Auto Flight System",
+  "summary": "Auto flight system principles and operations.",
+  "topics": [
+    { "id": "afs-01", "title": "Overview", "type": "lesson", "description": "" },
+    { "id": "afs-02", "title": "Auto Pilot Operations", "type": "lesson", "description": "" },
+    { "id": "afs-03", "title": "Flight Director Operations", "type": "lesson", "description": "" },
+    { "id": "afs-04", "title": "Flight Guidance Controller", "type": "lesson", "description": "" },
+    { "id": "afs-05", "title": "Overspeed Protection", "type": "lesson", "description": "" },
+    { "id": "afs-06", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

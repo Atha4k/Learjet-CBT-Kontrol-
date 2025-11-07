@@ -1,0 +1,11 @@
+{
+  "id": "power-system",
+  "title": "Power System",
+  "summary": "Power system overview and lessons.",
+  "topics": [
+    { "id": "pw-01", "title": "General", "type": "lesson", "description": "" },
+    { "id": "pw-02", "title": "APU Controls", "type": "lesson", "description": "" },
+    { "id": "pw-03", "title": "APU Operations", "type": "lesson", "description": "" },
+    { "id": "pw-05", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

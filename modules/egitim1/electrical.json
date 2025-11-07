@@ -1,0 +1,16 @@
+{
+  "id": "electrical",
+  "title": "Electrical",
+  "summary": "Electrical system overview and lessons.",
+  "topics": [
+    { "id": "el-01", "title": "Overview", "type": "lesson", "description": "" },
+    { "id": "el-02", "title": "Electrical Components", "type": "lesson", "description": "" },
+    { "id": "el-03", "title": "Electrical Control Panel", "type": "lesson", "description": "" },
+    { "id": "el-04", "title": "Electrical System Indications", "type": "lesson", "description": "" },
+    { "id": "el-05", "title": "System", "type": "lesson", "description": "" },
+    { "id": "el-06", "title": "Normal Procedures", "type": "lesson", "description": "" },
+    { "id": "el-07", "title": "Abnormal Procedures", "type": "lesson", "description": "" },
+    { "id": "el-08", "title": "AC Power", "type": "lesson", "description": "" },
+    { "id": "el-09", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

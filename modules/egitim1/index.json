@@ -1,0 +1,47 @@
+{
+  "id": "egitim1",
+  "title": "Eğitim 1",
+  "summary": "Learjet Eğitim 1 ana konuları",
+  "topics": [
+    {
+      "slug": "airplane-general",
+      "title": "Airplane General",
+      "path": "modules/egitim1/airplane-general.json"
+    },
+    {
+      "slug": "hydraulics",
+      "title": "Hydraulics",
+      "path": "modules/egitim1/hydraulics.json"
+    },
+    {
+      "slug": "electrical",
+      "title": "Electrical",
+      "path": "modules/egitim1/electrical.json"
+    },
+    {
+      "slug": "lighting",
+      "title": "Lighting",
+      "path": "modules/egitim1/lighting.json"
+    },
+    {
+      "slug": "avionics",
+      "title": "Avionics",
+      "path": "modules/egitim1/avionics.json"
+    },
+    {
+      "slug": "auto-flight-system",
+      "title": "Auto Flight System",
+      "path": "modules/egitim1/auto-flight-system.json"
+    },
+    {
+      "slug": "radio-navigation",
+      "title": "Radio Navigation",
+      "path": "modules/egitim1/radio-navigation.json"
+    },
+    {
+      "slug": "flight-management",
+      "title": "Flight Management",
+      "path": "modules/egitim1/flight-management.json"
+    }
+  ]
+}

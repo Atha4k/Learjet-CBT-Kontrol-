@@ -1,0 +1,13 @@
+{
+  "id": "pressurisation",
+  "title": "Pressurisation",
+  "summary": "Pressurisation system overview and lessons.",
+  "topics": [
+    { "id": "pr-01", "title": "General", "type": "lesson", "description": "" },
+    { "id": "pr-02", "title": "Automatic Mode", "type": "lesson", "description": "" },
+    { "id": "pr-03", "title": "Manual Mode", "type": "lesson", "description": "" },
+    { "id": "pr-04", "title": "Emergency Mode", "type": "lesson", "description": "" },
+    { "id": "pr-05", "title": "Warning/Protections", "type": "lesson", "description": "" },
+    { "id": "pr-07", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

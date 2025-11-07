@@ -1,0 +1,11 @@
+{
+  "id": "performance",
+  "title": "Performance",
+  "summary": "Aircraft performance overview and lessons.",
+  "topics": [
+    { "id": "pf-01", "title": "Module 1", "type": "lesson", "description": "" },
+    { "id": "pf-02", "title": "Module 2", "type": "lesson", "description": "" },
+    { "id": "pf-03", "title": "Module 3", "type": "lesson", "description": "" },
+    { "id": "pf-04", "title": "Module 4", "type": "lesson", "description": "" }
+  ]
+}

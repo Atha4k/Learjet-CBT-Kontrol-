@@ -1,0 +1,11 @@
+{
+  "id": "oxygen",
+  "title": "Oxygen",
+  "summary": "Oxygen system overview and lessons.",
+  "topics": [
+    { "id": "ox-01", "title": "Supply", "type": "lesson", "description": "" },
+    { "id": "ox-02", "title": "Crew & Observer", "type": "lesson", "description": "" },
+    { "id": "ox-03", "title": "Passanger System", "type": "lesson", "description": "" },
+    { "id": "ox-05", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

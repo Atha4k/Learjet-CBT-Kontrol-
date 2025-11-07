@@ -1,0 +1,18 @@
+{
+  "id": "radio-navigation",
+  "title": "Radio Navigation",
+  "summary": "Radio navigation systems and instruments overview.",
+  "topics": [
+    { "id": "rn-01", "title": "Overview", "type": "lesson", "description": "" },
+    { "id": "rn-02", "title": "Integrated Navigation", "type": "lesson", "description": "" },
+    { "id": "rn-03", "title": "Integrated Communications", "type": "lesson", "description": "" },
+    { "id": "rn-04", "title": "Clearance Delivery Head", "type": "lesson", "description": "" },
+    { "id": "rn-05", "title": "Radio Managment Unit", "type": "lesson", "description": "" },
+    { "id": "rn-06", "title": "Radio Tuning Operations", "type": "lesson", "description": "" },
+    { "id": "rn-07", "title": "Fms Tuning", "type": "lesson", "description": "" },
+    { "id": "rn-08", "title": "HF Radio", "type": "lesson", "description": "" },
+    { "id": "rn-09", "title": "Selcal", "type": "lesson", "description": "" },
+    { "id": "rn-10", "title": "ACP", "type": "lesson", "description": "" },
+    { "id": "rn-12", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

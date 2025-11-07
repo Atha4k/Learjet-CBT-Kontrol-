@@ -1,0 +1,189 @@
+/* ====== Temel Stil ====== */
+*{ box-sizing:border-box }
+:root{
+  --brand:#cc0000;          /* Redstar kırmızısı */
+  --ink:#111;
+  --muted:#6b7280;
+  --ring:rgba(204,0,0,.45); /* odak halkası kırmızı tonda */
+}
+
+body{
+  margin:0; font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+  color:var(--ink); background:#f7f9fc;
+}
+
+/* App bar ve genel bileşenler */
+.appbar{
+  display:flex; align-items:center; justify-content:space-between; gap:20px;
+  padding:26px 36px;
+  background:#ffffff;                 /* ⬜ bar beyaz */
+  color:var(--brand);                 /* yazılar kırmızı */
+  box-shadow:0 3px 12px rgba(0,0,0,.1);
+}
+.btn{
+  padding:12px 16px; border:2px solid var(--brand); border-radius:10px;
+  background:#fff; color:var(--brand); cursor:pointer; font-weight:600;
+  transition:all .25s ease;
+}
+.btn:hover{
+  background:var(--brand); color:#fff; /* 🔴 hover efekti */
+}
+
+/* Brand (logo) */
+.brand{
+  display:flex; align-items:center; gap:14px; text-decoration:none; color:var(--brand);
+}
+.brand img{
+  display:block; height:56px; width:auto; object-fit:contain;
+  filter:drop-shadow(0 1px 2px rgba(0,0,0,.1));
+}
+@media (max-width:480px){
+  .appbar{ padding:18px 24px; }
+  .brand img{ height:40px; }
+}
+
+/* Oynatıcı başlığı */
+.player-nav{
+  display:flex; align-items:center; gap:12px; padding:8px 16px;
+  border-bottom:1px solid #e5e7eb; background:#fff;
+}
+#lesson{ padding:16px; line-height:1.6 }
+
+/* ====== HERO ====== */
+#hero{
+  position:relative; min-height:clamp(360px,52vh,560px);
+  display:grid; place-items:end center; background:#dfefff;
+  border-bottom:1px solid #e5e7eb; overflow:hidden;
+}
+.hero-wrap{
+  width:min(1200px,96%); margin:0 auto; padding:20px 8px 28px;
+  display:grid; place-items:end center;
+}
+.plane-card{
+  appearance:none; border:0; background:transparent; display:inline-block;
+  cursor:pointer; outline:none; padding:8px 12px 36px; border-radius:20px;
+  transition:transform .25s ease, filter .25s ease;
+}
+.plane-card:hover{ transform:translateY(-2px) }
+.plane-card img{
+  max-width:min(780px,86vw);
+  filter:drop-shadow(0 10px 28px rgba(0,0,0,.18));
+  transition:transform .25s ease, filter .25s ease;
+  transform-origin:center bottom; pointer-events:none; user-select:none;
+}
+.plane-card:hover img,.plane-card:focus-visible img{
+  transform:scale(1.06);
+  filter:drop-shadow(0 18px 40px rgba(0,0,0,.24));
+}
+.plane-card:active img{ transform:scale(1.02) }
+.plane-card .plane-label{
+  position:absolute; left:0; right:0; bottom:6px; text-align:center;
+  font-weight:700; font-size:clamp(18px,2vw,26px); color:#1f2937;
+  text-shadow:0 1px 0 rgba(255,255,255,.9);
+}
+
+/* ====== EĞİTİM / TOPIC KARTLARI ====== */
+#training{ padding:32px 0 }
+.section-wrap{ width:min(1100px,94%); margin:0 auto }
+#training h2{ margin:0 0 14px 0; font-size:clamp(22px,3vw,28px) }
+
+.training-grid{
+  display:grid; gap:16px; grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  margin-top:12px;
+}
+
+.training-card{
+  appearance:none; border:1px solid #e5e7eb; background:rgba(255,255,255,.95);
+  border-radius:16px; cursor:pointer; text-align:left;
+  transition:
+    transform .2s ease,
+    box-shadow .2s ease,
+    border-color .2s ease,
+    background .2s ease,
+    color .2s ease;
+  box-shadow:0 8px 24px rgba(0,0,0,.06);
+  padding:14px 14px 18px; position:relative;
+}
+
+/* Hover/Active: kırmızı tema + invert yazılar */
+.training-card:hover,
+.training-card:active{
+  transform:translateY(-2px);
+  box-shadow:0 14px 28px rgba(0,0,0,.10);
+  border-color:var(--brand);
+  background:var(--brand);
+  color:#fff;
+}
+.training-card:hover .training-card-body h3,
+.training-card:hover .training-card-body p,
+.training-card:active .training-card-body h3,
+.training-card:active .training-card-body p{
+  color:#fff;
+}
+/* Chip'leri hover’da beyaza yaklaştır */
+.training-card:hover .training-chip,
+.training-card:active .training-chip{
+  background:rgba(255,255,255,.22);
+  color:#fff;
+}
+
+.training-card:focus-visible{
+  outline:none; box-shadow:0 0 0 3px var(--ring);
+}
+
+/* Seçili durum (tıklayınca) – açık kırmızı taban, kırmızı kenar */
+.training-card[aria-pressed="true"]{
+  border-color:var(--brand);
+  background:#fff1f1;
+  color:var(--ink);
+}
+.training-card[aria-pressed="true"] .training-chip{
+  background:#ffe5e5; color:#7a0a0a;
+}
+
+/* Başlık & metin boyutları */
+.training-card-body h3{ margin:4px 0 4px 0; font-size:20px }
+.training-card-body p{ margin:0; color:var(--muted); font-size:14px }
+
+/* Chip */
+.training-chip{
+  display:inline-block; font-size:12px; font-weight:700; letter-spacing:.3px;
+  padding:4px 8px; border-radius:999px; background:#ffe5e5; color:#7a0a0a;
+}
+
+/* Topics bölümünün başlığı */
+#topics{ padding:26px 0 }
+#topics h2{ margin:0 0 14px 0; font-size:clamp(22px,3vw,28px) }
+
+/* Hareket azaltma tercihi */
+@media (prefers-reduced-motion:reduce){
+  .plane-card,.plane-card img,.training-card{ transition:none }
+}
+
+/* ====== ALT KUTULAR AÇILIYKEN ALTA NEFES ALANI ====== */
+:root{
+  /* Alt boşluk miktarı: gerekirse 12–24vh arası oynayabilirsin */
+  --page-spacer: 18vh;
+}
+
+/* Alt kutular (subtopics) görünürken sayfanın sonunda beyaz boşluk bırak */
+body.has-subtopics main::after{
+  content:"";
+  display:block;
+  height:var(--page-spacer);
+}
+
+/* Subtopics bölümü dipte sıkışmasın */
+#subtopics.section-wrap{
+  padding-bottom:calc(var(--page-spacer) / 2);
+}
+
+/* Grid altında ekstra nefes alanı (opsiyonel) */
+#subtopics .training-grid{
+  margin-bottom:4rem;
+}
+
+/* Başlığa kayarken üstte yapışık görünmesin (sticky header varsa) */
+#subtopics{
+  scroll-margin-top:12vh;
+}

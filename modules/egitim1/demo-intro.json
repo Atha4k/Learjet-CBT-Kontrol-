@@ -1,0 +1,9 @@
+{
+  "id": "demo-intro",
+  "title": "Learjet – Giriş",
+  "content": [
+    { "type": "text", "text": "Learjet 45 XR CBT'ye hoş geldiniz. Bu modül temel sistemlere giriş sunar." },
+    { "type": "html", "html": "<ul><li>Kokpit bileşenleri</li><li>Acil durum prosedürleri</li><li>Emniyet kontrolleri</li></ul>" },
+    { "type": "text", "text": "Sonraki iterasyonda burada Canva'dan dışa aktardığın JSON/HTML bloklarını göstereceğiz." }
+  ]
+}

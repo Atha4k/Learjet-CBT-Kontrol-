@@ -1,0 +1,12 @@
+{
+  "id": "sep-procedures",
+  "title": "SEP Procedures",
+  "summary": "SEP prosedürleri ve uygulamaları.",
+  "topics": [
+    { "id": "sep-pr-01", "title": "Konu 1", "type": "lesson", "description": "" },
+    { "id": "sep-pr-02", "title": "Konu 2", "type": "lesson", "description": "" },
+    { "id": "sep-pr-03", "title": "Konu 3", "type": "lesson", "description": "" },
+    { "id": "sep-pr-04", "title": "Konu 4", "type": "lesson", "description": "" }
+  ]
+}
+

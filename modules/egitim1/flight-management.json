@@ -1,0 +1,16 @@
+{
+  "id": "flight-management",
+  "title": "Flight Management",
+  "summary": "Flight management system overview and lessons.",
+  "topics": [
+    { "id": "fm-01", "title": "Overview", "type": "lesson", "description": "" },
+    { "id": "fm-02", "title": "Flight Managment System", "type": "lesson", "description": "" },
+    { "id": "fm-03", "title": "Normal Operation", "type": "lesson", "description": "" },
+    { "id": "fm-04", "title": "Route Modifications", "type": "lesson", "description": "" },
+    { "id": "fm-05", "title": "Function Keys", "type": "lesson", "description": "" },
+    { "id": "fm-06", "title": "Landing", "type": "lesson", "description": "" },
+    { "id": "fm-07", "title": "FMS Shutdown", "type": "lesson", "description": "" },
+    { "id": "fm-08", "title": "Abnormal Procedures", "type": "lesson", "description": "" },
+    { "id": "fm-10", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

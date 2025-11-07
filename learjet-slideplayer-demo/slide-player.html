@@ -1,0 +1,406 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>LEARJET CBT • Slide Player</title>
+<base href="./">
+<style>
+:root{
+  --line:#e5e7eb; --accent:#d72638; --accent-50:#fff5f6;
+  --slideMaxH:58vh; --captionMinH:140px;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
+.wrapper{max-width:1400px;margin:8px auto;padding:8px}
+.card{border:1px solid var(--line);border-radius:16px;overflow:hidden;box-shadow:0 8px 28px rgba(0,0,0,.06);background:#fff}
+.topbar{padding:10px 14px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:10px}
+.topbar .dot{width:10px;height:10px;border-radius:50%;background:var(--accent)}
+.topbar h1{
+  margin:0;
+  font-size:16px;
+  font-weight:800;
+  -webkit-user-select:none;
+  -moz-user-select:none;
+  -ms-user-select:none;
+  user-select:none;
+  pointer-events:none;
+}
+.main{display:grid;grid-template-columns:1fr 300px;gap:12px;padding:12px}
+
+/* Preview + logo */
+.preview{border:2px solid var(--line);border-radius:14px;overflow:hidden;background:#0d1117;position:relative}
+#slideImg{width:100%;height:auto;max-height:var(--slideMaxH);object-fit:contain;display:block;background:#0b1a20}
+.logo{position:absolute;top:12px;right:12px;padding:4px}
+.logo img{width:48px;height:48px;object-fit:contain;display:block}
+
+.capbox{margin-top:12px;border:1px solid var(--line);border-radius:12px;background:#fff;min-height:var(--captionMinH);display:flex;flex-direction:column}
+.cap-top{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid var(--line)}
+.cap-title{font-weight:700}
+.cap-sub{margin-left:8px;opacity:.7;font-weight:600}
+.langbtns{display:flex;gap:8px}
+.langbtn{padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:#fff;cursor:pointer;font-size:13px}
+.langbtn:hover{border-color:var(--accent);color:var(--accent)}
+.langbtn.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.cap-body{padding:10px 12px}
+.caption{font-size:16px;line-height:1.65;white-space:pre-wrap}
+.panel{border:1px solid var(--line);border-radius:12px;background:#fff;display:flex;flex-direction:column}
+.panel .head{padding:10px 12px;border-bottom:1px solid var(--line);font-weight:700}
+.slides{padding:6px;display:flex;flex-direction:column;gap:6px;max-height:calc(var(--slideMaxH) + var(--captionMinH) + 40px);overflow:auto}
+.slideItem{display:flex;gap:8px;align-items:center;padding:8px 10px;border:1px solid var(--line);border-radius:10px;cursor:pointer}
+.slideItem:hover{background:var(--accent-50);color:var(--accent);border-color:var(--accent)}
+.slideItem.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.slideItem .idx{width:26px;height:26px;display:inline-grid;place-items:center;border:1px solid var(--line);border-radius:8px;font-size:12px}
+.slideItem.active .idx{border-color:rgba(255,255,255,.6)}
+.bottombar{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding:10px 14px}
+.badge{background:var(--accent-50);color:var(--accent);border:1px solid var(--accent);padding:4px 10px;border-radius:999px;font-size:12px;font-weight:700}
+.right-actions{display:flex;gap:8px}
+.iconbtn{width:38px;height:38px;border-radius:10px;border:1px solid var(--line);background:#fff;cursor:pointer;font-size:16px}
+.iconbtn:hover{border-color:var(--accent);background:var(--accent);color:#fff}
+.iconbtn.mute.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+@media (max-width:1100px){ .main{grid-template-columns:1fr} }
+</style>
+</head>
+<body>
+<div class="wrapper">
+  <div class="card">
+    <div class="topbar" id="topbar">
+      <span class="dot"></span>
+      <h1 id="title">LEARJET CBT • Slide Player</h1>
+    </div>
+
+    <div class="main">
+      <div>
+        <div class="preview">
+          <img id="slideImg" alt="Slide">
+          <div class="logo"><img src="redstar-logo.png" alt="Redstar Logo"></div>
+        </div>
+        <div class="capbox">
+          <div class="cap-top">
+            <div>
+              <span id="capTitle" class="cap-title">Caption</span>
+              <span id="capSubTitle" class="cap-sub"></span>
+            </div>
+            <div class="langbtns">
+              <button class="langbtn active" data-lang="en" id="btnEn">English</button>
+              <button class="langbtn" data-lang="tr" id="btnTr">Türkçe</button>
+            </div>
+          </div>
+          <div class="cap-body"><div id="captionText" class="caption"></div></div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <div class="head">Slaytlar</div>
+        <div id="slidesBox" class="slides"></div>
+      </div>
+    </div>
+
+    <div class="bottombar">
+      <span class="badge" id="counter">0/0</span>
+      <div class="right-actions">
+        <button class="iconbtn mute active" id="muteBtn" title="Sesi aç/kapat">🔇</button>
+        <button class="iconbtn" id="gotoPrev" title="Önceki">◀</button>
+        <button class="iconbtn" id="gotoNext" title="Sonraki">▶</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<audio
+  id="audio"
+  preload="auto"
+  playsinline="true"
+  aria-hidden="true"
+  style="display:none">
+</audio>
+
+<script>
+(async function(){
+  const $ = sel => document.querySelector(sel);
+
+  // URL param: ?pkg=egitim1/airplane-general/general
+  const rootPrefix = location.pathname.replace(/\/slide-player\.html.*$/,'');
+  const qs = new URLSearchParams(location.search);
+  function absolutizePkg(p){
+    if (!p) return rootPrefix + '/egitim1/airplane-general/general';
+    if (/^https?:\/\//i.test(p)) return p;
+    if (p.startsWith(rootPrefix + '/')) return p;
+    if (p.startsWith('/')) return rootPrefix + p;
+    return rootPrefix + '/' + p.replace(/^\.?\//,'');
+  }
+  const pkg = absolutizePkg(qs.get('pkg'));
+
+  // Üst bar tıklama block
+  const stop = ev => { ev.preventDefault(); ev.stopPropagation(); ev.stopImmediatePropagation(); };
+  document.getElementById('topbar').addEventListener('click', stop, {capture:true});
+
+  const padNum = (n, pad=4) => String(n).padStart(pad, '0');
+
+  async function tryFetch(url){
+    try{
+      const r = await fetch(url + (url.includes('?')?'&':'?') + 'v=' + Date.now(), {cache:'no-store'});
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r;
+    }catch(_){ return null; }
+  }
+
+  // --------- Manifest ---------
+  const manifestUrl = pkg.replace(/\/+$/,'') + '/manifest.json';
+  const mRes = await tryFetch(manifestUrl);
+  if(!mRes){ alert('manifest.json bulunamadı: ' + manifestUrl); return; }
+  const MAN = await mRes.json();
+
+  const titleText   = MAN.title || 'Slide Player';
+  const pagesCount  = Array.isArray(MAN.pages) ? MAN.pages.length : Number(MAN.pages||0);
+  const pad         = Number(MAN.pad || MAN.padding || 4);
+  const slidesDir   = (MAN.slidesDir || 'Slides').replace(/\/+$/,'');
+  const audioDir    = MAN.audioDir ? MAN.audioDir.replace(/\/+$/,'') : null;
+  const captionsDir = MAN.captionsDir ? MAN.captionsDir.replace(/\/+$/,'') : null;
+  const captionsManifest = MAN.captionsManifest ? MAN.captionsManifest.replace(/^\/*/,'') : null;
+  const imgExt      = (MAN.imgExt || 'jpg').replace(/^\./,'');
+  const audioExt    = (MAN.audioExt || 'mp3').replace(/^\./,'');
+  const captionExt  = (MAN.captionExt || 'vtt').replace(/^\./,'');
+  const namePrefix  = MAN.namePrefix || '';
+
+  $('#title').textContent = titleText;
+
+  // --------- captions.json (şema: {s01:{title,title_tr,en,tr}}) ---------
+  let CAPMAP = null;
+  if (captionsManifest){
+    const capPath = `${pkg}/${captionsManifest}`;
+    const cRes = await tryFetch(capPath);
+    if (cRes){
+      try {
+        const raw = await cRes.json();
+        if (raw && typeof raw === 'object' && !Array.isArray(raw)) {
+          CAPMAP = {};
+          for (const key of Object.keys(raw)) {
+            const row = raw[key] || {};
+            CAPMAP[key] = {
+              title: {
+                en: typeof row.title === 'string' ? row.title : '',
+                tr: typeof row.title_tr === 'string' ? row.title_tr : (row.title?.tr ?? '')
+              },
+              caption: {
+                en: typeof row.en === 'string' ? row.en : (row.caption_en ?? ''),
+                tr: typeof row.tr === 'string' ? row.tr : (row.caption_tr ?? '')
+              }
+            };
+          }
+        }
+      } catch(_) {}
+    }
+  }
+
+  // --------- data[] ---------
+  const data = [];
+  if (Array.isArray(MAN.pages)) {
+    MAN.pages.forEach((p, idx) => {
+      const i = idx + 1;
+      const base  = padNum(i, pad);
+      const fname = namePrefix + base;
+      data.push({
+        id: p.id || 'p' + base,
+        key: fname,
+        title: p.title || null,
+        imgSrc: p.img || `${pkg}/${slidesDir}/${fname}.${imgExt}`,
+        audioSrc: p.audio || (audioDir ? `${pkg}/${audioDir}/${fname}.${audioExt}` : null),
+        captionPath: p.caption || (captionsDir ? `${pkg}/${captionsDir}/${fname}.${captionExt}` : null),
+        caption_en: p.caption_en || (p.captions && (p.captions.en || p.captions.EN)),
+        caption_tr: p.caption_tr || (p.captions && (p.captions.tr || p.captions.TR))
+      });
+    });
+  } else {
+    for(let i=1;i<=pagesCount;i++){
+      const base  = padNum(i, pad);
+      const fname = namePrefix + base;
+      data.push({
+        id: 'p' + base,
+        key: fname,
+        title: null,
+        imgSrc: `${pkg}/${slidesDir}/${fname}.${imgExt}`,
+        audioSrc: audioDir ? `${pkg}/${audioDir}/${fname}.${audioExt}` : null,
+        captionPath: captionsDir ? `${pkg}/${captionsDir}/${fname}.${captionExt}` : null
+      });
+    }
+  }
+
+  // --------- DOM ---------
+  const img      = $('#slideImg');
+  const audio    = $('#audio');
+  const slidesEl = $('#slidesBox');
+  const capTitle = $('#capTitle');
+  const capSub   = $('#capSubTitle');
+  const caption  = $('#captionText');
+  const counter  = $('#counter');
+  const btnEn    = $('#btnEn');
+  const btnTr    = $('#btnTr');
+  const prevBtn  = $('#gotoPrev');
+  const nextBtn  = $('#gotoNext');
+  const muteBtn  = $('#muteBtn');
+
+  let i = 0, lang = (localStorage.getItem('cbtLang') === 'tr' ? 'tr' : 'en'), hardMuted = true;
+
+  // --- Başlık yardımcıları ---
+  function getTitleFor(slide){
+    if (!slide) return null;
+    const rec = CAPMAP?.[slide.key];
+    if (!rec) return slide.title || null;
+
+    // Düz şema (title/title_tr) + nesne şeması ({title:{en,tr}}) destekli
+    const en = (typeof rec.title === 'object' ? (rec.title.en ?? rec.title.EN) : rec.title) ?? null;
+    const tr = (typeof rec.title === 'object' ? (rec.title.tr ?? rec.title.TR) : rec.title_tr) ?? null;
+
+    return (lang === 'tr') ? (tr || en || slide.title || null)
+                           : (en || tr || slide.title || null);
+  }
+
+  function getListLabel(idx){
+    const s = data[idx];
+    const rec = CAPMAP?.[s.key];
+    if (rec){
+      const en = (typeof rec.title === 'object' ? (rec.title.en ?? rec.title.EN) : rec.title) ?? null;
+      const tr = (typeof rec.title === 'object' ? (rec.title.tr ?? rec.title.TR) : rec.title_tr) ?? null;
+      const t = (lang === 'tr') ? (tr || en) : (en || tr);
+      if (t && String(t).trim()) return t;
+    }
+    return s.title || ('Slide ' + (idx+1));
+  }
+
+  function rebuildSlides(){
+    slidesEl.innerHTML = '';
+    data.forEach((s,idx)=>{
+      const el = document.createElement('div');
+      el.className = 'slideItem';
+      el.innerHTML = `<span class="idx">${idx+1}</span><span class="lbl">${getListLabel(idx)}</span>`;
+      el.onclick = ()=> load(idx);
+      slidesEl.appendChild(el);
+    });
+  }
+  function refreshSlideLabels(){
+    [...slidesEl.querySelectorAll('.slideItem')].forEach((el,idx)=>{
+      const lbl = el.querySelector('.lbl');
+      if (lbl) lbl.textContent = getListLabel(idx);
+    });
+  }
+  const setActive = k => [...slidesEl.children].forEach((n,idx)=>n.classList.toggle('active', idx===k));
+
+  async function tryFetchText(path){
+    const r = await tryFetch(path);
+    if (!r) return '';
+    return (await r.text()).trim();
+  }
+
+  async function loadCaptionForSlide(slide){
+    const rec = CAPMAP?.[slide.key];
+    if (rec){
+      const txt = (lang === 'tr' ? (rec.caption.tr || rec.caption.en) : (rec.caption.en || rec.caption.tr));
+      if (txt) return String(txt);
+    }
+    if (lang==='tr' && slide.caption_tr) return String(slide.caption_tr);
+    if (lang==='en' && slide.caption_en) return String(slide.caption_en);
+
+    if (slide.captionPath){
+      const ext = (slide.captionPath.split('.').pop() || '').toLowerCase();
+      if (ext === 'json'){
+        const r = await tryFetch(slide.captionPath); if (!r) return '';
+        try {
+          const obj = await r.json();
+          const direct = obj[lang] || obj[lang?.toUpperCase()] || obj.text || obj.caption;
+          const nested = obj.caption?.[lang] || obj.captions?.[lang];
+          return String(nested ?? direct ?? '');
+        } catch(_) { return ''; }
+      } else if (ext === 'vtt'){
+        const raw = await tryFetchText(slide.captionPath);
+        const lines = raw.split(/\r?\n/).filter(t=>{
+          const s=t.trim(); if(!s) return false;
+          if (s==='WEBVTT') return false;
+          if (/^\d+$/.test(s)) return false;
+          if (s.includes('-->')) return false;
+          return true;
+        });
+        return lines.join('\n').trim();
+      } else {
+        return await tryFetchText(slide.captionPath);
+      }
+    }
+    return '';
+  }
+
+  async function renderCaption(){
+    if (!data.length){ caption.textContent=''; capSub.textContent=''; return; }
+    const s = data[i] || {};
+    const txt = await loadCaptionForSlide(s);
+    caption.textContent = txt || '';
+    const t = getTitleFor(s);
+    capSub.textContent = t ? `• ${t}` : '';
+  }
+
+  async function load(k){
+    if (!data.length){ counter.textContent='0/0'; return; }
+    i = Math.max(0, Math.min(data.length-1, k|0));
+
+    const s = data[i] || {};
+    img.src = s.imgSrc || '';
+
+    audio.pause(); audio.removeAttribute('src'); audio.load();
+    if (s.audioSrc){
+      audio.src = s.audioSrc;
+      audio.muted = hardMuted;
+      audio.play().catch(()=>{});
+    }
+
+    await renderCaption();
+    counter.textContent = `${i+1}/${data.length}`;
+    setActive(i);
+  }
+
+  function setLang(L){
+    lang = (L === 'tr' ? 'tr' : 'en');
+    localStorage.setItem('cbtLang', lang);
+    btnEn.classList.toggle('active', lang==='en');
+    btnTr.classList.toggle('active', lang==='tr');
+    capTitle.textContent = (lang==='tr' ? 'Altyazı' : 'Caption');
+    refreshSlideLabels();
+    renderCaption();
+  }
+
+  // --- init UI + handlers ---
+  rebuildSlides();
+  btnEn.onclick = ()=> setLang('en');
+  btnTr.onclick = ()=> setLang('tr');
+  prevBtn.onclick = ()=> load(i-1);
+  nextBtn.onclick = ()=> load(i+1);
+  const renderMute = ()=>{ muteBtn.classList.toggle('active',hardMuted); muteBtn.textContent = hardMuted?'🔇':'🔊'; };
+  muteBtn.onclick = ()=>{ hardMuted=!hardMuted; audio.muted=hardMuted; if(!hardMuted) audio.play().catch(()=>{}); renderMute(); };
+
+  // Parent messaging (opsiyonel)
+  function pauseAllAudio(){ try{ audio.pause(); }catch(_){} }
+  function gotoByIndex(idx){ load(idx); }
+  function gotoById(id){ const idx = data.findIndex(s => s.id===id); if (idx>=0) load(idx); }
+  window.addEventListener('message', async (e)=>{
+    const m = e.data || {};
+    switch (m.type) {
+      case 'parentReady':  try { parent.postMessage({type:'childReady'}, '*'); } catch(_) {} break;
+      case 'kickstart':    hardMuted=false; audio.muted=false; renderMute(); try{ await audio.play(); }catch(_){} break;
+      case 'pauseAllAudio':pauseAllAudio(); break;
+      case 'gotoSlide':    if (m.id) gotoById(m.id); else if (m.index!==undefined) gotoByIndex(m.index);
+                           if (m.lang) setLang(m.lang==='tr'?'tr':'en');
+                           if (typeof m.caption==='string') caption.textContent = m.caption; break;
+      case 'setLang':      setLang(m.value==='tr'?'tr':'en'); break;
+    }
+  }, false);
+
+  console.log('[SlidePlayer] manifest:', new URL(pkg.replace(/\/+$/,'') + '/manifest.json', location.origin).href);
+
+  // Başlangıç
+  setLang(lang);
+  // CAPMAP varsa başlıkları ilk anda da tazele
+  refreshSlideLabels();
+  renderMute();
+  await load(0);
+})();
+</script>
+</body>
+</html>

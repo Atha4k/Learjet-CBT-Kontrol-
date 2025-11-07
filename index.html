@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Redstar CBT ✅</title>
+
+  <meta name="theme-color" content="#cc0000" />
+  <link rel="manifest" href="manifest.webmanifest?v=rs7" />
+  <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
+  <link rel="icon" type="image/png" href="assets/icons/icon-192.png" />
+
+  <link rel="preload" as="image" href="assets/brand/redstar-aviation.png" />
+  <link rel="stylesheet" href="styles/main.css?v=rs7" />
+  <style>.body--lock { overflow: hidden; }</style>
+</head>
+<body>
+  <header class="appbar">
+    <a class="brand" href="./" aria-label="Redstar Aviation CBT">
+      <img src="assets/brand/redstar-aviation.png" alt="Redstar Aviation"
+           width="220" height="44" decoding="async" fetchpriority="high"/>
+      <span class="sr-only">CBT</span>
+    </a>
+    <button id="installBtn" class="btn" hidden>Uygulamayı Kur</button>
+  </header>
+
+  <main id="app">
+    <section id="hero" style="background-image:url('assets/bg-clouds.jpg');background-size:cover;background-position:center;">
+
+      <div class="hero-wrap">
+        <button class="plane-card" id="plane-learjet" title="Learjet 45 XR">
+          <img src="assets/learjet.png" alt="Learjet 45 XR">
+          <span class="plane-label">Learjet 45 XR</span>
+        </button>
+      </div>
+    </section>
+
+    <section id="training" hidden aria-labelledby="trainingTitle">
+      <div class="section-wrap">
+        <h2 id="trainingTitle">Learjet Eğitim Modelleri</h2>
+        <div class="training-grid">
+          <button class="training-card" data-id="egitim1"><div class="training-card-body"><span class="training-chip">Temel</span><h3>Eğitim 1</h3><p>Giriş ve temel sistemler.</p></div></button>
+          <button class="training-card" data-id="egitim2"><div class="training-card-body"><span class="training-chip">İleri</span><h3>Eğitim 2</h3><p>İleri prosedürler ve senaryolar.</p></div></button>
+        </div>
+      </div>
+    </section>
+
+    <section id="topics" hidden aria-labelledby="topicsTitle">
+      <div class="section-wrap">
+        <h2 id="topicsTitle">Konular</h2>
+
+        <div id="topics-egitim1" hidden>
+          <div class="training-grid">
+            <button class="training-card topic-card" data-topic-id="e1-01"><div class="training-card-body"><h3>Airplane General</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e1-02"><div class="training-card-body"><h3>Hydraulic</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e1-03"><div class="training-card-body"><h3>Electrical</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e1-04"><div class="training-card-body"><h3>Lightning</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e1-05"><div class="training-card-body"><h3>Avionics</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e1-06"><div class="training-card-body"><h3>Auto Flight System</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e1-07"><div class="training-card-body"><h3>Radio Navigator</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e1-08"><div class="training-card-body"><h3>Flight Management</h3></div></button>
+          </div>
+        </div>
+
+        <div id="topics-egitim2" hidden>
+          <div class="training-grid">
+            <button class="training-card topic-card" data-topic-id="e2-01"><div class="training-card-body"><h3>Pneumatics</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-02"><div class="training-card-body"><h3>Airconditioning</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-03"><div class="training-card-body"><h3>Pressurisation</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-04"><div class="training-card-body"><h3>Protection System</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-05"><div class="training-card-body"><h3>Oxygen</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-06"><div class="training-card-body"><h3>Landing Gear</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-07"><div class="training-card-body"><h3>Flight Controls</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-08"><div class="training-card-body"><h3>Power System</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-09"><div class="training-card-body"><h3>Fire Protection</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-10"><div class="training-card-body"><h3>Fuel</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-11"><div class="training-card-body"><h3>Power Plant</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-12"><div class="training-card-body"><h3>SEP</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-13"><div class="training-card-body"><h3>Ground Handling</h3></div></button>
+            <button class="training-card topic-card" data-topic-id="e2-14"><div class="training-card-body"><h3>Performance</h3></div></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="player" hidden aria-live="polite">
+      <nav class="player-nav">
+        <button class="btn" id="backHome">← Geri</button>
+        <h3 id="moduleTitle"></h3>
+        <span id="progress"></span>
+      </nav>
+      <article id="lesson"></article>
+      <section id="quiz" hidden></section>
+    </section>
+  </main>
+
+  <!-- === SlidePlayer Modal === -->
+  <div id="sp-modal" style="position:fixed;inset:0;background:rgba(0,0,0,.75);display:none;z-index:9999;">
+    <div id="sp-sheet" style="position:absolute;inset:24px;background:#000;border-radius:12px;overflow:hidden;">
+      <button onclick="closeSP()" style="position:absolute;top:10px;right:10px;padding:8px 12px;border-radius:8px;">Kapat</button>
+      <iframe id="sp-frame" src="learjet-slideplayer-demo/slide-player.html" allow="autoplay"
+              style="width:100%;height:100%;border:0;background:#000"></iframe>
+      <div id="sp-kick" style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.6);">
+        <button onclick="kickSP()" style="padding:12px 18px;border-radius:10px;">Başlat (Ses İzni Ver)</button>
+      </div>
+    </div>
+  </div>
+  <!-- === /SlidePlayer Modal === -->
+
+  <script type="module" src="scripts/app.js?v=rs7"></script>
+
+  <!-- ===== SlidePlayer Intercept v2 (General-only) ===== -->
+  <script>
+  (() => {
+    const DEBUG = false;
+    const modal = document.getElementById('sp-modal');
+    const frame = document.getElementById('sp-frame');
+    const kick  = document.getElementById('sp-kick');
+    function log(){ if(DEBUG) console.log.apply(console, ['[SP]'].concat([].slice.call(arguments))); }
+
+    function openSP() {
+      if (modal.style.display === 'block') return;
+      modal.style.display = 'block';
+      document.body.classList.add('body--lock');
+      try { frame.contentWindow?.postMessage({ type: 'parentReady' }, '*'); } catch(e){}
+    }
+    function closeSP() {
+      modal.style.display = 'none';
+      document.body.classList.remove('body--lock');
+      try { frame.contentWindow?.postMessage({ type: 'pauseAllAudio' }, '*'); } catch(e){}
+    }
+    window.openSP = openSP;   // <<< EKLENDİ: fetch patch ve dış kullanım için
+    window.closeSP = closeSP;
+    window.kickSP = function(){
+      kick.style.display = 'none';
+      try { frame.contentWindow?.postMessage({ type: 'kickstart' }, '*'); } catch(e){}
+    };
+
+    // modal kapatma kısayolları
+    document.addEventListener('keydown', (ev)=>{ if (ev.key === 'Escape' && modal.style.display === 'block') closeSP(); });
+    modal.addEventListener('click', (ev)=>{ if (ev.target === modal) closeSP(); });
+    window.addEventListener('message', (e)=>{ if ((e.data||{}).type === 'closeFromChild') closeSP(); }, false);
+    window.addEventListener('pagehide', ()=> { try{ frame.contentWindow?.postMessage({type:'pauseAllAudio'}, '*'); }catch(e){} });
+    document.addEventListener('visibilitychange', ()=> {
+      if (document.visibilityState !== 'visible') { try{ frame.contentWindow?.postMessage({type:'pauseAllAudio'}, '*'); }catch(e){} }
+    });
+
+    // ---- 1) #lesson içindeki "General" alt-butonlarını otomatik etiketle ----
+    function readText(n){ return (n && (n.textContent||'').trim().toLowerCase()) || ''; }
+    function isGeneralText(el){
+      if (!el) return false;
+      const txt = readText(el);
+      if (txt === 'general') return true;
+      const h = el.querySelector('h1,h2,h3,h4,.title,.label,.name,.text');
+      if (readText(h) === 'general') return true;
+      return false;
+    }
+    function tagGeneralButtons(root=document){
+      const scope = root.querySelector('#lesson') || root;
+      const candidates = scope.querySelectorAll('button,[role="button"],a,.topic-card,.list-item,.item,.row,.card');
+      let tagged = 0;
+      candidates.forEach(el => {
+        if (el.hasAttribute('data-sp-general')) return;
+        if (el.matches('[data-subtopic="general"], [data-topic-child="general"], [data-id="general"]') || isGeneralText(el)) {
+          el.setAttribute('data-sp-general','1');
+          tagged++;
+        }
+      });
+      if (tagged) log('Tagged', tagged, 'General buttons');
+    }
+    tagGeneralButtons();
+    const mo = new MutationObserver(() => tagGeneralButtons());
+    mo.observe(document.getElementById('app') || document.body, { childList:true, subtree:true });
+
+    // ---- 2) INTERCEPT: #lesson içinde General alt-butonuna basılırsa tamamen kes + aç ----
+    function isInsideLesson(target){ return !!(target && target.closest && target.closest('#lesson')); }
+    function isGeneralButtonFromTarget(target){
+      const btn = target.closest && target.closest('[data-sp-general]');
+      if (btn) return btn;
+      const maybe = target.closest && target.closest('button,[role="button"],a,.topic-card,.list-item,.item,.row,.card');
+      if (maybe && isGeneralText(maybe)) return maybe;
+      return null;
+    }
+    function inAirplaneGeneral(){
+      const t = (document.getElementById('moduleTitle')?.textContent || '').toLowerCase();
+      return /airplane\s*general/.test(t);
+    }
+
+    function intercept(ev){
+      if (!isInsideLesson(ev.target)) return;
+      if (!inAirplaneGeneral()) return; // sadece Airplane General içindeyken
+      const btn = isGeneralButtonFromTarget(ev.target);
+      if (!btn) return;
+
+      ev.preventDefault();
+      ev.stopPropagation();
+      if (typeof ev.stopImmediatePropagation === 'function') ev.stopImmediatePropagation();
+      log('INTERCEPT → opening SlidePlayer');
+      openSP();
+    }
+
+    // kritik: capture fazında tüm giriş event’lerini kes
+    window.addEventListener('pointerdown', intercept, true);
+    window.addEventListener('mousedown',   intercept, true);
+    window.addEventListener('touchstart',  intercept, true);
+    window.addEventListener('click',       intercept, true);
+  })();
+  </script>
+
+  <!-- ===== ÇÖZÜM B: fetch monkey-patch (404’u sustur + modal aç) ===== -->
+  <script>
+  (function(){
+    const TARGET = 'modules/egitim1/airplane-general/general.json';
+    const origFetch = window.fetch;
+    window.fetch = function(input, init){
+      const url = (typeof input==='string') ? input : (input && input.url);
+      if (url && url.indexOf(TARGET) !== -1) {
+        try { window.openSP && window.openSP(); } catch(e){}
+        const fake = {
+          title: "General",
+          html: "<div class='lesson-section'><p>(İçerik Slide Player ile gösteriliyor.)</p></div>",
+          items: []
+        };
+        return Promise.resolve(new Response(
+          JSON.stringify(fake),
+          { status: 200, headers: { 'Content-Type': 'application/json' } }
+        ));
+      }
+      return origFetch.apply(this, arguments);
+    };
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "id": "power-plant",
+  "title": "Power Plant",
+  "summary": "Power plant system overview and lessons.",
+  "topics": [
+    { "id": "pp-01", "title": "General", "type": "lesson", "description": "" },
+    { "id": "pp-02", "title": "Indicatons", "type": "lesson", "description": "" },
+    { "id": "pp-03", "title": "Oil System", "type": "lesson", "description": "" },
+    { "id": "pp-04", "title": "Engine Fuel System/Control", "type": "lesson", "description": "" },
+    { "id": "pp-05", "title": "Starting & Ignition", "type": "lesson", "description": "" },
+    { "id": "pp-06", "title": "Automatic Performance Reserve", "type": "lesson", "description": "" },
+    { "id": "pp-07", "title": "Thrust Reverser", "type": "lesson", "description": "" },
+    { "id": "pp-08", "title": "Miscellaneous Systems", "type": "lesson", "description": "" },
+    { "id": "pp-10", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

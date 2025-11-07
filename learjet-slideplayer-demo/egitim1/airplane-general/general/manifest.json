@@ -1,0 +1,11 @@
+{
+  "title": "Airplane General",
+  "pages": 31,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "general-Slides",
+  "audioDir": "general-audio",
+  "captionsManifest": "general-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "airplane-general",
+  "title": "Airplane General",
+  "description": "Learjet 45 XR uçağının genel sistem tanıtımı ve temel yapısal bilgileri.",
+  "topics": [
+    {
+      "id": "general",
+      "title": "General",
+      "description": "Uçağın genel tanıtımı, yapısı ve sistem özetleri.",
+      "type": "lesson",
+      "path": "modules/egitim1/airplane-general/general.json"
+    },
+    {
+      "id": "warning-system",
+      "title": "Warning System",
+      "description": "Uyarı ve ikaz sistemlerinin temel prensipleri.",
+      "type": "lesson",
+      "path": "modules/egitim1/airplane-general/warning-system.json"
+    },
+    {
+      "id": "doors-exits",
+      "title": "Doors and Exits",
+      "description": "Kapıların ve çıkış noktalarının kullanım prosedürleri.",
+      "type": "lesson",
+      "path": "modules/egitim1/airplane-general/doors-exits.json"
+    },
+    {
+      "id": "emergency-lights",
+      "title": "Emergency Lights",
+      "description": "Acil durum ışıklandırma sisteminin genel tanıtımı.",
+      "type": "lesson",
+      "path": "modules/egitim1/airplane-general/emergency-lights.json"
+    },
+    {
+      "id": "quiz",
+      "title": "Quiz",
+      "description": "Airplane General konularını test eden kısa bir sınav.",
+      "type": "quiz",
+      "path": "modules/egitim1/airplane-general/quiz.json"
+    }
+  ]
+}

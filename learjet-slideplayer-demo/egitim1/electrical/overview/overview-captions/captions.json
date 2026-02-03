@@ -1,0 +1,56 @@
+{
+  "s01": {
+    "title": "DC Bus Architecture",
+    "title_tr": "DC Bus Yapısı",
+    "en": "The electrical system consists of multiple DC buses, including non-essential buses, main buses, main avionics buses, essential avionics buses, and essential buses.",
+    "tr": "Elektrik sistemi; zorunlu olmayan buslar, ana buslar, ana aviyonik buslar, zorunlu aviyonik buslar ve zorunlu buslar olmak üzere birden fazla DC bus yapısından oluşur."
+  },
+  "s02": {
+    "title": "Left and Right DC Bus Power Supply",
+    "title_tr": "Sol ve Sağ DC Bus Güç Kaynağı",
+    "en": "The left DC buses are connected to the left generator bus, which is normally powered by the left starter-generator. The right DC buses are powered by the right starter-generator through the right generator bus.",
+    "tr": "Sol DC buslar normalde sol starter-jeneratör tarafından beslenen sol jeneratör busuna bağlıdır. Sağ DC buslar ise sağ starter-jeneratör aracılığıyla sağ jeneratör busundan güç alır."
+  },
+  "s03": {
+    "title": "Bus-Tie Operation",
+    "title_tr": "Bus-Tie Çalışma Mantığı",
+    "en": "Under normal operating conditions, the bus-tie is open. In this position, it separates the DC buses into left and right systems, allowing both generators to operate independently.",
+    "tr": "Normal çalışma koşullarında bus-tie açıktır. Bu durumda DC buslar sol ve sağ sistemler olarak ayrılır ve her iki jeneratör bağımsız olarak çalışır."
+  },
+  "s04": {
+    "title": "Emergency Battery Bus",
+    "title_tr": "Acil Batarya Busu",
+    "en": "The emergency battery bus is normally connected to the right generator bus. In the event of a dual generator failure, it relies on the emergency battery for backup power.",
+    "tr": "Acil batarya busu normalde sağ jeneratör busuna bağlıdır. Çift jeneratör arızası durumunda ise acil bataryadan yedek güç alır."
+  },
+  "s05": {
+    "title": "Hot Buses",
+    "title_tr": "Sürekli Enerjili Buslar (Hot Bus)",
+    "en": "The electrical system includes several hot buses: left and right emergency hot buses, left and right hot buses, and the rear hot bus. These buses are powered at all times.",
+    "tr": "Elektrik sistemi; sol ve sağ acil hot buslar, sol ve sağ hot buslar ile arka hot busu içerir. Bu buslar her zaman enerjilidir."
+  },
+  "s06": {
+    "title": "Aircraft Batteries",
+    "title_tr": "Uçak Bataryaları",
+    "en": "Three batteries are installed on the aircraft: the left main battery, the right main battery, and the emergency battery.",
+    "tr": "Uçakta üç adet batarya bulunur: sol ana batarya, sağ ana batarya ve acil batarya."
+  },
+  "s07": {
+    "title": "Additional Power Sources",
+    "title_tr": "Ek Güç Kaynakları",
+    "en": "Other main components of the electrical system include the ground power unit (GPU) and the auxiliary power unit (APU).",
+    "tr": "Elektrik sisteminin diğer ana bileşenleri yer güç ünitesi (GPU) ve yardımcı güç ünitesidir (APU)."
+  },
+  "s08": {
+    "title": "Generator Control Units",
+    "title_tr": "Jeneratör Kontrol Üniteleri",
+    "en": "The aircraft and APU generators are equipped with generator control units. One of their primary functions is to regulate generator output to 28 volts.",
+    "tr": "Uçak ve APU jeneratörleri jeneratör kontrol üniteleriyle donatılmıştır. Bu ünitelerin temel görevlerinden biri jeneratör çıkışını 28 volt olarak düzenlemektir."
+  },
+  "s09": {
+    "title": "AC Generators",
+    "title_tr": "AC Jeneratörler",
+    "en": "Two alternating current generators are installed to provide heating for the aircraft windshield.",
+    "tr": "Uçağın ön cam ısıtmasını sağlamak için iki adet alternatif akım jeneratörü bulunur."
+  }
+}

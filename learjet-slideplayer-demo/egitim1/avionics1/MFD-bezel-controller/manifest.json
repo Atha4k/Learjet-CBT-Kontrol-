@@ -1,0 +1,11 @@
+{
+  "title": "MFD Bezel Controller",
+  "pages": 48,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "MFD-bezel-controller-slides",
+  "audioDir": "MFD-bezel-controller-audio",
+  "captionsManifest": "MFD-bezel-controller-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

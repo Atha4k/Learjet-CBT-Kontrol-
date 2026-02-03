@@ -1,0 +1,11 @@
+{
+  "title": "Temperature",
+  "pages": 3,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "temperature-slides",
+  "audioDir": "temperature-audio",
+  "captionsManifest": "temperature-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

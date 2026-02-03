@@ -1,0 +1,130 @@
+[
+  {
+    "id": "s01",
+    "title": "Clocks are installed on the left and right sides of the inst…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Clocks are installed on the left and right sides of the instrument panel as shown. The clocks receive power from the aircraft normally, however, each of them is provided with a backup battery in case of power outage to the clock.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "All alarms activated by a discrete ground provided by the cl…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "All alarms activated by a discrete ground provided by the clocks to the crew warning panel which then generates signal tones.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The defaulted display of the clock is the (Greenwich Mean Ti…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The defaulted display of the clock is the (Greenwich Mean Time). This is indicated by the flashing annunciator above Pressing the select (SEL) button moves the annunciator to LT (local time). Touch the SEL button to simulate that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Pressing SEL button moves the annunciator to flight time On …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Pressing SEL button moves the annunciator to flight time On the ground, FT is not active and therefore the annunciator does not flash. When the aircraft is airborne, the squat switch sensing this condition, starts the flight time and flashes the annunciator. When the plane lands, annunciator stops flashing and the flight time ceases running.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The FT can be reset to zero by pressing the control button f…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The FT can be reset to zero by pressing the control button for 3 seconds. Touch button to simulate that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Pressing SEL button with the annunciator at FT will moves it…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Pressing SEL button with the annunciator at FT will moves it to elapse time (ET). If the button is pushed, the elapse time will start running and annunciator flashes. Pushing again reset the elapse time to zero and the annunciator stops flashing.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The steps for setting or changing the displayed time are the…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The steps for setting or changing the displayed time are the same for FT and ET. In the example here, we will show how is changed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Let's assume the shown on the right is correct. To change th…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Let's assume the shown on the right is correct. To change the time on the clock, 1) Ensure the annunciator is on the 2) Press both SEL and buttons at the same time.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "When SEL and are pressed, the first digit will flash. Pressi…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "When SEL and are pressed, the first digit will flash. Pressing and holding the button changes the first digit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Having set the last digit, pressing SEL will resume function…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Having set the last digit, pressing SEL will resume function and annunciator above flashes again.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "To set FT alarm, position annunciator on FT and set the time…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "To set FT alarm, position annunciator on FT and set the time the way it was done on Let's assume FT set is hrs. When the setting is accomplished, the clock will return to show automatically.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "When the airplane is airborne, FT starts to run. When the FT…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "When the airplane is airborne, FT starts to run. When the FT equals the set display shall flash and alarm audio output is activated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "If the is displayed and the FT alarm is activated, the clock…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "If the is displayed and the FT alarm is activated, the clock will automatically select FT for display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "To stop alarm audio, either SEL or button is pressed. This w…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "To stop alarm audio, either SEL or button is pressed. This wil also cancel the set However, the display on the clock continues to indicate the airborne flight time.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "When the airplane touches down, FT stops running. Pressing b…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "When the airplane touches down, FT stops running. Pressing button for 3 seconds resets Touch to simulate that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "The clock test mode is activated by pressing the SEL button …",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The clock test mode is activated by pressing the SEL button for 3 seconds. When the SEL is pressed and held for 3 seconds, all segments of the digits will illuminate and all 4 annunciators are activated.",
+    "caption_tr": ""
+  }
+]

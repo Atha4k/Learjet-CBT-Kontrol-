@@ -1,0 +1,14 @@
+{
+  "id": "avionics3",
+  "title": "Avionics 3",
+  "summary": "Avionics 3 alt başlıkları.",
+  "topics": [
+    { "id": "pilot-static", "title": "Pilot-Static System", "type": "lesson", "description": "" },
+    { "id": "temperature", "title": "Temperature Probe", "type": "lesson", "description": "" },
+    { "id": "stanby", "title": "Stanby Instruments", "type": "lesson", "description": "" },
+    { "id": "flight-data", "title": "Flight Data Record", "type": "lesson", "description": "" },
+    { "id": "cockpit-voice", "title": "Cockpit Voice Recoder", "type": "lesson", "description": "" },
+    { "id": "clock", "title": "Clock", "type": "lesson", "description": "" },
+    { "id": "av-03-g", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

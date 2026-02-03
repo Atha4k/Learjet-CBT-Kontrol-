@@ -1,0 +1,353 @@
+[
+  {
+    "id": "s01",
+    "title": "Display Controllers",
+    "title_tr": "Ekran Kontrolleri",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Two display controllers are installed in the glareshield, one for each crew member.",
+    "caption_tr": "Glareshield üzerinde, her bir mürettebat için birer adet olmak üzere iki ekran kontrol ünitesi bulunur."
+  },
+  {
+    "id": "s02",
+    "title": "InHg / HPa",
+    "title_tr": "InHg / HPa",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The InHg/HPa button toggles the altimeter barometric correction between inches of mercury and hectopascals. The default setting at power-up is inHg.",
+    "caption_tr": "InHg/HPa tuşu, altimetre barometrik düzeltmesini inç cıva ve hektopaskal arasında değiştirir. Sistem açılış varsayılanı inHg’dir."
+  },
+  {
+    "id": "s03",
+    "title": "CUE Selection",
+    "title_tr": "CUE Seçimi",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The CUE button switches the aircraft symbol between single-cue and cross-pointer modes on both PFDs. The default mode is single cue.",
+    "caption_tr": "CUE tuşu, uçak sembolünü her iki PFD’de tek işaret veya çapraz işaret moduna geçirir. Varsayılan mod tek işarettir."
+  },
+  {
+    "id": "s04",
+    "title": "FPA Symbol",
+    "title_tr": "FPA Sembolü",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "This button enables the Flight Path Angle (FPA) symbol on the ADI. The default setting is FPA off.",
+    "caption_tr": "Bu tuş, ADI üzerinde Uçuş Yolu Açısı (FPA) sembolünü etkinleştirir. Varsayılan ayar kapalıdır."
+  },
+  {
+    "id": "s05",
+    "title": "Default Off",
+    "title_tr": "Varsayılan Kapalı",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "This function is set to OFF by default at power-up.",
+    "caption_tr": "Bu fonksiyon sistem açılışında varsayılan olarak kapalıdır."
+  },
+  {
+    "id": "s06",
+    "title": "HSI Modes",
+    "title_tr": "HSI Modları",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The default HSI display is a full compass rose. The first press selects a compass arc, the second press selects map display if available, and the third press returns to full compass rose.",
+    "caption_tr": "HSI ekranı varsayılan olarak tam pusula gülüdür. İlk basış kısmi yay, ikinci basış harita modu, üçüncü basış tekrar tam pusula görüntüsünü seçer."
+  },
+  {
+    "id": "s07",
+    "title": "Map Limitation",
+    "title_tr": "Harita Kısıtı",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Map display cannot be selected on one side if it is already displayed on the opposite side.",
+    "caption_tr": "Harita ekranı, karşı tarafta zaten gösteriliyorsa aynı tarafta seçilemez."
+  },
+  {
+    "id": "s08",
+    "title": "INU Overview",
+    "title_tr": "INU Genel Bakış",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Each Integrated Navigation Unit (INU) contains VOR, localizer, glideslope, marker beacon, ADF and DME receiver modules.",
+    "caption_tr": "Her Entegre Navigasyon Ünitesi (INU); VOR, localizer, glideslope, marker beacon, ADF ve DME alıcı modüllerini içerir."
+  },
+  {
+    "id": "s09",
+    "title": "NAV Source",
+    "title_tr": "NAV Kaynağı",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "At power-up, each PFD uses its on-side navigation receiver. Independent navigation sources are displayed in green.",
+    "caption_tr": "Sistem açılışında her PFD kendi tarafındaki navigasyon alıcısını kullanır. Bağımsız kaynaklar yeşil renkte gösterilir."
+  },
+  {
+    "id": "s10",
+    "title": "Cross Selection",
+    "title_tr": "Çapraz Seçim",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Selecting the same navigation source on both PFDs results in amber-colored navigation data.",
+    "caption_tr": "Her iki PFD’de aynı navigasyon kaynağı seçildiğinde bilgiler amber renkte gösterilir."
+  },
+  {
+    "id": "s11",
+    "title": "NAV Flexibility",
+    "title_tr": "NAV Esnekliği",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Cross-selection allows one crew member to rely on the opposite navigation receiver if required.",
+    "caption_tr": "Çapraz seçim, gerektiğinde karşı tarafın navigasyon alıcısına güvenilmesini sağlar."
+  },
+  {
+    "id": "s12",
+    "title": "Independent NAV",
+    "title_tr": "Bağımsız NAV",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "When both PFDs use independent navigation sources, navigation data is displayed in green.",
+    "caption_tr": "Her iki PFD bağımsız navigasyon kaynakları kullandığında veriler yeşil renkte gösterilir."
+  },
+  {
+    "id": "s13",
+    "title": "Single Source",
+    "title_tr": "Tek Kaynak",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "When a single navigation source is selected on both sides, navigation data appears in amber.",
+    "caption_tr": "Tek bir navigasyon kaynağı her iki tarafta seçildiğinde veriler amber renkte gösterilir."
+  },
+  {
+    "id": "s14",
+    "title": "Mixed Sources",
+    "title_tr": "Karma Kaynaklar",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "If one side uses radio navigation and the other uses a different source, radio data remains green while the other data is white.",
+    "caption_tr": "Bir taraf radyo navigasyon kullanırken diğer taraf farklı bir kaynak kullanıyorsa, radyo verileri yeşil, diğer veriler beyaz gösterilir."
+  },
+  {
+    "id": "s15",
+    "title": "Bearing Selectors",
+    "title_tr": "Bearing Seçiciler",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Each display controller includes two bearing selector knobs with OFF, NAV and ADF positions.",
+    "caption_tr": "Her ekran kontrol ünitesi, OFF, NAV ve ADF konumlarına sahip iki bearing seçici düğme içerir."
+  },
+  {
+    "id": "s16",
+    "title": "Bearing Sources",
+    "title_tr": "Bearing Kaynakları",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The left selector receives signals from INU 1, while the right selector receives signals from INU 2.",
+    "caption_tr": "Sol bearing seçici INU 1’den, sağ bearing seçici INU 2’den sinyal alır."
+  },
+  {
+    "id": "s17",
+    "title": "Bearing Pointers",
+    "title_tr": "Bearing Göstergeleri",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The left bearing selector displays a cyan single pointer, while the right displays a white double pointer.",
+    "caption_tr": "Sol bearing seçici camgöbeği tek işaretçi, sağ bearing seçici beyaz çift işaretçi gösterir."
+  },
+  {
+    "id": "s18",
+    "title": "Bearing Annunciation",
+    "title_tr": "Bearing Anonsu",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Bearing source annunciations appear in the same color as the pointers and identify the source.",
+    "caption_tr": "Bearing kaynak anonsları işaretçilerle aynı renkte gösterilir ve kaynağı belirtir."
+  },
+  {
+    "id": "s19",
+    "title": "VOR Bearings",
+    "title_tr": "VOR Bearingleri",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "When VOR signals are received, bearing pointers appear according to the selected compass format.",
+    "caption_tr": "VOR sinyalleri alındığında, bearing işaretçileri seçilen pusula formatına göre görüntülenir."
+  },
+  {
+    "id": "s20",
+    "title": "Map Navaids",
+    "title_tr": "Harita Seyir Yardımları",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "In map mode, navigation aids are displayed as symbols with correct bearing and distance.",
+    "caption_tr": "Harita modunda seyrüsefer yardımcıları doğru mesafe ve istikametle sembol olarak gösterilir."
+  },
+  {
+    "id": "s21",
+    "title": "ADF Bearings",
+    "title_tr": "ADF Bearingleri",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "In the ADF position, bearing pointers indicate the stations to provide relative bearing. In MAP display, ADF symbols are shown instead.",
+    "caption_tr": "ADF konumunda bearing işaretçileri istasyonları göstererek göreli bearing sağlar. MAP ekranında ise bunun yerine ADF sembolleri gösterilir."
+  },
+  {
+    "id": "s22",
+    "title": "FMS Waypoint",
+    "title_tr": "FMS Waypoint’i",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "In the FMS position, bearing pointers point to the active waypoint and both pointers coincide.",
+    "caption_tr": "FMS konumunda bearing işaretçileri aktif waypoint’i gösterir ve iki işaretçi çakışır."
+  },
+  {
+    "id": "s23",
+    "title": "DU Brightness",
+    "title_tr": "DU Parlaklığı",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Two concentric knobs adjust DU brightness. The outer knob controls the outboard DU, and the inner knob controls the inboard DU on the same side.",
+    "caption_tr": "İki eşmerkezli düğme DU parlaklığını ayarlar. Dış düğme dıştaki DU’yu, iç düğme aynı taraftaki iç DU’yu kontrol eder."
+  },
+  {
+    "id": "s24",
+    "title": "EDS Test",
+    "title_tr": "EDS Testi",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Press and hold the inner knob for about 5–6 seconds to activate the EDS test on the related DUs. Except for the radio altimeter test, EDS test works on the ground only.",
+    "caption_tr": "İç düğmeye yaklaşık 5–6 saniye basılı tutarak ilgili DU’larda EDS testini başlatırsın. Radyo altimetre testi hariç, EDS testi yalnızca yerde çalışır."
+  },
+  {
+    "id": "s25",
+    "title": "Test Mode",
+    "title_tr": "Test Modu",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "This illustration shows the display in test mode when the corresponding test function is selected.",
+    "caption_tr": "Bu görsel, ilgili test fonksiyonu seçildiğinde ekranın test modundaki görünümünü gösterir."
+  },
+  {
+    "id": "s26",
+    "title": "EDS Test View",
+    "title_tr": "EDS Test Görünümü",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "This illustration shows EICAS and the associated display in EDS test mode.",
+    "caption_tr": "Bu görsel, EICAS ve ilgili ekranın EDS test modundaki görünümünü gösterir."
+  },
+  {
+    "id": "s27",
+    "title": "RMU Backup",
+    "title_tr": "RMU Yedek Sayfa",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "When EICAS is in EDS test mode, Backup Engine Page 1 automatically appears on RMU 1.",
+    "caption_tr": "EICAS EDS testine alındığında, RMU 1 üzerinde Yedek Motor Sayfası 1 otomatik olarak açılır."
+  },
+  {
+    "id": "s28",
+    "title": "Menu Inop",
+    "title_tr": "Menü Devre Dışı",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "If the pilot’s display controller fails, the EICAS bezel controller also becomes inoperative and MENU INOP is displayed above the controller.",
+    "caption_tr": "Pilotun ekran kontrol ünitesi arızalanırsa EICAS bezel kontrolü de devre dışı kalır ve kontrolün üzerinde MENU INOP gösterilir."
+  },
+  {
+    "id": "s29",
+    "title": "Auto Selections",
+    "title_tr": "Otomatik Seçimler",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "On the display, certain selections are shown automatically.",
+    "caption_tr": "Ekranda bazı seçimler otomatik olarak gösterilir."
+  },
+  {
+    "id": "s30",
+    "title": "Slide 30",
+    "title_tr": "Slayt 30",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "Slide 31",
+    "title_tr": "Slayt 31",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "Slide 32",
+    "title_tr": "Slayt 32",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "Slide 33",
+    "title_tr": "Slayt 33",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "Slide 34",
+    "title_tr": "Slayt 34",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Slide 35",
+    "title_tr": "Slayt 35",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "Slide 36",
+    "title_tr": "Slayt 36",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "Slide 37",
+    "title_tr": "Slayt 37",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "Copilot Failure",
+    "title_tr": "Kopilot Arızası",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "If the co-pilot’s display controller fails, the bezel controller becomes inoperative and MENU INOP is displayed above the controller.",
+    "caption_tr": "Kopilotun ekran kontrol ünitesi arızalanırsa bezel kontrol ünitesi devre dışı kalır ve üzerinde MENU INOP gösterilir."
+  },
+  {
+    "id": "s39",
+    "title": "Same Defaults",
+    "title_tr": "Aynı Varsayılanlar",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Except for navigation source and bearing pointer references tied to VOR 2, the remaining automatic selections are the same as in a pilot display controller failure.",
+    "caption_tr": "VOR 2’ye referanslı navigasyon kaynağı ve bearing işaretçisi dışında kalan otomatik seçimler, pilot ekran kontrol arızası durumundakiyle aynıdır."
+  }
+]

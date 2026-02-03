@@ -1,0 +1,11 @@
+{
+  "title": "Flight Guidance",
+  "pages": 100,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "flight-guidance-slides",
+  "audioDir": "flight-guidance-audio",
+  "captionsManifest": "flight-guidance-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

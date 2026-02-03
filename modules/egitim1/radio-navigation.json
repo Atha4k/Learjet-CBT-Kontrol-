@@ -3,16 +3,16 @@
   "title": "Radio Navigation",
   "summary": "Radio navigation systems and instruments overview.",
   "topics": [
-    { "id": "rn-01", "title": "Overview", "type": "lesson", "description": "" },
-    { "id": "rn-02", "title": "Integrated Navigation", "type": "lesson", "description": "" },
-    { "id": "rn-03", "title": "Integrated Communications", "type": "lesson", "description": "" },
-    { "id": "rn-04", "title": "Clearance Delivery Head", "type": "lesson", "description": "" },
-    { "id": "rn-05", "title": "Radio Managment Unit", "type": "lesson", "description": "" },
-    { "id": "rn-06", "title": "Radio Tuning Operations", "type": "lesson", "description": "" },
-    { "id": "rn-07", "title": "Fms Tuning", "type": "lesson", "description": "" },
-    { "id": "rn-08", "title": "HF Radio", "type": "lesson", "description": "" },
-    { "id": "rn-09", "title": "Selcal", "type": "lesson", "description": "" },
-    { "id": "rn-10", "title": "ACP", "type": "lesson", "description": "" },
-    { "id": "rn-12", "title": "Quiz", "type": "quiz", "description": "" }
+    { "id": "overview", "title": "Overview", "type": "lesson", "description": "" },
+    { "id": "INU", "title": "INU", "type": "lesson", "description": "" },
+    { "id": "ICU", "title": "ICU", "type": "lesson", "description": "" },
+    { "id": "clearance-delivery", "title": "Clearance Delivery Head", "type": "lesson", "description": "" },
+    { "id": "radio-managment-unit", "title": "Radio Management Unit", "type": "lesson", "description": "" },
+    { "id": "tuning-operations", "title": "Radio Tuning Operations", "type": "lesson", "description": "" },
+    { "id": "FMS", "title": "FMS Tuning", "type": "lesson", "description": "" },
+    { "id": "HF-radio", "title": "HF Radio", "type": "lesson", "description": "" },
+    { "id": "selcal", "title": "Selcal", "type": "lesson", "description": "" },
+    { "id": "ACP", "title": "ACP", "type": "lesson", "description": "" },
+    { "id": "Quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

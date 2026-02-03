@@ -1,0 +1,11 @@
+{
+  "title": "Attitude vs Reading",
+  "pages": 49,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "attitude-vs-reading-slides",
+  "audioDir": "attitude-vs-reading-audio",
+  "captionsManifest": "attitude-vs-reading-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

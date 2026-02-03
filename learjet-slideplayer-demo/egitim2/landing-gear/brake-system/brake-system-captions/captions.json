@@ -1,0 +1,322 @@
+[
+  {
+    "id": "s01",
+    "title": "We will begin by looking at the brake system and its protect…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "We will begin by looking at the brake system and its protection features.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Brakes The Learjet 45 has a brake-by-wire system that electr…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Brakes The Learjet 45 has a brake-by-wire system that electronically controls the hydraulic pressure that is applied to the brakes. Each main gear has 2 self-adjusting carbon brake assemblies. The brakes are known as left or right inboard or outboard brakes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Each pilot has 2 brake pedals and 2 pedal actuated transduce…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Each pilot has 2 brake pedals and 2 pedal actuated transducers. The amount of brake pressure sent to the brakes depends on the force on the pedals. By stepping on the pedals, signals are sent to the Brake Control Unit or BCU via the transducers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Brake Control Unit ( BCU ) The BCU is the 'brains of the bra…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Brake Control Unit ( BCU ) The BCU is the 'brains of the brake system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Inputs to the BCU include signals from the squat switch for …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Inputs to the BCU include signals from the squat switch for air or ground mode, the anti-skid switch, wheel speeds transducers and brake hydraulic pressures transducers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Anti-Skid Protection The BCU provides anti-skid protection, …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Anti-Skid Protection The BCU provides anti-skid protection, which permits the airplane to stop in the shortest possible distance under all runway conditions without skidding.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "This protection is available with normal braking only. Norma…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "This protection is available with normal braking only. Normal braking is referred to as braking using the brake pedals. Thus anti-skid protection is not available with the emergency brake system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The anti-skid protection function is selected via the ANTI-S…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The anti-skid protection function is selected via the ANTI-SKID switch located on the GEAR control panel. When the system is off, an OFF light is displayed on the switch. When the system is selected on, the switch will be blank.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "With the anti-skid selected on and the brakes applied, the B…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "With the anti-skid selected on and the brakes applied, the BCU receives and analyses the brake pedal signals, wheel speeds and brake line pressures.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The BCU also provides touchdown protection. This prevents br…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The BCU also provides touchdown protection. This prevents braking pressure from being sent to the brakes until the wheel speed is greater than 50 knots or 3 seconds after touch down. This prevents landing with the brakes applied and enables the airplane to establish traction prior to braking action.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Locked-wheel protection removes brake pressure to an inboard…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Locked-wheel protection removes brake pressure to an inboard wheel if its wheel speed is more than 30 slower than the speed of the opposite inboard wheel. The same applies to an outboard wheel if it is more than 30 slower than the speed of its opposite outboard wheel.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "In-flight braking is provided for the main gear brakes. Once…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "In-flight braking is provided for the main gear brakes. Once airborne, when the gear control switch is selected UP, the BCU commands a psi braking pressure to be applied for a few seconds to stop the main wheels rotation. There is a brake pad to stop the nose wheel rotation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The brake systems are classified under: - normal brakes - pe…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The brake systems are classified under: - normal brakes - pedal braking using main hydraulic system or auxiliary system - emergency brakes - braking using the brake accumulator - parking brake system",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The inboard brake control valves are powered by the DC Emerg…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The inboard brake control valves are powered by the DC Emergency battery bus through the INBD BRAKES circuit breaker located on the pilots CB panel. The outboard brake control valves are powered by the right essential bus through the OUTBD BRAKES circuit breaker.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Normal Brake System The normal brake system is via the brake…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Normal Brake System The normal brake system is via the brake pedals.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Depressing either set of brake pedals sends an electronic si…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Depressing either set of brake pedals sends an electronic signal proportional to pedal deflection to the BCU. The BCU also receives wheel speed signals from the 4 axle mounted wheel speed transducers and the squat switches.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The BCU then commands the brake shut-off valves ( brake sov …",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The BCU then commands the brake shut-off valves ( brake sov to open, porting hydraulic pressure to the inboard and outboard brake control valves.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "The outboard brake control valve operates the left and the r…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The outboard brake control valve operates the left and the right outboard brakes. The inboard brake control valve operates the left and right inboard brakes. Therefore, a single control valve failure cannot cause an asymmetric braking condition or more than 50 loss of braking.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "From the brake control valves, hydraulic pressure flows to t…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "From the brake control valves, hydraulic pressure flows to the brakes through the brake fuses. The wheel speed transducers sent the wheel speeds back to the BCU. BCU controls the braking on each main gear wheel independently. This allows maximum braking under all runway conditions without tire skidding.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Main Hydraulic System Loss If the main hydraulic system fail…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Main Hydraulic System Loss If the main hydraulic system fails, the auxiliary system pressurises the brake system via the shuttle valve. Normal braking with anti-skid protection is still available.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "Emergency Brake System The emergency brake system is used wh…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Emergency Brake System The emergency brake system is used when both the main and auxiliary hydraulic systems are not available. This system is powered by the brake accumulator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "Dual Hydraulic Systems Failure If the back-up auxiliary brak…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Dual Hydraulic Systems Failure If the back-up auxiliary brake pressure is also lost, the normal brake system will become inoperative. The normal brake system pressure switch will send a signal to the BCU to indicate that normal brake pressure is not available.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "The crew will be alerted by the following :- - Master Warn L…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The crew will be alerted by the following :- - Master Warn Lights illuminate and warning chime sounds - NORMAL BRAKES FAIL and NORM FAIL ( CAS) - Brakes Fail... Brakes Fail... Brakes Fail ( mutable aural warning )",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Since normal braking is not available, emergency braking is …",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Since normal braking is not available, emergency braking is provided by the emergency brake accumulator. It is activated by pulling the emergency parking brake handle to apply braking action.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "Brake Accumulator This disposable type accumulator is locate…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Brake Accumulator This disposable type accumulator is located in the left wing root. It is pre-charged with dry air or nitrogen to psi. Notice that the brake accumulator can only be charged hydraulically by the auxiliary pump to psi. Its function is to provide hydraulic pressure for emergency brake operation and for parking brake operations.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "It can also hold the parking brake pressure for approximatel…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "It can also hold the parking brake pressure for approximately 48 hours. The emergency braking system does not provide differential braking and anti-skid protection.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "To use the emergency brakes, pull the Emergency Park Brake h…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "To use the emergency brakes, pull the Emergency Park Brake handle. This opens the parking brake shut- off valve and allows the pressurised brake accumulator fluid to the brakes via a brake fuse. Brake pressure to the brakes is proportional to the amount the handle is pulled.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "Parking Brake System The brake accumulator also provides pre…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Parking Brake System The brake accumulator also provides pressure for the parking brakes system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "The parking brake is set by pulling the Emergency Park Brake…",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "The parking brake is set by pulling the Emergency Park Brake handle aft and rotating it left or right 90 to the locked position.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "This action holds the parking brake shut-off valve open and …",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "This action holds the parking brake shut-off valve open and the hydraulic pressure is maintained to the brakes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "With the parking brakes set, the advisory CAS message EMER P…",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "With the parking brakes set, the advisory CAS message EMER PARK is displayed. However, this message will turn red if the thrust levers are advanced for take-off with the parking brakes set.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "The main hydraulic system pressure is indicated on: - the SU…",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "The main hydraulic system pressure is indicated on: - the SUMRY page as MAIN - the EICAS-HYD page within the MAIN PSI indication - the Radio Management Unit (RMU)",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "The brake accumulator pressure is indicated on: - the SUMRY …",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "The brake accumulator pressure is indicated on: - the SUMRY page as B - ACUM - the RMU as - the EICAS-HYD page within the BRAKE ACCUM indication and on the tape display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "If the brake accumulator pressure falls below psi or increas…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "If the brake accumulator pressure falls below psi or increases above psi, the digital readouts will turn amber and will be boxed. Note that there will be no box in the RMU. The tape indicator pointer will also turn amber and will indicate the actual pressure.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "We will now look at the brake system malfunctions and their …",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "We will now look at the brake system malfunctions and their indications.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "This caution CAS message indicates that the anti-skid protec…",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "This caution CAS message indicates that the anti-skid protection system has been disabled, either through the pilot manual selection or by loss of anti-skid function to the brakes. Landing performance will be affected. The OFF light will be illuminated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "During normal brake operation, the brake pressure to every b…",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "During normal brake operation, the brake pressure to every brake unit is monitored by the BCU through their pressure transducers. If a leak occurs at a brake unit, its respective fuse will close to prevent further fluid loss.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "The brake pressure loss will signal the BCU to bring on the …",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "The brake pressure loss will signal the BCU to bring on the respective caution CAS message. Landing performance will also be affected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "If any of the pilot's pedal transducers becomes inoperative,…",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "If any of the pilot's pedal transducers becomes inoperative, the caution CAS message FAULT will be displayed. Use the Co-pilot's pedals for braking.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s40",
+    "title": "As the airplane accelerates for the take-off, the steering c…",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "As the airplane accelerates for the take-off, the steering command decreases to 0 at 80 knots.",
+    "caption_tr": ""
+  }
+]

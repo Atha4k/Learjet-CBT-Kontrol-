@@ -1,0 +1,362 @@
+[
+  {
+    "id": "s01",
+    "title": "MFD Location",
+    "title_tr": "MFD Konumu",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The multi-function display (MFD) is normally displayed on DU 3.",
+    "caption_tr": "Çok fonksiyonlu ekran (MFD) normalde DU 3 üzerinde görüntülenir."
+  },
+  {
+    "id": "s02",
+    "title": "MFD Displays",
+    "title_tr": "MFD Görünümleri",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "MFD displays include Partial Compass Map (MAP) mode, Plan Map (PLAN) mode, System Page display, and Bezel Menu display.",
+    "caption_tr": "MFD görünümleri; Kısmi Pusula Haritası (MAP) modu, Plan Harita (PLAN) modu, Sistem Sayfası ekranı ve Bezel Menü ekranını içerir."
+  },
+  {
+    "id": "s03",
+    "title": "Common Symbols",
+    "title_tr": "Ortak Semboller",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The MAP and PLAN displays share common navigation symbols, as shown on the graphic.",
+    "caption_tr": "MAP ve PLAN ekranları, görselde gösterildiği gibi ortak seyrüsefer sembollerini paylaşır."
+  },
+  {
+    "id": "s04",
+    "title": "MAP Mode",
+    "title_tr": "MAP Modu",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "MAP mode is the power-up default display. It uses a partial compass rose that spans an arc of degrees.",
+    "caption_tr": "MAP modu, sistem açıldığında varsayılan ekrandır. Belirli bir derece yayını kapsayan kısmi bir pusula gülü kullanır."
+  },
+  {
+    "id": "s05",
+    "title": "Heading Readout",
+    "title_tr": "Baş Okuması",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Compass heading is supplemented by a white digital readout above the compass lubber line. It typically spans 000° to 359° with 1° resolution.",
+    "caption_tr": "Pusula başı, pusula referans çizgisinin (lubber line) üzerinde beyaz bir dijital okuma ile desteklenir. Genellikle 000°–359° aralığındadır ve 1° çözünürlüğe sahiptir."
+  },
+  {
+    "id": "s06",
+    "title": "Heading Bug",
+    "title_tr": "Baş İşaretçisi",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The heading knob on the flight guidance controller sets the heading bug.",
+    "caption_tr": "Uçuş yönlendirme kontrol ünitesindeki heading düğmesi, baş işaretçisini (heading bug) ayarlar."
+  },
+  {
+    "id": "s07",
+    "title": "Bug Sync",
+    "title_tr": "İşaretçi Senk",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "If the heading bug is out of view, a magenta arrow points toward the side where the bug is hidden. Pressing the heading knob synchronizes the bug to the current heading.",
+    "caption_tr": "Baş işaretçisi görünmüyorsa, mor bir ok işaretçinin gizli olduğu yönü gösterir. Heading düğmesine basmak, işaretçiyi mevcut başa senkronize eder."
+  },
+  {
+    "id": "s08",
+    "title": "Drift Bug",
+    "title_tr": "Sapma İşaretçisi",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The drift bug is explained in the next section.",
+    "caption_tr": "Sapma işaretçisi (drift bug) bir sonraki bölümde açıklanır."
+  },
+  {
+    "id": "s09",
+    "title": "AHRS Reference",
+    "title_tr": "AHRS Referansı",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "AHRS 2 provides heading reference to the display. If both pilots use independent AHRS sources, no MAG annunciation is shown on the display.",
+    "caption_tr": "AHRS 2, ekrana baş referansı sağlar. Her iki pilot da bağımsız AHRS kaynakları kullanıyorsa ekranda MAG duyurusu (annunciation) gösterilmez."
+  },
+  {
+    "id": "s10",
+    "title": "MAG Annunciation",
+    "title_tr": "MAG Duyurusu",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "MAG 1 or MAG 2 annunciates in amber above the compass when the same AHRS source is used on both sides for heading reference.",
+    "caption_tr": "Baş referansı için her iki tarafta da aynı AHRS kaynağı kullanıldığında, pusulanın üzerinde amber renkte MAG 1 veya MAG 2 duyurusu görünür."
+  },
+  {
+    "id": "s11",
+    "title": "Heading Fail",
+    "title_tr": "Baş Arızası",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If heading information is invalid, a red FAIL annunciation appears in the center of the heading display.",
+    "caption_tr": "Baş bilgisi geçersizse, baş göstergesinin ortasında kırmızı FAIL duyurusu görünür."
+  },
+  {
+    "id": "s12",
+    "title": "Flight Plan",
+    "title_tr": "Uçuş Planı",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "When a route is entered on the Flight Plan page, the waypoints are displayed on the map. Depending on the selected range, up to 10 waypoints may be shown.",
+    "caption_tr": "Uçuş Planı sayfasında bir rota oluşturulduğunda, waypoint’ler harita üzerinde gösterilir. Seçilen menzile bağlı olarak en fazla 10 waypoint görüntülenebilir."
+  },
+  {
+    "id": "s13",
+    "title": "Active Waypoint",
+    "title_tr": "Aktif Waypoint",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "All waypoints are white except the TO (active) waypoint, which is magenta. Waypoints are connected by a white track line.",
+    "caption_tr": "TO (aktif) waypoint dışındaki tüm waypoint’ler beyazdır; aktif waypoint mor renktedir. Waypoint’ler beyaz bir rota çizgisiyle birbirine bağlanır."
+  },
+  {
+    "id": "s14",
+    "title": "Waypoint IDs",
+    "title_tr": "Waypoint Etiketleri",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Each waypoint has an identifier shown on its right side. The identifier may include up to two lines, with each line limited to six characters.",
+    "caption_tr": "Her waypoint’in sağ tarafında bir tanımlayıcı (identifier) bulunur. Bu tanımlayıcı en fazla iki satır olabilir ve her satır en fazla altı karakterle sınırlıdır."
+  },
+  {
+    "id": "s15",
+    "title": "Included Points",
+    "title_tr": "Dahil Noktalar",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "If additional points are displayed, they are included in the total waypoint count.",
+    "caption_tr": "Ek noktalar görüntüleniyorsa, toplam waypoint sayısına dahil edilir."
+  },
+  {
+    "id": "s16",
+    "title": "Range Selection",
+    "title_tr": "Menzil Seçimi",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Range is selected using the MAP/PLAN range rotary knob on the bezel controller. The selected range is shown on the display.",
+    "caption_tr": "Menzil, bezel kontrol ünitesindeki MAP/PLAN menzil döner düğmesiyle seçilir. Seçilen menzil ekranda gösterilir."
+  },
+  {
+    "id": "s17",
+    "title": "WX Selection",
+    "title_tr": "WX Seçimi",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "In MAP mode, weather returns can be displayed by selecting WX on the bezel controller.",
+    "caption_tr": "MAP modunda, bezel kontrol ünitesindeki WX seçilerek hava radar geri dönüşleri görüntülenebilir."
+  },
+  {
+    "id": "s18",
+    "title": "WX Sector",
+    "title_tr": "WX Sektörü",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "When WX is selected, two white lines appear on the range ring to indicate the limits of the weather radar scan sector. The MAP/PLAN (MP) menu above the rotary knob disappears.",
+    "caption_tr": "WX seçildiğinde, menzil halkası üzerinde iki beyaz çizgi görünür ve bunlar hava radar tarama sektörünün sınırlarını gösterir. Döner düğmenin üzerindeki MAP/PLAN (MP) menüsü kaybolur."
+  },
+  {
+    "id": "s19",
+    "title": "Range Disabled",
+    "title_tr": "Menzil Devre Dışı",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "When weather is selected, the bezel controller range knob is deactivated. Range can only be changed on the weather radar control panel using the UP and DOWN range buttons.",
+    "caption_tr": "Hava radarı seçildiğinde, bezel kontrol ünitesindeki menzil düğmesi devre dışı kalır. Menzil yalnızca hava radarı kontrol panelindeki UP/DOWN menzil tuşlarıyla değiştirilebilir."
+  },
+  {
+    "id": "s20",
+    "title": "Lateral Deviation",
+    "title_tr": "Yanal Sapma",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Lateral deviation is shown below the aircraft symbol. A digit is followed by L or R: L means the aircraft is left of the desired track, and R means it is right of the desired track.",
+    "caption_tr": "Yanal sapma, uçak sembolünün altında gösterilir. Sayının ardından L veya R gelir: L, uçağın istenen rotanın solunda olduğunu; R ise sağında olduğunu belirtir."
+  },
+  {
+    "id": "s21",
+    "title": "EICAS Mismatch",
+    "title_tr": "EICAS Uyumsuzluğu",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "An amber EICAS message may appear to the left of the heading. It indicates that N2 or ITT values shown on EICAS do not match the actual DAU sensor data.",
+    "caption_tr": "Baş bilgisinin solunda amber bir EICAS mesajı görünebilir. Bu mesaj, EICAS üzerinde gösterilen N2 veya ITT değerlerinin gerçek DAU sensör verileriyle uyuşmadığını belirtir."
+  },
+  {
+    "id": "s22",
+    "title": "PLAN Mode",
+    "title_tr": "PLAN Modu",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "PLAN mode is selected by pressing the MAP/PLAN menu button on the bezel controller. It is always displayed in a true north-up format. A white north-up arrow shows the direction of true north in the plan view.",
+    "caption_tr": "PLAN modu, bezel kontrol ünitesindeki MAP/PLAN menü tuşuna basılarak seçilir. Her zaman gerçek kuzey yukarı (true north-up) formatında gösterilir. Beyaz north-up oku, plan görünümünde gerçek kuzey yönünü belirtir."
+  },
+  {
+    "id": "s23",
+    "title": "PLAN Symbol",
+    "title_tr": "PLAN Sembolü",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "PLAN mode shows a circle with a yellow airplane symbol at the center. Unlike MAP mode, the airplane symbol appears only after the display is initialized with present position.",
+    "caption_tr": "PLAN modu, merkezde sarı bir uçak sembolü bulunan bir daire gösterir. MAP modundan farklı olarak, uçak sembolü yalnızca ekran mevcut konumla başlatıldıktan (initialize) sonra görünür."
+  },
+  {
+    "id": "s24",
+    "title": "No Compass",
+    "title_tr": "Pusula Yok",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "In PLAN mode, airplane heading is referenced to the north-up arrow. No compass heading is displayed.",
+    "caption_tr": "PLAN modunda uçağın başı, north-up okuna göre referanslanır. Pusula baş bilgisi gösterilmez."
+  },
+  {
+    "id": "s25",
+    "title": "Route Progress",
+    "title_tr": "Rota İlerlemesi",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "In PLAN mode, the entire flight plan route is oriented to the north-up arrow. As the flight progresses, each waypoint moves toward the center where the airplane symbol is located.",
+    "caption_tr": "PLAN modunda, tüm uçuş planı rotası north-up okuna göre hizalanır. Uçuş ilerledikçe her waypoint, uçak sembolünün bulunduğu merkeze doğru hareket eder."
+  },
+  {
+    "id": "s26",
+    "title": "Next Step",
+    "title_tr": "Sonraki Adım",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "Touch NEXT to advance.",
+    "caption_tr": "İlerlemek için NEXT’e dokunun."
+  },
+  {
+    "id": "s27",
+    "title": "Range Mark",
+    "title_tr": "Menzil İşareti",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "The circle is the range mark. Range markers appear on the left and right of the circle. For example, a selected range of 50 NM means the outer ring represents 50 NM from the center.",
+    "caption_tr": "Daire, menzil işaretidir. Menzil işaretleri dairenin solunda ve sağında görünür. Örneğin 50 NM seçiliyse, dış halka merkezden 50 deniz milini temsil eder."
+  },
+  {
+    "id": "s28",
+    "title": "MAP vs PLAN",
+    "title_tr": "MAP ve PLAN",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The graphics show MAP and PLAN modes with the same selected range.",
+    "caption_tr": "Görseller, aynı seçili menzilde MAP ve PLAN modlarını gösterir."
+  },
+  {
+    "id": "s29",
+    "title": "WX in PLAN",
+    "title_tr": "PLAN’da WX",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "Weather returns cannot be displayed in PLAN mode. Pressing WX while in PLAN switches the display to MAP with weather returns superimposed, provided the weather radar controller is selected on.",
+    "caption_tr": "PLAN modunda hava geri dönüşleri görüntülenemez. PLAN modundayken WX’e basmak, hava radarı kontrolü açıksa ekranı hava geri dönüşleri bindirilmiş MAP moduna geçirir."
+  },
+  {
+    "id": "s30",
+    "title": "PLAN Restriction",
+    "title_tr": "PLAN Kısıtı",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "Weather returns cannot be displayed in PLAN mode. Selecting WX switches the display to MAP with weather returns superimposed, if weather radar is selected on.",
+    "caption_tr": "PLAN modunda hava geri dönüşleri görüntülenemez. Hava radarı seçiliyken WX seçilirse, ekran hava geri dönüşleri bindirilmiş MAP moduna geçer."
+  },
+  {
+    "id": "s31",
+    "title": "Common Features",
+    "title_tr": "Ortak Özellikler",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "The following features are common to both MAP and PLAN modes.",
+    "caption_tr": "Aşağıdaki özellikler hem MAP hem de PLAN modlarında ortaktır."
+  },
+  {
+    "id": "s32",
+    "title": "Slide 32",
+    "title_tr": "Slayt 32",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "Slide 33",
+    "title_tr": "Slayt 33",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "Slide 34",
+    "title_tr": "Slayt 34",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Slide 35",
+    "title_tr": "Slayt 35",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "Slide 36",
+    "title_tr": "Slayt 36",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "Slide 37",
+    "title_tr": "Slayt 37",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "Slide 38",
+    "title_tr": "Slayt 38",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "Wind Vector",
+    "title_tr": "Rüzgar Vektörü",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "In MAP mode, the wind vector arrow shows wind direction relative to the airplane symbol. In PLAN mode, the arrow is referenced to true north.",
+    "caption_tr": "MAP modunda rüzgar vektörü oku, rüzgar yönünü uçak sembolüne göre gösterir. PLAN modunda ise ok gerçek kuzeye göre referanslanır."
+  },
+  {
+    "id": "s40",
+    "title": "Amber Data",
+    "title_tr": "Amber Veriler",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "The annunciation, distance and time-to-go to the active waypoint, and lateral deviation may be shown in white or amber. If a single navigation source provides data to both sides, these values appear in amber.",
+    "caption_tr": "Duyuru, aktif waypoint’e kalan mesafe ve süre ile yanal sapma; beyaz veya amber renkte gösterilebilir. Tek bir seyrüsefer kaynağı her iki tarafa da veri sağlıyorsa bu değerler amber renkte görünür."
+  }
+]

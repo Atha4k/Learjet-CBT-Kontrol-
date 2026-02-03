@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s01",
+    "title": "One radio altimeter system is installed on the to supply bot…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "One radio altimeter system is installed on the to supply both IC-600s with a precise indication of aircraft altitude above ground terrain. Such information is normally received when aircraft is close to ground especially during approach phase.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The system consists of a tranceiver which is located in the …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The system consists of a tranceiver which is located in the nose avionics compartment; and two antennas installed at the bottom of of the aircraft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The radio altimeter tranceiver transmits a reference signal …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The radio altimeter tranceiver transmits a reference signal to the ground through an antenna, receives the reflected signal through the second, and compares the two signals to determine the aircraft altitude.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The radio altitude readout is displayed on the lower portion…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The radio altitude readout is displayed on the lower portion of the ADI sphere on the The digital readout is white and is surrounded by a white box.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The display range is to ft. Above ft, the display is blank.",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The display range is to ft. Above ft, the display is blank.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The display resolution is 5 ft from to ft and 10 ft if altit…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The display resolution is 5 ft from to ft and 10 ft if altitude is greater than ft. Low altitude awarness is supplied for display on the barometric altitude tape. The presentation of low altitude awareness is used as an indication of the ground with respect to the current barometric altitude.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The low altitude awareness starts to appear at ft RA. It con…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The low altitude awareness starts to appear at ft RA. It consists of a yellow horizontal line resting on top of the brown shaded part. The shaded brown portion of the tape rises linearly and at zero RA, the entire lower portion of the altitude tape is brown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The crew can set a RA minimum value based on RA through the …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The crew can set a RA minimum value based on RA through the use of RABARO button on the bezel controller and turning the MINIMUMS rotary knob.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The radio altimeter system is also used to gain programme th…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The radio altimeter system is also used to gain programme the localiser and glideslope signals in the flight director system. If the radio altitude is invalid, they are gain programmed as a function of vertical velocity and elapse time since capture.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "If the aircraft is on the ground, pushing the button will pe…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "If the aircraft is on the ground, pushing the button will perform not only the radio altimeter test, it will also performs the electronic display system (EDS) test function. This was discussed in display controller topic. Touch the button to simulate test on ground.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "When tested, the radio altimeter digital readout displays se…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "When tested, the radio altimeter digital readout displays self-test value of ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If the the radio altitude information becomes invalid, the a…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If the the radio altitude information becomes invalid, the altitude digital readout is removed and an amber RA is displayed instead. The low altitude awareness brown shading is removed.",
+    "caption_tr": ""
+  }
+]

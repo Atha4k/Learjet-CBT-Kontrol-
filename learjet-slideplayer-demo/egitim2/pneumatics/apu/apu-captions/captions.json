@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s01",
+    "title": "The APU bleed air system is available when the APU is runnin…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The APU bleed air system is available when the APU is running above 95 rpm. The APU BLEED switch controls the APU bleed valve operation. Selecting the APU BLEED switch on, opens the APU bleed valve and its ON light illuminates. The APU bleed air now flows into the pneumatic manifold.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "If the pack valve is open, the bleed air flows into the envi…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "If the pack valve is open, the bleed air flows into the environmental control unit (ECU). Here, the hot air is cooled before itis ducted into the cabin. We will discuss this cooling process in the Air-conditioning lesson.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Pushing the APU BLEED switch again closes the APU bleed valv…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Pushing the APU BLEED switch again closes the APU bleed valve. The ON light on the APU BLEED switch extinguishes and the APU bleed valve closes. The air flow to the ECU is removed. Note that the APU is certified for ground operation only.",
+    "caption_tr": ""
+  }
+]

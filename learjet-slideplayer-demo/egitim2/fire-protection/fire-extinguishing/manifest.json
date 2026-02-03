@@ -1,0 +1,11 @@
+{
+  "title": "Fire Extinguishing",
+  "pages": 9,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fire-extinguishing-slides",
+  "audioDir": "fire-extinguishing-audio",
+  "captionsManifest": "fire-extinguishing-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

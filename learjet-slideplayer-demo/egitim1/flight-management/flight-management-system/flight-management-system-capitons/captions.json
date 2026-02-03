@@ -1,0 +1,178 @@
+[
+  {
+    "id": "s01",
+    "title": "The FMS-CDU houses the systems central processing unit and t…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The FMS-CDU houses the systems central processing unit and the associated interface units for the receivers, fuel flow sensors, flight guidance system and navigation data base.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The internal data base is permanently stored in non-volatile…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The internal data base is permanently stored in non-volatile memory to provide the system with information on over navaids, IFR intersections, airports, pilot defined locations, SIDs, STARS, airports and runways.The has also reserved space for pilot self defined locations waypoints and flight plan routes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The consists of Jeppesen data base, also known as navigation…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The consists of Jeppesen data base, also known as navigation data. 2 sets of navigation data are stored in the - one is the active set, the other is the standby set. The active set is the current navigation data in use.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "When the active set expires, it is replaced automatically by…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "When the active set expires, it is replaced automatically by the standby set.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Navigation data base expiry date is shown on Initialization …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Navigation data base expiry date is shown on Initialization page. It is the crew's responsibility to check that he is always flying on the most current navigation data.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The navigation data base is updated every 28 days. Updating …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The navigation data base is updated every 28 days. Updating of data base is via the data transfer unit (DTU) which is located below pilot's seat.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The Control Display Unit (CDU), located on the pedestal, pro…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The Control Display Unit (CDU), located on the pedestal, provides the pilot with all the controls necessary to communicate with the navigation computer and associated navigational equipment.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "A dimmable colour flat panel CDU uses two character sizes an…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "A dimmable colour flat panel CDU uses two character sizes and displays text in various colours to differentiate the type of date being displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Line Select Keys or LSKs are located on both sides of the CD…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Line Select Keys or LSKs are located on both sides of the CDU for manual data entry. The keys on the left are known as 4L and 5L from top to bottom, and similarly on the right they are 4R and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "There are eight function keys or mode select keys located im…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "There are eight function keys or mode select keys located immediately below the CDU.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "These keys are used to select the operating modes of the sys…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "These keys are used to select the operating modes of the systems for data entry or command inputs. When one of the function keys has been pressed, the CDU will immediately change to the first display page of the selected mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The LIST key is used to provide a list of options appropriat…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The LIST key is used to provide a list of options appropriate to the data to be entered, depressing the LIST key presents a list of selections appropriate to the entry being made.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The MENU key is used to present a list of alternate formats …",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The MENU key is used to present a list of alternate formats or options for INIT, FUEL and Flight Plan mode being displayed. A small \"m\" in a box will appear on the title line of any page in which the MENU key is active.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "PREV and NEXT keys are used to cycle backwards and forwards,…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "PREV and NEXT keys are used to cycle backwards and forwards, one page at a time, through multiple pages of the same mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The alpha numeric keys are used for data entry.",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The alpha numeric keys are used for data entry.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "When the white prompt box or cursor is over a data field, th…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When the white prompt box or cursor is over a data field, the BACK key serves as a delete or backspace key to correct an error in the event of a wrong entry. Touch the BACK key repeatedly until is deleted.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The \"\" key or \"State Change Key\" is used in conjunction with…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The \"\" key or \"State Change Key\" is used in conjunction with alpha numeric keys to enter data. It charges to- Nto S, E toWandL toR. ltis also used in strictly alpha fields as dash or period.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Data Transfer Unit is installed below the pilot's seat",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Data Transfer Unit is installed below the pilot's seat",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "This DTU is a inch floppy drive unit which is used to update…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "This DTU is a inch floppy drive unit which is used to update the UNS-1C navigation data base. This data base is updated every 28 days.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "The flight plan route which has been loaded in the respectiv…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "The flight plan route which has been loaded in the respective can be displayed on the following indicators: - Primary Flight Display - Multi Function Display",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The displays the flight plan route when the navigation sourc…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The displays the flight plan route when the navigation source annunciation is and the display format is MAP mode. The number of waypoints that can be displayed is limited to four.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "The can display the same flight plan route in the Map and Pl…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "The can display the same flight plan route in the Map and Plan modes. In the PLAN mode the flight plan route is rotated to align with the True North. In both Map and Plan modes, the number of waypoints that can be displayed is limited to ten.",
+    "caption_tr": ""
+  }
+]

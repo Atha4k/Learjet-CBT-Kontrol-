@@ -1,0 +1,11 @@
+{
+  "title": "Multi Function Display (MFD)",
+  "pages": 40,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "MFD-slides",
+  "audioDir": "MFD-audio",
+  "captionsManifest": "MFD-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

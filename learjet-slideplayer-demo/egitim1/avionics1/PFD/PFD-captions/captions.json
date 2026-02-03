@@ -1,0 +1,218 @@
+[
+  {
+    "id": "s01",
+    "title": "PFD Overview",
+    "title_tr": "PFD Genel Bakış",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The Primary Flight Display (PFD) is normally shown on Display Units 1 and 4 and integrates attitude, navigation, and air data information.",
+    "caption_tr": "Birincil Uçuş Göstergesi (PFD), normalde 1 ve 4 numaralı Ekran Ünitelerinde gösterilir ve tutum, seyrüsefer ve hava verilerini entegre eder."
+  },
+  {
+    "id": "s02",
+    "title": "Display Layout",
+    "title_tr": "Ekran Yerleşimi",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The PFD screen is divided into several functional display groups.",
+    "caption_tr": "PFD ekranı, farklı işlevsel görüntü gruplarına ayrılmıştır."
+  },
+  {
+    "id": "s03",
+    "title": "Airspeed Display",
+    "title_tr": "Hava Hızı Göstergesi",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "One of the display groups on the PFD is the airspeed display.",
+    "caption_tr": "PFD üzerindeki görüntü gruplarından biri hava hızı göstergesidir."
+  },
+  {
+    "id": "s04",
+    "title": "Mode Annunciations",
+    "title_tr": "Mod Göstergeleri",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The PFD includes airspeed display and autopilot and flight director mode annunciations.",
+    "caption_tr": "PFD; hava hızı göstergesi ile otomatik pilot ve uçuş direktörü mod duyurularını içerir."
+  },
+  {
+    "id": "s05",
+    "title": "ADI Display",
+    "title_tr": "ADI Ekranı",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The PFD also includes the Attitude Director Indicator (ADI) display along with airspeed and mode annunciations.",
+    "caption_tr": "PFD; hava hızı ve mod duyurularına ek olarak Tutum Direktörü Göstergesi (ADI) ekranını da içerir."
+  },
+  {
+    "id": "s06",
+    "title": "Altitude Display",
+    "title_tr": "İrtifa Göstergesi",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The PFD integrates airspeed, mode annunciations, ADI display, and altitude display.",
+    "caption_tr": "PFD; hava hızı, mod duyuruları, ADI ekranı ve irtifa göstergesini entegre eder."
+  },
+  {
+    "id": "s07",
+    "title": "HSI Display",
+    "title_tr": "HSI Göstergesi",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The Horizontal Situation Indicator (HSI) is displayed on the PFD.",
+    "caption_tr": "Yatay Durum Göstergesi (HSI), PFD üzerinde görüntülenir."
+  },
+  {
+    "id": "s08",
+    "title": "Vertical Speed",
+    "title_tr": "Dikey Hız",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The PFD includes both the Horizontal Situation Indicator (HSI) and the vertical speed display.",
+    "caption_tr": "PFD, Yatay Durum Göstergesi (HSI) ile birlikte dikey hız göstergesini içerir."
+  },
+  {
+    "id": "s09",
+    "title": "ADI Sphere",
+    "title_tr": "ADI Küresi",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "ADI symbols use a truncated sphere format to present standard attitude information, including sky and ground shading.",
+    "caption_tr": "ADI sembolleri, gökyüzü ve yer gölgelendirmesini içeren kesik küre formatında standart tutum bilgisini gösterir."
+  },
+  {
+    "id": "s10",
+    "title": "Aircraft Symbol",
+    "title_tr": "Uçak Sembolü",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The ADI sphere includes sky/ground shading and an aircraft symbol.",
+    "caption_tr": "ADI küresi, gökyüzü/yer gölgelendirmesi ve bir uçak sembolü içerir."
+  },
+  {
+    "id": "s11",
+    "title": "Pitch Scale",
+    "title_tr": "Pitch Ölçeği",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The ADI sphere also displays the pitch scale along with the aircraft symbol.",
+    "caption_tr": "ADI küresi, uçak sembolü ile birlikte pitch ölçeğini de gösterir."
+  },
+  {
+    "id": "s12",
+    "title": "Roll Scale",
+    "title_tr": "Roll Ölçeği",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The ADI sphere includes the roll attitude scale and roll pointer in addition to pitch information.",
+    "caption_tr": "ADI küresi, pitch bilgilerine ek olarak roll tutum ölçeği ve roll işaretçisini içerir."
+  },
+  {
+    "id": "s13",
+    "title": "AHRS Input",
+    "title_tr": "AHRS Girdisi",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The attitude display receives roll and pitch input from the Attitude and Heading Reference System (AHRS).",
+    "caption_tr": "Tutum ekranı, roll ve pitch bilgilerini Tutum ve Baş Referans Sistemi (AHRS) üzerinden alır."
+  },
+  {
+    "id": "s14",
+    "title": "Symbol Types",
+    "title_tr": "Sembol Türleri",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Two types of aircraft symbols are available: cross-pointer and single-cue.",
+    "caption_tr": "İki tür uçak sembolü bulunur: çapraz işaretçi ve tek komut (single cue)."
+  },
+  {
+    "id": "s15",
+    "title": "Symbol Selection",
+    "title_tr": "Sembol Seçimi",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Aircraft symbol selection is made using the display controller located on the glareshield.",
+    "caption_tr": "Uçak sembolü seçimi, glareshield üzerinde bulunan ekran kontrol ünitesi ile yapılır."
+  },
+  {
+    "id": "s16",
+    "title": "Single Cue",
+    "title_tr": "Tek Komut",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The single-cue aircraft symbol is the default display at power-up and appears as a triangle.",
+    "caption_tr": "Tek komut uçak sembolü, sistem açıldığında varsayılan olarak gösterilir ve üçgen şeklindedir."
+  },
+  {
+    "id": "s17",
+    "title": "Command Bars",
+    "title_tr": "Komut Çubukları",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "When flight director mode is selected, V-bar command bars appear to provide steering guidance.",
+    "caption_tr": "Uçuş direktörü modu seçildiğinde, yönlendirme sağlamak için V-çubuk komut göstergeleri görünür."
+  },
+  {
+    "id": "s18",
+    "title": "Cross Pointer",
+    "title_tr": "Çapraz İşaretçi",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The cross-pointer symbol consists of two L-shaped wing symbols and a central square representing the fuselage.",
+    "caption_tr": "Çapraz işaretçi sembolü, kanatları temsil eden iki L şekli ve gövdeyi temsil eden merkezdeki kareden oluşur."
+  },
+  {
+    "id": "s19",
+    "title": "Pitch Roll Bars",
+    "title_tr": "Pitch Roll Çubukları",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The command bars consist of a vertical roll bar and a horizontal pitch bar.",
+    "caption_tr": "Komut çubukları, dikey roll çubuğu ve yatay pitch çubuğundan oluşur."
+  },
+  {
+    "id": "s20",
+    "title": "Pitch Scale",
+    "title_tr": "Pitch Ölçeği",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "The pitch attitude scale shows pitch angles in 5-degree increments up to 30 degrees, and at higher discrete values.",
+    "caption_tr": "Pitch tutum ölçeği, 30 dereceye kadar 5 derecelik artışlarla ve daha yüksek belirli değerlerde gösterilir."
+  },
+  {
+    "id": "s21",
+    "title": "Pitch Warnings",
+    "title_tr": "Pitch Uyarıları",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Red pitch warning chevrons appear at defined nose-up and nose-down pitch limits.",
+    "caption_tr": "Kırmızı pitch uyarı şevronları, belirlenmiş burun yukarı ve burun aşağı limitlerde görünür."
+  },
+  {
+    "id": "s22",
+    "title": "Roll Markers",
+    "title_tr": "Roll İşaretleri",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "The roll scale displays markings at 30 and 60 degrees, with additional reference triangles.",
+    "caption_tr": "Roll ölçeği 30 ve 60 derecelerde işaretler ve ek referans üçgenleri gösterir."
+  },
+  {
+    "id": "s23",
+    "title": "Roll Pointer",
+    "title_tr": "Roll İşaretçisi",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The roll pointer moves along the top of the ADI sphere to indicate aircraft roll angle.",
+    "caption_tr": "Roll işaretçisi, uçağın roll açısını göstermek için ADI küresinin üst kısmında hareket eder."
+  },
+  {
+    "id": "s24",
+    "title": "Excessive Attitude",
+    "title_tr": "Aşırı Tutum",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "An excessive attitude occurs when roll exceeds 65 degrees or pitch exceeds defined nose-up or nose-down limits.",
+    "caption_tr": "Aşırı tutum, roll açısının 65 dereceyi ya da pitch açısının belirlenen burun yukarı veya aşağı limitlerini aşmasıdır."
+  }
+]

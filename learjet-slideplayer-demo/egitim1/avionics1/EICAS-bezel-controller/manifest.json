@@ -1,0 +1,11 @@
+{
+  "title": "EICAS Bezel Controller",
+  "pages": 10,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "EICAS-bezel-controller-slides",
+  "audioDir": "EICAS-bezel-controller-audio",
+  "captionsManifest": "EICAS-bezel-controller-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

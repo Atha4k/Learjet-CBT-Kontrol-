@@ -1,0 +1,272 @@
+[
+  {
+    "id": "s01",
+    "title": "EICAS Display Location",
+    "title_tr": "EICAS Ekran Konumu",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The Engine Indicating and Crew Alerting System (EICAS) is normally displayed on DU 2.",
+    "caption_tr": "Motor Gösterge ve Mürettebat Uyarı Sistemi (EICAS) normalde DU 2 üzerinde görüntülenir."
+  },
+  {
+    "id": "s02",
+    "title": "Data Acquisition Units",
+    "title_tr": "Veri Toplama Birimleri",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "EICAS uses two Data Acquisition Units (DAU 1 and DAU 2). DAU 1 receives left-side aircraft and engine sensor data, while DAU 2 receives right-side aircraft and engine sensor data.",
+    "caption_tr": "EICAS, DAU 1 ve DAU 2 olmak üzere iki Veri Toplama Birimi kullanır. DAU 1 sol taraftaki uçak ve motor sensör verilerini alırken, DAU 2 sağ taraftaki uçak ve motor sensör verilerini alır."
+  },
+  {
+    "id": "s03",
+    "title": "DAU Processing",
+    "title_tr": "DAU İşlemesi",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The DAUs process sensor inputs and send the processed information to symbol generators within the IC-600 computers, where it is converted into graphical display formats.",
+    "caption_tr": "DAU’lar sensör girişlerini işler ve işlenmiş bilgiyi IC-600 bilgisayarlarındaki sembol oluşturuculara gönderir. Burada bilgiler grafik ekran formatına dönüştürülür."
+  },
+  {
+    "id": "s04",
+    "title": "CAS Generation",
+    "title_tr": "CAS Üretimi",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The computer is also responsible for generating and displaying Crew Alerting System (CAS) messages.",
+    "caption_tr": "Bilgisayar ayrıca Mürettebat Uyarı Sistemi (CAS) mesajlarının oluşturulmasından ve görüntülenmesinden sorumludur."
+  },
+  {
+    "id": "s05",
+    "title": "Primary Engine Display",
+    "title_tr": "Birincil Motor Ekranı",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The EICAS display consists of the primary engine display.",
+    "caption_tr": "EICAS ekranı, birincil motor göstergesinden oluşur."
+  },
+  {
+    "id": "s06",
+    "title": "Crew Alerting",
+    "title_tr": "Mürettebat Uyarıları",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The EICAS display also includes the crew alerting system.",
+    "caption_tr": "EICAS ekranı ayrıca mürettebat uyarı sistemini içerir."
+  },
+  {
+    "id": "s07",
+    "title": "System Pages",
+    "title_tr": "Sistem Sayfaları",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The EICAS display includes the primary engine display, crew alerting system, and system page display.",
+    "caption_tr": "EICAS ekranı; birincil motor göstergesi, mürettebat uyarı sistemi ve sistem sayfası görüntüsünü içerir."
+  },
+  {
+    "id": "s08",
+    "title": "Bezel Control",
+    "title_tr": "Bezel Kontrolü",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The system page and bezel menu display are controlled via the EICAS bezel controller.",
+    "caption_tr": "Sistem sayfası ve bezel menü ekranı, EICAS bezel kontrol ünitesi üzerinden yönetilir."
+  },
+  {
+    "id": "s09",
+    "title": "Primary Indications",
+    "title_tr": "Birincil Göstergeler",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Primary engine indications include fan speed, interstage turbine temperature (ITT), oil pressure and temperature, and fuel flow.",
+    "caption_tr": "Birincil motor göstergeleri; fan hızı, ara kademe türbin sıcaklığı (ITT), yağ basıncı ve sıcaklığı ile yakıt akışını içerir."
+  },
+  {
+    "id": "s10",
+    "title": "N1 Display",
+    "title_tr": "N1 Göstergesi",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Engine fan speed (N1) is displayed as both a digital value and an analog dial, typically referenced as rpm or percent N1 depending on the system.",
+    "caption_tr": "Motor fan hızı (N1), hem dijital değer hem de analog gösterge olarak görüntülenir; sisteme bağlı olarak rpm veya yüzde N1 şeklinde referanslanabilir."
+  },
+  {
+    "id": "s11",
+    "title": "N1 Reference Bug",
+    "title_tr": "N1 Referans İşareti",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The N1 reference bug and digital readout are outputs from the Digital Electronic Engine Control (DEEC) computer.",
+    "caption_tr": "N1 referans işareti (bug) ve dijital okuma, Dijital Elektronik Motor Kontrolü (DEEC) bilgisayarının çıktılarıdır."
+  },
+  {
+    "id": "s12",
+    "title": "ITT Display",
+    "title_tr": "ITT Göstergesi",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Interstage turbine temperature (ITT) is displayed in degrees Celsius using both digital and pointer indications.",
+    "caption_tr": "Ara kademe türbin sıcaklığı (ITT), santigrat derece cinsinden hem dijital hem ibreli olarak gösterilir."
+  },
+  {
+    "id": "s13",
+    "title": "Digital Parameters",
+    "title_tr": "Dijital Parametreler",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Other engine parameters such as turbine speed, oil pressure, oil temperature, and fuel flow are displayed digitally.",
+    "caption_tr": "Türbin hızı, yağ basıncı, yağ sıcaklığı ve yakıt akışı gibi diğer motor parametreleri dijital olarak gösterilir."
+  },
+  {
+    "id": "s14",
+    "title": "Fuel Quantity",
+    "title_tr": "Yakıt Miktarı",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Fuel quantities for the left wing, fuselage, and right wing are displayed continuously in kilograms.",
+    "caption_tr": "Sol kanat, gövde ve sağ kanat yakıt miktarları kilogram cinsinden sürekli olarak görüntülenir."
+  },
+  {
+    "id": "s15",
+    "title": "SAT Trim Flaps",
+    "title_tr": "SAT Trim Flap",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Static air temperature (SAT), pitch trim, and flap position are displayed to the right of the fuel quantity indicators.",
+    "caption_tr": "Statik hava sıcaklığı (SAT), pitch trim ve flap konumu; yakıt miktarı göstergelerinin sağında görüntülenir."
+  },
+  {
+    "id": "s16",
+    "title": "EICAS Annunciations",
+    "title_tr": "EICAS Göstergeleri",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Various status and advisory annunciations are displayed on the EICAS screen.",
+    "caption_tr": "EICAS ekranında çeşitli durum ve bilgilendirme göstergeleri yer alır."
+  },
+  {
+    "id": "s17",
+    "title": "APR Armed",
+    "title_tr": "APR Silahlı",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "When the auxiliary power reserve is armed, APR is displayed in white.",
+    "caption_tr": "Yardımcı güç rezervi silahlandığında APR beyaz renkte gösterilir."
+  },
+  {
+    "id": "s18",
+    "title": "APR Active",
+    "title_tr": "APR Aktif",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "When the auxiliary power reserve is active, APR ON is displayed in green.",
+    "caption_tr": "Yardımcı güç rezervi aktif olduğunda APR ON yeşil renkte gösterilir."
+  },
+  {
+    "id": "s19",
+    "title": "Synchrophase",
+    "title_tr": "Senkrofaz",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "N1 and N2 synchrophase annunciations are green when the landing gear is up and amber when the gear is down.",
+    "caption_tr": "N1 ve N2 senkrofaz göstergeleri, iniş takımı yukarıdayken yeşil; aşağıdayken amber renkte gösterilir."
+  },
+  {
+    "id": "s20",
+    "title": "Ignition Status",
+    "title_tr": "Ateşleme Durumu",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "The engine ignition annunciation may appear in green, white, or amber depending on system state.",
+    "caption_tr": "Motor ateşleme göstergesi, sistem durumuna bağlı olarak yeşil, beyaz veya amber renkte görünebilir."
+  },
+  {
+    "id": "s21",
+    "title": "Nacelle Heat",
+    "title_tr": "Nacelle Isıtma",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Nacelle heat annunciation is displayed in either green or amber depending on status.",
+    "caption_tr": "Nacelle ısıtma göstergesi, duruma bağlı olarak yeşil veya amber renkte gösterilir."
+  },
+  {
+    "id": "s23",
+    "title": "Thrust Reverser",
+    "title_tr": "İtki Ters Çevirici",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Thrust reverser annunciations include REV, UNL, and DEP indications with defined color codes.",
+    "caption_tr": "İtki ters çevirici göstergeleri; REV, UNL ve DEP uyarılarını belirli renk kodlarıyla içerir."
+  },
+  {
+    "id": "s24",
+    "title": "Starter Status",
+    "title_tr": "Starter Durumu",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Starter status annunciation may appear in green or amber depending on system state.",
+    "caption_tr": "Starter durum göstergesi, sistem durumuna bağlı olarak yeşil veya amber renkte görünebilir."
+  },
+  {
+    "id": "s25",
+    "title": "Master Warning",
+    "title_tr": "Ana Uyarı",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Pressing the master warning button stops the associated flashing annunciation.",
+    "caption_tr": "Ana uyarı butonuna basıldığında, ilgili yanıp sönen uyarı durur."
+  },
+  {
+    "id": "s26",
+    "title": "DEEC Manual",
+    "title_tr": "DEEC Manuel",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "MAN is annunciated when the DEEC computer enters manual mode; the indication may be white or amber.",
+    "caption_tr": "DEEC bilgisayarı manuel moda geçtiğinde MAN göstergesi yanar; bu gösterge beyaz veya amber olabilir."
+  },
+  {
+    "id": "s27",
+    "title": "Thrust Ratings",
+    "title_tr": "İtki Modları",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "Thrust rating modes include Takeoff APR, Maximum Continuous Thrust, and Maximum Recommended Cruise.",
+    "caption_tr": "İtki derecelendirme modları; Kalkış APR, Maksimum Sürekli İtki ve Maksimum Tavsiye Edilen Seyir modlarını içerir."
+  },
+  {
+    "id": "s28",
+    "title": "CAS Monitoring",
+    "title_tr": "CAS İzleme",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The IC-600 computer continuously monitors aircraft systems and displays messages on the Crew Alerting System (CAS).",
+    "caption_tr": "IC-600 bilgisayarı uçak sistemlerini sürekli izler ve Mürettebat Uyarı Sistemi (CAS) üzerinde mesajlar görüntüler."
+  },
+  {
+    "id": "s29",
+    "title": "CAS Priorities",
+    "title_tr": "CAS Öncelikleri",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "CAS messages are color-coded by priority: red for warnings, amber for cautions, and white for advisories.",
+    "caption_tr": "CAS mesajları önceliğe göre renklendirilir: uyarılar kırmızı, ikazlar amber, bilgilendirmeler beyazdır."
+  },
+  {
+    "id": "s30",
+    "title": "Hidden Messages",
+    "title_tr": "Gizli Mesajlar",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "When more than 14 messages exist, a MESSAGE annunciation with up and down arrows indicates hidden messages.",
+    "caption_tr": "14’ten fazla mesaj olduğunda, yukarı/aşağı oklar içeren MESSAGE göstergesi gizli mesajlar olduğunu belirtir."
+  },
+  {
+    "id": "s31",
+    "title": "Message Scroll",
+    "title_tr": "Mesaj Kaydırma",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "Hidden CAS messages can be scrolled into view using the CAS rotary knob on the EICAS bezel controller.",
+    "caption_tr": "Gizli CAS mesajları, EICAS bezel kontrol ünitesindeki CAS döner düğmesiyle ekrana kaydırılarak görüntülenebilir."
+  }
+]

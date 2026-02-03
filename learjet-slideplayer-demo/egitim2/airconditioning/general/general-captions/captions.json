@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s01",
+    "title": "For crew and passenger comfort, the air going into the cabin…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "For crew and passenger comfort, the air going into the cabin and cockpit is cooled. This air is also used for cabin pressurization. The air-conditioning system uses the bleed air from the engines or APU and is available both on ground and in flight. _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The air-conditioning system consists of a cooling system, a …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The air-conditioning system consists of a cooling system, a temperature control system and a distribution system. The major components are located in the tailcone section while the system control switches and the temperature contro switches are located in front of the co-pilot. J _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "We will be using this schematic when describing the air-cond…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "We will be using this schematic when describing the air-conditioning system in this lesson. J _",
+    "caption_tr": ""
+  }
+]

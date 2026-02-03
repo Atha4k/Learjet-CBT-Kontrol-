@@ -1,0 +1,11 @@
+{
+  "title": "DU Reversion Panel",
+  "pages": 19,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "DU-reversion-panel-slides",
+  "audioDir": "DU-reversion-panel-audio",
+  "captionsManifest": "DU-reversion-panel-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s01",
+    "title": "Transfer lines allow fuel to flow from the fuselage tank to …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Transfer lines allow fuel to flow from the fuselage tank to the wing tanks. Fuel is normally pumped out of the fuselage tank to the wing tanks by a Transfer Jet Pump in each wing tank if the engines are running. pr IN aa PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The Transfer Jet Pumps require high-pressure fuel to be able…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The Transfer Jet Pumps require high-pressure fuel to be able to pump the fuel out from the fuselage tank to the wing tanks. Each engine drives a motive flow pump to supply this high-pressure fuel. po A a ml sm am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "If an engine is not running, fuel will transfer from the fus…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "If an engine is not running, fuel will transfer from the fuselage tank to the wing tanks by gravity as the fuselage tank is ata higher level than the wing tanks. po IN am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "This allows wing-to-wing fuel transfer to balance the fuel l…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "This allows wing-to-wing fuel transfer to balance the fuel load should this become necessary. The crossflow valve is normally closed. its switchindicator is located on the center pedestal and is dark or blank when the switchindicator is in the selected closed position. prone A a ml sm am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The crossflow line allows fuel to be transferred from one wi…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The crossflow line allows fuel to be transferred from one wing to the other to balance the fuel load should this become necessary. iar A a ml sm am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Fuel balancing is done by using electrically operated Standb…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Fuel balancing is done by using electrically operated Standby pumps, which are connected to the crossfiow line. Standby pump switchlindicators are located adjacent to the crossflow valve switchindicator. po A a ml sm am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The fuel quantity probes in each wing send signals to the Fu…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The fuel quantity probes in each wing send signals to the Fuel Computer and the fuel quantity of both wings is constantly compared. JE IN am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "An imbalance will result in master caution and an amber Fuel…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "An imbalance will result in master caution and an amber Fuel Imbalance message on CAS. pone A a ml sm am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "To establish the imbalance, check the wing fuel quantities o…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "To establish the imbalance, check the wing fuel quantities on EICAS. The quantity reading of the wing with less fuel in it will change to amber and be boxed by an amber rectangle. In this case we would need to transfer fuel from the left wing to the right wing. pone A a ml sm am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "To transfer fuel to the right wing, open the crossflow valve…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "To transfer fuel to the right wing, open the crossflow valve first. Select the crossflow valve switchindicator. Ge IN am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "To transfer fuel to the right wing, open the crossflow valve…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "To transfer fuel to the right wing, open the crossflow valve first. Select the crossflow valve switchfindicator. The switchindicator will display a white bar to indicate that it has been selected to the open position. The white advisory message on CAS, Crossflow Open, is displayed when the valve is fully open. Ge IN am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "To start the transfer, select the Left Standby Pump switchli…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "To start the transfer, select the Left Standby Pump switchlindicator. The Standby Pump switchindicator will illuminate to ON and a white Standby Pump On message will be displayed on CAS. en IN aa PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Fuel is now transferring from the left wing to the right win…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Fuel is now transferring from the left wing to the right wing. As the pump will not stop automatically, monitor fuel quantity in the wing tanks. The quantities are now balanced, so switch off the Standby pump Ge IN am PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "This is the indication if the Crossflow valve switchindicato…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "This is the indication if the Crossflow valve switchindicator and valve position does not agree. LG wn IN aa PE Sy wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "To summarize: Fuel automatically transfers from the fuselage…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "To summarize: Fuel automatically transfers from the fuselage tank to the wing tanks by Transfer Jet Pumps with the engines running or erm A a ml sm am PE Sy wri",
+    "caption_tr": ""
+  }
+]

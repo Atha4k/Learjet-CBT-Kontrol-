@@ -1,0 +1,254 @@
+[
+  {
+    "id": "s01",
+    "title": "External Operation",
+    "title_tr": "Dıştan Kullanım",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "External operation will be discussed first.",
+    "caption_tr": "Önce kapının dıştan kullanımı ele alınacaktır."
+  },
+  {
+    "id": "s02",
+    "title": "Open From Outside",
+    "title_tr": "Dışarıdan Açma",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "To open the door from the outside: if necessary, unlock it with the key. Press the button on the external door handle to release it from the recess, then rotate the handle clockwise to unlock the upper door.",
+    "caption_tr": "Kapıyı dışarıdan açmak için: gerekiyorsa anahtarla kilidi açın. Dış kapı kolundaki düğmeye basarak kolu yuvasından çıkarın, ardından kolu saat yönünde çevirerek üst kapının kilidini açın."
+  },
+  {
+    "id": "s03",
+    "title": "Unlock Lower Door",
+    "title_tr": "Alt Kapıyı Kilitten Çıkarma",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Push the upper door upward. Reach inside and locate the lower door handle. Lift the lower handle from the recess and rotate it clockwise to unlock the lower door. The lower door will not drop open because a secondary latch holds it.",
+    "caption_tr": "Üst kapıyı yukarı doğru itin. İçeri uzanıp alt kapı kolunu bulun. Alt kolu yuvasından kaldırın ve saat yönünde çevirerek alt kapının kilidini açın. Alt kapı, ikincil kilit (secondary latch) nedeniyle kendiliğinden düşerek açılmaz."
+  },
+  {
+    "id": "s04",
+    "title": "Release Secondary Latch",
+    "title_tr": "İkincil Kilidi Açma",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Support the lower door and lift the secondary latch located at the forward doorsill. Then allow the door to lower. Near the end of travel, the flip step deploys automatically.",
+    "caption_tr": "Alt kapıyı destekleyin ve ön eşikte bulunan ikincil kilidi kaldırın. Ardından kapının aşağı inmesine izin verin. Hareketin sonunda, katlanır basamak (flip step) otomatik olarak açılır."
+  },
+  {
+    "id": "s05",
+    "title": "Close From Outside",
+    "title_tr": "Dışarıdan Kapama",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "To close the door from the outside: manually stow the flip step. Lift the lower door to the closed position; the secondary latch will hold it. Rotate the lower door handle counterclockwise to lock the lower door.",
+    "caption_tr": "Kapıyı dışarıdan kapatmak için: katlanır basamağı elle toplayın. Alt kapıyı kapalı konuma kaldırın; ikincil kilit kapıyı kapalı tutar. Alt kapı kolunu saat yönünün tersine çevirerek alt kapıyı kilitleyin."
+  },
+  {
+    "id": "s06",
+    "title": "Lock Upper Door",
+    "title_tr": "Üst Kapıyı Kilitleme",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Pull the upper door closed. Rotate the upper door handle counterclockwise to lock the door, then push the handle in so it sits flush with the skin.",
+    "caption_tr": "Üst kapıyı kapalı konuma çekin. Üst kapı kolunu saat yönünün tersine çevirerek kapıyı kilitleyin, ardından kolu içeri bastırarak gövdeyle aynı hizaya getirin."
+  },
+  {
+    "id": "s07",
+    "title": "Internal Operation",
+    "title_tr": "İçten Kullanım",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Internal operation will be discussed next. The following sequence describes opening the door from the inside.",
+    "caption_tr": "Sırada içten kullanım vardır. Aşağıdaki adımlar, kapının içeriden açılmasını açıklar."
+  },
+  {
+    "id": "s08",
+    "title": "Emergency Opening",
+    "title_tr": "Acil Açma",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Rotate the upper door handle counterclockwise to open the upper door, then push the door upward. These two steps are the emergency opening procedure. Do not open the lower door in an emergency because it is not an emergency exit. For normal opening, lift the lower door handle and rotate it clockwise to unlock the lower door.",
+    "caption_tr": "Üst kapıyı açmak için üst kapı kolunu saat yönünün tersine çevirin ve kapıyı yukarı itin. Bu iki adım, acil açma prosedürünü oluşturur. Acil durumda alt kapıyı açmayın; çünkü acil çıkış olarak sınıflandırılmamıştır. Normal açma için alt kapı kolunu kaldırın ve saat yönünde çevirerek alt kapının kilidini açın."
+  },
+  {
+    "id": "s09",
+    "title": "Lower Door Tee-Handle",
+    "title_tr": "Alt Kapı T-Kolu",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Hold the tee-handle at the forward doorsill and take up cable slack. Lift the secondary latch and lower the door using the tee-handle. Near the end of travel, the flip step deploys automatically.",
+    "caption_tr": "Ön eşikteki T-kolunu tutun ve kablodaki boşluğu alın. İkincil kilidi kaldırın ve T-kolunu kullanarak kapıyı aşağı indirin. Hareketin sonunda katlanır basamak otomatik olarak açılır."
+  },
+  {
+    "id": "s10",
+    "title": "Close From Inside",
+    "title_tr": "İçeriden Kapama",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The following sequence describes closing the door from the inside.",
+    "caption_tr": "Aşağıdaki adımlar, kapının içeriden kapatılmasını açıklar."
+  },
+  {
+    "id": "s11",
+    "title": "Lock Lower Door",
+    "title_tr": "Alt Kapıyı Kilitleme",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Hold the tee-handle and pull the lower door toward the closed position. When the door is within reach, manually stow the flip step. Pull the door fully closed; the secondary latch holds it closed. Rotate the lower door handle counterclockwise to lock the lower door.",
+    "caption_tr": "T-kolunu tutarak alt kapıyı kapalı konuma doğru çekin. Kapı ulaşılabilir konuma geldiğinde katlanır basamağı elle toplayın. Kapıyı tamamen kapatın; ikincil kilit kapıyı kapalı tutar. Alt kapı kolunu saat yönünün tersine çevirerek alt kapıyı kilitleyin."
+  },
+  {
+    "id": "s12",
+    "title": "Upper Door Check",
+    "title_tr": "Üst Kapı Kontrolü",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Pull the upper door closed. If the upper door will not close completely, the lower door may be closed but not locked and is being held only by the secondary latch. Rotate the upper door handle clockwise to lock the door.",
+    "caption_tr": "Üst kapıyı kapatın. Üst kapı tam kapanmıyorsa, alt kapı kapalı fakat kilitli olmayabilir ve yalnızca ikincil kilit tarafından tutuluyor olabilir. Üst kapı kolunu saat yönünde çevirerek kapıyı kilitleyin."
+  },
+  {
+    "id": "s13",
+    "title": "Operation Complete",
+    "title_tr": "İşlem Tamamlandı",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "This completes the door operating sequence from outside and inside the airplane.",
+    "caption_tr": "Bu adımlar, kapının hem dışarıdan hem de içeriden kullanım sırasını tamamlar."
+  },
+  {
+    "id": "s14",
+    "title": "Entry Door Warning",
+    "title_tr": "Giriş Kapısı İkazı",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The main entry door is connected to the master warning system. A red ENTRY DOOR light illuminates on the crew warning panel and a red ENTRY DOOR message appears on the CAS.",
+    "caption_tr": "Ana giriş kapısı, master warning sistemine bağlıdır. Mürettebat uyarı panelinde kırmızı ENTRY DOOR ışığı yanar ve CAS üzerinde kırmızı ENTRY DOOR mesajı görünür."
+  },
+  {
+    "id": "s15",
+    "title": "Latch Pin Warning",
+    "title_tr": "Kilitleme Pimi İkazı",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The warning system triggers if any latch pin is not in the latched position. It is normal to see these indications when the door is opened at the end of a flight.",
+    "caption_tr": "Herhangi bir kilitleme pimi kilitli konumda değilse ikaz sistemi devreye girer. Uçuş sonunda kapı açıldığında bu ikazların görülmesi normaldir."
+  },
+  {
+    "id": "s16",
+    "title": "Fault Detection",
+    "title_tr": "Arıza Tespiti",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Because the ENTRY DOOR indications are normally present with the door open, a faulty latch may not be noticed until the door is closed for takeoff and the ENTRY DOOR light and message do not extinguish.",
+    "caption_tr": "Kapı açıkken ENTRY DOOR ikazları normalde zaten görüldüğünden, olası bir kilit arızası ancak kalkış için kapı kapatıldığında ve ENTRY DOOR ışığı ile mesajı sönmediğinde fark edilebilir."
+  },
+  {
+    "id": "s17",
+    "title": "Door Pin Message",
+    "title_tr": "Kapı Pimi Mesajı",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "To provide early fault indication on the ground, a white ENTRY DOOR PIN message appears on the CAS if any latch pin position disagrees with the door position (open or closed). This message is not displayed unless a fault exists.",
+    "caption_tr": "Yerde olası arızayı erken bildirmek için, herhangi bir kilitleme pimi konumu kapı konumuyla (açık/kapalı) uyuşmazsa CAS üzerinde beyaz ENTRY DOOR PIN mesajı görünür. Bu mesaj, arıza yoksa görüntülenmez."
+  },
+  {
+    "id": "s18",
+    "title": "Key Locked Inside",
+    "title_tr": "İçerideyken Anahtarla Kilitleme",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "An abnormal condition can occur if someone locks the door with the key while the crew is still inside. In that case, ENTRY DOOR indications appear together with the ENTRY DOOR PIN message.",
+    "caption_tr": "Mürettebat içerideyken birinin kapıyı anahtarla kilitlemesi de anormal bir durumdur. Bu durumda ENTRY DOOR ikazları, ENTRY DOOR PIN mesajıyla birlikte görülür."
+  },
+  {
+    "id": "s19",
+    "title": "Lock Pawl Override",
+    "title_tr": "Kilit Mandalı Açma",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The key lock operates the lock pawl. When locked, the pawl blocks normal handle movement. To exit when the door is key-locked, push the lock pawl away from the handle while rotating the door handle counterclockwise as in the normal opening procedure.",
+    "caption_tr": "Anahtarlı kilit, kilit mandalını (lock pawl) çalıştırır. Kilitliyken mandal, kolun normal hareketini engeller. Kapı anahtarla kilitliyken çıkmak için, kapı kolunu normal açma prosedüründeki gibi saat yönünün tersine çevirirken kilit mandalını koldan uzağa itin."
+  },
+  {
+    "id": "s20",
+    "title": "Latch Pin Inspection",
+    "title_tr": "Kilitleme Pimi Kontrolü",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "If required, latch pin mechanisms inside the door structure can be checked through small viewing windows.",
+    "caption_tr": "Gerekirse, kapı yapısı içindeki kilitleme pimi mekanizmaları küçük kontrol pencerelerinden incelenebilir."
+  },
+  {
+    "id": "s21",
+    "title": "Viewing Windows",
+    "title_tr": "Kontrol Pencereleri",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Six viewing windows check the upper door side-latch mechanisms. Two windows check the internal locking of the upper door side latches. One window checks the internal locking of the latches securing the upper to the lower door. Four windows check the latch mechanisms of the lower door.",
+    "caption_tr": "Altı kontrol penceresi üst kapının yan kilit mekanizmasını kontrol eder. İki pencere üst kapı yan kilitlerinin iç kilitlemesini kontrol eder. Bir pencere üst kapıyı alt kapıya bağlayan kilitlerin iç kilitlemesini kontrol eder. Dört pencere alt kapının kilit mekanizmasını kontrol eder."
+  },
+  {
+    "id": "s22",
+    "title": "Emergency Escape Hatch",
+    "title_tr": "Acil Kaçış Kapağı",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "The emergency escape hatch is located at the right rear of the cabin. To open it, first remove the trim panel covering the handle.",
+    "caption_tr": "Acil kaçış kapağı kabinin sağ arka tarafında bulunur. Açmak için önce kolu kapatan kaplama panelini çıkarın."
+  },
+  {
+    "id": "s23",
+    "title": "Remove Hatch",
+    "title_tr": "Kapağı Çıkarma",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Pull the handle down and inward. Support the window at the bottom as the top pins release and the hatch rotates inward. Remove the hatch completely and place it where it will not impede exit.",
+    "caption_tr": "Kolu aşağı ve içeri doğru çekin. Üst pimler serbest kalıp kapak içeri doğru dönerken camı alttan destekleyin. Kapağı tamamen çıkarın ve çıkışı engellemeyecek bir yere koyun."
+  },
+  {
+    "id": "s24",
+    "title": "Open From Outside",
+    "title_tr": "Dışarıdan Açma",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "The hatch can also be opened from outside the airplane by pushing in on an external panel. This has the same effect as pulling the internal handle down and inward, and the hatch will fall into the cabin.",
+    "caption_tr": "Kapak, dışarıdan bir panele içeri doğru bastırılarak da açılabilir. Bu işlem, iç kolu aşağı ve içeri çekmekle aynı etkiyi oluşturur ve kapak kabinin içine düşer."
+  },
+  {
+    "id": "s25",
+    "title": "Hatch Lock Pin",
+    "title_tr": "Kapak Kilit Pimi",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "A locking pin can be inserted to prevent unwanted entry through the hatch, but it must be removed for flight. The escape hatch is connected to Master Caution, and an amber EMERGENCY EXIT message appears on the CAS if it is not properly secured.",
+    "caption_tr": "Kapağı istenmeyen girişlere karşı kilitlemek için bir kilit pimi takılabilir; ancak uçuş öncesi mutlaka çıkarılmalıdır. Kaçış kapağı Master Caution’a bağlıdır ve düzgün emniyete alınmadıysa CAS üzerinde amber EMERGENCY EXIT mesajı görünür."
+  },
+  {
+    "id": "s26",
+    "title": "Baggage & Tailcone Doors",
+    "title_tr": "Bagaj ve Kuyruk Konisi Kapıları",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "The baggage and tailcone compartment doors each have two latches and may be locked with a key. The baggage compartment is heated, and the heater ON/OFF switch is located on the compartment ceiling.",
+    "caption_tr": "Bagaj ve kuyruk konisi bölmesi kapılarının her birinde iki kilit bulunur ve anahtarla kilitlenebilir. Bagaj bölmesi ısıtmalıdır ve ısıtıcının ON/OFF anahtarı bölmenin tavanında yer alır."
+  },
+  {
+    "id": "s27",
+    "title": "External Doors CAS",
+    "title_tr": "Dış Kapılar CAS Mesajı",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "Both external doors are connected to Master Caution. An amber EXTERNAL DOORS message appears on the CAS if either door is not properly secured.",
+    "caption_tr": "Her iki dış kapı Master Caution’a bağlıdır. Kapılardan herhangi biri düzgün emniyete alınmadıysa CAS üzerinde amber EXTERNAL DOORS mesajı görünür."
+  },
+  {
+    "id": "s28",
+    "title": "Lesson Complete",
+    "title_tr": "Ders Tamamlandı",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "This completes the lesson on doors and exits.",
+    "caption_tr": "Kapılar ve çıkışlarla ilgili ders tamamlanmıştır."
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "s01",
+    "title": "The PRIMUS Integrated Avionics System includes two flight di…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The PRIMUS Integrated Avionics System includes two flight directors that are resident, one each, in the two IC-600 computers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The transfer button is used to select the active The active …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The transfer button is used to select the active The active FD is termed the \"master\" flight director, and the opposite is called the slave flight director. The left FD is selected as master on power-up. Touch the transfer button to select the right FD as master",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The transfer button is used to select the active The active …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The transfer button is used to select the active The active FD is termed the \"master\" flight director, and the opposite is called the slave flight director. The left FD is selected as master on power-up.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The transfer arrow head is also repeated by the arrow on the…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The transfer arrow head is also repeated by the arrow on the PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "If the AP is engaged, it will couple to the master",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "If the AP is engaged, it will couple to the master",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "If left FD is the master, AP will be coupled to the left FD …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "If left FD is the master, AP will be coupled to the left FD when it is engaged.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The master FD not only provides steering commands to the AP,…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The master FD not only provides steering commands to the AP, it also provide the following to both the pilot's and co-pilot's PFDs when FD modes are selected",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The master FD not only provides steering commands to the AP,…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The master FD not only provides steering commands to the AP, it also provide the following to both the pilot's and co-pilot's PFDs when FD modes are selected on -- pitch and roll FD mode annunciations, and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Slide 9",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "For this reason, it is essential that slave has the same nav…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "For this reason, it is essential that slave has the same navigation source selected as the master so that the navigation information on the slave HSI is compatible to the steering movements of the command bars which are driven by the master",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The flight guidance controller is the prime controller for t…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The flight guidance controller is the prime controller for the FD and APYD. The provides the means, via push-button switches, for FD mode selection, couple status and APYD engage selection.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The FD modes engage status is indicated to the crew via gree…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The FD modes engage status is indicated to the crew via green light on the right hand edge of each mode switch, which is illuminated when the mode is active or arm and extinguished when the mode is inactive.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "A field, located at the very top, centre of the is dedicated…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "A field, located at the very top, centre of the is dedicated to FD annunciations and the APFD arrow.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The roll mode is on the left of the arrow and the pitch mode…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The roll mode is on the left of the arrow and the pitch mode is on the right.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Touch button to select heading mode.",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Touch button to select heading mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "As you have noticed, a newly selected mode is displayed in g…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "As you have noticed, a newly selected mode is displayed in green and is boxed in white. The white box stays for about 8 seconds. Also, any first selection of FD mode, roll or pitch, will bring roll and pitch command bars into view.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Armed mode annunciators are located outboard of active modes…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Armed mode annunciators are located outboard of active modes. They appear in white in the armed condition. When the armed mode becomes captured, it will move inboard, turn green and is boxed in white for 8 seconds. Watch how VOR mode captures",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Armed mode annunciators are located outboard of active modes…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Armed mode annunciators are located outboard of active modes. They appear in white in the armed condition. When the armed mode becomes captured, it will move inboard, turn green and is boxed in white for 8 seconds. Now watch altitude select captures.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "The flight director select switches, FD 1 and FD 2, are loca…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The flight director select switches, FD 1 and FD 2, are located on the upper left and right corners of the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Depressing these switches alone will not bring the FD comman…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Depressing these switches alone will not bring the FD command bars into view. Any FD mode selection causes the FD command bars to appear on both PFDs. Touch button to select heading mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "Touch button to select speed mode.",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Touch button to select speed mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "When the FD command bars are in view on both PFDs and the AP…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "When the FD command bars are in view on both PFDs and the AP is not engaged, depressing the master FD switch will disengage all FD modes and remove the command bars on both PFDs. Watch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "Once removed by the master FD switch, depressing the same sw…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Once removed by the master FD switch, depressing the same switch again will not bring back the command bars and FD modes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Pressing the slave FD button removes the FD modes and comman…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Pressing the slave FD button removes the FD modes and command bars on that only. Touch FD 2 button.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "If the AP is engaged, pressing the master FD switch has no e…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "If the AP is engaged, pressing the master FD switch has no effect The FD modes and command bars will not disapear either side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "However, the slave command bars can be removed and brought b…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "However, the slave command bars can be removed and brought back if the associated FD switch is pushed repeatedly.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "However, the slave command bars can be removed and brought b…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "However, the slave command bars can be removed and brought back if the associated FD switch is pushed repeatedly.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "The table shows the function of the FD switches in relation …",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The table shows the function of the FD switches in relation to AP engaged and AP disengaged.",
+    "caption_tr": ""
+  }
+]

@@ -3,10 +3,10 @@
   "title": "Pneumatics",
   "summary": "Pneumatic system overview and lessons.",
   "topics": [
-    { "id": "pn-01", "title": "General", "type": "lesson", "description": "" },
-    { "id": "pn-02", "title": "APU Bleed System", "type": "lesson", "description": "" },
-    { "id": "pn-03", "title": "Engine Bleed System", "type": "lesson", "description": "" },
-    { "id": "pn-04", "title": "Leak/Overheat System", "type": "lesson", "description": "" },
-    { "id": "pn-06", "title": "Quiz", "type": "quiz", "description": "" }
+    { "id": "general", "title": "General", "type": "lesson", "description": "" },
+    { "id": "apu", "title": "APU Bleed System", "type": "lesson", "description": "" },
+    { "id": "engine-bleed", "title": "Engine Bleed System", "type": "lesson", "description": "" },
+    { "id": "leak-overheat", "title": "Leak/Overheat DET System", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

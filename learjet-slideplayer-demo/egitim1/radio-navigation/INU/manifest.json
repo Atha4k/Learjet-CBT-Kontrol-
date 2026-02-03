@@ -1,0 +1,11 @@
+{
+  "title": "INU",
+  "pages": 32,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "INU-slides",
+  "audioDir": "INU-audio",
+  "captionsManifest": "INU-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

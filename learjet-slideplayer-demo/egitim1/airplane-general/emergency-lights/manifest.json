@@ -1,0 +1,11 @@
+{
+  "title": "Emergency Lights",
+  "pages": 9,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "emergency-lights-slides",
+  "audioDir": "emergency-lights-audio",
+  "captionsManifest": "emergency-lights-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

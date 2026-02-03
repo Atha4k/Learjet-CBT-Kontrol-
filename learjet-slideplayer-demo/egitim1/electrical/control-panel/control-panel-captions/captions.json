@@ -1,0 +1,326 @@
+[
+  {
+    "id": "s01",
+    "title": "Electrical Control Panel Location and Function",
+    "title_tr": "Elektrik Kontrol Panelinin Konumu ve İşlevi",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The electrical control panel is located on the left side of the instrument panel in front of the pilot. The panel consists of switch/indicators (SIs) that control contactors in the DC power distribution system.",
+    "caption_tr": "Elektrik kontrol paneli, pilotun önündeki gösterge panelinin sol tarafında bulunur. Panel, DC güç dağıtımındaki kontaktörleri kontrol eden anahtar/gösterge birimlerinden (SI) oluşur."
+  },
+  {
+    "id": "s02",
+    "title": "Switch/Indicator Basics (SI)",
+    "title_tr": "Anahtar/Gösterge Temelleri (SI)",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "An SI is a switch/indicator. The caption on the SI shows whether the system it controls is ON or OFF. In general, an OFF caption means the contactor is open and the associated system is off. A blank SI usually means the contactor is closed and the associated system is on.",
+    "caption_tr": "SI, anahtar ve göstergeyi bir arada barındıran bir birimdir. Üzerindeki yazı, kontrol ettiği sistemin AÇIK mı KAPALI mı olduğunu gösterir. Genel olarak OFF yazısı kontaktörün açık (open) olduğunu ve sistemin kapalı olduğunu belirtir. SI’nin boş olması ise genellikle kontaktörün kapalı (closed) olduğunu ve sistemin açık olduğunu ifade eder."
+  },
+  {
+    "id": "s03",
+    "title": "Quiet (Dark) Cockpit Concept",
+    "title_tr": "Sessiz (Karanlık) Kokpit Konsepti",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The switch/indicators are designed so that none of them are illuminated under normal conditions. This supports the \"quiet\" or \"dark\" cockpit concept.",
+    "caption_tr": "Anahtar/gösterge birimleri normal şartlarda ışık vermeyecek şekilde tasarlanmıştır. Bu yaklaşım “sessiz” veya “karanlık kokpit” konseptini destekler."
+  },
+  {
+    "id": "s04",
+    "title": "Example: L GEN Indication",
+    "title_tr": "Örnek: L GEN Göstergesi",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "For example, the L GEN switch/indicator is blank when the left generator is operating and connected to its generator bus. If a fault disconnects the generator, the OFF caption illuminates to alert the crew to an abnormal condition.",
+    "caption_tr": "Örneğin, sol jeneratör çalışıyor ve kendi jeneratör barasına bağlıyken L GEN göstergesi boş görünür. Bir arıza jeneratörü devreden çıkarırsa OFF yazısı yanar ve mürettebatı anormal bir duruma karşı uyarır."
+  },
+  {
+    "id": "s05",
+    "title": "Alternate-Action vs Momentary-Action SIs",
+    "title_tr": "Kilitli (Alternate) ve Anlık (Momentary) SI Tipleri",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The EMER BATT and the left and right AVIONICS MASTER switches are alternate-action SIs, while the rest are momentary-action SIs.",
+    "caption_tr": "EMER BATT ile sol ve sağ AVIONICS MASTER anahtarları kilitli (alternate-action) tip SI’dır; diğerleri ise anlık (momentary-action) tip SI’lardır."
+  },
+  {
+    "id": "s06",
+    "title": "Interactive Panel Instruction",
+    "title_tr": "Panel Etkileşim Talimatı",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "For a description of each SI, click one switch at a time.",
+    "caption_tr": "Her bir SI’ın açıklamasını görmek için anahtarlara tek tek tıklayın."
+  },
+  {
+    "id": "s07",
+    "title": "EXT SI Captions (ON / AVAIL)",
+    "title_tr": "EXT SI Yazıları (ON / AVAIL)",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The EXT SI controls the anti-flash contactor. It is divided into an upper and a lower half. The upper half has a white ON caption. The lower half has a green AVAIL caption.",
+    "caption_tr": "EXT SI, anti-flash kontaktörünü kontrol eder. Üst ve alt olmak üzere iki bölümden oluşur. Üst bölümde beyaz ON yazısı, alt bölümde ise yeşil AVAIL yazısı bulunur."
+  },
+  {
+    "id": "s08",
+    "title": "GPU Availability Conditions",
+    "title_tr": "GPU Uygunluk Şartları (AVAIL)",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "When the GPU is connected to the aircraft receptacle, the green AVAIL caption illuminates if: (1) voltage is within acceptable limits, approximately 24 to 32 volts, and (2) polarity is correct.",
+    "caption_tr": "GPU uçağın prizine bağlandığında, yeşil AVAIL yazısı şu şartlarda yanar: (1) voltaj yaklaşık 24–32 volt aralığında kabul edilebilir sınırlar içindeyse ve (2) polarite doğruysa."
+  },
+  {
+    "id": "s09",
+    "title": "GPU Indications vs Acceptable GPU",
+    "title_tr": "GPU Göstergeleri ve “Uygun GPU” Ayrımı",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "At the same time, an EXTERNAL POWER advisory message appears on CAS and a white EXT annunciation appears on the ELEC schematic. However, these indications alone do not confirm that the GPU parameters are acceptable; AVAIL is the key indicator.",
+    "caption_tr": "Aynı anda CAS üzerinde EXTERNAL POWER danışma mesajı çıkar ve ELEC şemasında beyaz EXT göstergesi görülür. Ancak bu iki gösterge tek başına GPU’nun doğru parametrelerde olduğunu garanti etmez; asıl belirleyici gösterge AVAIL’dir."
+  },
+  {
+    "id": "s10",
+    "title": "Selecting EXT ON",
+    "title_tr": "EXT’i ON Konumuna Alma",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "With the GPU connected and the green AVAIL caption illuminated, pressing the EXT SI closes the anti-flash contactor. The AVAIL caption extinguishes and the white ON caption illuminates.",
+    "caption_tr": "GPU bağlıyken ve yeşil AVAIL yazısı yanıyorken EXT SI’a basıldığında anti-flash kontaktörü kapanır. Bu sırada AVAIL söner ve beyaz ON yazısı yanar."
+  },
+  {
+    "id": "s12",
+    "title": "APU GEN SI Captions",
+    "title_tr": "APU GEN SI Yazıları",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The APU GEN SI uses captions similar to the EXT SI. When the APU is started and its generator is ready, the green AVAIL caption illuminates.",
+    "caption_tr": "APU GEN SI, EXT SI’a benzer göstergeler kullanır. APU çalıştırılıp jeneratörü kullanıma hazır olduğunda yeşil AVAIL yazısı yanar."
+  },
+  {
+    "id": "s13",
+    "title": "Connecting and Disconnecting the APU Generator",
+    "title_tr": "APU Jeneratörünü Bağlama ve Ayırma",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "With the green AVAIL illuminated, pressing the APU GEN SI closes the APU contactor. ON illuminates and AVAIL extinguishes simultaneously. The APU generator is now connected to the right generator bus. Pressing the APU GEN SI again disconnects the APU generator.",
+    "caption_tr": "Yeşil AVAIL yanarken APU GEN SI’a basmak, APU kontaktörünü kapatır. Aynı anda ON yanar ve AVAIL söner. APU jeneratörü artık sağ jeneratör barasına bağlanmıştır. APU GEN SI’a tekrar basılırsa APU jeneratörü devreden çıkar."
+  },
+  {
+    "id": "s14",
+    "title": "APU Shutdown and AVAIL Removal",
+    "title_tr": "APU Kapatma ve AVAIL’in Sönmesi",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "With the APU generator disconnected, shutting down the APU will cause the AVAIL caption to extinguish when APU RPM falls below the required threshold.",
+    "caption_tr": "APU jeneratörü devreden çıkarılmışken APU kapatılırsa, APU devri (RPM) gerekli eşik değerin altına düştüğünde AVAIL yazısı söner."
+  },
+  {
+    "id": "s15",
+    "title": "Battery SI (OFF Caption)",
+    "title_tr": "Batarya SI (OFF Yazısı)",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Battery SIs have a white OFF caption. If voltage and temperature conditions are satisfactory, pressing the battery SI closes the contactor and the OFF caption extinguishes.",
+    "caption_tr": "Batarya SI’larında beyaz OFF yazısı bulunur. Voltaj ve sıcaklık koşulları uygunsa batarya SI’a basıldığında kontaktör kapanır ve OFF yazısı söner."
+  },
+  {
+    "id": "s16",
+    "title": "When Battery OFF Illuminates",
+    "title_tr": "Batarya OFF Ne Zaman Yanar?",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The OFF caption illuminates if: (a) battery voltage drops below limits on the ground, (b) the battery overheats, or (c) the battery is manually deselected.",
+    "caption_tr": "OFF yazısı şu durumlarda yanar: (a) yerdeyken batarya voltajı sınırların altına düşerse, (b) batarya aşırı ısınırsa veya (c) batarya manuel olarak kapatılırsa."
+  },
+  {
+    "id": "s17",
+    "title": "GEN SIs and Line Contactors",
+    "title_tr": "GEN SI’ları ve Hat Kontaktörleri",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The left and right generator line contactors are controlled by the respective GEN SIs. The OFF caption indicates the contactor is open.",
+    "caption_tr": "Sol ve sağ jeneratör hat kontaktörleri ilgili GEN SI’ları tarafından kontrol edilir. OFF yazısı kontaktörün açık (open) olduğunu gösterir."
+  },
+  {
+    "id": "s18",
+    "title": "Automatic Line Contactor Closure After Start",
+    "title_tr": "Start Sonrası Kontaktörün Otomatik Kapanması",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "After an engine start is initiated with the engine computer switch ON, the line contactor closes automatically when the starter-generator is generating and the GPU is disconnected.",
+    "caption_tr": "Motor startı engine computer switch ON konumundayken başlatıldığında; starter-generator jeneratör moduna geçtiğinde ve GPU bağlantısı kesildiğinde hat kontaktörü otomatik olarak kapanır."
+  },
+  {
+    "id": "s19",
+    "title": "Manual Start and GEN SI Requirement",
+    "title_tr": "MAN Start ve GEN SI Gereksinimi",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "If a start is made with the engine computer switch in MAN, the generator line contactor does not close automatically even after GPU removal. In this case, the GEN SI must be pressed to close the contactor.",
+    "caption_tr": "Engine computer switch MAN konumundayken start yapılırsa, GPU çıkarılsa bile jeneratör hat kontaktörü otomatik kapanmaz. Bu durumda kontaktörü kapatmak için GEN SI’a basmak gerekir."
+  },
+  {
+    "id": "s20",
+    "title": "When Generator OFF Illuminates",
+    "title_tr": "Jeneratör OFF Ne Zaman Yanar?",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "With the generator on-line, the OFF caption illuminates if: (1) the GEN SI is pressed (overriding automatic mode), (2) a fault trips the generator, (3) GPU is selected ON, or (4) the respective FIRE PUSH button is pressed.",
+    "caption_tr": "Jeneratör devredeyken OFF yazısı şu durumlarda yanar: (1) GEN SI’a basılıp otomatik çalışma modu devre dışı bırakılırsa, (2) bir arıza jeneratörü düşürürse, (3) GPU ON seçilirse veya (4) ilgili FIRE PUSH butonuna basılırsa."
+  },
+  {
+    "id": "s21",
+    "title": "BUS-TIE SI (MAN and Bar Indications)",
+    "title_tr": "BUS-TIE SI (MAN ve Çizgi Göstergesi)",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The BUS-TIE SI is split into two halves. The upper half shows MAN and the lower half shows a solid bar; both are white. In normal operation, bus-tie is open and all SIs (including BUS-TIE) are blank. Pressing BUS-TIE displays MAN and the bar, indicating manual mode and a closed bus-tie. MAN means bus-tie is no longer in automatic mode, and the bar indicates the bus-tie is closed.",
+    "caption_tr": "BUS-TIE SI iki parçaya ayrılır. Üst kısımda MAN, alt kısımda ise dolu bir çizgi (bar) görülür; ikisi de beyazdır. Normal çalışmada bus-tie açıktır ve BUS-TIE dahil tüm SI’lar boştur. BUS-TIE’a basınca MAN ve çizgi görünür; bu, bus-tie’ın artık manuel modda çalıştığını ve kapalı olduğunu gösterir. MAN otomatik modun devre dışı olduğunu, çizgi ise bus-tie’ın kapalı olduğunu ifade eder."
+  },
+  {
+    "id": "s22",
+    "title": "CAS Messages for BUS-TIE Manual",
+    "title_tr": "BUS-TIE Manuel Mod CAS Mesajları",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Whenever the bus-tie is operated in MAN mode and is closed, the CAS shows the advisory messages BUS-TIE MANUAL and BUS-TIE.",
+    "caption_tr": "Bus-tie MAN modda çalıştırılıp kapalı konumdaysa CAS üzerinde BUS-TIE MANUAL ve BUS-TIE danışma (advisory) mesajları görüntülenir."
+  },
+  {
+    "id": "s23",
+    "title": "Returning BUS-TIE to Automatic Mode",
+    "title_tr": "BUS-TIE’ı Otomatik Moda Döndürme",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "If the BUS-TIE SI is pressed again, the bus-tie opens and automatic operation resumes.",
+    "caption_tr": "BUS-TIE SI’a tekrar basılırsa bus-tie açılır ve otomatik çalışma yeniden devreye girer."
+  },
+  {
+    "id": "s24",
+    "title": "Automatic BUS-TIE Closure Conditions",
+    "title_tr": "BUS-TIE Otomatik Kapanma Şartları",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Bus-tie closes automatically when: (a) GPU powers the aircraft (cannot be opened manually), (b) the APU generator is used, (c) single-generator operation occurs, or (d) during engine start.",
+    "caption_tr": "Bus-tie şu durumlarda otomatik kapanır: (a) GPU uçağa güç veriyorsa (bu durumda manuel açılamaz), (b) APU jeneratörü kullanılıyorsa, (c) tek jeneratörle çalışma varsa veya (d) motor startı sırasında."
+  },
+  {
+    "id": "s25",
+    "title": "Main Contactor Closure on Ground",
+    "title_tr": "Yerde Ana Kontaktörün Otomatik Kapanması",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "On the ground, selecting the battery ON automatically closes the corresponding main contactor.",
+    "caption_tr": "Yerde bataryayı ON seçmek, ilgili taraftaki ana kontaktörü otomatik olarak kapatır."
+  },
+  {
+    "id": "s26",
+    "title": "Dual Generator Failure In-Flight (Main vs Non-Essential)",
+    "title_tr": "Uçuşta Çift Jeneratör Arızası (Main ve Non-Essential)",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "In flight, following dual generator failure, the left and right main contactors open. Non-essential contactors cannot be closed, but the main contactors can be closed by pressing the MAIN SIs.",
+    "caption_tr": "Uçuşta iki jeneratör arızası sonrası sol ve sağ ana (main) kontaktörler açılır. Non-essential kontaktörler kapatılamaz; ancak MAIN SI’larına basılarak main kontaktörler kapatılabilir."
+  },
+  {
+    "id": "s27",
+    "title": "NON-ESS Contactor Control",
+    "title_tr": "NON-ESS Kontaktör Kontrolü",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "The non-essential contactor is controlled by the NON-ESS SI.",
+    "caption_tr": "Non-essential kontaktör, NON-ESS SI tarafından kontrol edilir."
+  },
+  {
+    "id": "s28",
+    "title": "Automatic Closing of Non-Essential Contactors (Condition 1)",
+    "title_tr": "Non-Essential Kontaktörlerin Otomatik Kapanması (Koşul 1)",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Left and right non-essential contactors close automatically when the GPU is introduced to power the aircraft.",
+    "caption_tr": "GPU uçağa güç vermek üzere devreye alındığında sol ve sağ non-essential kontaktörler otomatik olarak kapanır."
+  },
+  {
+    "id": "s29",
+    "title": "Automatic Closing of Non-Essential Contactors (Condition 2)",
+    "title_tr": "Non-Essential Kontaktörlerin Otomatik Kapanması (Koşul 2)",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "On the ground, non-essential contactors may close automatically when a single aircraft generator is powering the aircraft.",
+    "caption_tr": "Yerde, uçağa tek bir jeneratör güç veriyorsa non-essential kontaktörler otomatik olarak kapanabilir."
+  },
+  {
+    "id": "s30",
+    "title": "Automatic Closing of Non-Essential Contactors (Condition 3)",
+    "title_tr": "Non-Essential Kontaktörlerin Otomatik Kapanması (Koşul 3)",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "Non-essential contactor behavior depends on operating conditions, including in-flight situations where both generators are on-line.",
+    "caption_tr": "Non-essential kontaktör davranışı; uçuşta iki jeneratörün de devrede olduğu durumlar dahil, işletim koşullarına göre değişebilir."
+  },
+  {
+    "id": "s31",
+    "title": "Single Generator Failure In-Flight (Load Shedding)",
+    "title_tr": "Uçuşta Tek Jeneratör Arızası (Yük Atma)",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "In a single generator failure in flight, both left and right non-essential contactors open to shed the non-essential buses. The contactors can be closed, if desired, to restore the buses.",
+    "caption_tr": "Uçuşta tek jeneratör arızası durumunda, non-essential baraları devreden çıkarmak için sol ve sağ non-essential kontaktörler açılır. İstenirse bu kontaktörler kapatılarak baralar geri getirilebilir."
+  },
+  {
+    "id": "s32",
+    "title": "Avionics Master SI Operation",
+    "title_tr": "Avionics Master SI Çalışması",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "The OFF caption indicates that both the main and essential avionics contactors are open. Pressing the SI closes both contactors on the same side.",
+    "caption_tr": "OFF yazısı, hem main hem de essential avionics kontaktörlerinin açık olduğunu gösterir. SI’a basıldığında aynı taraftaki iki kontaktör de kapanır."
+  },
+  {
+    "id": "s33",
+    "title": "Avionics Depower During Engine Start",
+    "title_tr": "Motor Startı Sırasında Avionics’in Kapatılması",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "Each time an engine start is initiated, if the avionics master switches are ON, the main avionics contactors open to depower the main avionics buses. This helps protect voltage-sensitive equipment from voltage spikes. The OFF caption remains extinguished because the essential avionics contactors are not affected.",
+    "caption_tr": "Her motor startı başlatıldığında, avionics master anahtarları ON ise main avionics baralarını enerjisiz bırakmak için main avionics kontaktörleri açılır. Bu işlem, voltaj dalgalanmalarına hassas ekipmanları korumaya yardımcı olur. Essential avionics kontaktörleri etkilenmediği için OFF yazısı sönük kalır."
+  },
+  {
+    "id": "s34",
+    "title": "Avionics Repower After Start",
+    "title_tr": "Start Sonrası Avionics’in Yeniden Enerjilenmesi",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "After the start cycle is complete, the main avionics contactors close again. This occurs with starter-assist starts. If a windmilling start is used, the main avionics buses are not depowered.",
+    "caption_tr": "Start döngüsü tamamlandıktan sonra main avionics kontaktörleri tekrar kapanır. Bu durum starter-assist start için geçerlidir. Windmilling start kullanılırsa main avionics baraları enerjisiz bırakılmaz."
+  },
+  {
+    "id": "s35",
+    "title": "EMER BATT SI Captions",
+    "title_tr": "EMER BATT SI Yazıları",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "The EMER BATT SI is an alternate-action switch/indicator. It has two captions: EMER (white) on the upper half and OFF (white) on the lower half.",
+    "caption_tr": "EMER BATT SI kilitli (alternate-action) tip bir anahtar/göstergedir. Üst bölümde beyaz EMER, alt bölümde beyaz OFF yazısı bulunur."
+  },
+  {
+    "id": "s36",
+    "title": "Connecting the Emergency Battery",
+    "title_tr": "Acil Bataryayı Devreye Alma",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "With the emergency battery contactor open, the OFF caption illuminates. Pressing the EMER BATT SI closes the contactor and extinguishes the OFF caption.",
+    "caption_tr": "Acil batarya kontaktörü açıkken OFF yazısı yanar. EMER BATT SI’a basıldığında kontaktör kapanır ve OFF yazısı söner."
+  },
+  {
+    "id": "s37",
+    "title": "Emergency Battery Power Indications",
+    "title_tr": "Acil Batarya Gücü Göstergeleri",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "When the contactor closes, the emergency battery connects to the emergency battery bus. If no other power source (GPU, APU, or aircraft generators) is available, the emergency battery supplies the bus. This causes the EMER caption to illuminate on the EMER BATT SI, and a white EMER BATT annunciation appears on the crew warning panel.",
+    "caption_tr": "Kontaktör kapandığında acil batarya, acil batarya barasına bağlanır. GPU, APU veya uçak jeneratörleri gibi başka bir güç kaynağı yoksa bu barayı acil batarya besler. Bu durumda EMER BATT SI üzerinde EMER yazısı yanar ve crew warning panel üzerinde beyaz EMER BATT ikazı görülür."
+  }
+]

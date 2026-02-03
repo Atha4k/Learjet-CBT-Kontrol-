@@ -1,0 +1,173 @@
+[
+  {
+    "id": "s01",
+    "title": "DU Reversion Panels",
+    "title_tr": "DU Geri Dönüş Panelleri",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Two DU reversion panels, labeled DU 2 and DU 3, are located at both ends of the glareshield. The DU reversion selectors determine the display formats on the instrument panel.",
+    "caption_tr": "DU 2 ve DU 3 olarak etiketlenmiş iki DU geri dönüş paneli, glareshield’in her iki ucunda bulunur. DU geri dönüş seçicileri, gösterge panelindeki ekran formatlarını belirler."
+  },
+  {
+    "id": "s02",
+    "title": "DU Power Sources",
+    "title_tr": "DU Güç Kaynakları",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The L ESS AV bus supplies power to DU 1, and the R ESS AV bus powers DUs 3 and 4. For these buses to be powered, the respective AV MS TR switches must be ON. DU 2 is powered directly by the L ESS bus.",
+    "caption_tr": "L ESS AV bus, DU 1’i; R ESS AV bus ise DU 3 ve DU 4’ü besler. Bu bus’ların enerjilenmesi için ilgili AV MS TR anahtarları ON konumunda olmalıdır. DU 2 ise doğrudan L ESS bus tarafından beslenir."
+  },
+  {
+    "id": "s03",
+    "title": "Default Displays",
+    "title_tr": "Varsayılan Ekranlar",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "If all buses required to power the DUs are available and both DU reversion selectors are in NORM, the default power-up displays appear on DUs 1–4. The PFD is considered the most important display, followed by EICAS; the MFD is the least important.",
+    "caption_tr": "DU’ları beslemek için gereken tüm bus’lar mevcutsa ve her iki DU reversion seçicisi NORM konumundaysa, açılışta varsayılan ekranlar DU 1–4 üzerinde görüntülenir. PFD en önemli ekran olarak kabul edilir, ardından EICAS gelir; MFD ise en düşük önceliklidir."
+  },
+  {
+    "id": "s04",
+    "title": "EICAS Toggle",
+    "title_tr": "EICAS Geçişi",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Pressing either DU reversion selector repeatedly toggles the EICAS and MFD displays between DUs 2 and 3.",
+    "caption_tr": "Herhangi bir DU reversion seçicisine art arda basmak, EICAS ve MFD ekranlarını DU 2 ile DU 3 arasında sırayla değiştirir."
+  },
+  {
+    "id": "s05",
+    "title": "DU2 To OFF",
+    "title_tr": "DU2 OFF Konumu",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Placing the DU 2 selector to OFF transfers the MFD to DU 2 and DU 1 becomes blank. EICAS automatically moves to DU 3 and the MFD on DU 4 is removed because it has the lowest display priority. The DU 1 bezel controller remains usable for the display now shown on DU 2.",
+    "caption_tr": "DU 2 seçicisini OFF konumuna almak, MFD’yi DU 2’ye aktarır ve DU 1 boş kalır. EICAS otomatik olarak DU 3’e taşınır ve en düşük önceliğe sahip olduğu için DU 4’teki MFD kaldırılır. DU 1 bezel kontrolcüsü, artık DU 2’de gösterilen ekranı kontrol etmek için kullanılmaya devam eder."
+  },
+  {
+    "id": "s06",
+    "title": "DU3 To OFF",
+    "title_tr": "DU3 OFF Konumu",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Placing the DU 3 selector to OFF transfers the PFD from DU 4 to DU 3 and DU 4 becomes blank. The DU 4 bezel controller remains usable. When both PFDs are displayed on DUs 3 and 4, backup engine page 1 automatically appears on Radio Management Unit 1 (RMU 1).",
+    "caption_tr": "DU 3 seçicisini OFF konumuna almak, DU 4’teki PFD’yi DU 3’e taşır ve DU 4 boş kalır. DU 4 bezel kontrolcüsü kullanılabilir durumda kalır. Her iki PFD de DU 3 ve DU 4 üzerinde görüntülendiğinde, RMU 1 üzerinde yedek motor sayfası 1 otomatik olarak açılır."
+  },
+  {
+    "id": "s07",
+    "title": "Practical Use",
+    "title_tr": "Pratik Uygulama",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Now that we know how the DU reversion selectors function, we can apply this knowledge in practical scenarios.",
+    "caption_tr": "DU reversion seçicilerinin nasıl çalıştığını bildiğimize göre, bu bilgiyi pratik senaryolarda uygulayabiliriz."
+  },
+  {
+    "id": "s08",
+    "title": "Assume DU1 Fail",
+    "title_tr": "DU1 Arızası Varsayımı",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Assume DU 1 has failed. Use the DU 2 selector to simulate the required reversion action.",
+    "caption_tr": "DU 1’in arızalandığını varsayın. Gerekli geri dönüş işlemini simüle etmek için DU 2 seçicisini kullanın."
+  },
+  {
+    "id": "s09",
+    "title": "Reversion Result",
+    "title_tr": "Geri Dönüş Sonucu",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The PFD transfers to DU 2, EICAS moves to DU 3, and the MFD is removed. The bezel controller on DU 1 remains usable.",
+    "caption_tr": "PFD DU 2’ye aktarılır, EICAS DU 3’e taşınır ve MFD kaldırılır. DU 1 üzerindeki bezel kontrolcüsü kullanılmaya devam eder."
+  },
+  {
+    "id": "s10",
+    "title": "DU2 Failure",
+    "title_tr": "DU2 Arızası",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "If DU 2 fails, EICAS can be transferred to DU 3 by pressing either DU reversion selector, or by placing the DU 2 selector to OFF. Setting DU 2 to OFF is preferred because it removes power to DU 2. In either case, the MFD is removed.",
+    "caption_tr": "DU 2 arızalanırsa, EICAS; herhangi bir DU reversion seçicisine basılarak veya DU 2 seçicisi OFF konumuna alınarak DU 3’e aktarılabilir. DU 2’yi OFF konumuna almak, DU 2’nin enerjisini kestiği için daha tercih edilen çözümdür. Her iki durumda da MFD kaldırılır."
+  },
+  {
+    "id": "s11",
+    "title": "DU4 Failure",
+    "title_tr": "DU4 Arızası",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If DU 4 fails, switching the DU 3 selector transfers the PFD to DU 3 and the MFD is removed. Use the DU 3 selector to simulate this action.",
+    "caption_tr": "DU 4 arızalanırsa, DU 3 seçicisini değiştirerek PFD DU 3’e aktarılır ve MFD kaldırılır. Bu işlemi simüle etmek için DU 3 seçicisini kullanın."
+  },
+  {
+    "id": "s12",
+    "title": "Bezel Functional",
+    "title_tr": "Bezel Aktif",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The bezel controller on DU 4 remains functional.",
+    "caption_tr": "DU 4 üzerindeki bezel kontrolcüsü çalışır durumdadır."
+  },
+  {
+    "id": "s13",
+    "title": "If DU3 Fails",
+    "title_tr": "DU3 Arızalanırsa",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "If DU 3 fails, the checklist requires no action. The MFD is the least important display, and the same navigation information is available on the PFDs.",
+    "caption_tr": "DU 3 arızalanırsa, kontrol listesine göre herhangi bir işlem gerekmez. MFD en düşük öncelikli ekrandır ve aynı seyrüsefer bilgileri PFD’lerde de mevcuttur."
+  },
+  {
+    "id": "s14",
+    "title": "DU Cooling Fans",
+    "title_tr": "DU Soğutma Fanları",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Two fans mounted on the rear of each DU provide forced-air cooling. They draw air in through ventilation holes at the bottom of the DU and direct it over internal subassemblies.",
+    "caption_tr": "Her DU’nun arkasına monte edilmiş iki fan, zorlamalı hava soğutması sağlar. Hava, DU’nun altındaki havalandırma deliklerinden içeri çekilir ve iç alt birimlerin üzerinden yönlendirilir."
+  },
+  {
+    "id": "s15",
+    "title": "Fan Fail CAS",
+    "title_tr": "Fan Arızası CAS",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "If a DU fan fails, a white DU 1, 2, 3, or 4 FAN FAIL message appears on the CAS.",
+    "caption_tr": "Bir DU fanı arızalanırsa, CAS üzerinde beyaz DU 1/2/3/4 FAN FAIL mesajı görüntülenir."
+  },
+  {
+    "id": "s16",
+    "title": "DU Overheat",
+    "title_tr": "DU Aşırı Isınma",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "If DU internal subassembly temperature reaches approximately the overheat threshold, the CAS displays an amber DU 1, 2, 3, or 4 OVHT message.",
+    "caption_tr": "DU iç alt birim sıcaklığı yaklaşık aşırı ısınma eşiğine ulaştığında, CAS üzerinde amber DU 1/2/3/4 OVHT mesajı görüntülenir."
+  },
+  {
+    "id": "s17",
+    "title": "Dual Gen Failure",
+    "title_tr": "Çift Jeneratör Arızası",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "In a dual generator failure, the left essential, left essential avionics, and right essential avionics buses are powered by their respective main batteries. These buses power the four DUs. If generators cannot be restored, all DUs should be shut down to conserve battery power.",
+    "caption_tr": "Çift jeneratör arızasında; sol essential, sol essential avionics ve sağ essential avionics bus’ları kendi ana bataryaları tarafından beslenir. Bu bus’lar dört DU’ya güç sağlar. Jeneratörler geri getirilemiyorsa, batarya gücünü korumak için tüm DU’ların kapatılması gerekir."
+  },
+  {
+    "id": "s18",
+    "title": "Shut Down DUs",
+    "title_tr": "DU'ları Kapatma",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "To conserve batteries, select L AV MS TR and R AV MS TR switches to OFF to shut down DUs 1, 3, and 4. DU 2 is shut down by placing the DU 2 reversion selector to OFF. Use the DU 2 selector to simulate positioning it to OFF.",
+    "caption_tr": "Bataryaları korumak için L AV MS TR ve R AV MS TR anahtarlarını OFF konumuna alarak DU 1, DU 3 ve DU 4’ü kapatın. DU 2 ise DU 2 reversion seçicisi OFF konumuna alınarak kapatılır. DU 2 seçicisini OFF konumuna almayı simüle edin."
+  },
+  {
+    "id": "s19",
+    "title": "DU Summary",
+    "title_tr": "DU Özeti",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "This slide summarizes DU reversion operation, power sources, cooling indications, and recommended actions during display or generator failures.",
+    "caption_tr": "Bu slayt; DU geri dönüş işlemlerini, güç kaynaklarını, soğutma uyarılarını ve ekran/jeneratör arızalarında önerilen aksiyonları özetler."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "title": "Emergency Mode",
+  "pages": 11,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "emergency-mode-slides",
+  "audioDir": "emergency-mode-audio",
+  "captionsManifest": "emergency-mode-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s01",
+    "title": "For training purposes, the auxiliary hydraulic flow is illus…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "For training purposes, the auxiliary hydraulic flow is illustrated in pink. Fluid from the auxiliary reservoir section flows to the auxiliary hydraulic pump (AUX Pump). This is an electrically driven pump.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The AUX pump is located in the tailcone section, above the b…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The AUX pump is located in the tailcone section, above the baggage compartment. itis powered by the DC Left ESS bus and produces psi at 1 gallon per minute. If the pump runs continuously for more than twenty minutes, its output automatically decreases to gpm at psi to prevent pump overheating.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The AUX pump can be activated manually or automatically. To …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The AUX pump can be activated manually or automatically. To manually start the pump, press the AUX switch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The Automatic activation is as follows: - - The pump is norm…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The Automatic activation is as follows: - - The pump is normally off when the aircraft is first powered up. - Prior to takeoff, it is manually switched on as a back up to the normal brakes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "In cruise, the pump can be manually activated anytime if des…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "In cruise, the pump can be manually activated anytime if desired. - Placing the gear control switch to Down automatically starts the pump again. - At shutdown, the pump stops if it is manually switched off or when electrical power is removed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The auxiliary hydraulic system provides a backup for the nor…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The auxiliary hydraulic system provides a backup for the normal brakes. If the main hydraulic system pressure is low, the auxiliary hydraulic system automatically takes over via the shuttle valve.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The auxiliary hydraulic system also charges the brake accumu…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The auxiliary hydraulic system also charges the brake accumulator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The emergency brake and parking brake operations will be cov…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The emergency brake and parking brake operations will be covered in the Landing Gear section.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The auxiliary hydraulic system can be used to operate the th…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The auxiliary hydraulic system can be used to operate the thrust reversers, spoilers, landing gears and flaps during ground maintenance. This is done by opening the Ground Service Valve located on the This enables these systems to be tested without starting the engines.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The auxiliary system is also used as a back up to the landin…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The auxiliary system is also used as a back up to the landing gear and flap operations via the hydraulic cross flow valve X FLOW). We will use this method if the main hydraulic system pressure is too low to operate the flaps and gears.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Hydraulic Cross Flow Valve To open the valve, push the XFLOW…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Hydraulic Cross Flow Valve To open the valve, push the XFLOW switch. An ON light on the switch illuminates together with an advisory CAS message XFLOW ON.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The XFLOW valve automatically closes if the auxiliary reserv…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The XFLOW valve automatically closes if the auxiliary reservoir quantity depletes to a low level during a hydraulic cross-flow operation. This is to conserve the remaining auxiliary fluid for the emergency brake system. When this occurs, both the ON light and the CAS message will extinguish.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "We will now demonstrate the automatic auxiliary pump operati…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "We will now demonstrate the automatic auxiliary pump operation during a gear retraction.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "We will now demonstrate the automatic auxiliary pump operati…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "We will now demonstrate the automatic auxiliary pump operation during a gear extension.",
+    "caption_tr": ""
+  }
+]

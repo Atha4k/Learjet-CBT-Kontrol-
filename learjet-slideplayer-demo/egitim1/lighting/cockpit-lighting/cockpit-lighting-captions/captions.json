@@ -1,0 +1,182 @@
+[
+  {
+    "id": "s01",
+    "title": "Cockpit Map Lights",
+    "title_tr": "Kokpit Harita Lambaları",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The flight compartment lighting includes two map lights, one for each pilot. They are mounted on the cockpit sidewall just below the windshield. Each map light incorporates a potentiometer to switch the light on and adjust its brightness. Both map lights are powered whenever the left essential bus is powered.",
+    "caption_tr": "Uçuş bölmesi aydınlatması, her pilot için birer adet olmak üzere iki harita lambası içerir. Bu lambalar ön camın hemen altındaki kokpit yan duvarına monte edilmiştir. Her harita lambasında açma ve parlaklık ayarı yapan bir potansiyometre bulunur. Sol temel bara enerjilendiğinde her iki harita lambası da beslenir."
+  },
+  {
+    "id": "s02",
+    "title": "Cockpit Lighting Control Panels",
+    "title_tr": "Kokpit Aydınlatma Kontrol Panelleri",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The main controls of cockpit lighting are located on the extreme left and right sides of the lower instrument panel.",
+    "caption_tr": "Kokpit aydınlatmasının ana kontrol düğmeleri alt panelin en sol ve en sağ kısımlarında yer alır."
+  },
+  {
+    "id": "s03",
+    "title": "Crew Overhead Lights",
+    "title_tr": "Mürettebat Tavan Lambaları",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The crew overhead lights are controlled by their respective OVRHD control knobs. These overhead lights are powered by the right main bus.",
+    "caption_tr": "Mürettebat tavan lambaları kendi OVRHD kontrol düğmeleri ile kumanda edilir. Bu lambalar sağ ana baradan beslenir."
+  },
+  {
+    "id": "s04",
+    "title": "Overhead Light Intensity Control",
+    "title_tr": "Tavan Lambası Parlaklık Kontrolü",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Turning the control knob from the OFF position turns the light on. Rotating the knob clockwise increases the light intensity.",
+    "caption_tr": "Kontrol düğmesi OFF konumundan çevrildiğinde lamba yanar. Saat yönünde çevirmek ışık şiddetini artırır."
+  },
+  {
+    "id": "s05",
+    "title": "Cockpit Light Switch on Entryway Panel",
+    "title_tr": "Giriş Panelindeki Kokpit Işık Anahtarı",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The pilot overhead light can also be activated using the COCKPIT light switch located on the Main Entryway Control Panel.",
+    "caption_tr": "Pilot tavan lambası ayrıca Ana Giriş Kontrol Paneli üzerindeki COCKPIT ışık anahtarı ile de açılabilir."
+  },
+  {
+    "id": "s06",
+    "title": "Entryway-Controlled Overhead Light Operation",
+    "title_tr": "Giriş Panelinden Tavan Lambası Çalışması",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "For the overhead light to operate using the COCKPIT switch on the Entryway Control Panel, two conditions must be met: the entry door must be unlatched and the pilot’s OVRHD knob must be in the OFF position. In this case, power is supplied from the right hot bus.",
+    "caption_tr": "Giriş Kontrol Panelindeki COCKPIT anahtarıyla tavan lambasının çalışabilmesi için giriş kapısı kilitsiz olmalı ve pilotun OVRHD düğmesi OFF konumunda olmalıdır. Bu durumda güç sağ hot baradan alınır."
+  },
+  {
+    "id": "s07",
+    "title": "Overhead Light Status Indication",
+    "title_tr": "Tavan Lambası Durum Göstergesi",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "When the cockpit overhead light is illuminated, a green LED indicator lights up on the Entryway Control Panel.",
+    "caption_tr": "Kokpit tavan lambası yandığında Giriş Kontrol Paneli üzerinde yeşil bir LED gösterge yanar."
+  },
+  {
+    "id": "s08",
+    "title": "Instrument Panel Lighting",
+    "title_tr": "Gösterge Paneli Aydınlatması",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The pilot’s and co-pilot’s instrument panel lighting is controlled using the INSTR rheostat. The panels are grouped as illustrated and receive power from their respective main buses.",
+    "caption_tr": "Pilot ve yardımcı pilot gösterge paneli aydınlatması INSTR reostası ile kontrol edilir. Paneller gösterildiği şekilde gruplandırılmıştır ve kendi ana baralarından beslenir."
+  },
+  {
+    "id": "s09",
+    "title": "Instrument Flood Lighting",
+    "title_tr": "Gösterge Sel Aydınlatması",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The entire instrument panel can be illuminated by a fluorescent floodlight located beneath the glareshield. Brightness is controlled by a rheostat on the pilot’s light panel. Power is supplied from the left essential bus.",
+    "caption_tr": "Tüm gösterge paneli glareshield altında bulunan floresan bir sel lambasıyla aydınlatılabilir. Parlaklık pilot ışık panelindeki reosta ile ayarlanır. Güç sol temel baradan alınır."
+  },
+  {
+    "id": "s10",
+    "title": "Pedestal Lighting Control",
+    "title_tr": "Orta Konsol Aydınlatma Kontrolü",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The PEDESTAL control knob, located on the co-pilot’s light control panel, controls the lighting of the center pedestal. It receives power from the right main bus.",
+    "caption_tr": "Yardımcı pilot ışık panelinde bulunan PEDESTAL düğmesi orta konsol aydınlatmasını kontrol eder. Sağ ana baradan beslenir."
+  },
+  {
+    "id": "s11",
+    "title": "Circuit Breaker Panel Lighting",
+    "title_tr": "Devre Kesici Paneli Aydınlatması",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The CB PANEL knobs control the lighting intensity of the respective circuit breaker panels. The pilot’s circuit breaker panel is powered by the left main bus, while the co-pilot’s panel is powered by the right main bus.",
+    "caption_tr": "CB PANEL düğmeleri ilgili devre kesici panellerinin aydınlatma şiddetini kontrol eder. Pilot tarafındaki panel sol ana baradan, yardımcı pilot tarafındaki panel ise sağ ana baradan beslenir."
+  },
+  {
+    "id": "s12",
+    "title": "Switch-Indicator Types",
+    "title_tr": "Anahtar-Gösterge Tipleri",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Switch-indicators are of two types: alternate-action and momentary-action. Alternate-action switches remain depressed when selected, activating the system and extinguishing the caption.",
+    "caption_tr": "Anahtar-göstergeler iki tiptir: kilitlemeli (alternate-action) ve anlık (momentary-action). Kilitlemeli anahtarlar basıldığında içeri gömülü kalır, sistemi çalıştırır ve üzerindeki yazı söner."
+  },
+  {
+    "id": "s13",
+    "title": "Momentary-Action Switch Indicators",
+    "title_tr": "Anlık Tip Anahtar-Göstergeler",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Momentary-action switches extinguish the caption when pressed and activate the system, but the switch-indicator remains extended.",
+    "caption_tr": "Anlık tip anahtarlar basıldığında yazıyı söndürür ve sistemi çalıştırır, ancak anahtar fiziksel olarak dışarıda kalır."
+  },
+  {
+    "id": "s14",
+    "title": "Dark Cockpit Concept",
+    "title_tr": "Karanlık Kokpit Konsepti",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Switch-indicators are designed so that none are illuminated under normal conditions, supporting the dark cockpit concept. Illuminated captions indicate abnormal conditions such as battery overheat or generator failure.",
+    "caption_tr": "Anahtar-göstergeler normal şartlarda yanmaz; bu durum karanlık kokpit konseptini destekler. Yanan yazılar batarya aşırı ısınması veya jeneratör arızası gibi anormal durumları gösterir."
+  },
+  {
+    "id": "s15",
+    "title": "Advisory Switch Indicators",
+    "title_tr": "Bilgilendirici Anahtar-Göstergeler",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Some switch-indicators illuminate when selected, such as those controlling nacelle and wing anti-ice systems. The ON caption provides advisory indication to the crew.",
+    "caption_tr": "Bazı anahtar-göstergeler seçildiğinde yanar. Buna nacelle ve kanat buzlanma önleme sistemleri örnektir. ON yazısı mürettebata sistemin aktif olduğunu bildirir."
+  },
+  {
+    "id": "s16",
+    "title": "Switch-Indicator Power Supply",
+    "title_tr": "Anahtar-Gösterge Güç Beslemesi",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Each switch-indicator contains four bulbs. Two bulbs are powered by the left essential bus and the other two by the right essential bus.",
+    "caption_tr": "Her anahtar-gösterge dört ampul içerir. İki ampul sol temel baradan, diğer iki ampul sağ temel baradan beslenir."
+  },
+  {
+    "id": "s17",
+    "title": "Exceptions to Power Supply",
+    "title_tr": "Güç Beslemesindeki İstisnalar",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Exceptions include the RAD HOT BUS switch-indicator, which is powered by the right hot bus, and the MASTER WARN/CAUT and FIRE PUSH switches, which are powered through the crew warning panel.",
+    "caption_tr": "RAD HOT BUS anahtarı sağ hot baradan beslenir. MASTER WARN/CAUT ve FIRE PUSH anahtarları ise mürettebat uyarı paneli üzerinden beslenir."
+  },
+  {
+    "id": "s18",
+    "title": "Switch-Indicator Dimming Function",
+    "title_tr": "Anahtar-Gösterge Karartma Fonksiyonu",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The dimming function of switch-indicators is tied to the navigation light switch. When set to NAV, all switch-indicators dim automatically.",
+    "caption_tr": "Anahtar-göstergelerin karartma fonksiyonu navigasyon ışığı anahtarına bağlıdır. NAV konumuna alındığında tüm anahtar-göstergeler otomatik olarak kısılır."
+  },
+  {
+    "id": "s19",
+    "title": "Switch-Indicator Lamp Test",
+    "title_tr": "Anahtar-Gösterge Lamba Testi",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The switch-indicator lamp test is initiated by selecting the system test knob and pressing the PRESS-TO-TEST button on the center pedestal.",
+    "caption_tr": "Anahtar-gösterge lamba testi, orta konsoldaki sistem test düğmesi seçilerek ve PRESS-TO-TEST tuşuna basılarak başlatılır."
+  },
+  {
+    "id": "s20",
+    "title": "Complete Indicator Test",
+    "title_tr": "Tüm Göstergelerin Testi",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Pressing the test button illuminates all switch-indicators, including the RAD HOT BUS indicator, as well as all crew warning panel lights, MASTER WARN/CAUT and FIRE PUSH indicators.",
+    "caption_tr": "Test tuşuna basıldığında RAD HOT BUS dahil tüm anahtar-göstergeler, mürettebat uyarı paneli ışıkları, MASTER WARN/CAUT ve FIRE PUSH göstergeleri yanar."
+  }
+]

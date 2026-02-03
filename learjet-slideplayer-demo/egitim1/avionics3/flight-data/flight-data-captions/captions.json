@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s01",
+    "title": "The flight data recorder system receives information from th…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The flight data recorder system receives information from the various aircraft systems and stores the most recent 25 hours in solid state memory for later retrieval.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "system consists of flight data recorder which is located in …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "system consists of flight data recorder which is located in the aft avionic compartment.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Data acquisition unit (DAU) 1 located in the tailcone compar…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Data acquisition unit (DAU) 1 located in the tailcone compartment. IC-600 1 computer located in the nose avionics compartment.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Additional equipment installed are: accelerometer located on…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Additional equipment installed are: accelerometer located on the forward side of the aft pressure bulkhead.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Inertia switch located in the lavatory below the RH window.",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Inertia switch located in the lavatory below the RH window.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "And the aileron, rudder and elevator rotary variable differe…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "And the aileron, rudder and elevator rotary variable differential transformers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "One hundred and four parameters are supplied to the by DAU 1…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "One hundred and four parameters are supplied to the by DAU 1, which in turn receives information from IC-600 1 computer, the converter, the accelerometer and the crew warning panel. Each produces an analog electrical signal which varies with the position of its control surface. The accelerometer measures lateral, vertical and longitudinal accelerations.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "1 computer provides DAU 1 with data and the crew warning pan…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "1 computer provides DAU 1 with data and the crew warning panel provides only the left master warning information to the DAU.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The operation is completely automatic and requires no action…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The operation is completely automatic and requires no action from the flight crew. The records continuously in air or on ground whenever power is available.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The inertia switch removes electrical power to the when it i…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The inertia switch removes electrical power to the when it is subjected to a high-G impact. This ensures that data captured prior to an impact is not over-written after the impact.",
+    "caption_tr": ""
+  }
+]

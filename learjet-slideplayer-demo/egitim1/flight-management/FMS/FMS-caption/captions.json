@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s01",
+    "title": "To power down the system, touch the ONOFF-DIM key.",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "To power down the system, touch the ONOFF-DIM key.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The dimming control window will be displayed. Touch the OFF",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The dimming control window will be displayed. Touch the OFF",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The system will now shut down when you touch the CONFIRM OFF",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The system will now shut down when you touch the CONFIRM OFF",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The system is now turned off.",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The system is now turned off.",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "title": "Fuel Transfer",
+  "pages": 15,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fuel-transfer-slides",
+  "audioDir": "fuel-transfer-audio",
+  "captionsManifest": "fuel-transfer-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

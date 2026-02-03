@@ -1,0 +1,83 @@
+[
+  {
+    "id": "s01",
+    "title": "Emergency Light Switch",
+    "title_tr": "Acil Aydınlatma Anahtarı",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The emergency lighting system is controlled by a three-position switch on the LIGHTS panel. The switch positions are OFF, ARM, and ON.",
+    "caption_tr": "Acil aydınlatma sistemi, LIGHTS panelinde bulunan üç konumlu bir anahtarla kontrol edilir. Anahtar konumları OFF, ARM ve ON’dur."
+  },
+  {
+    "id": "s02",
+    "title": "Emergency Lights",
+    "title_tr": "Acil Aydınlatmalar",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Emergency lighting includes cabin overhead reading lights, the toilet compartment light, floor track proximity lights, exit signs, the upper door egress light (if the upper door is open), and the emergency escape hatch egress light.",
+    "caption_tr": "Acil aydınlatmalar; kabin tavan okuma ışıklarını, tuvalet bölmesi ışığını, zemin iz/proximity ışıklarını, çıkış işaretlerini, üst kapı açıkken üst kapı çıkış ışığını ve acil kaçış kapağı çıkış ışığını içerir."
+  },
+  {
+    "id": "s03",
+    "title": "ARM Position",
+    "title_tr": "ARM Konumu",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "For flight, the switch is set to ARM. In ARM, the system turns on emergency lights if it detects failure of both engine generators, or whenever the passenger oxygen system is turned on. A white EMERGENCY LIGHTS message is displayed on the crew alerting system.",
+    "caption_tr": "Uçuş için anahtar ARM konumuna alınır. ARM konumunda sistem, iki motor jeneratörünün arızasını algılarsa veya yolcu oksijen sistemi devreye alınırsa acil ışıkları otomatik olarak yakar. Mürettebat uyarı sisteminde beyaz EMERGENCY LIGHTS mesajı görüntülenir."
+  },
+  {
+    "id": "s04",
+    "title": "Turn Off After Auto",
+    "title_tr": "Otomatikten Sonra Kapatma",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "If the emergency lights were turned on automatically, selecting OFF may turn them off.",
+    "caption_tr": "Acil ışıklar otomatik olarak devreye girdiyse, anahtarı OFF konumuna almak ışıkları kapatabilir."
+  },
+  {
+    "id": "s05",
+    "title": "ON Position",
+    "title_tr": "ON Konumu",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The emergency lighting system can be turned on at any time by selecting ON. A white EMERGENCY LIGHTS message is displayed on the crew alerting system.",
+    "caption_tr": "Acil aydınlatma sistemi, anahtar ON konumuna alınarak istenilen herhangi bir anda devreye sokulabilir. Mürettebat uyarı sisteminde beyaz EMERGENCY LIGHTS mesajı görüntülenir."
+  },
+  {
+    "id": "s06",
+    "title": "OFF Not For Flight",
+    "title_tr": "OFF Uçuşa Uygun Değil",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "If the switch is in OFF, the emergency lighting system is disabled. Since OFF is not the correct position for flight, master caution illuminates and an amber EMERGENCY LIGHTS message flashes on the crew alerting system.",
+    "caption_tr": "Anahtar OFF konumundaysa acil aydınlatma sistemi devre dışıdır. OFF uçuş için doğru konum olmadığından master caution yanar ve mürettebat uyarı sisteminde amber EMERGENCY LIGHTS mesajı yanıp söner."
+  },
+  {
+    "id": "s07",
+    "title": "Power Sources",
+    "title_tr": "Güç Kaynakları",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Emergency lights are powered by the left main battery and the emergency battery. The left main battery powers emergency lights both in flight and on the ground, while the emergency battery powers them on the ground only.",
+    "caption_tr": "Acil ışıklar, sol ana batarya ve acil batarya tarafından beslenir. Sol ana batarya acil ışıkları hem uçuşta hem yerde besler; acil batarya ise yalnızca yerde besler."
+  },
+  {
+    "id": "s08",
+    "title": "Timer On Ground",
+    "title_tr": "Yerde Zamanlayıcı",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "If emergency lights are turned on in flight, they remain powered until the battery is depleted. On the ground, a timer limits operation to about ten minutes to allow evacuation and to prevent the emergency battery from being drained if the lights are left on inadvertently.",
+    "caption_tr": "Acil ışıklar uçuşta devreye girerse batarya bitene kadar beslenmeye devam eder. Yerde ise bir zamanlayıcı çalışmayı yaklaşık 10 dakika ile sınırlar; bu, tahliye için süre tanırken ışıklar yanlışlıkla açık kalırsa acil bataryanın boşalmasını önler."
+  },
+  {
+    "id": "s09",
+    "title": "Lesson Complete",
+    "title_tr": "Ders Tamamlandı",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "This completes the lesson on the emergency lighting system.",
+    "caption_tr": "Acil aydınlatma sistemi dersi tamamlanmıştır."
+  }
+]

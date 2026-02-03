@@ -1,0 +1,170 @@
+[
+  {
+    "id": "s01",
+    "title": "To operate in the Automatic mode, ensure that - electrical p…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "To operate in the Automatic mode, ensure that - electrical power is available and - the MANUAL PRESS switch must NOT be selected on.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Next, rotate the ALT selector to indicate the destination la…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Next, rotate the ALT selector to indicate the destination landing elevation and not the destination pressure altitude (eg -'LA will appear on the CAB ALT display line. - After 5 seconds, the CAB ALT line will display the current cabin altitude again.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The AL Tis also displayed on the ECS system schematic displa…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The AL Tis also displayed on the ECS system schematic display on the The destination field elevation is normally selected before take-off and the crew should ensure that the field elevation is set, not the field pressure altitude. The automatically compensates for non-standard field pressure through ADC inputs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Ground Mode With the cabin door closed and the thrust levers…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Ground Mode With the cabin door closed and the thrust levers below the controller will drive the outflow valves full open. This is the Ground mode. As the air-conditioned airflow is still going into the cabin, the airplane is pressurized to a maximum of psid.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "When the left thrust lever is advanced past for take-off, th…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "When the left thrust lever is advanced past for take-off, the enters the Take-off Pre-pressurization mode. The controller begins rating the cabin down feet at a rate of fpm. This pre-pressurization reduces any pressure transients during rotation by allowing the outflow valves to attain a controlling position prior to lift-off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "When the airplane becomes airborne, the system automatically…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "When the airplane becomes airborne, the system automatically enters the climb pressurization mode. The transfers directly from the takeoff mode to the climb mode of control when it receives the air mode signals from the squat switches.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "During the climb mode, the calculates a climb schedule of ca…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "During the climb mode, the calculates a climb schedule of cabin altitude versus airplane altitude based upon the pressurized cabin pressure. This schedule is different for each takeoff altitude. Therefore, there is no fixed climb schedule.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "As the airplane climbs, the continually re-checks the climb …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "As the airplane climbs, the continually re-checks the climb schedule value. When the climb schedule value exceeds the current cabin altitude, the system begins to increase the cabin climb rate proportionally up to a limit of fom.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "When the airplane levels off, the cabin stops climbing. The …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "When the airplane levels off, the cabin stops climbing. The maximum cabin altitude is feet at an airplane altitude of feet.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "When a descent is initiated and the airplane has descended f…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When a descent is initiated and the airplane has descended feet or more below normal cruising altitude, the sets the cabin altitude on the descent schedule until landing. The cabin descent rate varies up to a limit of fpm as the aircraft altitude changes until landing field elevation is reached.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "If the airplane levels off during a descend for more than a …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If the airplane levels off during a descend for more than a minute, the cabin is held at the descent schedule altitude.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The cabin descent schedule restarts if the aircraft descends…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The cabin descent schedule restarts if the aircraft descends again for more than feet. The cabin altitude will hold until landing when it reaches the selected landing field elevation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Upon landing, the system will automatically open the outflow…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Upon landing, the system will automatically open the outflow valves to depressurize the aircraft. This is the landing mode. If the throttles are advanced within 60 seconds of landing (as in a touch and go landing), the immediately enters the take-off (pre-pressurization) mode as described earlier.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Flight Abort Mode If an in-flight abort is necessary after t…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Flight Abort Mode If an in-flight abort is necessary after takeoff, the controller retains the take-off field altitude in a stored memory. This feature allows the cabin pressure to return to the take-off altitude. Let us now assume that a turn back is desired after take-off and the airplane has leveled off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "As soon as the airplane descends more than feet, the descent…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "As soon as the airplane descends more than feet, the descent schedule is activated and the cabin altitude starts to descend towards the set destination field elevation. The maximum descent rate is fpm.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "During descent, the airplane altitude is compared with the t…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "During descent, the airplane altitude is compared with the take-off field elevation. If anytime within 10 minutes of lift-off, this difference is feet or less, the controller resets the descent schedule towards the TO field altitude. The assumes that the take-off field elevation is different from the destination field elevation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "While in the descent mode, if the controller detects a TAS o…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "While in the descent mode, if the controller detects a TAS of less than 65 knots and the left thrust lever is retarded to below or the squat switches sense weight on wheels, the controller enters the landing mode. Upon landing, the system will automatically depressurize the aircraft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Take-off Abort mode With the cabin door closed and the thrus…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Take-off Abort mode With the cabin door closed and the thrust levers below the controller will drive the outflow valves full open. This is the Ground mode. As the air-conditioned airflow is still going into the cabin, the airplane is pressurized to a maximum of psid.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "When the left thrust lever is advanced past for take-off, th…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "When the left thrust lever is advanced past for take-off, the enters the Take-off Pre-pressurization mode. The controller begins rating the cabin down feet at a rate of fpm. This pre-pressurization reduces any pressure transients during rotation by allowing the outflow valves to attain a controlling position prior to lift-off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "If the thrust levers are retarded below prior to lift off, a…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "If the thrust levers are retarded below prior to lift off, as in an aborted takeoff, the enters the Take-off Abort mode. In this mode, cabin altitude is rated back to the take-off field level at a rate of fpm for 20 seconds. After which, the system re-enters the Ground mode again.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "These are the indications on the ECS schematic. - An UP arro…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "These are the indications on the ECS schematic. - An UP arrow next to the CABIN RATE line indicates a climb. - A Down arrow next to the CABIN RATE line indicates a descent.",
+    "caption_tr": ""
+  }
+]

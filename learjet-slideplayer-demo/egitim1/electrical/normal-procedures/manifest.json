@@ -1,0 +1,11 @@
+{
+  "title": "Normal Procedures",
+  "pages": 38,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "normal-procedures-slides",
+  "audioDir": "normal-procedures-audio",
+  "captionsManifest": "normal-procedures-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

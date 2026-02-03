@@ -1,0 +1,227 @@
+[
+  {
+    "id": "s01",
+    "title": "Exterior Lighting Systems Overview",
+    "title_tr": "Dış Aydınlatma Sistemleri Genel Bakış",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Exterior lighting systems consist of taxi and landing lights, recognition lights, navigation lights, anticollision (beacon/strobe) lights and wing inspection light.",
+    "caption_tr": "Dış aydınlatma sistemleri; taksi ve iniş ışıkları, tanıma ışıkları, navigasyon ışıkları, çarpışma önleyici (beacon/strobe) ışıklar ve kanat kontrol ışığından oluşur."
+  },
+  {
+    "id": "s02",
+    "title": "Exterior Light Control Panel Location",
+    "title_tr": "Dış Aydınlatma Kontrol Panelinin Konumu",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Control switches for exterior lights are located on the LIGHTS control panel on the lower center instrument panel.",
+    "caption_tr": "Dış aydınlatma sistemlerine ait kontrol anahtarları, alt orta gösterge panelindeki LIGHTS kontrol panelinde yer alır."
+  },
+  {
+    "id": "s03",
+    "title": "Landing and Taxi Light Installation",
+    "title_tr": "İniş ve Taksi Işıklarının Yerleşimi",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Landing lights consist of two dual-bulb assemblies mounted forward of the wing-fuselage fairing. Taxi lights are single filament lights mounted on each main landing gear strut.",
+    "caption_tr": "İniş ışıkları, kanat-gövde birleşiminin önüne monte edilmiş çift ampullü iki üniteden oluşur. Taksi ışıkları ise her ana iniş takımı bacağı üzerinde bulunan tek filamentli ışıklardır."
+  },
+  {
+    "id": "s04",
+    "title": "Taxi and Landing Light Switches",
+    "title_tr": "Taksi ve İniş Işığı Anahtarları",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "These lights are controlled by the left and right TAXI/LDG switches.",
+    "caption_tr": "Bu ışıklar sol ve sağ TAXI/LDG anahtarları ile kontrol edilir."
+  },
+  {
+    "id": "s05",
+    "title": "Taxi Light Operating Conditions",
+    "title_tr": "Taksi Işığının Çalışma Koşulları",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "With the TAXI/LDG switch in TAXI position, the taxi light illuminates only when the main landing gear is down and locked and the gear door is up and locked.",
+    "caption_tr": "TAXI/LDG anahtarı TAXI konumundayken, taksi ışığı yalnızca ana iniş takımı aşağıda ve kilitliyse ve kapakları kapalıysa yanar."
+  },
+  {
+    "id": "s06",
+    "title": "Landing Light Selection",
+    "title_tr": "İniş Işığı Seçimi",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "When the switch is placed in LDG position, both landing light bulbs and the taxi light illuminate.",
+    "caption_tr": "Anahtar LDG konumuna alındığında, iniş ışıklarının her iki ampulü ve taksi ışığı birlikte yanar."
+  },
+  {
+    "id": "s07",
+    "title": "Left Side Taxi and Landing Lights",
+    "title_tr": "Sol Taraf Taksi ve İniş Işıkları",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "With the left TAXI/LDG switch selected, the taxi and landing lights on the left side illuminate.",
+    "caption_tr": "Sol TAXI/LDG anahtarı seçildiğinde, sol taraftaki taksi ve iniş ışıkları yanar."
+  },
+  {
+    "id": "s08",
+    "title": "In-Flight Taxi Light Behavior",
+    "title_tr": "Uçuşta Taksi Işıklarının Davranışı",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "In flight, when the main landing gears are retracted, the taxi lights extinguish while the landing lights remain illuminated.",
+    "caption_tr": "Uçuş sırasında ana iniş takımları toplandığında taksi ışıkları söner, ancak iniş ışıkları yanmaya devam eder."
+  },
+  {
+    "id": "s09",
+    "title": "Landing Light Deactivation",
+    "title_tr": "İniş Işıklarının Kapatılması",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Landing lights extinguish only when their respective switches are selected off.",
+    "caption_tr": "İniş ışıkları yalnızca ilgili anahtarlar kapatıldığında söner."
+  },
+  {
+    "id": "s10",
+    "title": "Power Supply for Taxi and Landing Lights",
+    "title_tr": "Taksi ve İniş Işıklarının Güç Kaynağı",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Taxi and landing lights are powered by the left and right main buses respectively.",
+    "caption_tr": "Taksi ve iniş ışıkları sırasıyla sol ve sağ ana buslar tarafından beslenir."
+  },
+  {
+    "id": "s11",
+    "title": "Recognition Lights Function",
+    "title_tr": "Tanıma Işıklarının Görevi",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Recognition lights use the outboard bulbs of the landing light assemblies and are activated by the RECOG switch.",
+    "caption_tr": "Tanıma ışıkları, iniş ışığı ünitelerinin dış ampullerini kullanır ve RECOG anahtarı ile etkinleştirilir."
+  },
+  {
+    "id": "s12",
+    "title": "Navigation Light System Overview",
+    "title_tr": "Navigasyon Işık Sistemi Genel Bakış",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Navigation lights consist of two wingtip position lights and one tail-mounted position light.",
+    "caption_tr": "Navigasyon ışıkları, iki kanat ucu pozisyon ışığı ve bir adet kuyruk pozisyon ışığından oluşur."
+  },
+  {
+    "id": "s13",
+    "title": "Navigation Light Locations",
+    "title_tr": "Navigasyon Işıklarının Konumları",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Red and green position lights are located on the winglets, while the white position light is mounted on the vertical stabilizer.",
+    "caption_tr": "Kırmızı ve yeşil pozisyon ışıkları kanatçıklarda, beyaz pozisyon ışığı ise dikey stabilize üzerinde yer alır."
+  },
+  {
+    "id": "s14",
+    "title": "Navigation Light Control",
+    "title_tr": "Navigasyon Işıklarının Kontrolü",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Navigation lights are controlled by a two-position NAV light switch.",
+    "caption_tr": "Navigasyon ışıkları iki konumlu NAV anahtarı ile kontrol edilir."
+  },
+  {
+    "id": "s15",
+    "title": "NAV Switch Dimming Function",
+    "title_tr": "NAV Anahtarının Karartma Fonksiyonu",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Selecting NAV automatically dims cockpit switch-indicator lights.",
+    "caption_tr": "NAV seçildiğinde kokpit anahtar göstergeleri otomatik olarak karartılır."
+  },
+  {
+    "id": "s16",
+    "title": "Navigation Light Power Source",
+    "title_tr": "Navigasyon Işıklarının Güç Kaynağı",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Navigation lights receive power from the right main bus.",
+    "caption_tr": "Navigasyon ışıkları sağ ana bustan beslenir."
+  },
+  {
+    "id": "s17",
+    "title": "Anticollision Light System",
+    "title_tr": "Çarpışma Önleyici Işık Sistemi",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The anticollision light system consists of two selectable beacon/strobe light units.",
+    "caption_tr": "Çarpışma önleyici ışık sistemi, iki adet seçilebilir beacon/strobe ışık ünitesinden oluşur."
+  },
+  {
+    "id": "s18",
+    "title": "Beacon/Strobe Light Tubes",
+    "title_tr": "Beacon/Strobe Işık Tüpleri",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Each unit contains one red and one clear flash tube.",
+    "caption_tr": "Her ünitede bir kırmızı ve bir şeffaf flaş tüpü bulunur."
+  },
+  {
+    "id": "s19",
+    "title": "Anticollision Light Control",
+    "title_tr": "Çarpışma Önleyici Işık Kontrolü",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Anticollision lights are controlled by a three-position STROBE/BCN/OFF switch.",
+    "caption_tr": "Çarpışma önleyici ışıklar üç konumlu STROBE/BCN/OFF anahtarı ile kontrol edilir."
+  },
+  {
+    "id": "s20",
+    "title": "Beacon and Strobe Operation",
+    "title_tr": "Beacon ve Strobe Çalışması",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "On ground, red beacons flash. In flight, white strobes flash continuously.",
+    "caption_tr": "Yerdeyken kırmızı beacon ışıkları yanıp söner. Uçuşta ise beyaz strobe ışıkları sürekli yanıp söner."
+  },
+  {
+    "id": "s21",
+    "title": "Anticollision Light Power Supply",
+    "title_tr": "Çarpışma Önleyici Işıkların Güç Kaynağı",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Beacon and strobe lights are powered by the left main bus.",
+    "caption_tr": "Beacon ve strobe ışıkları sol ana bustan beslenir."
+  },
+  {
+    "id": "s22",
+    "title": "Wing Inspection Light Purpose",
+    "title_tr": "Kanat Kontrol Işığının Amacı",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "The wing inspection light allows visual detection of icing on the wings during night operations.",
+    "caption_tr": "Kanat kontrol ışığı, gece operasyonlarında kanat üzerindeki buzlanmanın görsel olarak tespit edilmesini sağlar."
+  },
+  {
+    "id": "s23",
+    "title": "Wing Inspection Light Components",
+    "title_tr": "Kanat Kontrol Işığı Bileşenleri",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The system includes a pushbutton, a fuselage-mounted spotlight, and a black reference spot on the wing.",
+    "caption_tr": "Sistem; bir basmalı anahtar, gövdeye monte edilmiş bir spot ışık ve kanat üzerindeki siyah referans noktadan oluşur."
+  },
+  {
+    "id": "s24",
+    "title": "Wing Inspection Switch Operation",
+    "title_tr": "Kanat Kontrol Anahtarı Çalışması",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "The WING INSP switch is momentary-action and illuminates only while pressed.",
+    "caption_tr": "WING INSP anahtarı anlık tiptir ve yalnızca basılı tutulduğu sürece ışık yanar."
+  },
+  {
+    "id": "s25",
+    "title": "Wing Inspection Light Power Source",
+    "title_tr": "Kanat Kontrol Işığının Güç Kaynağı",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The wing inspection light is powered by the right main bus.",
+    "caption_tr": "Kanat kontrol ışığı sağ ana bustan beslenir."
+  }
+]

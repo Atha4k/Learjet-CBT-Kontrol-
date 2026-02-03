@@ -1,0 +1,11 @@
+{
+  "title": "Fuel Tanks",
+  "pages": 4,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fuel-tanks-slides",
+  "audioDir": "fuel-tanks-audio",
+  "captionsManifest": "fuel-tanks-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

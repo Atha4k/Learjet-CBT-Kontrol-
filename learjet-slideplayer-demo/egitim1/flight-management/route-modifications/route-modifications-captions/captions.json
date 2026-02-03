@@ -1,0 +1,210 @@
+[
+  {
+    "id": "s01",
+    "title": "Additional waypoints can be inserted anywhere within the fli…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Additional waypoints can be inserted anywhere within the flight plan.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "In this example, a clearance is given to fly direct from PK(…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "In this example, a clearance is given to fly direct from PK(Pekan) to VKE (Kerteh), and there after to (Kota Bharu).",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Since the clearance is to fly from PK to VKE, the below PK i…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Since the clearance is to fly from PK to VKE, the below PK is selected. A white cursor appears awaiting new data input. VKE is inserted and entered.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Notice moves one line down. There are two ways to join VKE t…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Notice moves one line down. There are two ways to join VKE to One way is to highlight and press DEL twice. This will delete Watch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Another way to do this is to highlight and insert 7, since i…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Another way to do this is to highlight and insert 7, since is on waypoint 7. Entering 7 will replace with as shown in the graphic. The two methods just shown can also be used to delete any unwanted waypoints.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "If a waypoint identifier cannot be located in the navigation…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "If a waypoint identifier cannot be located in the navigation data base, then this new waypoint can be defined by: - entering the latitude and longitude - radialdistance from a reference point",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "In the following example, waypoint AZZY cannot be located in…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "In the following example, waypoint AZZY cannot be located in the navigational data base.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Entering AZZY will bring up a new screen for you to enter th…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Entering AZZY will bring up a new screen for you to enter the co-ordinates for defining this waypoint.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "If the co-ordinates are known, the latitude and longitude ca…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "If the co-ordinates are known, the latitude and longitude can be entered directly by using the alphanumeric keys.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "These co-ordinates can also be determined by the radialdista…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "These co-ordinates can also be determined by the radialdistance method from a known reference point.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Waypoints can also be created by using the joystick located …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Waypoints can also be created by using the joystick located behind the thrust levers. The joystick controls the movement of the designator on the Waypoints created this way are known as Radar Waypoints.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "When the designator is moved to the desired position and the…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "When the designator is moved to the desired position and the ENT button is pressed on the bezel controller, the co-ordinates of this point are sent",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The will accept these co-ordinates as a radar waypoint and a…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The will accept these co-ordinates as a radar waypoint and assign it a name R, where is a number between 1 and Hence, the maximum number of such waypoints is twenty-five.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The radar waypoints can be called up using the LIST button, …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The radar waypoints can be called up using the LIST button, on VOPPLT page. These waypoints may be used in the Direct To\" function or they may be added to the flight plan.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Inserting the prompt with appropriate radar waypoint number …",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Inserting the prompt with appropriate radar waypoint number and then ENTER will add this waypoint on the flight plan.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "For example, radar waypoint 1 is to be inserted after Highli…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "For example, radar waypoint 1 is to be inserted after Highlight number 3 as shown in the picture. Access the VORPLT page from LIST button and insert waypoint number 1 into the prompt. Pressing ENTER button will include radar waypoint into the flight plan.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "All radar waypoints are automatically erased upon shutdown.",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "All radar waypoints are automatically erased upon shutdown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Normally automatic leg changes will occur before the TO wayp…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Normally automatic leg changes will occur before the TO waypoint at a distance based upon ground speed, angle of turn, and roll steering bank limit for the present altitude. This is known as Smart Turn.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "A flyover waypoint is a waypoint which will cause the naviga…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "A flyover waypoint is a waypoint which will cause the navigation computer to delay making an automatic leg change until the aircraft is over the waypoint.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "A flyover waypoint is indicated by an asterisk () following …",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "A flyover waypoint is indicated by an asterisk () following the waypoint identifier.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "To insert the is used to position the cursor over the waypoi…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "To insert the is used to position the cursor over the waypoint to be defined as a flyover waypoint. An () will appear after the waypoint identifier to indicates that it is a flyover waypoint when OVFLY is pressed. Please note that ( also appears when BACK key is used.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "The insertion of asterisk on the waypoint changes OVFLY prom…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "The insertion of asterisk on the waypoint changes OVFLY prompt to cancel over fly OVFLY). Selecting this will remove asterisk from the affect waypoint. The same result is achieved with the BACK key.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "The DTO function key is used in flight to command a direct t…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The DTO function key is used in flight to command a direct track from present position to a waypoint along the flight plan route. Let's fly direct from present position to (Hat Yai). To select touch DTO function key",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Locate the reference number of the next desired direct-to wa…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Locate the reference number of the next desired direct-to waypoints and enter the desired number. Select 10 keys and ENTER.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "The NAV page will be displayed with the track and distance o…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The NAV page will be displayed with the track and distance of present position (PPOS) to Press to return to flight plan.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "You will notice that the caret is now at and the associated …",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "You will notice that the caret is now at and the associated data has changed to magenta.",
+    "caption_tr": ""
+  }
+]

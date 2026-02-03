@@ -1,0 +1,11 @@
+{
+  "title": "Nose Wheel Steering",
+  "pages": 15,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "nose-wheel-slides",
+  "audioDir": "nose-wheel-audio",
+  "captionsManifest": "nose-wheel-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

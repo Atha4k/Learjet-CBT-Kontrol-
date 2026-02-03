@@ -1,0 +1,11 @@
+{
+  "title": "Temperature Control",
+  "pages": 13,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "temp-control-slides",
+  "audioDir": "temp-control-audio",
+  "captionsManifest": "temp-control-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

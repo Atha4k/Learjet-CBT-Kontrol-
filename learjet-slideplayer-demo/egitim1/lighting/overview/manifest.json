@@ -1,0 +1,11 @@
+{
+  "title": "Lightning - Overview",
+  "pages": 4,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "overview-slides",
+  "audioDir": "overview-audio",
+  "captionsManifest": "overview-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

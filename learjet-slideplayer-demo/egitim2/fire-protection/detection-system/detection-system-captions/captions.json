@@ -1,0 +1,42 @@
+[
+  {
+    "id": "s01",
+    "title": "An Engine Fire Detection system test is carried out using th…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "An Engine Fire Detection system test is carried out using the system test selector on the center pedestal. pr _ a aa FE TE Tr EE a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The selector is rotated to the Fire Detection position. This…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The selector is rotated to the Fire Detection position. This position also tests the A-P-U fire detection system and the Bleed Air Leak detection systems. por _ a aa FE TE Tr EE a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The Test button is pressed and held in. Master warning shoul…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The Test button is pressed and held in. Master warning should come on, the word FIRE should appear flashing on the I-T-T indicators, the FIRE PUSH lights of both Engine Fire switches illuminate steady, and all ARMED lights of the extinguisher switches should illuminate. If the RMU is on the engine page, the word FIRE will appear at the N1 indicators. Aural voice warning, LEFT ENGINE FIRE, RIGHT ENGINE FIRE, will repeat itself. Releasing the test button will stop all these indications. po _ a aa FE TE Tr EE a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The FIRE DETECTION test position also tests the A-P-U fire d…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The FIRE DETECTION test position also tests the A-P-U fire detection system and the Bleed Air Leak detection systems. Responses to the A-P-U and Bleed Air Leak detection systems are described under the A-P-U and Pneumatic system modules respectively. ro _ a aa FE TE Tr EE a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Press the Test button if you wish to review the resuits of a…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Press the Test button if you wish to review the resuits of an engine fire detection test pe _ a aa FE TE Tr EE a wri",
+    "caption_tr": ""
+  }
+]

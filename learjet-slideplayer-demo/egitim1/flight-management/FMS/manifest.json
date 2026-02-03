@@ -1,0 +1,11 @@
+{
+  "title": "FMS",
+  "pages": 4,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "FMS-slides",
+  "audioDir": "FMS-audio",
+  "captionsManifest": "FMS-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

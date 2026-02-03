@@ -1,0 +1,146 @@
+[
+  {
+    "id": "s01",
+    "title": "The clearance delivery head is located on the right, front c…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The clearance delivery head is located on the right, front corner of the centre pedestal. it provides low power consumption radio communications such as obtaining departure clearance on the ground prior to applying electrical power to the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The provides an alternative capability for tuning COM 1 tran…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The provides an alternative capability for tuning COM 1 transceiver and NAV 1 receiver. The data is sent to the COM or NAV unit via an auxiliary bus and the verifies that the radio has accepted the tuning command by listening to the echoed frequency on the radio system bus.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The is normally powered by the left essential bus through AU…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The is normally powered by the left essential bus through AUDIO 1 circuit breaker; however, it and other communications related equipment can also be powered from the right hot bus via RADIO HOT BUS switch, prior to applying electrical power to the aircraft. The RADIO HOT BUS switch is located beside the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "With airplane batteries OFF, depressing the momentary-action…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "With airplane batteries OFF, depressing the momentary-action RADIO HOT BUS switch on the centre pedestal illuminates the amber ON caption and applies power from the right hot bus to the and the following equipment:",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Left and right audio control panels (ACP) - COM module of th…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Left and right audio control panels (ACP) - COM module of the ICU 1 - NAV receiver module of INU",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "When the left essential bus becomes powered, RADIO HOT BUS s…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "When the left essential bus becomes powered, RADIO HOT BUS switch is deactivated and the ON caption extinguishes. All the radio components that were previously powered by the right hot bus are now receiving power from the left essential bus.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The display on the is liquid crystal type with white letters…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The display on the is liquid crystal type with white letters on a black background. The pushbuttons, the display and the control identifier legend are backlit with electroluminescent lighting.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The controls are as follows: The transfer key alternately po…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The controls are as follows: The transfer key alternately positions the tuning cursor against the COM or the NAV frequency. The tuning cursor annunciator is a lighted triangle. With the tuning cursor on the COM frequency as shown, turning the tuning knob will change the COM frequency. The outer knob controls digits to the left of decimal point, the inner knob controls the digit to the right of decimal. Touch the tuning knob to simulate changing frequency",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Now touch the transfer key to simulate positioning cursor to…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Now touch the transfer key to simulate positioning cursor to NAV frequency. With the cursor against the NAV frequency, turning the tuning knob will change the frequency.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The NAV Audio OnOff switch is used to toggle NAV audio ON or…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The NAV Audio OnOff switch is used to toggle NAV audio ON or OFF. When selected, NAV AUDIO is annunciated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The NAV Audio OnOff switch is used in conjunction with the a…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The NAV Audio OnOff switch is used in conjunction with the audio control panel (ACP) when itis operated in the emergency mode. In the emergency mode, selecting NAV audio on the enables NAV audio IDENT to be heard on the crew's headset. This will be discussed again in the audio control panel topic.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The squelch switch is to select COM squelch. When selected, …",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The squelch switch is to select COM squelch. When selected, squelch annunciator appears on the screen as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "System Installation Annunciator The number 1 in the upper le…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "System Installation Annunciator The number 1 in the upper left corner of the display indicates the can only be used to control COM 1 and NAV 1.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Transmit annunciator indicates that transmission is taking p…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Transmit annunciator indicates that transmission is taking place on COM 1 set.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "NormalEmergency Mode Switch This push-button provides select…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "NormalEmergency Mode Switch This push-button provides selection of Normal Emergency mode. In the Emergency mode, EMRG is annunciated to indicate is operating in Emergency mode. There is no annunciation, however, in the Normal mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "When operated in the normal mode, the acts as another tuning…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When operated in the normal mode, the acts as another tuning source in addition to RMU and tunes the radios through the auxiliary bus, whereas RMU 1 and tune the radios through the radio system bus.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "When frequency is selected on it is transmitted to RMU 1 and…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "When frequency is selected on it is transmitted to RMU 1 and via radio system bus and all tuning panels will display a common frequency. Frequency selected on RMU 1 or will also likewise be sent to in the same manner.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "If Emergency mode is selected on the RMU 1 and tuning capabi…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "If Emergency mode is selected on the RMU 1 and tuning capabilities are inhibited and the COM and NAV units are tuned exclusively by the An AUX ON message is displayed at the top of the COM 1 and NAV 1 windows of RMU 1. This is to indicate that tuning through RMU is inhibited.",
+    "caption_tr": ""
+  }
+]

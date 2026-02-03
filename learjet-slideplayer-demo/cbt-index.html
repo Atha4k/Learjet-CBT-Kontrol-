@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Learjet CBT Menu</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  body {
+    font-family: system-ui, sans-serif;
+    margin: 0; padding: 20px;
+    background: #f5f5f5;
+  }
+  h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  .lesson {
+    background: white;
+    padding: 14px 18px;
+    border-radius: 10px;
+    margin-bottom: 12px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+    font-size: 18px;
+    transition: .2s;
+  }
+  .lesson:hover {
+    background: #e8f2ff;
+    border-color: #3b82f6;
+  }
+</style>
+</head>
+<body>
+
+<h1>Learjet CBT</h1>
+<div id="lesson-list">Loading lessons...</div>
+
+<script>
+async function loadLessons() {
+  const listEl = document.getElementById("lesson-list");
+
+  try {
+    // lessons.json yolu (cbt-index.html slideplayer'ın altında olduğu için)
+    const res = await fetch("./lessons.json");
+    if (!res.ok) throw new Error("lessons.json yüklenemedi");
+
+    const data = await res.json();
+
+    // örnek: data["airplane-general"].lessons array
+    const module = data["airplane-general"];
+    const lessons = module.lessons;
+
+    listEl.innerHTML = ""; // temizle
+
+    lessons.forEach(lesson => {
+      const div = document.createElement("div");
+      div.className = "lesson";
+      div.textContent = lesson.title;
+
+      div.onclick = () => {
+        // slide-player.html'e pkg ile yönlendir
+        location.href =
+          `./slide-player.html?pkg=${lesson.pkg}`;
+      };
+
+      listEl.appendChild(div);
+    });
+
+  } catch (err) {
+    console.error(err);
+    listEl.innerHTML = "Dersler yüklenirken hata oluştu.";
+  }
+}
+
+loadLessons();
+</script>
+
+</body>
+</html>

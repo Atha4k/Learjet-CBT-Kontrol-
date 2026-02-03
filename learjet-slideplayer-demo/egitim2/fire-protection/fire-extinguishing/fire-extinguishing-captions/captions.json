@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s01",
+    "title": "Two fire extinguishing bottles are located inside the tailco…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Two fire extinguishing bottles are located inside the tailcone compartment. Each fire bottle is protected by a pressure relief disc. An abnormally high internal pressure will cause the disc to rupture. regen _ a aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The fire extinguishing agent will then escape through a ther…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The fire extinguishing agent will then escape through a thermal discharge line. The line leads to outside the aircraft on the right rear fuselage and is capped with a red plastic disc. This red disc will be forced out as the extinguishant escapes to ambient. poy _ a aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Recall that following a fire warning and after canceling mas…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Recall that following a fire warning and after canceling master warning, these will be the indications. poy _ EY Ses aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The procedure following a fire warning is to retard the thru…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The procedure following a fire warning is to retard the thrust lever to IDLE, and if the fire indications persist, to CUTOFF. The next step is to select the Engine Fire switch. The FIRE PUSH light of the fire switch will stop flashing and remain on steady. The word CLOSED will illuminate on the fire switch. The extinguisher switches will be armed and the ARMED light of both extinguisher switches will illuminate. pr _ a aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "For the affected engine, the engine fire switch disconnects …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "For the affected engine, the engine fire switch disconnects the generator. It also disconnects the alternator. This cuts off windshield heat on that side. Bleed air supply is also cut off at the E-C-S shutoff valve. Fuel supply is cutoff at the Firewall shutoff valve. Hydraulic fluid to the hydraulic pump is cutoff by the pump shutoff valve, and the Thrust Reverser hydraulic supply is cut off at the thrust reverser Isolation Valve. peony _ EY Ses aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Extinguisher number one is discharged by selecting the numbe…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Extinguisher number one is discharged by selecting the number one extinguisher armed switch. The word ARMED goes off to indicate that the switch has been operated. pn _ EY Ses aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The contents of one fire extinguisher bottle will be dischar…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The contents of one fire extinguisher bottle will be discharged into the space between the engine outer case and the engine cowling. A yellow plastic disc on the outside of the fuselage will be dislodged. ramon _ EY Ses aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Ses aa por - EE Ea wri",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Ses aa por - EE Ea wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Extinguisher number two should then be discharged. The ARMED…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Extinguisher number two should then be discharged. The ARMED light on extinguisher number two switch will go off. The FIRE PUSH light - and the word FIRE on the I-T-T indicator will also go off if the fire has been extinguished. pron _ a aa por - EE Ea wri",
+    "caption_tr": ""
+  }
+]

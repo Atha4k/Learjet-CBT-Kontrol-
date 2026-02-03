@@ -1,0 +1,11 @@
+{
+  "title": "APU Operations",
+  "pages": 11,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "APU-operations-slides",
+  "audioDir": "APU-operations-audio",
+  "captionsManifest": "APU-operations-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

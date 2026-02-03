@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s01",
+    "title": "The pitot-static system comprises main and standby systems. …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The pitot-static system comprises main and standby systems. The main pitot-static system consists of two pitot probes, located one on each side of the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The standby pitot-static system consists of third pitot prob…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The standby pitot-static system consists of third pitot probe, mounted above the main probe on the right side of the airplane. It provides impact and static pressure inputs to the standby instrument group.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The main and standby pitot-static systems are represented sc…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The main and standby pitot-static systems are represented schematically as shown above. The main and standby pitot-static systems are independent of one another.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The left pitot probe of the main pitot-static provides pitot…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The left pitot probe of the main pitot-static provides pitot source to ADC 1 and the right pitot probe provides pitot source to the ADC 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "There are four static sources in the main pitot-static syste…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "There are four static sources in the main pitot-static system, two on each main pitot-static probes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Static 1 from the left probe is connected to static 2 of rig…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Static 1 from the left probe is connected to static 2 of right probe to provide static pressure to ADC 1. Static 1 from the right probe combines with static 2 on the left probe to provide static information to ADC 2. This cross-over arrangement reduces system errors caused by yawing of the aircraft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The pitot source on the standby probe provides impact pressu…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The pitot source on the standby probe provides impact pressure to the standby Machairspeed indicator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "There are also two static sources on the standby probe, one …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "There are also two static sources on the standby probe, one provides static information to the standby altimeter and the other provides data to the standby Machairspeed indicator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Two moisture drains are provided in the pitot-static lines o…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Two moisture drains are provided in the pitot-static lines on the standby system. The drains are flush mounted just aft of the nose wheel door.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The two main probes and the standby system probe contain ele…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The two main probes and the standby system probe contain electrical heating elements for anti-icing. Heating of the elememts is controlled by the L and R PROBES switches on the anti-ice control panel.",
+    "caption_tr": ""
+  }
+]

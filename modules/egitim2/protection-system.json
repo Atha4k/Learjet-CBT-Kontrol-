@@ -1,13 +1,13 @@
 {
-  "id": "protection-system",
-  "title": "Protection System",
+  "id": "ıce-rain-protection",
+  "title": "Ice and Rain Protection System",
   "summary": "Protection system overview and lessons.",
   "topics": [
-    { "id": "ps-01", "title": "General", "type": "lesson", "description": "" },
-    { "id": "ps-02", "title": "Nacelle Anti-ice", "type": "lesson", "description": "" },
-    { "id": "ps-03", "title": "Wing/Stabilizer Anti-ice", "type": "lesson", "description": "" },
-    { "id": "ps-04", "title": "Windshield Anti-ice", "type": "lesson", "description": "" },
-    { "id": "ps-05", "title": "Probe Heat", "type": "lesson", "description": "" },
-    { "id": "ps-07", "title": "Quiz", "type": "quiz", "description": "" }
+    { "id": "general", "title": "General", "type": "lesson", "description": "" },
+    { "id": "nacelle-ice", "title": "Nacelle Anti-ice", "type": "lesson", "description": "" },
+    { "id": "wing-ice", "title": "Wing/Stabilizer Anti-ice", "type": "lesson", "description": "" },
+    { "id": "windshield-ice", "title": "Windshield Anti-ice", "type": "lesson", "description": "" },
+    { "id": "probe-heat", "title": "Probe Heat", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

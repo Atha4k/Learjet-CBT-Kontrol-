@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s01",
+    "title": "Stall Warning System The stall warning system provides the c…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Stall Warning System The stall warning system provides the crew with an indication of an impending stall. The system consists of 2 independent systems that uses a dual channel computer. Other system components are 2 Angle of Attack (AOA) sensors and control column shaker motors. pegs epi mov see own ug aa i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Each channel of the computer generates a reference signal to…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Each channel of the computer generates a reference signal to the corresponding stall vane and, in return, receives AOA information. The computer then processes this information with airspeed, altitude, flap setting, and air-ground signal inputs to determine the stall warning indications. po epi mov see own ug am i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The stall warning system does not have on-off switches. The …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The stall warning system does not have on-off switches. The system is powered when the airplane electrical system is powered up. The left and right systems are powered by the L and R Essential Busses respectively. The system is inhibited on the ground until the airplane has been airborne more than seconds. por epi mov see own ug am i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The low airspeed awareness indicator or low speed cue is a v…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The low airspeed awareness indicator or low speed cue is a vertical red bar on the inside of the airspeed tape. lt rises from the bottom of the tape as the AOA increases. The point at which the red bar reaches the airspeed pointer will coincide with the point at which other stall warning indications are activated. pegs epi mov see own ug aa i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The left and right channels of the stall computer will activ…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The left and right channels of the stall computer will activate the control column shaker motors when an impending stall is sensed. po epi mov see own ug am i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Stall Warning Indications When activated, the stall warning …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Stall Warning Indications When activated, the stall warning system provides the following aural, tactile and visual indications. por epi mov see own ug am i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The pre-flight STALL system test consists of selecting the S…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The pre-flight STALL system test consists of selecting the STALL position and depressing the test button. The stall test sequence is initiated when -the red 'ADC TEST appears on both PFD's upper left corner and - 40 knots is indicated on both the PFDs pop epi mov see own ug aa i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "This is followed by an aural voice message STALL, STALL, STA…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "This is followed by an aural voice message STALL, STALL, STALL. The caution CAS message L AOA HT FAIL is aiso displayed. The above test for the left system takes about seconds to complete. After a slight pause, the same sequence occurs for the right side if the test button is held depressed. a epi mov see own ug am i mmm wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The warnings are the exactly the same for the right stall sy…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The warnings are the exactly the same for the right stall system test except for the R AOA HT FAIL caution message. ew epi mov see own ug am i mmm wri",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "s01",
+    "title": "We will now discuss the various methods of extending and ret…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "We will now discuss the various methods of extending and retracting the landing gears. We will begin with normal gear retraction.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Landing Gear Operation - Retraction Prior to take-off, the 3…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Landing Gear Operation - Retraction Prior to take-off, the 3 green DOWN lights are illuminated. The crew then selects the auxiliary pump on to provide a back-up for the normal brakes as well as for charging the brake accumulator. Thus its ON light is illuminated as well.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "After lift-off, when the gear control switch is selected UP,…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "After lift-off, when the gear control switch is selected UP, the auxiliary pump stops running and its ON light extinguishes. The 2 main gears advisory lights illuminate immediately to indicate a gear control switch and actual gear position disagreement.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Hydraulic pressure is then directed to open the main gear in…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Hydraulic pressure is then directed to open the main gear inboard doors. Next, after the inboard doors are fully opened, hydraulic pressure is directed to retract all the 3 landing gears together. The 3 DOWN lights extinguish when the gear actuators are unlocked.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "When the Nose Gear is up and locked, its advisory light exti…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "When the Nose Gear is up and locked, its advisory light extinguishes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Next, hydraulic pressure is removed from the 3 gear actuator…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Next, hydraulic pressure is removed from the 3 gear actuators. As a result of this, the main gears rest on the inboard doors while the nose gear is held up by the up-lock hook. The normal retraction cycle takes 11 seconds with both engine driven pumps operating.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Landing Gear Operation - Extension There are 3 ways to exten…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Landing Gear Operation - Extension There are 3 ways to extend the landing gears. They are, in priority of extension :- - by using the main hydraulic system - a free-fall method - by using the auxiliary hydraulic system",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Free-fall is attempted after normal extension to conserve th…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Free-fall is attempted after normal extension to conserve the auxiliary system fluid for flaps and brakes operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Gear Extension - Normal In flight, all the gear status light…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Gear Extension - Normal In flight, all the gear status lights are extinguished. To extend the gears, place the landing gear control switch DOWN.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Placing the gear control switch to DOWN also starts the auxi…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Placing the gear control switch to DOWN also starts the auxiliary hydraulic pump. This backs up the main brake system and also charges the brake accumulator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Next, the main hydraulic system pressure retracts the two ma…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Next, the main hydraulic system pressure retracts the two main gears. This relieves the load on the inboard doors as they unlatch and open. After the inboard doors are opened, the nose gear up-lock hook unlatches and all the 3 gears extend together.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The nose gear advisory light illuminates when the nose gear …",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The nose gear advisory light illuminates when the nose gear actuator is unlocked.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "When the main gears are down and locked, the 2 green DOWN li…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "When the main gears are down and locked, the 2 green DOWN lights will illuminate.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The gear actuators are pressurised and mechanically locked i…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The gear actuators are pressurised and mechanically locked in the extended position. After a normal gear extension, only 3 green DOWN lights are illuminated. The normal gear extension cycle takes less than 11 seconds to complete with both engine driven pumps operating.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Confirmation of Nose Gear Down and Locked If the nose gear D…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Confirmation of Nose Gear Down and Locked If the nose gear DOWN light failed to illuminate, select the NOSE STEER switch on. Provided there is no Nose Wheel Steering fault, the ON light will illuminate if the nose gear is down and locked.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Confirmation of Main Gear Down and Locked If the left main g…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Confirmation of Main Gear Down and Locked If the left main gear DOWN light fails to illuminate, switch on the left TAXY light. If the taxy light illuminates, this shows that the left main gear is down and locked. Likewise, switch on the right taxy light for the right gear.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Gear Extension - Free Fall The emergency landing gear extens…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Gear Extension - Free Fall The emergency landing gear extension system is a mechanically controlled, gravity free-fall system. It is used to extend the landing gears in the event of a hydraulic system failure or an electrical malfunction that prevents a normal extension.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "This system is activated by pushing the free-fall lever, loc…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "This system is activated by pushing the free-fall lever, located on the co-pilot's side of the center pedestal, to the down and latched position.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "To extend the gears using the free-fall method, 1. First pla…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "To extend the gears using the free-fall method, 1. First place the landing gear control switch to DOWN. Note that the auxiliary pump is automatically activated. 2. Then select the AUX switch off. 3. Next, push the free-fall lever fully down and latch it forward.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Activation of the free-fall lever releases the nose gear up-…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Activation of the free-fall lever releases the nose gear up-lock hook and the main gear inboard doors latches. The nose gear advisory light illuminates as itis no longer Up and Locked. The main gear inboard doors open from the weight of the main gears and all the 3 landing gears extend by gravity. During this time, all the 3 advisory lights are illuminated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "When the gears are fully extended, they are held down and lo…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "When the gears are fully extended, they are held down and locked by the mechanical lock inside each gear actuator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "For the main gears, there will be 2 DOWN and 2 Advisory ligh…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "For the main gears, there will be 2 DOWN and 2 Advisory lights illuminated. The advisory lights remain illuminated as the inboard gear doors do not close after a free-fall extension. Free-fall extension takes about 60 seconds after the leveris placed down.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "Gear Extension - Auxiliary Hydraulics The last priority to e…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Gear Extension - Auxiliary Hydraulics The last priority to extend the landing gears is by using the auxiliary hydraulic system. First, select the XFLOW switch on.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Selecting the XFLOW switch ON opens the hydraulic cross-flow…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Selecting the XFLOW switch ON opens the hydraulic cross-flow valve and an advisory CAS message XFLOW ON will be displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "Next, select the AUX switch ON.",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Next, select the AUX switch ON.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "Auxiliary hydraulic system pressure is then used to unlock a…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "Auxiliary hydraulic system pressure is then used to unlock and extend the gears.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "Should the fluid level within the auxiliary hydraulic system…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "Should the fluid level within the auxiliary hydraulic system reservoir become low during the gear extension, the hydraulic cross-flow valve will automatically close to conserve remaining fluid for the brake system. The ON light and its CAS message will extinguish and a caution CAS message AUX LO will be displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "The auxiliary hydraulic gear extension sequence is similar t…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The auxiliary hydraulic gear extension sequence is similar to the normal hydraulics extension.",
+    "caption_tr": ""
+  }
+]

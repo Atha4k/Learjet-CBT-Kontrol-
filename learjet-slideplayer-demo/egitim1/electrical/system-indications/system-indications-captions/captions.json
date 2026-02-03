@@ -1,0 +1,191 @@
+[
+  {
+    "id": "s01",
+    "title": "Electrical System Monitoring Displays",
+    "title_tr": "Elektrik Sisteminin İzlenmesi",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Electrical system parameters can be monitored on the Summary (SUMRY) page, the Electrical (ELEC) schematic, and on the backup engine display, page 2.",
+    "caption_tr": "Elektrik sistemi parametreleri SUMRY (Özet) sayfasında, ELEC (Elektrik) şematik ekranında ve yedek motor göstergesi sayfa 2 üzerinden izlenebilir."
+  },
+  {
+    "id": "s02",
+    "title": "EICAS and Display Units",
+    "title_tr": "EICAS ve Görüntü Birimleri",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The Engine Indicating and Crew Alerting System (EICAS) and the Multi-Function Display are normally displayed on Display Units 2 and 3 respectively.",
+    "caption_tr": "Motor Göstergeleri ve Mürettebat Uyarı Sistemi (EICAS) ile Çok Fonksiyonlu Ekran normalde sırasıyla DU 2 ve DU 3 üzerinde görüntülenir."
+  },
+  {
+    "id": "s03",
+    "title": "Default Power-Up Display",
+    "title_tr": "Varsayılan Açılış Ekranı",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "At power-up, the SUMRY page is displayed on the lower half of DU 2 and DU 3. The ELEC page may be selected on any of these display units if desired.",
+    "caption_tr": "Sistem açıldığında SUMRY sayfası DU 2 ve DU 3’ün alt bölümünde görüntülenir. İstenirse ELEC sayfası bu ekranlardan herhangi birinde seçilebilir."
+  },
+  {
+    "id": "s04",
+    "title": "Page Selection via Bezel Controller",
+    "title_tr": "Bezel Kontrolcüsü ile Sayfa Seçimi",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Selection of the SUMRY and ELEC pages is made using the menu button on the bezel controller located below the EICAS and indicators. The selected menu is boxed in white.",
+    "caption_tr": "SUMRY ve ELEC sayfalarının seçimi, EICAS ve göstergelerin altındaki bezel kontrolcüsü üzerindeki menü tuşu ile yapılır. Seçilen menü beyaz çerçeve ile gösterilir."
+  },
+  {
+    "id": "s05",
+    "title": "Backup Engine Display Location",
+    "title_tr": "Yedek Motor Göstergesi Konumu",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The backup engine display is shown on Radio Management Unit (RMU) 1 or RMU 2.",
+    "caption_tr": "Yedek motor göstergesi RMU 1 veya RMU 2 üzerinde görüntülenir."
+  },
+  {
+    "id": "s06",
+    "title": "Selecting Backup Engine Page 2",
+    "title_tr": "Yedek Motor Sayfa 2 Seçimi",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "To select backup engine page 2: Press the PGE function key, select ENGINE, then select MORE.",
+    "caption_tr": "Yedek motor sayfa 2’yi seçmek için: PGE tuşuna basılır, ENGINE seçilir ve ardından MORE seçilir."
+  },
+  {
+    "id": "s07",
+    "title": "Automatic Backup Engine Display",
+    "title_tr": "Otomatik Yedek Motor Göstergesi",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Under certain conditions, backup engine page 1 will automatically appear on RMU 1. These conditions are discussed in the Avionics chapter.",
+    "caption_tr": "Belirli koşullar altında yedek motor sayfa 1, RMU 1 üzerinde otomatik olarak görüntülenir. Bu koşullar Aviyonik bölümünde ele alınır."
+  },
+  {
+    "id": "s08",
+    "title": "Toggling Backup Engine Pages",
+    "title_tr": "Yedek Motor Sayfaları Arasında Geçiş",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "When backup engine page 1 is automatically selected, pressing MORE toggles between pages 1 and 2.",
+    "caption_tr": "Yedek motor sayfa 1 otomatik olarak seçildiğinde, MORE tuşuna basılarak sayfa 1 ve 2 arasında geçiş yapılır."
+  },
+  {
+    "id": "s09",
+    "title": "Systems Displayed on Summary Page",
+    "title_tr": "Özet Sayfasında Gösterilen Sistemler",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The summary page displays the Electrical DC system, Hydraulic and Environmental Control systems, and the Flight Control system.",
+    "caption_tr": "Özet sayfasında Elektrik DC sistemi, Hidrolik ve Çevresel Kontrol sistemi ile Uçuş Kontrol sistemi görüntülenir."
+  },
+  {
+    "id": "s10",
+    "title": "Electrical Parameters on Summary Page",
+    "title_tr": "Özet Sayfasındaki Elektrik Parametreleri",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Electrical parameters shown include left and right essential bus voltages, emergency battery bus voltage, generator current outputs, and main battery temperatures in Celsius.",
+    "caption_tr": "Gösterilen elektrik parametreleri; sol ve sağ essential bus voltajları, acil batarya bus voltajı, jeneratör akım değerleri ve ana batarya sıcaklıklarıdır (°C)."
+  },
+  {
+    "id": "s11",
+    "title": "Voltage and Temperature Indications",
+    "title_tr": "Voltaj ve Sıcaklık Göstergeleri",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The top three boxes show voltages of the left essential, emergency battery, and right essential buses. Battery temperatures are displayed below.",
+    "caption_tr": "Üstteki üç kutu sol essential, acil batarya ve sağ essential bus voltajlarını gösterir. Alt kısımda batarya sıcaklıkları yer alır."
+  },
+  {
+    "id": "s12",
+    "title": "Engine Generator Symbols",
+    "title_tr": "Motor Jeneratörü Sembolleri",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Generator symbols are shown with arrows. Cyan indicates the generator is operating and on-line, while amber indicates it is off-line or failed.",
+    "caption_tr": "Jeneratör sembolleri ok işaretleriyle gösterilir. Camgöbeği renk jeneratörün çalışır ve devrede olduğunu, amber renk ise devre dışı veya arızalı olduğunu gösterir."
+  },
+  {
+    "id": "s13",
+    "title": "Generator Current Indication",
+    "title_tr": "Jeneratör Akım Göstergesi",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The generator current output is displayed below each generator symbol.",
+    "caption_tr": "Her jeneratör sembolünün altında jeneratörün akım çıkışı gösterilir."
+  },
+  {
+    "id": "s14",
+    "title": "APU Generator Symbol",
+    "title_tr": "APU Jeneratörü Sembolü",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The APU generator symbol is an \"A\" inside a circle. Cyan indicates the APU generator is supplying power; amber indicates it is not.",
+    "caption_tr": "APU jeneratörü, daire içindeki “A” harfi ile gösterilir. Camgöbeği renk güç sağladığını, amber renk ise devrede olmadığını belirtir."
+  },
+  {
+    "id": "s15",
+    "title": "APU Generator Current Display",
+    "title_tr": "APU Jeneratörü Akım Göstergesi",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The APU generator current is shown below the symbol and is also indicated on the APU panel on the center pedestal.",
+    "caption_tr": "APU jeneratör akımı sembolün altında ve orta konsoldaki APU panelinde de gösterilir."
+  },
+  {
+    "id": "s16",
+    "title": "GPU Connection Indications",
+    "title_tr": "GPU Bağlantı Göstergeleri",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When GPU is connected, a white EXT indication appears on the ELEC schematic and an EXTERNAL POWER advisory is displayed on the CAS.",
+    "caption_tr": "GPU bağlandığında ELEC şemasında beyaz EXT göstergesi ve CAS üzerinde EXTERNAL POWER uyarısı görüntülenir."
+  },
+  {
+    "id": "s17",
+    "title": "Amber Level Warning",
+    "title_tr": "Amber Seviye Uyarısı",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "When a parameter exceeds its limit, the first warning level is indicated by an amber boxed digital readout.",
+    "caption_tr": "Bir parametre limitini aştığında ilk uyarı seviyesi amber renkte çerçeveli dijital gösterimle belirtilir."
+  },
+  {
+    "id": "s18",
+    "title": "Red Level Warning",
+    "title_tr": "Kırmızı Seviye Uyarısı",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "If the exceedance continues, the indication turns red. When the parameter returns to normal, the display returns to white.",
+    "caption_tr": "Limit aşımı devam ederse gösterge kırmızıya döner. Parametre normale döndüğünde renk tekrar beyaz olur."
+  },
+  {
+    "id": "s19",
+    "title": "Parameter Range Table",
+    "title_tr": "Parametre Aralık Tablosu",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "This table shows the normal ranges and colour coding of electrical parameters.",
+    "caption_tr": "Bu tablo elektrik parametrelerinin normal aralıklarını ve renk kodlarını gösterir."
+  },
+  {
+    "id": "s20",
+    "title": "Invalid Data Indication",
+    "title_tr": "Geçersiz Veri Göstergesi",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Invalid data is displayed as amber dashed lines.",
+    "caption_tr": "Geçersiz veriler amber renkli kesik çizgilerle gösterilir."
+  },
+  {
+    "id": "s21",
+    "title": "Backup Engine Display Parameters",
+    "title_tr": "Yedek Motor Göstergesi Parametreleri",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Backup engine display page 2 shows limited electrical parameters, including essential bus voltages and generator currents.",
+    "caption_tr": "Yedek motor ekranı sayfa 2, essential bus voltajları ve jeneratör akımları gibi sınırlı elektrik parametrelerini gösterir."
+  }
+]

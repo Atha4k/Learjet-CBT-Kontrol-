@@ -1,0 +1,11 @@
+{
+  "title": "Fire Protection – Detection System",
+  "pages": 5,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "detection-system-slides",
+  "audioDir": "detection-system-audio",
+  "captionsManifest": "detection-system-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

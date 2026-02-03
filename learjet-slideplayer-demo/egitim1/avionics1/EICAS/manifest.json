@@ -1,0 +1,11 @@
+{
+  "title": "Engine Indication and Crew Alerting System (EICAS)",
+  "pages":31,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "EICAS-slides",
+  "audioDir": "EICAS-audio",
+  "captionsManifest": "EICAS-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

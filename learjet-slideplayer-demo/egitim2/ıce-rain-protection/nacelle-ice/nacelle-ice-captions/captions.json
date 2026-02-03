@@ -1,0 +1,66 @@
+[
+  {
+    "id": "s01",
+    "title": "Nacelle Anti-ice System The engine nacelle anti-ice shut-off…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Nacelle Anti-ice System The engine nacelle anti-ice shut-off valves are controlled by the L NAC and R NAC heat switches. These valves are electrically controlled but pneumatically operated. This means that they require air pressure to open.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "These are also Fail Safe open valves, that is, they will rem…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "These are also Fail Safe open valves, that is, they will remain open if the valves become electrically un-powered. Both the nacelle heat switches are normally off and are also monitored by the ice detection system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Switching the L NAC heat switch ON, opens the left nacelle v…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Switching the L NAC heat switch ON, opens the left nacelle valve. This allows air from the left high pressure or HP system to flow to the engine nacelle inlet lip. This hot air heats up the nacelle inlet lip.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "After circulating around the lip, the excess air is vented o…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "After circulating around the lip, the excess air is vented overboard through a hole at the bottom of the nacelle lip.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Switching the L NAC heat switch on, also powers the heater e…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Switching the L NAC heat switch on, also powers the heater element within the left engine inlet pressuretemperature (Pt2Tt2) probe. This prevents ice accumulation on the probe. This Pt2Tt2 probe supplies inlet pressure and temperature information to the DEEC for engine performance calculations.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Indications A pressure switch is installed downstream of the…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Indications A pressure switch is installed downstream of the nacelle anti-ice valve. A green NAC is displayed next to the ITT indicator when the anti-icing is switched on and this pressure switch senses more than psi.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "An amber NAC is displayed if the L NAC heat switch is on and…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "An amber NAC is displayed if the L NAC heat switch is on and - this pressure sensed is less than psi or -there is a Pt2Tt2 probe heating element failure. This is followed by a caution CAS message L NAC",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "An amber NAC and a caution CAS message L NAC HT FAIL ON is d…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "An amber NAC and a caution CAS message L NAC HT FAIL ON is displayed if the L NAC switch is off and yet the pressure switch senses more than psi. This indicates that the nacelle anti-ice valve is stuck open when commanded closed.",
+    "caption_tr": ""
+  }
+]

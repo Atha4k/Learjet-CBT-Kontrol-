@@ -1,0 +1,11 @@
+{
+  "title": "Spoilers",
+  "pages": 39,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "spoilers-slides",
+  "audioDir": "spoilers-audio",
+  "captionsManifest": "spoilers-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

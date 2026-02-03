@@ -1,0 +1,11 @@
+{
+  "title": "Radar System",
+  "pages": 62,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "Radar-system-slides",
+  "audioDir": "Radar-system-audio",
+  "captionsManifest": "Radar-system-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Leak / Overheat",
+  "pages": 9,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "leak-overheat-slides",
+  "audioDir": "leak-overheat-audio",
+  "captionsManifest": "leak-overheat-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

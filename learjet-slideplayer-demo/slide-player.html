@@ -6,10 +6,7 @@
 <title>LEARJET CBT • Slide Player</title>
 <base href="./">
 <style>
-:root{
-  --line:#e5e7eb; --accent:#d72638; --accent-50:#fff5f6;
-  --slideMaxH:58vh; --captionMinH:140px;
-}
+:root{ --line:#e5e7eb; --accent:#d72638; --accent-50:#fff5f6; --slideMaxH:58vh; --captionMinH:140px; }
 *{box-sizing:border-box}
 body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 .wrapper{max-width:1400px;margin:8px auto;padding:8px}
@@ -17,23 +14,15 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 .topbar{padding:10px 14px;border-bottom:1px solid var(--line);display:flex;align-items:center;gap:10px}
 .topbar .dot{width:10px;height:10px;border-radius:50%;background:var(--accent)}
 .topbar h1{
-  margin:0;
-  font-size:16px;
-  font-weight:800;
-  -webkit-user-select:none;
-  -moz-user-select:none;
-  -ms-user-select:none;
-  user-select:none;
+  margin:0; font-size:16px; font-weight:800;
+  -webkit-user-select:none; -moz-user-select:none; -ms-user-select:none; user-select:none;
   pointer-events:none;
 }
 .main{display:grid;grid-template-columns:1fr 300px;gap:12px;padding:12px}
-
-/* Preview + logo */
 .preview{border:2px solid var(--line);border-radius:14px;overflow:hidden;background:#0d1117;position:relative}
 #slideImg{width:100%;height:auto;max-height:var(--slideMaxH);object-fit:contain;display:block;background:#0b1a20}
 .logo{position:absolute;top:12px;right:12px;padding:4px}
 .logo img{width:48px;height:48px;object-fit:contain;display:block}
-
 .capbox{margin-top:12px;border:1px solid var(--line);border-radius:12px;background:#fff;min-height:var(--captionMinH);display:flex;flex-direction:column}
 .cap-top{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid var(--line)}
 .cap-title{font-weight:700}
@@ -107,35 +96,40 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
   </div>
 </div>
 
-<audio
-  id="audio"
-  preload="auto"
-  playsinline="true"
-  aria-hidden="true"
-  style="display:none">
-</audio>
+<audio id="audio" preload="auto" playsinline="true" aria-hidden="true" style="display:none"></audio>
 
 <script>
 (async function(){
   const $ = sel => document.querySelector(sel);
 
-  // URL param: ?pkg=egitim1/airplane-general/general
-  const rootPrefix = location.pathname.replace(/\/slide-player\.html.*$/,'');
+  // ------------------ Param çözüm (SADE: sadece pkg) ------------------
   const qs = new URLSearchParams(location.search);
-  function absolutizePkg(p){
-    if (!p) return rootPrefix + '/egitim1/airplane-general/general';
-    if (/^https?:\/\//i.test(p)) return p;
-    if (p.startsWith(rootPrefix + '/')) return p;
-    if (p.startsWith('/')) return rootPrefix + p;
-    return rootPrefix + '/' + p.replace(/^\.?\//,'');
-  }
-  const pkg = absolutizePkg(qs.get('pkg'));
 
-  // Üst bar tıklama block
+  const lessonMap = {
+  general: 'egitim1/airplane-general/general',
+  'warning-system': 'egitim1/airplane-general/warning-system'
+};
+
+const lesson = (qs.get('lesson') || 'general').toLowerCase();
+
+let pkg = qs.get('pkg') || lessonMap[lesson] || `egitim1/airplane-general/${lesson}`;
+pkg = pkg
+  .replace(/^modules\//, '')
+  .replace(/^(\.\/|\/)+/, '')
+  .replace(/\/+/g, '/');
+
+
+  pkg = pkg
+    .replace(/^modules\//,'')
+    .replace(/^(\.\/|\/)+/,'')
+    .replace(/\/+/g,'/');
+
+  console.log('KULLANILAN PKG:', pkg);
+
+  // ------------------ Yardımcılar ------------------
+  const padNum = (n, pad=4) => String(n).padStart(pad, '0');
   const stop = ev => { ev.preventDefault(); ev.stopPropagation(); ev.stopImmediatePropagation(); };
   document.getElementById('topbar').addEventListener('click', stop, {capture:true});
-
-  const padNum = (n, pad=4) => String(n).padStart(pad, '0');
 
   async function tryFetch(url){
     try{
@@ -145,10 +139,17 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
     }catch(_){ return null; }
   }
 
-  // --------- Manifest ---------
-  const manifestUrl = pkg.replace(/\/+$/,'') + '/manifest.json';
+    // ------------------ Manifest yükle ------------------
+  const manifestBase = pkg.replace(/\/+$/,'');
+  const manifestUrl = manifestBase.toLowerCase().endsWith('.json')
+    ? manifestBase
+    : `${manifestBase}/manifest.json`;
+
   const mRes = await tryFetch(manifestUrl);
-  if(!mRes){ alert('manifest.json bulunamadı: ' + manifestUrl); return; }
+  if(!mRes){
+    alert(`manifest.json bulunamadı:\n${manifestUrl}`);
+    return;
+  }
   const MAN = await mRes.json();
 
   const titleText   = MAN.title || 'Slide Player';
@@ -157,43 +158,59 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
   const slidesDir   = (MAN.slidesDir || 'Slides').replace(/\/+$/,'');
   const audioDir    = MAN.audioDir ? MAN.audioDir.replace(/\/+$/,'') : null;
   const captionsDir = MAN.captionsDir ? MAN.captionsDir.replace(/\/+$/,'') : null;
-  const captionsManifest = MAN.captionsManifest ? MAN.captionsManifest.replace(/^\/*/,'') : null;
   const imgExt      = (MAN.imgExt || 'jpg').replace(/^\./,'');
   const audioExt    = (MAN.audioExt || 'mp3').replace(/^\./,'');
   const captionExt  = (MAN.captionExt || 'vtt').replace(/^\./,'');
   const namePrefix  = MAN.namePrefix || '';
+  const captionsManifest = MAN.captionsManifest ? MAN.captionsManifest.replace(/^\/*/,'') : null;
 
   $('#title').textContent = titleText;
 
-  // --------- captions.json (şema: {s01:{title,title_tr,en,tr}}) ---------
+  // ------------------ captions.json (opsiyonel) ------------------
   let CAPMAP = null;
   if (captionsManifest){
-    const capPath = `${pkg}/${captionsManifest}`;
-    const cRes = await tryFetch(capPath);
+    const capURL = `${pkg}/${captionsManifest}`;
+    const cRes = await tryFetch(capURL);
     if (cRes){
-      try {
+      try{
         const raw = await cRes.json();
-        if (raw && typeof raw === 'object' && !Array.isArray(raw)) {
+        if (raw && typeof raw === 'object' && !Array.isArray(raw)){
           CAPMAP = {};
-          for (const key of Object.keys(raw)) {
-            const row = raw[key] || {};
-            CAPMAP[key] = {
+          for (const k of Object.keys(raw)){
+            const row = raw[k] || {};
+            CAPMAP[k] = {
               title: {
-                en: typeof row.title === 'string' ? row.title : '',
-                tr: typeof row.title_tr === 'string' ? row.title_tr : (row.title?.tr ?? '')
+                en: typeof row.title==='string' ? row.title : (row.title?.en ?? row.title?.EN ?? ''),
+                tr: typeof row.title_tr==='string' ? row.title_tr : (row.title?.tr ?? row.title?.TR ?? '')
               },
               caption: {
-                en: typeof row.en === 'string' ? row.en : (row.caption_en ?? ''),
-                tr: typeof row.tr === 'string' ? row.tr : (row.caption_tr ?? '')
+                en: (row.en ?? row.caption_en ?? row.text_en ?? ''),
+                tr: (row.tr ?? row.caption_tr ?? row.text_tr ?? '')
+              }
+            };
+          }
+        } else if (Array.isArray(raw)){
+          CAPMAP = {};
+          for (const it of raw){
+            const key = it.id || it.key || '';
+            if (!key) continue;
+            CAPMAP[key] = {
+              title: {
+                en: (typeof it.title==='string' ? it.title : (it.title?.en ?? it.title?.EN ?? '')),
+                tr: (typeof it.title_tr==='string' ? it.title_tr : (it.title?.tr ?? it.title?.TR ?? ''))
+              },
+              caption: {
+                en: (it.en ?? it.caption_en ?? it.text_en ?? it.caption?.en ?? ''),
+                tr: (it.tr ?? it.caption_tr ?? it.text_tr ?? it.caption?.tr ?? '')
               }
             };
           }
         }
-      } catch(_) {}
+      }catch(_){}
     }
   }
 
-  // --------- data[] ---------
+  // ------------------ data[] kur ------------------
   const data = [];
   if (Array.isArray(MAN.pages)) {
     MAN.pages.forEach((p, idx) => {
@@ -226,7 +243,7 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
     }
   }
 
-  // --------- DOM ---------
+  // ------------------ DOM refs ------------------
   const img      = $('#slideImg');
   const audio    = $('#audio');
   const slidesEl = $('#slidesBox');
@@ -242,18 +259,13 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 
   let i = 0, lang = (localStorage.getItem('cbtLang') === 'tr' ? 'tr' : 'en'), hardMuted = true;
 
-  // --- Başlık yardımcıları ---
   function getTitleFor(slide){
     if (!slide) return null;
     const rec = CAPMAP?.[slide.key];
     if (!rec) return slide.title || null;
-
-    // Düz şema (title/title_tr) + nesne şeması ({title:{en,tr}}) destekli
     const en = (typeof rec.title === 'object' ? (rec.title.en ?? rec.title.EN) : rec.title) ?? null;
     const tr = (typeof rec.title === 'object' ? (rec.title.tr ?? rec.title.TR) : rec.title_tr) ?? null;
-
-    return (lang === 'tr') ? (tr || en || slide.title || null)
-                           : (en || tr || slide.title || null);
+    return (lang === 'tr') ? (tr || en || slide.title || null) : (en || tr || slide.title || null);
   }
 
   function getListLabel(idx){
@@ -366,7 +378,7 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
     renderCaption();
   }
 
-  // --- init UI + handlers ---
+  // ------------------ init ------------------
   rebuildSlides();
   btnEn.onclick = ()=> setLang('en');
   btnTr.onclick = ()=> setLang('tr');
@@ -375,28 +387,7 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
   const renderMute = ()=>{ muteBtn.classList.toggle('active',hardMuted); muteBtn.textContent = hardMuted?'🔇':'🔊'; };
   muteBtn.onclick = ()=>{ hardMuted=!hardMuted; audio.muted=hardMuted; if(!hardMuted) audio.play().catch(()=>{}); renderMute(); };
 
-  // Parent messaging (opsiyonel)
-  function pauseAllAudio(){ try{ audio.pause(); }catch(_){} }
-  function gotoByIndex(idx){ load(idx); }
-  function gotoById(id){ const idx = data.findIndex(s => s.id===id); if (idx>=0) load(idx); }
-  window.addEventListener('message', async (e)=>{
-    const m = e.data || {};
-    switch (m.type) {
-      case 'parentReady':  try { parent.postMessage({type:'childReady'}, '*'); } catch(_) {} break;
-      case 'kickstart':    hardMuted=false; audio.muted=false; renderMute(); try{ await audio.play(); }catch(_){} break;
-      case 'pauseAllAudio':pauseAllAudio(); break;
-      case 'gotoSlide':    if (m.id) gotoById(m.id); else if (m.index!==undefined) gotoByIndex(m.index);
-                           if (m.lang) setLang(m.lang==='tr'?'tr':'en');
-                           if (typeof m.caption==='string') caption.textContent = m.caption; break;
-      case 'setLang':      setLang(m.value==='tr'?'tr':'en'); break;
-    }
-  }, false);
-
-  console.log('[SlidePlayer] manifest:', new URL(pkg.replace(/\/+$/,'') + '/manifest.json', location.origin).href);
-
-  // Başlangıç
-  setLang(lang);
-  // CAPMAP varsa başlıkları ilk anda da tazele
+  setLang(localStorage.getItem('cbtLang')==='tr'?'tr':'en');
   refreshSlideLabels();
   renderMute();
   await load(0);

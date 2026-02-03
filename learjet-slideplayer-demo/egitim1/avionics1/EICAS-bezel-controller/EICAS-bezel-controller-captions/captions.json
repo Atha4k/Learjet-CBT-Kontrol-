@@ -1,0 +1,92 @@
+[
+  {
+    "id": "s01",
+    "title": "EICAS Bezel Controller",
+    "title_tr": "EICAS Bezel Kontrolcüsü",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The bezel controllers installed on the EICAS and other displays are physically identical, but their functions are completely different. Each bezel controller has six menu buttons and one rotary control knob.",
+    "caption_tr": "EICAS ve diğer ekranlarda kullanılan bezel kontrolcüler fiziksel olarak aynıdır, ancak işlevleri tamamen farklıdır. Her bezel kontrolcüde altı menü tuşu ve bir döner kontrol düğmesi bulunur."
+  },
+  {
+    "id": "s02",
+    "title": "EICAS Menus",
+    "title_tr": "EICAS Menüleri",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "When configured as an EICAS bezel controller, only one menu row is available above the bezel buttons. The available system pages are Summary (SUMRY), Electrical (ELEC), Hydraulic, Environmental Control System (ECS), Flight Controls, and Fuel (FUEL).",
+    "caption_tr": "EICAS bezel kontrolcüsü olarak kullanıldığında, tuşların üzerinde yalnızca tek bir menü satırı bulunur. Kullanılabilen sistem sayfaları SUMRY, ELEC, Hydraulic, ECS, Flight Controls ve FUEL’dır."
+  },
+  {
+    "id": "s03",
+    "title": "Default Page",
+    "title_tr": "Varsayılan Sayfa",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "At power-up, the default system display is the Summary (SUMRY) page. Therefore, the SUMRY menu is boxed to indicate selection.",
+    "caption_tr": "Sistem ilk açıldığında varsayılan ekran Summary (SUMRY) sayfasıdır. Bu nedenle SUMRY menüsü seçili olduğunu göstermek için çerçeve içine alınır."
+  },
+  {
+    "id": "s04",
+    "title": "Menu Selection",
+    "title_tr": "Menü Seçimi",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "When another aircraft system is selected, a white box surrounds the selected menu and the corresponding system schematic is displayed on EICAS. Pressing the boxed menu button again deselects the system schematic.",
+    "caption_tr": "Başka bir uçak sistemi seçildiğinde, seçilen menü beyaz bir çerçeve ile vurgulanır ve ilgili sistem şeması EICAS üzerinde görüntülenir. Aynı menü tuşuna tekrar basıldığında şema kaldırılır."
+  },
+  {
+    "id": "s05",
+    "title": "System Deselect",
+    "title_tr": "Sistem Kaldırma",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Pressing a menu button that is already boxed removes the system schematic from the EICAS display.",
+    "caption_tr": "Halihazırda çerçeve içine alınmış bir menü tuşuna basıldığında, ilgili sistem şeması EICAS ekranından kaldırılır."
+  },
+  {
+    "id": "s06",
+    "title": "System Pages",
+    "title_tr": "Sistem Sayfaları",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The EICAS system pages include Electrical, Hydraulic, Environmental Control System, and Flight Controls.",
+    "caption_tr": "EICAS sistem sayfaları; Electrical, Hydraulic, Environmental Control System ve Flight Controls bölümlerini içerir."
+  },
+  {
+    "id": "s07",
+    "title": "System Schematics",
+    "title_tr": "Sistem Şemaları",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "This image shows the various aircraft system schematics as displayed on the EICAS. Detailed explanations for each system are provided in their respective chapters.",
+    "caption_tr": "Bu görsel, EICAS üzerinde görüntülenen farklı uçak sistem şemalarını göstermektedir. Her sistemin ayrıntılı açıklamaları ilgili bölümlerde yer almaktadır."
+  },
+  {
+    "id": "s08",
+    "title": "CAS Scrolling",
+    "title_tr": "CAS Kaydırma",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The rotary knob on the EICAS bezel controller is used to scroll CAS messages displayed in the upper-right corner of the EICAS screen.",
+    "caption_tr": "EICAS bezel kontrolcüsündeki döner düğme, EICAS ekranının sağ üst köşesinde görüntülenen CAS mesajlarını kaydırmak için kullanılır."
+  },
+  {
+    "id": "s09",
+    "title": "Scroll Limitations",
+    "title_tr": "Kaydırma Kısıtlamaları",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Red warning messages cannot be scrolled. Additionally, CAS messages cannot be scrolled if any flashing amber messages have not been acknowledged by pressing the CAUT switch.",
+    "caption_tr": "Kırmızı uyarı mesajları kaydırılamaz. Ayrıca, yanıp sönen amber mesajlar CAUT anahtarıyla onaylanmadıkça CAS mesajları kaydırılamaz."
+  },
+  {
+    "id": "s10",
+    "title": "Hidden Messages",
+    "title_tr": "Gizli Mesajlar",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When CAS messages are scrolled and hidden, an amber MESSAGE annunciation appears to indicate to the crew that additional messages are not currently visible.",
+    "caption_tr": "CAS mesajları kaydırılarak gizlendiğinde, mürettebata görünmeyen ek mesajlar olduğunu belirtmek için amber renkte MESSAGE göstergesi ortaya çıkar."
+  }
+]

@@ -33,6 +33,47 @@
       .replace(/(^-|-$)+/g, '');
   }
 
+  /* -------------------- SlidePlayer ders haritası -------------------- */
+
+  // "airplane-general/general" -> "egitim1/airplane-general/general"
+  const slideLessonMap = Object.create(null);
+
+  async function loadSlideLessonConfig() {
+    try {
+      // kök /index.html’den bakınca doğru path
+      const cfg = await fetchJSON('learjet-slideplayer-demo/lessons.json');
+      Object.keys(cfg || {}).forEach(groupKey => {
+        const group = cfg[groupKey] || {};
+        const base = group.id || groupKey; // örn: "airplane-general"
+        (group.lessons || []).forEach(ls => {
+          const lid = ls.id || slugifyTitle(ls.title || '');
+          const key = `${base}/${lid}`;    // örn: "airplane-general/general"
+          if (ls.pkg) {
+            slideLessonMap[key] = ls.pkg;
+          }
+        });
+      });
+      console.debug('[SlideLessons] map yüklendi:', slideLessonMap);
+    } catch (e) {
+      console.warn('[SlideLessons] lessons.json yüklenemedi', e);
+    }
+  }
+
+  function openSlidePlayerWithPkg(pkg) {
+    if (!pkg) return;
+    const url = `learjet-slideplayer-demo/slide-player.html?pkg=${encodeURIComponent(pkg)}`;
+    const frame = document.getElementById('sp-frame');
+
+    // Modal + iframe varsa onu kullan
+    if (frame && typeof window.openSP === 'function') {
+      frame.src = url;
+      window.openSP();
+    } else {
+      // Her ihtimale karşı: modal yoksa tam sayfaya git
+      window.location.href = url;
+    }
+  }
+
   /* -------------------- PWA splash -------------------- */
   (function ensureStandaloneFlag(){
     const isStandalone =
@@ -102,26 +143,81 @@
   const indexFromTopicId=t=>{const m=String(t||'').match(/e1-(\d+)/i);return m?parseInt(m[1],10)-1:-1;};
 
   function resolveChildPath({moduleId,parentSlug,child}){
+    // Orijinal davranış: eğer child.path veya child.file varsa kullan.
     if(child.path) return child.path;
     if(child.file) return `modules/${moduleId}/${parentSlug}/${child.file}`;
-    const slug=child.slug||slugifyTitle(child.title||child.id||'konu');
-    const fname=child.id?`${child.id}.json`:`${slug}.json`;
+    // Eğer child.id tam bir klasör adıysa (örn: 'warning-system'), döküman yerine klasör-manifest yolu gerekiyor.
+    const slug = child.slug || slugifyTitle(child.title || child.id || 'konu');
+    const fname = child.id ? `${child.id}.json` : `${slug}.json`;
+    // dönmesi gereken klasik path (eski davranış)
     return `modules/${moduleId}/${parentSlug}/${fname}`;
   }
 
-  // 🔹 PATCH’Lİ openSubtopic
-  async function openSubtopic({ moduleId, parentSlug, childMeta }) {
-    try {
-      const path = resolveChildPath({ moduleId, parentSlug, child: childMeta });
-      console.debug('[openSubtopic] path:', path);
-      const data = await fetchJSON(path);
+  // ---------- Yeni: çoklu fallback denemesi ----------
+  async function tryPathsSequential(paths){
+    const tried = [];
+    for (const p of paths){
+      tried.push(p);
+      try {
+        const data = await fetchJSON(p);
+        console.debug('[tryPathsSequential] success:', p);
+        return {data, path: p, tried};
+      } catch (err){
+        console.warn('[tryPathsSequential] fail:', p, err?.message || err);
+        // devam et
+      }
+    }
+    const e = new Error('Tüm yollar denenip başarısız oldu');
+    e.tried = tried;
+    throw e;
+  }
 
+  // 🔹 GÜNCELLENMİŞ openSubtopic (robust fallback'li)
+  async function openSubtopic({ moduleId = 'egitim1', parentSlug, childMeta }) {
+    try {
+      // Öneri: childMeta.id genellikle 'warning-system' veya 'general' gibi geliyor
+      const childId = (childMeta && (childMeta.id || childMeta.slug || slugifyTitle(childMeta.title || ''))) || '';
+      const childFile = (childMeta && childMeta.file) || '';
+      const manualPath = childMeta && childMeta.path ? childMeta.path : null;
+
+      // Temel candidate listelerini oluştur
+      const candidates = [];
+
+      // 1) Eğer child.path verildiyse onu ilk dene (kullanıcı override)
+      if (manualPath) {
+        candidates.push(manualPath);
+      }
+
+      // 2) Orijinal (eski) davranış: modules/<moduleId>/<parentSlug>/<childFile or childId>.json
+      if (childFile) candidates.push(`modules/${moduleId}/${parentSlug}/${childFile}`);
+      if (childId) candidates.push(`modules/${moduleId}/${parentSlug}/${childId}.json`);
+
+      // 3) Eğer childId klasör olarak tutuluyorsa: modules/.../<parentSlug>/<childId>/manifest.json
+      if (childId) candidates.push(`modules/${moduleId}/${parentSlug}/${childId}/manifest.json`);
+      // veya kök egitim1 altındaki paket yolu (slideplayer kullandığın format)
+      if (childId) candidates.push(`${moduleId}/${parentSlug}/${childId}/manifest.json`);
+      if (childId) candidates.push(`${moduleId}/${parentSlug}/${childId}.json`);
+
+      // 4) Fallback: modules/<moduleId>/<parentSlug>/<slugified-title>.json
+      const fallbackSlug = slugifyTitle(childMeta && (childMeta.title || childMeta.id || 'konu'));
+      if (fallbackSlug && fallbackSlug !== childId) candidates.push(`modules/${moduleId}/${parentSlug}/${fallbackSlug}.json`);
+      if (fallbackSlug && fallbackSlug !== childId) candidates.push(`${moduleId}/${parentSlug}/${fallbackSlug}.json`);
+
+      // 5) Son çare: modules/<moduleId>/<childId>.json (bazı yapılar bu formatta olabilir)
+      if (childId) candidates.push(`modules/${moduleId}/${childId}.json`);
+      // Log: hangi yollar denenecek
+      console.debug('[openSubtopic] tried candidates for', childId, candidates);
+
+      // Denemeyi yap
+      const { data, path, tried } = await tryPathsSequential(candidates);
+
+      // Eğer dönen veri topics dizisi ise subtopics render et
       if (Array.isArray(data.topics) && data.topics.length) {
         renderSubtopics(data, data.title, { moduleId, parentSlug });
         return;
       }
 
-      // ✅ YENİ: root-level html/title içeren içerikleri kabul et
+      // Eğer root-level html/title varsa onu göster
       if (data.html || data.title) {
         hide(topicsSection);
         if (subtopicsSection) { subtopicsSection.remove(); subtopicsSection = null; }
@@ -146,6 +242,7 @@
         return;
       }
 
+      // Eğer content array varsa render et
       if (Array.isArray(data.content) && data.content.length) {
         hide(topicsSection);
         if (subtopicsSection){subtopicsSection.remove();subtopicsSection=null;}
@@ -157,10 +254,34 @@
         return;
       }
 
+      // Eğer manifest (slide paket) döndüyse — destekle (manifest içinde pages/Slides vs olabilir)
+      if (data && (data.pages || data.slidesDir || data.slides)) {
+        // Burada manifest döndü: slide-player'ı açacak şekilde davran
+        // path değişkeninden klasör yolunu türetmeye çalış:
+        let pkgCandidate = null;
+        // Eğer path .../manifest.json şeklindeyse klasörü al
+        if (path && path.endsWith('/manifest.json')) {
+          pkgCandidate = path.replace(/\/manifest\.json(\?.*)?$/,'');
+        } else {
+          // Eğer path .../<something>.json ise klasör yok — yine deneyebiliriz
+          if (childId) pkgCandidate = `${moduleId}/${parentSlug}/${childId}`;
+        }
+        if (pkgCandidate) {
+          pkgCandidate = pkgCandidate.replace(/^modules\//,'').replace(/^\/+/,'');
+          console.debug('[openSubtopic] manifest-as-slidepkg -> redirecting to slide-player with pkg=', pkgCandidate);
+          window.location.href = `slide-player.html?pkg=${encodeURIComponent(pkgCandidate)}`;
+          return;
+        }
+      }
+
       alert('Bu başlık için içerik henüz eklenmemiş.');
     } catch (err) {
-      console.error('[openSubtopic] Hata:', err);
-      alert('Alt konu yüklenemedi: ' + (err?.message || 'Network/JSON'));
+      console.error('[openSubtopic] Hata detayları:', err);
+      let msg = 'Alt konu yüklenemedi: ' + (err?.message || 'Network/JSON');
+      if (err && err.tried) {
+        msg += '\nDenenen yollar:\n' + err.tried.join('\n');
+      }
+      alert(msg);
     }
   }
 
@@ -174,24 +295,58 @@
       ${topic.summary?`<p class="topic-summary">${topic.summary}</p>`:''}
       <div class="training-grid" id="subtopicGrid"></div>`;
     const grid=$('#subtopicGrid',subtopicsSection);
-    (topic.topics||[]).forEach(t=>{
-      const btn=document.createElement('button');
-      btn.className='training-card';
-      btn.innerHTML=`
+
+    (topic.topics || []).forEach(t => {
+      const btn = document.createElement('button');
+      btn.className = 'training-card';
+      btn.innerHTML = `
         <div class="training-card-body">
-          <h3>${t.title||'Konu'}</h3>
-          ${t.type?`<p class="type"><em>${t.type}</em></p>`:''}
-          ${t.description?`<p class="desc">${t.description}</p>`:''}
+          <h3>${t.title || 'Konu'}</h3>
+          ${t.type ? `<p class="type"><em>${t.type}</em></p>` : ''}
+          ${t.description ? `<p class="desc">${t.description}</p>` : ''}
         </div>`;
-      btn.addEventListener('click',()=>openSubtopic({moduleId,parentSlug,childMeta:t}));
+
+      // 🔹 Bu alt konu slide-player ile mi açılacak?
+      const childId = t.id || slugifyTitle(t.title || '');
+      const mapKey  = `${parentSlug}/${childId}`;          // örn: "airplane-general/general"
+      const slidePkg = slideLessonMap[mapKey];
+
+      if (slidePkg) {
+        btn.dataset.slideKey = mapKey;
+        btn.dataset.slidePkg = slidePkg;
+      }
+
+      btn.addEventListener('click', () => {
+        const pkg = btn.dataset.slidePkg;
+        if (pkg) {
+          // JSON yerine direkt SlidePlayer çalışsın
+          openSlidePlayerWithPkg(pkg);
+        } else {
+          // Normal JSON tabanlı ders akışı
+          openSubtopic({moduleId,parentSlug,childMeta:t});
+        }
+      });
+
       grid.appendChild(btn);
     });
+
     $('main').appendChild(subtopicsSection);
     document.body.classList.add('has-subtopics');
     scrollToEl(subtopicsSection);
   }
 
-  const E1_SLUGS=['airplane-general','hydraulics','electrical','lighting','avionics','auto-flight-system','radio-navigation','flight-management'];
+  const E1_SLUGS=[
+    'airplane-general',
+    'hydraulics',
+    'electrical',
+    'lighting',
+    'avionics1',
+    'avionics2',
+    'avionics3',
+    'auto-flight-system',
+    'radio-navigation',
+    'flight-management'
+  ];
 
   async function openTopicByIndexE1(idx){
     try{
@@ -251,6 +406,9 @@
   if('serviceWorker' in navigator){navigator.serviceWorker.register('./sw.js?v=rs9').then(()=>console.log('✅ SW')).catch(console.error);}
   window.addEventListener('beforeinstallprompt',e=>{e.preventDefault();deferred=e;if(installBtn)installBtn.hidden=false;});
   if(installBtn)installBtn.addEventListener('click',async()=>{installBtn.hidden=true;if(!deferred)return;deferred.prompt();await deferred.userChoice;deferred=null;});
+
+  // SlidePlayer ders haritasını arka planda yükle
+  loadSlideLessonConfig();
 
   window.addEventListener('DOMContentLoaded',()=>{bindHero();bindTraining();bindTopics();});
 })();

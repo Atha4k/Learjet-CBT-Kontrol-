@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s01",
+    "title": "The Primus system includes a single channel autopilot, yaw d…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The Primus system includes a single channel autopilot, yaw damper and dual synchronised flight directors. These functions are all co-located in two IC-600 computers located in the nose avionics bay.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The autopilot pitch, roll and yaw servos are connected to IC…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The autopilot pitch, roll and yaw servos are connected to IC-600 2 computer. The autopilot circuit card is active only in IC-600 2 computer",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "A flight guidance controller located in the centre of the gl…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "A flight guidance controller located in the centre of the glareshield panel, provides the means of engaging the autopilotlyaw damper and controlling both flight director systems.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "It also contains a transfer switch which allows the crew to …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "It also contains a transfer switch which allows the crew to select either the left or right flight director as master and for autopilot coupling.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The autopilot operation is dependent upon the following syst…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The autopilot operation is dependent upon the following systems: -- Dual Attitude and Heading Reference Systems (AHRS) -- Dual IC-600 computers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The autopilot operation is dependent upon the following syst…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The autopilot operation is dependent upon the following systems: -- Dual Attitude and Heading Reference Systems (AHRS) -- Dual IC-600 computers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The autopilot operation is dependent upon the following syst…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The autopilot operation is dependent upon the following systems: -- Dual Attitude and Heading Reference Systems (AHRS) -- Dual IC-600 computers. -- Integrated computer bus (IC BUS)",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The autopilot operation is dependent upon the following syst…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The autopilot operation is dependent upon the following systems: -- Dual Attitude and Heading Reference Systems (AHRS) -- Dual IC-600 computers. -- Integrated computer bus (IC BUS) -- Yaw damper",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The autopilot provides airplane control in response to pitch…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The autopilot provides airplane control in response to pitch and roll steering commands from either flight director. it simply tracks the pitch and roll steering commands of the selected left or right flight director. Selection of flight director is by the tranfer button.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The autopilot system also provides pitch trimming by moving …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The autopilot system also provides pitch trimming by moving the horizontal stabilizer. The movement of the stabilizer is accomplished by the secondary pitch trim actuator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The yaw damper provides yaw damping and turn coordination, b…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The yaw damper provides yaw damping and turn coordination, but makes no effort to control the flight path of the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "On this aircraft, engaging the autopilot will also engage th…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "On this aircraft, engaging the autopilot will also engage the yaw damper system. However, yaw damper can be engaged without the autopilot.",
+    "caption_tr": ""
+  }
+]

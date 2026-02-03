@@ -1,0 +1,11 @@
+{
+  "title": "Cockpit Voice Recorder",
+  "pages": 14,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "cockpit-voice-slides",
+  "audioDir": "cockpit-voice-audio",
+  "captionsManifest": "cockpit-voice-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

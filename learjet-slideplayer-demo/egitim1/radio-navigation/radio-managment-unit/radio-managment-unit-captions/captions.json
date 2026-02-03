@@ -1,0 +1,554 @@
+[
+  {
+    "id": "s01",
+    "title": "Two RMUs, RMU 1 and RMU 2, are located on the centre of the …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Two RMUs, RMU 1 and RMU 2, are located on the centre of the instrument panel. They are the central control units for the entire radio system, which has the complete capability for controlling the operating modes, frequencies and codes within all the units of the radio system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The RMU is a colour, liquid crystal display and flat panel e…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The RMU is a colour, liquid crystal display and flat panel electronic controller. It is used to select a function by pushing a line select key adjacent to the parameter to be controlled. Any selectable parameter, such as VOR station frequency, can be changed by pushing the line key next to the displayed parameter. This places the cursor around that parameter and the value for that parameters are set by rotating the concentric tuning knob.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The RMU screen is divided into several dedicated windows. Ea…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The RMU screen is divided into several dedicated windows. Each window groups the data associated with a function. RMU 1 windows are labelled COM1, NAV1, ATC and ADF1. RMU 2 has COM2, NAV2, ATC and ADF2 labels on the windows.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The RMU controls shown above are described as follows: The p…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The RMU controls shown above are described as follows: The photo sensor senses the ambient light and causes the brightness to be automatically adjusted to compensate for varying levels of light as the aircraft maneuvers in the sunlight.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The transfer key, when pushed, flip-flop the active frequenc…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The transfer key, when pushed, flip-flop the active frequency (top line) and the preset frequency (bottom line) of the COM or NAV window. Touch the transfer key highlighted by the arrow.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The first push of the line select key moves the yellow curso…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The first push of the line select key moves the yellow cursor to surround the data field associated with that particular line select key. This then electronically connects that data field to the tuning knobs so that frequency or mode may be changed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "For some functions, additional pushes of the line select key…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "For some functions, additional pushes of the line select key will toggle ADF modes and ATC to ON. Line select key, if pressed and held for certain functions, allows ADF and ATC memories to be recalled. Line select key, if pressed and held for 2 seconds will enter and exit direct tune mode for the COM and NAV.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The yellow cursor encloses the data field selected by the li…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The yellow cursor encloses the data field selected by the line select key. The home position of the cursor is the COM preset frequency.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "If the cursor is displaced from its home position, and if th…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "If the cursor is displaced from its home position, and if there is no activity for more than 20 seconds after that, it will move back to its home position. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The tuning knobs are used to modify the data field enclosed …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The tuning knobs are used to modify the data field enclosed by the cursor. This may be the frequency or mode depending upon the selected data field.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The 8 keys at the bottom are the function keys. Pressing the…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The 8 keys at the bottom are the function keys. Pressing the SQ (squelch) key causes the COM radio to open its squelch and allow any noise or signal present in the radio to be heard in the audio system. The squelch key is strictly a toggle switch. The letter SQ is annunciated along the top line of the COM window when selected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Pressing the DIM key connects the RMU brightness control to …",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Pressing the DIM key connects the RMU brightness control to the tuning knob allowing the display to be adjusted to match overall cockpit brightness. The level of brightness is indicated by white bar which appears below the RMU when the dimming function is selected. The bar moves from left to right when the tuning knob is turned clockwise to increase brightness, and vice-versa. To return the tuning knob to normal operation select any other key. The bar disappears at the same time.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "With the cursor in any window except the ATC, pressing 12 ke…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "With the cursor in any window except the ATC, pressing 12 key transfers the entire RMU operation and display to the cross-side system. Touch 12 button. Cross-side tuning will be discussed later under RMU tuning operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "If the cursor is in the ATC window, pressing this key select…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "If the cursor is in the ATC window, pressing this key selects which transponder will be in operation. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Pushing the STO key stores a temporary (TEMP) COMNAV presele…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Pushing the STO key stores a temporary (TEMP) COMNAV preselect frequency into RMU memory and assigns a numbered location, if the cursor has first been placed around that frequency. In the above example, the cursor encloses the COM preset frequency of and TEMP-3 is show below. Pressing STO key will store that frequency into memory sequence number 3. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "The ADF and ATC each have one memory location. When the curs…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The ADF and ATC each have one memory location. When the cursor is placed around the current ADF frequency or ATC code, the STO key is pushed to store it in memory.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Pressing the ID key places the transponder in the identifica…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Pressing the ID key places the transponder in the identification response mode. The ID squawk terminates after 18 seconds.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Pushing activates the internal self-test circuits for the co…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Pushing activates the internal self-test circuits for the component associated with yellow cursor present position. The self-test is a complete end-to-end test of the function. Hold the button down for the duration of the test; about 2 seconds for COM transceiver, 5 to 7 seconds for DME, ATC, ADF, and about 20 seconds for NAV (VORIILS). If the button is held for 30 seconds or more, the radios are automatically commanded back into normal operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Subsequently, pushing the DME key switches the display and D…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Subsequently, pushing the DME key switches the display and DME channel formats between and tactical air navigation (TACAN).",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "The PGE (page) key provides access to the page menu. From th…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "The PGE (page) key provides access to the page menu. From this menu the following functions can be accessed: - COM MEMORY - NAV MEMORY -ATCITCAS -RETURN TO RADIO - NAVIGATION - ENGINE PAGE -MAINTENANCE",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "Pressing RETURN TO RADIO line select key returns the display…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Pressing RETURN TO RADIO line select key returns the display to main radio page.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "Pressing COM MEMORY line select button displays first page o…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Pressing COM MEMORY line select button displays first page of the preset COM frequencies. Selecting MORE button leads to the second page. Each page can store 6 frequencies, and therefore, each RMU can store up to 12 COM frequencies.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "The first page of COM MEMORIES shows the active COM frequenc…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The first page of COM MEMORIES shows the active COM frequency on top row. This is followed by 6 positions for preset frequencies. Beneath the frequency fields are function selection options.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Depressing the line select key adjacent to MORE allows crew …",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Depressing the line select key adjacent to MORE allows crew to toggle back-and-forth between page 1 and page 2 of the memory pages. Page 2 looks similar to page 1, except it has memory locations labeled 7 through",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "The function selection at the bottom, left corner is labeled…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The function selection at the bottom, left corner is labeled RADIOS. Depressing the key adjacent to it will return to the main radio page.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "Any of the 12 stored frequencies can be made active. This is…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "Any of the 12 stored frequencies can be made active. This is done by placing the cursor over the desired frequency and depress the transfer key. In the above picture, the cursoris on Touch highlighted key.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "To change any frequency in the MEMORY page, ensure cursor is…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "To change any frequency in the MEMORY page, ensure cursor is on the frequency you wish to change. Then turn the tuning knob to a new frequency. Watch the change in the cursor.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "If itis desired to add a new frequency in a particular numbe…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "If itis desired to add a new frequency in a particular numbered field or location, first depress the line select key beside that location. This places the cursor box over the frequency field.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "Next, press the line select key against INSERT. This will cr…",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "Next, press the line select key against INSERT. This will create a space for the new frequency on that location. A defaulted figure of exists in the cursor. All other frequencies from that number onwards move one position higher. Now touch the tuning knob to simulate selecting",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "To delete a frequency from memory, first highlight that freq…",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "To delete a frequency from memory, first highlight that frequency with the cursor.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "To delete a frequency from memory, first highlight that freq…",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "To delete a frequency from memory, first highlight that frequency with the cursor. Then depress the key adjacent to the DELETE function label.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "To delete a frequency from memory, first highlight that freq…",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "To delete a frequency from memory, first highlight that frequency with the cursor. Then depress the key adjacent to the DELETE function label. The frequency enclosed by the cursor will then be deleted from memory and the other frequencies, with a higher number will then move forward to fill the empty location.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "In a similar manner, NAV MEMORY is selected from the PAGE ME…",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "In a similar manner, NAV MEMORY is selected from the PAGE MENU. The RMU is capable of storing 12 preset frequencies in the NAV MEMORY. All descriptions on COM MEMORY with reference to storing and deleting of frequency; and making preset frequency active, apply to NAV MEMORY also.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "The backup engine and systems pages can be selected by depre…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "The backup engine and systems pages can be selected by depressing the line select key adjacent to ENGINE on PAGE MENU. It calls up page 1 of backup engine display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Selecting MORE on page 1 leads to page 2 of backup engine di…",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "Selecting MORE on page 1 leads to page 2 of backup engine display. Pushing MORE button toggles between these two pages.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "Through default logic, the RMU 1 will automatically display …",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "Through default logic, the RMU 1 will automatically display backup engine page 1 if neither IC-600 computer is out-putting the EICAS display format to one of the large DUs. This was discussed in Avionics Part 1.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "Once the backup engine page has been automatically selected,…",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "Once the backup engine page has been automatically selected, and the crew then selects another page for display, the RMU will automatically return to page 1 of the backup engine display 20 seconds after the last user input to the system. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "If the DUs revert to their normal displays following an auto…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "If the DUs revert to their normal displays following an automatic pop up of backup engine display on RMU 1, RMU 1 will return to main radio tuning page.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "Page 1 of the backup engine display contains a combination v…",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Page 1 of the backup engine display contains a combination vertical analog and digital readout for N1 at the top of the display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s40",
+    "title": "The following digital displays appear below the N1 display: …",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "The following digital displays appear below the N1 display: - ITT - interstage turbine temperature - OP-oil pressure - FUEL - left and right wing quantity only. Fuselage is not shown",
+    "caption_tr": ""
+  },
+  {
+    "id": "s41",
+    "title": "- HYDM-B-hydraulic pressure for main system on left side, an…",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "- HYDM-B-hydraulic pressure for main system on left side, and brake accumulator pressure on the right. - SPL-FLP-spoiler extension on the left, and flap extension on the right.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s42",
+    "title": "Page 2 of the backup engine display contain digital readouts…",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "Page 2 of the backup engine display contain digital readouts of the following, starting at the top: - N1--fan speed - N2--turbine speed - OIL C--oil temperature - FF KGH--fuel flow in kilogram per hour -VOLTS--DC volts on left and right essential buses - EMER volts on the emergency battery bus - AMP S-eft and right generators current output",
+    "caption_tr": ""
+  },
+  {
+    "id": "s43",
+    "title": "Celsius on the right. - TRIM-PIT--pitch trim in units - AlL-…",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "Celsius on the right. - TRIM-PIT--pitch trim in units - AlL--aileron trim, unit L or R for left wing down or right wing down - RUD--rudder trim units left or right",
+    "caption_tr": ""
+  },
+  {
+    "id": "s44",
+    "title": "The colour coding of the digital indications on the backup e…",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "The colour coding of the digital indications on the backup engine pages is similar to the normal EICAS display colours. Digits are displayed in white for normal range, amber for caution range and red for the warning range.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s45",
+    "title": "Digital data failure is shown by amber dashes. N1 data failu…",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "Digital data failure is shown by amber dashes. N1 data failure is shown with a red X and removal of the pointer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s46",
+    "title": "Failure of the RMU to display engine data is annunciated wit…",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "Failure of the RMU to display engine data is annunciated with ENGINE DATA UNAVAILABLE.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s47",
+    "title": "The backup navigation display is accessed by depressing the …",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "The backup navigation display is accessed by depressing the PGE key on the RMU and the PAGE MENU will be displayed. Selecting the NAVIGATION option with the line select key displays the backup navigation page.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s48",
+    "title": "Backup navigation can be displayed on either RMU.",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "Backup navigation can be displayed on either RMU.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s49",
+    "title": "Whether the backup navigation is selected on RMU 1 or RMU 2,…",
+    "imgSrc": "slides/s49.png",
+    "audioSrc": "audio/s49.mp3",
+    "caption_en": "Whether the backup navigation is selected on RMU 1 or RMU 2, navigation data displayed is from integrated navigation unit 1.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s50",
+    "title": "Whether the backup navigation is selected on RMU 1 or RMU 2,…",
+    "imgSrc": "slides/s50.png",
+    "audioSrc": "audio/s50.mp3",
+    "caption_en": "Whether the backup navigation is selected on RMU 1 or RMU 2, navigation data displayed is from integrated navigation unit 1. The heading reference is from Attitude and Heading Reference System 2 (AHR",
+    "caption_tr": ""
+  },
+  {
+    "id": "s51",
+    "title": "In a dual generator failure situation, all DUs are required …",
+    "imgSrc": "slides/s51.png",
+    "audioSrc": "audio/s51.mp3",
+    "caption_en": "In a dual generator failure situation, all DUs are required to be shutdown, as is called for by the checklist. The standby navigation will be used as substitute to provide navigation information to the pilots. Using the RMU to display backup navigation will enable main batteries to last for 1 hour since the RMUs consume minimum electrical power.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s52",
+    "title": "The following features are found on the backup navigation pa…",
+    "imgSrc": "slides/s52.png",
+    "audioSrc": "audio/s52.mp3",
+    "caption_en": "The following features are found on the backup navigation page when valid data is available: Heading Arc Display: - The compass arc extends an angle of 90 on the RMU. The digits and arc shown in white.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s53",
+    "title": "Course Pointer With Display: - A green course arrow is displ…",
+    "imgSrc": "slides/s53.png",
+    "audioSrc": "audio/s53.mp3",
+    "caption_en": "Course Pointer With Display: - A green course arrow is displayed. - A digital readout ( in green) of the selected course is displayed in the lower left corner.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s54",
+    "title": "When the RMU line select key next to the course readout is p…",
+    "imgSrc": "slides/s54.png",
+    "audioSrc": "audio/s54.mp3",
+    "caption_en": "When the RMU line select key next to the course readout is pushed, it is boxed in yellow. The RMU tuning knob is used to set the new course. The inner knob select 1 changes, the outer knob selects 10 changes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s55",
+    "title": "The selected course is the home position of the cursor. When…",
+    "imgSrc": "slides/s55.png",
+    "audioSrc": "audio/s55.mp3",
+    "caption_en": "The selected course is the home position of the cursor. When the cursor is displaced from its home position and there is no activity for 20 seconds or more, the cursor will revert to the selected course.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s56",
+    "title": "With TOFROM Indication: - The centre of the HSI contains an …",
+    "imgSrc": "slides/s56.png",
+    "audioSrc": "audio/s56.mp3",
+    "caption_en": "With TOFROM Indication: - The centre of the HSI contains an aircraft symbol and lateral deviation is two dots on either side of the centred position. This represents navigation from the selected course for the specific source.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s57",
+    "title": "- A green TO or FR (from) indication is shown to the right o…",
+    "imgSrc": "slides/s57.png",
+    "audioSrc": "audio/s57.mp3",
+    "caption_en": "- A green TO or FR (from) indication is shown to the right of the digital course readout.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s58",
+    "title": "Vertical Deviation Scale: -When a ILS frequency is tuned, th…",
+    "imgSrc": "slides/s58.png",
+    "audioSrc": "audio/s58.mp3",
+    "caption_en": "Vertical Deviation Scale: -When a ILS frequency is tuned, the white glideslope scale is displayed, and the VOR bearing pointer, VOR bearing readout, and bearing label are removed. The valid glideslope pointer is green.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s59",
+    "title": "DME: - DME distance to the selected VOR or ILS is shown in t…",
+    "imgSrc": "slides/s59.png",
+    "audioSrc": "audio/s59.mp3",
+    "caption_en": "DME: - DME distance to the selected VOR or ILS is shown in the lower right corner, the digit are green.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s60",
+    "title": "Bearing Pointer: - The bearing pointer, and its legend and d…",
+    "imgSrc": "slides/s60.png",
+    "audioSrc": "audio/s60.mp3",
+    "caption_en": "Bearing Pointer: - The bearing pointer, and its legend and digital position display are in cyan. - When the pointer (or its tail) is not in view, a single cyan arrow is displayed above the compass arc, on either the left or right side to indicate its location.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s61",
+    "title": "Bearing Pointer: - The bearing pointer, and its legend and d…",
+    "imgSrc": "slides/s61.png",
+    "audioSrc": "audio/s61.mp3",
+    "caption_en": "Bearing Pointer: - The bearing pointer, and its legend and digital position display are in white. - When the pointer (or its tail) is not in view, a double white arrow is displayed above the compass arc, on either the left or right side to indicate its location.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s62",
+    "title": "Frequency Display: - The VORIILS tuned frequency is displaye…",
+    "imgSrc": "slides/s62.png",
+    "audioSrc": "audio/s62.mp3",
+    "caption_en": "Frequency Display: - The VORIILS tuned frequency is displayed in the upper left corner of the backup navigation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s63",
+    "title": "Frequency Display: - The VORIILS tuned frequency is displaye…",
+    "imgSrc": "slides/s63.png",
+    "audioSrc": "audio/s63.mp3",
+    "caption_en": "Frequency Display: - The VORIILS tuned frequency is displayed in the upper left corner of the backup navigation. - The ADF frequency is displayed in the upper right corner. Both frequencies are white.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s64",
+    "title": "When the RMU line select key adjacent to the respective wind…",
+    "imgSrc": "slides/s64.png",
+    "audioSrc": "audio/s64.mp3",
+    "caption_en": "When the RMU line select key adjacent to the respective window is pushed, that frequency is enclosed with the yellow cursor. This will link the frequency to the tuning knob and adjustment can be made. Now touch the tuning knob to simulate changing frequency",
+    "caption_tr": ""
+  },
+  {
+    "id": "s65",
+    "title": "Marker Beacon - The beacon display is to the left of the DME…",
+    "imgSrc": "slides/s65.png",
+    "audioSrc": "audio/s65.mp3",
+    "caption_en": "Marker Beacon - The beacon display is to the left of the DME data. Outer Marker appears in cyan, Middle Marker in yellow and Inner Marker in white.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s66",
+    "title": "When VOR information is not available, the following are see…",
+    "imgSrc": "slides/s66.png",
+    "audioSrc": "audio/s66.mp3",
+    "caption_en": "When VOR information is not available, the following are seen on the display: - digital bearing for the VOR is removed - VOR bearing pointer is removed - lateral deviation bar is removed and the scale is overwritten with red",
+    "caption_tr": ""
+  },
+  {
+    "id": "s67",
+    "title": "- TOFROM indication is removed. - DME distance is replace wi…",
+    "imgSrc": "slides/s67.png",
+    "audioSrc": "audio/s67.mp3",
+    "caption_en": "- TOFROM indication is removed. - DME distance is replace with yellow dashes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s68",
+    "title": "If the ILS information is not available, - the lateral devia…",
+    "imgSrc": "slides/s68.png",
+    "audioSrc": "audio/s68.mp3",
+    "caption_en": "If the ILS information is not available, - the lateral deviation bar is removed and the scale is overwritten with ared X - the glideslope pointer is removed and the scale is overwritten with a red X - the DME distance is replaced with yellow dashes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s69",
+    "title": "If ARHS 2 fails, FAIL in red is placed in the centre of the …",
+    "imgSrc": "slides/s69.png",
+    "audioSrc": "audio/s69.mp3",
+    "caption_en": "If ARHS 2 fails, FAIL in red is placed in the centre of the arc display. The course pointer and its digital readout are removed. All bearing pointer information is removed.",
+    "caption_tr": ""
+  }
+]

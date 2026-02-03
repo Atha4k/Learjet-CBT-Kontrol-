@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s01",
+    "title": "One total air temperature (TAT) probe is installed beside th…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "One total air temperature (TAT) probe is installed beside the right nose landing gear door. The probe is electrically heated when the R PROBES anti-ice switch is selected on. EN _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The TAT probe provides input to ADC 1 and ADC 2. J EN _",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The TAT probe provides input to ADC 1 and ADC 2. J EN _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The ADC converts TAT information to SAT and the information …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The ADC converts TAT information to SAT and the information is displayed on EICAS and via the respective IC-600 computers. J EN _",
+    "caption_tr": ""
+  }
+]

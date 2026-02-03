@@ -3,11 +3,11 @@
   "title": "Lighting",
   "summary": "Aircraft lighting systems overview and lessons.",
   "topics": [
-    { "id": "lt-01", "title": "Overview", "type": "lesson", "description": "" },
-    { "id": "lt-02", "title": "Cockpit Lighting", "type": "lesson", "description": "" },
-    { "id": "lt-03", "title": "Cabin Lighting", "type": "lesson", "description": "" },
-    { "id": "lt-04", "title": "Exterior Lighting", "type": "lesson", "description": "" },
-    { "id": "lt-05", "title": "Abnormal Conditions", "type": "lesson", "description": "" },
-    { "id": "lt-06", "title": "Quiz", "type": "quiz", "description": "" }
+    { "id": "overview", "title": "Overview", "type": "lesson", "description": "" },
+    { "id": "cockpit-lighting", "title": "Cockpit Lighting", "type": "lesson", "description": "" },
+    { "id": "cabin-lighting", "title": "Cabin Lighting", "type": "lesson", "description": "" },
+    { "id": "exterior-lighting", "title": "Exterior Lighting", "type": "lesson", "description": "" },
+    { "id": "abnormal-conditions", "title": "Abnormal Conditions", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

@@ -1,0 +1,186 @@
+[
+  {
+    "id": "s01",
+    "title": "Dual air data computers (known as ADCs 1 and 2) provide inde…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Dual air data computers (known as ADCs 1 and 2) provide independent, yet redundant air data information. The two digital ADCs, located in the nose section, are physically and functionally isolated from each other. The ADCs are sometimes referred to as micro ADCs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The ADC receives pitot and static inputs from the main pitot…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The ADC receives pitot and static inputs from the main pitot-static system, total air temperature from the dual element temperature probe and barometric correction input via the BARO set knob on the corresponding bezel controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach,",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach, - maximum operating speed.VmoMmo,",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach, - maximum operating speed.VmoMmo, - barometric altitude, and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach, - maximum operating speed.VmoMmo, - barometric altitude, and - - vertical speed. Nerten Secuity Avionics 2 Menu Air Data Computer(ADC) 4D",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The ADC supplies TAS and SAT information to EICAS and for di…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The ADC supplies TAS and SAT information to EICAS and for display. SAT readout on EICAS is from ADC 1. SAT and TAS readouts on are from ADC 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The above picture shows the aircraft systems that rely on AD…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The above picture shows the aircraft systems that rely on ADC inputs for operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "ADC 1 is powered by left essential bus, and ADC 2 by right e…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "ADC 1 is powered by left essential bus, and ADC 2 by right essential bus.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "An ADC reversion selector on system reversion panel determin…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "An ADC reversion selector on system reversion panel determines which ADC is used to provide air data for display in the cockpit. The selector has three positions: 1, ADC NORM and 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "In the NORM position pilot's and EICAS receive air data from…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "In the NORM position pilot's and EICAS receive air data from ADC 1; co-pilot's and receive data from ADC 2. The ADC information goes into respective IC-600s for processing before they are disseminated to the appropriate DUs for display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If an ADC fails, assuming it is the pilot's, air data inform…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If an ADC fails, assuming it is the pilot's, air data information will be lost to pilot's and EICAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Failure of ADC is recognised by red crosses on airspeed and …",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Failure of ADC is recognised by red crosses on airspeed and altitude tapes on the Also, a red VS flag appears on the vertical speed display. The push button and BARO SET knob on the bezel controller are inoperative.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "On the EICAS, amber dashed lines is seen against SAT. There …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "On the EICAS, amber dashed lines is seen against SAT. There is no CAS message which is directly associated with failure of ADC.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The stall warning system 1, digital electronic engine contro…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The stall warning system 1, digital electronic engine control (DEEC) 1 and flight director system 1 which rely on ADC 1 input for operation are also affected if ADC 1 fails. These systems receive no backup from ADC 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "To rectify this abnormality, ADC reversion selector is posit…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "To rectify this abnormality, ADC reversion selector is positioned to 2. Touch ADC selector to simulate that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "With ADC reversion selector on position 2, ADC 2 will provid…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "With ADC reversion selector on position 2, ADC 2 will provide air data information to both pilots DUs. This is ADC reversion.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Under this condition, baro correction must be set on co-pilo…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Under this condition, baro correction must be set on co-pilot's bezel controller as the pilot's BARO SET knob and push button are inoperative.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Similarly, if a reversion is carried out with the ADC select…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Similarly, if a reversion is carried out with the ADC selector switch to position 1, ADC 1 will be used to provide air data information to both sides.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "When ADC reversion selector is in 1 or 2 position, an amber …",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "When ADC reversion selector is in 1 or 2 position, an amber ADC 1 or 2 annunciation is displayed at top left corner of ADI on both the PFDs. In the above ADC 2 is annunciated to indicate that ADC 2 is providing air data to both sides.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The ADC TEST SWITCH is located on SYSTEM TEST rotary switch …",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The ADC TEST SWITCH is located on SYSTEM TEST rotary switch in the forward pedestal. The test is only effective if aircraft is on the ground and airspeed is less than 50 knots.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "The following indications occur when ADC TEST SWITCH is pres…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "The following indications occur when ADC TEST SWITCH is pressed and held. L) Nerten Security Avionics 2 Menu Air Data ComputerADC)",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "On the TAS and Celsius SAT are displayed.",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "On the TAS and Celsius SAT are displayed.",
+    "caption_tr": ""
+  }
+]

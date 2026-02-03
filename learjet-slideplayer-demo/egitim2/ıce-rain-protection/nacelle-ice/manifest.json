@@ -1,0 +1,11 @@
+{
+  "title": "Nacelle Ice Protection",
+  "pages": 8,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "nacelle-ice-slides",
+  "audioDir": "nacelle-ice-audio",
+  "captionsManifest": "nacelle-ice-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

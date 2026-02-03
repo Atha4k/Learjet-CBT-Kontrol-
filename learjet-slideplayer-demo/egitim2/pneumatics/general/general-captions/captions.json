@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s01",
+    "title": "The Learjet 45 bleed air system is supplied by the two engin…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The Learjet 45 bleed air system is supplied by the two engines and the auxiliary power unit (APU). A single engine is capable of providing all the bleed air needs. The bleed air system is controlled by the bleed switches on the pressurisation control panel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Cabin Pressurization Controller This is located at the forwa…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Cabin Pressurization Controller This is located at the forward instrument panel, just in front of the co-pilot. The switches associated with the pneumatic system are the Left BLEED, Right BLEED and the APU BLEED.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Throughout this lesson, we will use this schematic of the ai…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Throughout this lesson, we will use this schematic of the aircraft pneumatic system to show the bleed airflow.",
+    "caption_tr": ""
+  }
+]

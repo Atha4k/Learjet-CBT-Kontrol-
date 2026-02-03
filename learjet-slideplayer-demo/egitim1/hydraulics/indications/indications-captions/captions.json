@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s01",
+    "title": "Hydraulic Pressure Indications Both the Main and Auxiliary h…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Hydraulic Pressure Indications Both the Main and Auxiliary hydraulic system pressures are psi. However, only the main hydraulic system pressure and the brake accumulator pressure are indicated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The main hydraulic system pressure is indicated on -the SUMR…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The main hydraulic system pressure is indicated on -the SUMRY page as MAIN - the EICAS-HYD page within the MAIN PSI indication - the Radio Management Unit (RMU)",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Though the auxiliary pump operation and output pressure are …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Though the auxiliary pump operation and output pressure are monitored, its pressure is not indicated at all.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Only the brake accumulator pressure is shown. ltis indicated…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Only the brake accumulator pressure is shown. ltis indicated on -the SUMRY page as B- ACUM -the RMU as - the EICAS-HYD page within the BRAKE ACCUM indication and on the tape display.",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "title": "Wing Ice Protection",
+  "pages": 15,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "wing-ice-slides",
+  "audioDir": "wing-ice-audio",
+  "captionsManifest": "wing-ice-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

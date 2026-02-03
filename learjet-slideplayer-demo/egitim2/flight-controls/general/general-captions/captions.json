@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s01",
+    "title": "The flight control surfaces enable the airplane to manoeuvre…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The flight control surfaces enable the airplane to manoeuvre in the 3 axes. They are divided into the primary flight controls and the secondary flight controls. pop epi mov see own ug am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The primary flight control surfaces consist of the elevators…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The primary flight control surfaces consist of the elevators, ailerons and rudder. Together, they help to control the airplane in the pitch, roll and yaw axes. These are operated through a series of cable systems and linkages by the dual control columns, control wheels and rudder pedals. a epi mov see own ug am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The secondary flight control surfaces consist of - the elect…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The secondary flight control surfaces consist of - the electrically controlled and hydraulically operated spoilers spoilerons and - flaps. A movable horizontal stabilizer also provides trim in the pitch axis. a epi mov see own ug am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The ailerons, elevators and rudders are mechanically operate…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The ailerons, elevators and rudders are mechanically operated via cable systems. The flaps, spoilersispoilerons are hydraulically operated. The aileron trim, rudder trim and stabilizer trim systems are electrically operated . ew epi mov see own ug am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Control Wheel Trim Switch This trim switch is used for the a…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Control Wheel Trim Switch This trim switch is used for the aileron trim and the stabilizer primary trim systems. To trim, depress the arming button in the center of the trim switch and simultaneously move the barrel in the desired direction. pegs epi mov see own ug aa a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "That is, to trim the aileron, move the barrel left or right …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "That is, to trim the aileron, move the barrel left or right while depressing the arming button. Moving the barrel alone will not power the trim system. The 2 actions are required to prevent inadvertent trim movement if the switch is stuck armed. For stabilizer trim, push the barrel switch up or down with the arming button depressed. po epi mov see own ug am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Control Wheel Master Switch Depressing this switch momentari…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Control Wheel Master Switch Depressing this switch momentarily, disengages the auto-pilot and the nose wheel steering systems. Depressing it continuously will also inhibit the stabilizer trim, the aileron trim, rudder trim, rudder boost and spoilerons operations. por epi mov see own ug am a a. wri",
+    "caption_tr": ""
+  }
+]

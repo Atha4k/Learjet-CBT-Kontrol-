@@ -1,0 +1,11 @@
+{
+  "title": "Primary Flight Display (PFD)",
+  "pages": 134,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "PFD-slides",
+  "audioDir": "PFD-audio",
+  "captionsManifest": "PFD-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Flight Director",
+  "pages": 28,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "flight-director-slides",
+  "audioDir": "flight-director-audio",
+  "captionsManifest": "flight-director-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

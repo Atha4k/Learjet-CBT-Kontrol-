@@ -1,0 +1,11 @@
+{
+  "title": "HF Radio",
+  "pages": 18,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "HF-radio-slides",
+  "audioDir": "HF-radio-audio",
+  "captionsManifest": "HF-radio-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

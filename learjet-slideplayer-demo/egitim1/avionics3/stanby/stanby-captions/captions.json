@@ -1,0 +1,194 @@
+[
+  {
+    "id": "s01",
+    "title": "Except for standby attitude indicator which is powered by em…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Except for standby attitude indicator which is powered by emergency battery bus, standby magnetic compass, altimeter and airspeed indicator do not require electrical power for operation. All of them are, however, lighted with power from emergency battery.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The standby altimeter receives static input from the standby…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The standby altimeter receives static input from the standby pitot-static probe to display baro corrected altitude.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The white pointer turns one revolution for every one thousan…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The white pointer turns one revolution for every one thousand feet of altitude pressure change.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The dial graduations are marked every 20 feet.",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The dial graduations are marked every 20 feet.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "It has a displayed range of up to ft.",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "It has a displayed range of up to ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "When the altitude displayed is negative, a redwhite cross ha…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "When the altitude displayed is negative, a redwhite cross hatched is in view.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "When altitude is 0 to ft, a whiteblack hatch appears.",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "When altitude is 0 to ft, a whiteblack hatch appears.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "There is no hatch with altitude above ft.",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "There is no hatch with altitude above ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The altimeter has a barometric knob located on the lower rig…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The altimeter has a barometric knob located on the lower right front of the indicator. This knob controls dual barometric settings on the dial. The top barometric window is in millibars or hectopascals. The lower window is in inches of mercury.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The altimeter incorporates a vibrator to remove stiction and…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The altimeter incorporates a vibrator to remove stiction and friction. This improves the performance of the altimeter. The vibrator is powered by emergency battery bus. The ON flag indicates vibrator is functioning normally.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "If the emergency battery bus is lost to standby altimeter, a…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If the emergency battery bus is lost to standby altimeter, a red OFF flag appears on the face of the standby altimeter, beneath VIB. The altimeter will still function but with lesser accuracy.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The standby airspeed indicator is connected to standby pitot…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The standby airspeed indicator is connected to standby pitot-static system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The standby airspeed indicator provides indicated airspeed b…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The standby airspeed indicator provides indicated airspeed by means of a pointer indicating against a 50 to knots dial and a Mach subdial ranging from to Mach. The Mach subdial is visible through a cutout in the main dial. It rotates round the periphery of the main dail.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Maximum allowable airspeed (Vmo) is indicated at knots by a …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Maximum allowable airspeed (Vmo) is indicated at knots by a red radial point mark on the airspeed dial.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Maximum allowable Mach (Mmo) is indicated at Mach by a red a…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Maximum allowable Mach (Mmo) is indicated at Mach by a red and white striped radial point mark on the Mach subdial.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "So when the aircraft speed is sensed by the standby pitot-st…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "So when the aircraft speed is sensed by the standby pitot-static system, the airspeed pointer will move to display the indicated airspeed in knots. Simultaneously, the Mach subdial will rotate accordingly to give mach number. Both the IAS and Mach are read off from the same pointer. The graphic shows the indicated airspeed is knots and the indicated mach number",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The standby attitude indicator provides a visual indication …",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The standby attitude indicator provides a visual indication of aircraft flight attitude besides the normal attitude information on the PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Standby attitude is powered by emergency battery bus. With p…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Standby attitude is powered by emergency battery bus. With powered applied, the red flag is out of view and operation is normal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "In the event of dual generator failure, the standard emergen…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "In the event of dual generator failure, the standard emergency battery will power the standby attitude indicator for at least 1 hour.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "When the emergency battery is completely drained, the red fl…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "When the emergency battery is completely drained, the red flag comes into view, but the rotor speed of the gyro can provide a minimum of 9 minutes of useful attitude",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The caging knob is used to erect the gyro when the gyro has …",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The caging knob is used to erect the gyro when the gyro has toppled.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "When the caging knob is pulled, the red flag comes into view…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "When the caging knob is pulled, the red flag comes into view. The flag retracts when the knob is released.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "The magnetic compass consists of magnet which reacts with th…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The magnetic compass consists of magnet which reacts with the earth's horizontal lines of of forces. The rotation of the sensing magnet is transferred through miter gears and a shaft rotating on jewelled bearings in a horizontal housing to the vertical azimuth card.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "The compass displays heading information vertically with the…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "The compass displays heading information vertically with the aero lubber line on the lens and complete degree (5 degree increments) dial in proper relation to aircraft heading. Numerical markings appear in 30 degree intervals. The compass uses eddy current dampening with no fliud to minimize overswing.",
+    "caption_tr": ""
+  }
+]

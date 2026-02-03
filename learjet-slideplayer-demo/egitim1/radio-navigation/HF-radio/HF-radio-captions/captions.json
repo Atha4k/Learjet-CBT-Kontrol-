@@ -1,0 +1,146 @@
+[
+  {
+    "id": "s01",
+    "title": "The HF communication system consists of a control panel loca…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The HF communication system consists of a control panel located on the centre pedestal, power amplifierantenna coupler and HF receiver both in the RH aft avionics compartment, and antenna which is located on top of the aircraft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The HF communication system frequency range is from to KHz i…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The HF communication system frequency range is from to KHz in KHz increments. The system is capable of operating in a channel mode or in a direct frequency mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "In the channel mode, up to 99 frequencies may be preprogramm…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "In the channel mode, up to 99 frequencies may be preprogrammed for rapid frequency selection.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Direct frequency mode is available by changing the digit to …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Direct frequency mode is available by changing the digit to the desired frequency.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The FREQCHAN button selects either direct tunning or preset …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The FREQCHAN button selects either direct tunning or preset channel operation. Direct tunning of frequency is accomplished with the button out. Preset channel operation is available with the button depressed. Touch the FREQCHAN button to change to channel mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The MODE button selects USB or AM mode. This is set by depre…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The MODE button selects USB or AM mode. This is set by depressing and releasing MODE button until the desired mode is annunciated on the frequency window. In CHAN operation, MODE is preset but can be changed by MODE button. Re-selection of the channel will return the system to the original preset mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The CLARIFIER knob improves reception when the ground statio…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The CLARIFIER knob improves reception when the ground station is slightly off frequency resulting in unnatural voice quality. When receiving an unclear transmission, pull out the knob and rotate the knob either way to give natural voice quality. When the knob is pushed in, the clarifier control is off and should be left in this position if operation is satisfactory.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The SQUELCH knob adjusts the receiver squelch level. Squelch…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The SQUELCH knob adjusts the receiver squelch level. Squelch should be set by rotating the knob clockwise until background noise can be heard then counterclockwise until the noise is just barely audible or absent. Squelch operation on HF is not as predictable as and readjustment may be required frequently.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The OFF VOLUME knob turns the system off or on, and control …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The OFF VOLUME knob turns the system off or on, and control the volume. No frequency is displayed until the system has warmed up (approximately two minutes) after initial power up.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "When depressed with a pointed object, the STO button stores …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When depressed with a pointed object, the STO button stores the displayed frequency and emission mode in the memory. When depressed with a pointed object, the button activates the Programme Mode enabling the pilot to change the frequency and emission mode of preset channel. In the Programme Mode operation, the annunciator light will illuminate.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The FrequencyChannel selector consists of two concentric kno…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The FrequencyChannel selector consists of two concentric knobs that control channel and frequency.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "With the FREQCHAN button in Channel (down) position, the out…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "With the FREQCHAN button in Channel (down) position, the outer knob of the frequencychannel selector is not functional. The inner knob will provide channel selection from 1 through As each channel is selected, a corresponding stored frequency is displayed. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "With the FREQCHAN button in FREQUENCY (up) position, the out…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "With the FREQCHAN button in FREQUENCY (up) position, the outer knob becomes a cursor control to select the digit to be changed. Turning the outer clockwiseanti-clockwise causes the selected digit to flash. The flashing digit is changed by rotating the inner knob. Selection of frequency may be from left to right or vice-versa. Touch the highlighted knob to simulate turning the outer knob to change the first digit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Turning the outer flashes the first digit. Using the inner k…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Turning the outer flashes the first digit. Using the inner knob, rotate until the desired number is set. The first digit has a range of 2 to Touch the highlighted knob to simulate changing first digit",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Similarly, the rest of the digits can be changed using the o…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Similarly, the rest of the digits can be changed using the outer and inner knobs. The range selectable for each of the remaining digitsis 0to 9. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Having selected a frequency and before transmission, itis ne…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Having selected a frequency and before transmission, itis necessary to tune the HF transmitter. This is done by selecting the HF transmit button on the ACP and pressing the on-side microphone button momentarily.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Keying the microphone will allow the HF antenna coupler to t…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Keying the microphone will allow the HF antenna coupler to tune the antenna. At the same time, the frequency on the display window goes blank and the TX annunciator flashes. When the tuning process is over, the frequency reappears and the TX disappears.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Transmission can now be made on the When the microphone is k…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Transmission can now be made on the When the microphone is keyed to transmit, TX annunciator will illuminate steady on the window.",
+    "caption_tr": ""
+  }
+]

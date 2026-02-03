@@ -1,0 +1,407 @@
+[
+  {
+    "id": "s01",
+    "title": "IC-600 Integrated Avionics Computers",
+    "title_tr": "IC-600 Entegre Aviyonik Bilgisayarlar",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The brain of this PRIMUS Integrated Avionics System are the two integrated avionics computers, one for the pilot, and one for the co-pilot. The computers are located at the aircraft nose avionics bay. Though the computer has several names, we shall address the computer as IC-600.",
+    "caption_tr": "Bu PRIMUS Entegre Aviyonik Sisteminin beyni iki adet entegre aviyonik bilgisayardır; biri pilot, diğeri kopilot içindir. Bilgisayarlar uçağın burun aviyonik bölmesinde bulunur. Bilgisayarın birden fazla adı olsa da biz bu bilgisayarı IC-600 olarak adlandıracağız."
+  },
+  {
+    "id": "s02",
+    "title": "IC-600 Circuit Card Assemblies",
+    "title_tr": "IC-600 Devre Kartı Birimleri (CCA)",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Housed inside the IC-600 computer are separate circuit card assemblies (CCA) and each circuit card has a function to perform. The functions that CCA perform are:",
+    "caption_tr": "IC-600 bilgisayarının içinde ayrı devre kartı birimleri (CCA) bulunur ve her devre kartının yerine getirdiği bir görev vardır. CCA’ların gerçekleştirdiği fonksiyonlar şunlardır:"
+  },
+  {
+    "id": "s03",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "symbol generator,",
+    "caption_tr": "sembol üreteci,"
+  },
+  {
+    "id": "s04",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "- symbol generator, flight director,",
+    "caption_tr": "- sembol üreteci, uçuş direktörü,"
+  },
+  {
+    "id": "s05",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "symbol generator, flight director, primary pitch trim,",
+    "caption_tr": "sembol üreteci, uçuş direktörü, birincil pitch trim,"
+  },
+  {
+    "id": "s06",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "symbol generator, flight director, primary pitch trim,",
+    "caption_tr": "sembol üreteci, uçuş direktörü, birincil pitch trim,"
+  },
+  {
+    "id": "s07",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "symbol generator, flight director, primary pitch trim, configuration trim,",
+    "caption_tr": "sembol üreteci, uçuş direktörü, birincil pitch trim, konfigürasyon trim,"
+  },
+  {
+    "id": "s08",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "symbol generator, flight director, primary pitch trim, configuration trim, mach trim,",
+    "caption_tr": "sembol üreteci, uçuş direktörü, birincil pitch trim, konfigürasyon trim, mach trim,"
+  },
+  {
+    "id": "s09",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "symbol generator, flight director, primary pitch trim, configuration trim, mach trim, autopilot,",
+    "caption_tr": "sembol üreteci, uçuş direktörü, birincil pitch trim, konfigürasyon trim, mach trim, otopilot,"
+  },
+  {
+    "id": "s10",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "symbol generator, flight director, primary pitch trim, configuration trim, mach trim, autopilot, yaw damper,",
+    "caption_tr": "sembol üreteci, uçuş direktörü, birincil pitch trim, konfigürasyon trim, mach trim, otopilot, yaw damper,"
+  },
+  {
+    "id": "s11",
+    "title": "CCA Functions",
+    "title_tr": "CCA Fonksiyonları",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "symbol generator, flight director, primary pitch trim, configuration trim, mach trim, autopilot, yaw damper, and rudder boost.",
+    "caption_tr": "sembol üreteci, uçuş direktörü, birincil pitch trim, konfigürasyon trim, mach trim, otopilot, yaw damper ve rudder boost."
+  },
+  {
+    "id": "s12",
+    "title": "Functional CCAs in This Installation",
+    "title_tr": "Bu Konfigürasyonda Aktif CCA’lar",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Not all of these functions are made used of in the computer. When installed on the pilot's and co-pilot'stations, only these CCAs are functional as shown above.",
+    "caption_tr": "Bu fonksiyonların tamamı bu bilgisayarda kullanılmaz. Pilot ve kopilot istasyonlarına kurulduğunda, yalnızca yukarıda gösterilen CCA’lar aktiftir."
+  },
+  {
+    "id": "s13",
+    "title": "Trim & Rudder Systems Not Covered Here",
+    "title_tr": "Trim ve Rudder Sistemleri Bu Bölümde Yok",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The primary pitch trim, configuration trim, mach trim and rudder boost systems will not be dealt with in this chapter. These systems belong to Flight Control Systems and they will be discussed in that chapter.",
+    "caption_tr": "Birincil pitch trim, konfigürasyon trim, mach trim ve rudder boost sistemleri bu bölümde ele alınmayacaktır. Bu sistemler Uçuş Kontrol Sistemleri kapsamındadır ve o bölümde anlatılacaktır."
+  },
+  {
+    "id": "s14",
+    "title": "IC-600 1 / IC-600 2 and IC BUS",
+    "title_tr": "IC-600 1 / IC-600 2 ve IC BUS",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "For simplicity we shall call pilot's computer as IC-600 1, and co-pilot's computer as IC-600 2. The two IC-600s communicate with each other via a bi-directional integrated computer bus (IC BUS). This allows flight directors and symbol generators to share, compare and communicate",
+    "caption_tr": "Basitlik için pilot bilgisayarına IC-600 1, kopilot bilgisayarına IC-600 2 diyeceğiz. İki IC-600, çift yönlü entegre bilgisayar veri yolu (IC BUS) üzerinden haberleşir. Bu sayede flight director’lar ve sembol üreteçleri paylaşım yapabilir, karşılaştırabilir ve iletişim kurabilir."
+  },
+  {
+    "id": "s15",
+    "title": "IC-600 Inputs",
+    "title_tr": "IC-600 Girişleri",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Each IC-600 computer receives inputs from: Attitude and heading reference system (AHRS)",
+    "caption_tr": "Her IC-600 bilgisayarı şu kaynaklardan giriş alır: Attitude and Heading Reference System (AHRS)"
+  },
+  {
+    "id": "s16",
+    "title": "IC-600 Inputs",
+    "title_tr": "IC-600 Girişleri",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Each IC-600 computer receives inputs from: Attitude and heading reference system (AHRS), Air data computer (ADC)",
+    "caption_tr": "Her IC-600 bilgisayarı şu kaynaklardan giriş alır: AHRS, Air Data Computer (ADC)"
+  },
+  {
+    "id": "s17",
+    "title": "IC-600 Inputs",
+    "title_tr": "IC-600 Girişleri",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Each IC-600 computer receives inputs from: Attitude and heading reference system (AHRS), Air data computer (ADC), Data acquisition unit (DAU)",
+    "caption_tr": "Her IC-600 bilgisayarı şu kaynaklardan giriş alır: AHRS, ADC, Data Acquisition Unit (DAU)"
+  },
+  {
+    "id": "s18",
+    "title": "IC-600 Inputs",
+    "title_tr": "IC-600 Girişleri",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Each IC-600 computer receives inputs from: Attitude and heading reference system (AHRS), Air data computer (ADC), Data acquisition unit (DAU), Integrated navigation unit (INU)",
+    "caption_tr": "Her IC-600 bilgisayarı şu kaynaklardan giriş alır: AHRS, ADC, DAU, Integrated Navigation Unit (INU)"
+  },
+  {
+    "id": "s19",
+    "title": "IC-600 Inputs",
+    "title_tr": "IC-600 Girişleri",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Each IC-600 computer receives inputs from: Attitude and heading reference system (AHRS), Air data computer (ADC), Data acquisition unit (DAU), Integrated navigation unit (INU), Radio altimeter system",
+    "caption_tr": "Her IC-600 bilgisayarı şu kaynaklardan giriş alır: AHRS, ADC, DAU, INU, Radio Altimeter System"
+  },
+  {
+    "id": "s20",
+    "title": "AHRS Outputs",
+    "title_tr": "AHRS Çıkışları",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "AHRS provides heading and attitude outputs.",
+    "caption_tr": "AHRS, heading (baş) ve attitude (tutum) çıkışlarını sağlar."
+  },
+  {
+    "id": "s21",
+    "title": "ADC Outputs",
+    "title_tr": "ADC Çıkışları",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "ADC provides barometric altitude, indicated airspeed and mach, vertical speed, static air temperature (SAT) and true airspeed (TAS).",
+    "caption_tr": "ADC; barometrik irtifa, IAS ve Mach, dikey hız, statik hava sıcaklığı (SAT) ve gerçek hava hızı (TAS) bilgilerini sağlar."
+  },
+  {
+    "id": "s22",
+    "title": "DAU Engine Data",
+    "title_tr": "DAU Motor Verisi",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "It also taps information from the engine to provide IC-600 computer with engine parameters for display.",
+    "caption_tr": "Ayrıca motordan bilgi alarak IC-600’e, ekranda gösterilecek motor parametrelerini sağlar."
+  },
+  {
+    "id": "s23",
+    "title": "INU Navigation Data",
+    "title_tr": "INU Navigasyon Verisi",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Integreted navigation unit, which contains VOR, DME, ILS, ADF and marker beacon receivers, all integrated into one box, povides IC-600 with navigation data required for display in the cockpit.",
+    "caption_tr": "VOR, DME, ILS, ADF ve marker beacon alıcılarını tek bir kutuda birleştiren Entegre Navigasyon Ünitesi (INU), kokpitte görüntüleme için gerekli navigasyon verisini IC-600’e sağlar."
+  },
+  {
+    "id": "s24",
+    "title": "Radio Altitude Output",
+    "title_tr": "Radyo İrtifa Çıkışı",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Radio altitude system supplies an output of absolute height above terrain.",
+    "caption_tr": "Radyo irtifa sistemi, arazi üzerindeki mutlak yüksekliği (AGL) çıkış olarak sağlar."
+  },
+  {
+    "id": "s25",
+    "title": "IC-600 Processing and Display",
+    "title_tr": "IC-600 İşleme ve Gösterim",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "All these data from the various sources are fed to the IC-600 computer which then processes the information. The symbol generator in the IC-600 then dispatches the information for display in the cockpit.",
+    "caption_tr": "Bu farklı kaynaklardan gelen tüm veriler IC-600’e beslenir ve IC-600 bu bilgileri işler. IC-600 içindeki sembol üreteci daha sonra kokpitte görüntülenmesi için bilgiyi ilgili ekranlara gönderir."
+  },
+  {
+    "id": "s26",
+    "title": "Display Units (DU 1–4)",
+    "title_tr": "Display Unit’ler (DU 1–4)",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "The main displays in the cockpit consist of four display units (DU). They are cathode-ray tubes, and are mounted in the aircraft instrument panel. The DUs are labeled from left to right as DU 1, DU 2, DU 3 and DU 4.",
+    "caption_tr": "Kokpitteki ana göstergeler dört adet Display Unit’ten (DU) oluşur. Bunlar katot ışın tüplüdür (CRT) ve gösterge paneline monte edilmiştir. Soldan sağa DU 1, DU 2, DU 3 ve DU 4 olarak adlandırılır."
+  },
+  {
+    "id": "s27",
+    "title": "ICSG Reversion Selector",
+    "title_tr": "ICSG Reversion Seçici",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "The symbol generators in the respective IC-600 computers interact with the corresponding two DUs and present them with detailed graphics and digital data displays. This is done through a ICSG reversion selector on the system reversion panel which is located on the lower instrument panel. The selector is a 3-position switch: 1--ICSG NORM--2.",
+    "caption_tr": "İlgili IC-600 bilgisayarlarındaki sembol üreteçleri, kendi tarafındaki iki DU ile etkileşir ve ayrıntılı grafik/dijital verileri ekranlara gönderir. Bu işlem, alt gösterge panelinde bulunan sistem reversion panelindeki ICSG reversion seçici üzerinden yapılır. Seçici 3 konumludur: 1 — ICSG — NORM — 2."
+  },
+  {
+    "id": "s28",
+    "title": "Normal ICSG Operation",
+    "title_tr": "Normal ICSG Çalışması",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "With the selector in the NORM position, SG 1 provides information to DUs 1 and 2 to display and EICAS respectively. Similarly, SG 2 provides data to DUs 3 and 4 to display and",
+    "caption_tr": "Seçici NORM konumundayken SG 1; DU 1 ve DU 2’ye sırasıyla (PFD) ve EICAS için bilgi sağlar. Benzer şekilde SG 2; DU 3 ve DU 4’e ilgili ekranları sürmek için veri sağlar."
+  },
+  {
+    "id": "s29",
+    "title": "IC-600 Cooling Fan",
+    "title_tr": "IC-600 Soğutma Fanı",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "Each IC-600 is cooled by a fan in the forward avionics bay. If the fan fails, the cooling of the IC-600 is affected.",
+    "caption_tr": "Her IC-600, ön aviyonik bölmesindeki bir fan ile soğutulur. Fan arızalanırsa IC-600’ün soğutması etkilenir."
+  },
+  {
+    "id": "s30",
+    "title": "IC Fan Fail Indication",
+    "title_tr": "IC Fan Arızası Göstergesi",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "Failure of the fan is indicated by white message 'IC 1 or 2 FAN FAIL on the crew alerting system (CAS). If the temperature of the computer continues to rise and if it exceeds the following warnings will be issued:",
+    "caption_tr": "Fan arızası, ekip uyarı sistemi (CAS) üzerinde beyaz 'IC 1 or 2 FAN FAIL' mesajı ile gösterilir. Bilgisayar sıcaklığı yükselmeye devam eder ve belirli bir değeri aşarsa aşağıdaki uyarılar verilir:"
+  },
+  {
+    "id": "s31",
+    "title": "Overheat Warning Step 1",
+    "title_tr": "Aşırı Isınma Uyarısı Adım 1",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "Single chime aural warning will sound",
+    "caption_tr": "Tek bir chime (sesli uyarı) duyulur."
+  },
+  {
+    "id": "s32",
+    "title": "Overheat Warning Step 2",
+    "title_tr": "Aşırı Isınma Uyarısı Adım 2",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "single chime aural warning will sound, master CAUT lights flashing,",
+    "caption_tr": "Tek chime sesli uyarı duyulur, master CAUT ışıkları yanıp söner,"
+  },
+  {
+    "id": "s33",
+    "title": "Overheat Warning Step 3",
+    "title_tr": "Aşırı Isınma Uyarısı Adım 3",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "single chime aural warning will be heard, master CAUT lights flashing, and flashing amber message IC 1or 2 OVHT is posted on the crew alerting system (CAS)",
+    "caption_tr": "Tek chime sesli uyarı duyulur, master CAUT ışıkları yanıp söner ve CAS üzerinde yanıp sönen amber 'IC 1 or 2 OVHT' mesajı gösterilir."
+  },
+  {
+    "id": "s34",
+    "title": "Computer Shutdown Effects",
+    "title_tr": "Bilgisayar Kapanmasının Etkileri",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "If the temperature continues to increase to above the computer will shutdown. With the computer inoperative, the affected DUs may become blank with red crosses over them. If the failure involves IC-600 1, backup engine page 1 will be automatically selected on the RMU 1.",
+    "caption_tr": "Sıcaklık artmaya devam eder ve belirli bir değerin üzerine çıkarsa bilgisayar kapanır. Bilgisayar devre dışı kalınca etkilenen DU’lar kırmızı çarpılarla blank (boş) olabilir. Arıza IC-600 1’i içeriyorsa, RMU 1 üzerinde Backup Engine Page 1 otomatik seçilir."
+  },
+  {
+    "id": "s35",
+    "title": "Computer Shutdown Effects",
+    "title_tr": "Bilgisayar Kapanmasının Etkileri",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "If the temperature continues to increase to above the computer will shutdown. With the computer inoperative, the affected DUs may become blank with red crosses over them. If the failure involves IC-600 1, backup engine page 1 will be automatically selected on the RMU 1.",
+    "caption_tr": "Sıcaklık artmaya devam eder ve belirli bir değerin üzerine çıkarsa bilgisayar kapanır. Bilgisayar devre dışı kalınca etkilenen DU’lar kırmızı çarpılarla blank (boş) olabilir. Arıza IC-600 1’i içeriyorsa, RMU 1 üzerinde Backup Engine Page 1 otomatik seçilir."
+  },
+  {
+    "id": "s36",
+    "title": "Failure Symptoms",
+    "title_tr": "Arıza Belirtileri",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "Us, 2 large red cross on one or both DUs, or 3) erroneous or erratic display of data on either or both DUs.",
+    "caption_tr": "Belirtiler: 1) (metin eksik), 2) bir veya iki DU üzerinde büyük kırmızı çarpı, veya 3) bir veya iki DU’da hatalı / dengesiz (erratic) veri gösterimi."
+  },
+  {
+    "id": "s37",
+    "title": "ICSG Reversion Procedure",
+    "title_tr": "ICSG Reversion İşlemi",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "To rectify the situation if any of these symptoms is observed, an ICSG reversion is carried out. This is done by moving the ICISG reversion selector to the operative computer. In the example above, SG 1 has failed. Touch ICSG selector to simulate positioning",
+    "caption_tr": "Bu belirtilerden herhangi biri görülürse durumu düzeltmek için ICSG reversion yapılır. Bu, IC/SG reversion seçiciyi çalışan (operative) bilgisayara alarak gerçekleştirilir. Yukarıdaki örnekte SG 1 arızalanmıştır. Konumlandırmayı simüle etmek için ICSG seçicisine dokun."
+  },
+  {
+    "id": "s38",
+    "title": "ICSG to Position 2 Effects",
+    "title_tr": "ICSG 2 Konumu Sonuçları",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "When the selector is moved to position 2, the following occur: - All DUs are driven by SG 2 is lost and both inboard DUs will display EICAS, -ADC 2 and AHRS 2 are supplying data to all DUs through IC-600",
+    "caption_tr": "Seçici 2 konumuna alındığında şu durumlar oluşur: - Tüm DU’lar SG 2 tarafından sürülür; (metinde eksik kısım var) ve her iki iç DU EICAS gösterir, - ADC 2 ve AHRS 2, IC-600 üzerinden tüm DU’lara veri sağlar."
+  },
+  {
+    "id": "s39",
+    "title": "Controllers Inoperative After Reversion",
+    "title_tr": "Reversion Sonrası Kontrollerin Devre Dışı Kalması",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Display controller 1, DUs 1 and 2 bezel controllers are inoperative. Under this condition, the displays on DUs 1 and 2 are repetition of DUs 4 and 3 respectively.",
+    "caption_tr": "Display controller 1 ile DU 1 ve DU 2 bezel kontrolörleri devre dışıdır. Bu durumda DU 1 ve DU 2 üzerindeki görüntüler sırasıyla DU 4 ve DU 3’ün tekrar (repetition) gösterimidir."
+  },
+  {
+    "id": "s40",
+    "title": "Amber Annunciations in Position 2",
+    "title_tr": "2 Konumunda Amber Anonslar",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "With ICSG selector is in number 2 position, amber annunciations of ADC 2, ATT 2 and SG 2 appear on top and left of ADI. Also, MAG 2 annunciation appears in amber above the HSI. These annunciations are seen on both the PFDs. They highlight to the crew that both sides of the displays are relying on the same sources, namely, ADC 2, AHRS 2 and SG 2.",
+    "caption_tr": "ICSG seçici 2 konumundayken ADI’nin üst/sol kısmında ADC 2, ATT 2 ve SG 2 amber anonsları görünür. Ayrıca HSI’ın üzerinde MAG 2 anonsu amber görünür. Bu anonslar her iki PFD’de de görülür ve iki tarafın da aynı kaynaklara (ADC 2, AHRS 2, SG 2) dayandığını ekibe belirtir."
+  },
+  {
+    "id": "s41",
+    "title": "Annunciations in Position 1",
+    "title_tr": "1 Konumunda Anonslar",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "Similarly, if the ICSG switch is selected to 1, ADC 1, ATT 1, SG 1 and MAG 1 annunciations will be displayed on the PFDs. This time the sources that are being used by both sides are ADC 1, AHRS1 and SG 1.",
+    "caption_tr": "Benzer şekilde ICSG anahtarı 1 konumuna alınırsa PFD’lerde ADC 1, ATT 1, SG 1 ve MAG 1 anonsları gösterilir. Bu sefer iki tarafın da kullandığı kaynaklar ADC 1, AHRS 1 ve SG 1’dir."
+  },
+  {
+    "id": "s42",
+    "title": "IC BUS Failure Warnings",
+    "title_tr": "IC BUS Arızası Uyarıları",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "The integrated computer (IC) bus allows exchange of infomation between the two computers. If the IC-bus becomes invalid, the following warnings will be issued:",
+    "caption_tr": "Entegre bilgisayar (IC) veri yolu iki bilgisayar arasında bilgi alışverişini sağlar. IC-bus geçersiz hale gelirse aşağıdaki uyarılar verilir:"
+  },
+  {
+    "id": "s43",
+    "title": "IC BUS Failure Warnings",
+    "title_tr": "IC BUS Arızası Uyarıları",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "The integrated computer (IC) bus allows exchange of infomation between the two computers. If the IC-bus becomes invalid, the following warnings will be issued: - single chime will sound,",
+    "caption_tr": "IC bus iki bilgisayar arasında bilgi alışverişini sağlar. IC-bus geçersiz olursa şu uyarılar verilir: - tek chime sesi duyulur,"
+  },
+  {
+    "id": "s44",
+    "title": "IC BUS Failure Warnings",
+    "title_tr": "IC BUS Arızası Uyarıları",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "The integrated computer (IC) bus allows exchange of infomation between the two computers. If the IC-bus becomes invalid, the following warnings will be issued: - single chime will sound, master CAUT lights illuminate flashing,",
+    "caption_tr": "IC bus iki bilgisayar arasında bilgi alışverişini sağlar. IC-bus geçersiz olursa: - tek chime sesi duyulur, master CAUT ışıkları yanıp sönecek şekilde yanar,"
+  },
+  {
+    "id": "s45",
+    "title": "IC BUS FAIL Message",
+    "title_tr": "IC BUS FAIL Mesajı",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "The integrated computer (IC) bus allows exchange of infomation between the two computers. If the IC-bus becomes invalid, the following warnings will be issued: - single chime will sound, master CAUT lights illuminate flashing, amber message 'IC BUS FAIL flashes on the CAS. The same phenomenon will also be observed if the off-side IC-600 ie IC-600 2 fails.",
+    "caption_tr": "IC bus iki bilgisayar arasında bilgi alışverişini sağlar. IC-bus geçersiz olursa: - tek chime sesi duyulur, master CAUT ışıkları yanıp söner ve CAS üzerinde amber 'IC BUS FAIL' mesajı yanıp söner. Aynı durum off-side IC-600 (yani IC-600 2) arızalanırsa da gözlenir."
+  }
+]

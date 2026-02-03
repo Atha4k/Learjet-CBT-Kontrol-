@@ -1,0 +1,11 @@
+{
+  "title": "Stall Warning",
+  "pages": 9,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "stall-warning-slides",
+  "audioDir": "stall-warning-audio",
+  "captionsManifest": "stall-warning-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Tank Venting",
+  "pages": 4,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "tank-venting-slides",
+  "audioDir": "tank-venting-audio",
+  "captionsManifest": "tank-venting-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

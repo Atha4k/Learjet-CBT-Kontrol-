@@ -1,0 +1,13 @@
+{
+  "title": "AC Power",
+  "pages": 6,
+  "pad": 2,
+  "namePrefix": "s",
+
+  "slidesDir": "ac-power-slides",
+  "audioDir": "ac-power-audio",
+  "captionsManifest": "ac-power-captions/captions.json",
+
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

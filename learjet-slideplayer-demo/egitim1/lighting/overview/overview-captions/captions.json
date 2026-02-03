@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s01",
+    "title": "Lighting System Overview",
+    "title_tr": "Aydınlatma Sistemi Genel Bakış",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The aircraft lighting system is divided into three main categories: flight compartment lighting, passenger compartment lighting, and exterior lighting. Each category is designed to provide appropriate illumination for safe operation, passenger comfort, and external visibility.",
+    "caption_tr": "Uçağın aydınlatma sistemi üç ana başlık altında incelenir: uçuş bölmesi aydınlatması, yolcu kabini aydınlatması ve dış aydınlatma. Her bir kategori, güvenli operasyon, yolcu konforu ve dış görünürlük sağlamak amacıyla tasarlanmıştır."
+  },
+  {
+    "id": "s02",
+    "title": "Flight Compartment Lighting",
+    "title_tr": "Uçuş Bölmesi Aydınlatması",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Flight compartment lighting consists of lights and controls necessary to illuminate the cockpit area, flight instruments, and control switches to ensure safe aircraft operation under all lighting conditions.",
+    "caption_tr": "Uçuş bölmesi aydınlatması; kokpit alanını, uçuş enstrümanlarını ve kontrol anahtarlarını aydınlatmak için gerekli olan ışıklar ve kumandalardan oluşur. Tüm ışık koşullarında güvenli uçuşu destekler."
+  },
+  {
+    "id": "s03",
+    "title": "Passenger Compartment Lighting",
+    "title_tr": "Yolcu Kabini Aydınlatması",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Passenger compartment lighting consists of lights and controls required to illuminate the cabin area, providing passenger comfort and adequate visibility during boarding, flight, and disembarkation.",
+    "caption_tr": "Yolcu kabini aydınlatması, kabin alanının aydınlatılmasını sağlayan ışıklar ve kontrollerden oluşur. Yolcuların uçağa binişi, uçuş süreci ve iniş sırasında konfor ve görüş sağlar."
+  },
+  {
+    "id": "s04",
+    "title": "Exterior Lighting",
+    "title_tr": "Dış Aydınlatma",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Exterior lighting consists of lights and controls installed on the exterior of the aircraft. These lights improve aircraft visibility, support ground operations, and assist in navigation and collision avoidance.",
+    "caption_tr": "Dış aydınlatma; uçağın dış yüzeyine yerleştirilmiş ışıklar ve kontrollerden oluşur. Uçağın görünürlüğünü artırır, yer operasyonlarını destekler ve seyir ile çarpışma önlemeye yardımcı olur."
+  }
+]

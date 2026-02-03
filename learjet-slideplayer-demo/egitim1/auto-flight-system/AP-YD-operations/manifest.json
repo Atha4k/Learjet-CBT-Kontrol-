@@ -1,0 +1,11 @@
+{
+  "title": "AP / YD Operations",
+  "pages": 83,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "AP-YD-operations-slides",
+  "audioDir": "AP-YD-operations-audio",
+  "captionsManifest": "AP-YD-operations-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

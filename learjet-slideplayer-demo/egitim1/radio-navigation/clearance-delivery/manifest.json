@@ -1,0 +1,11 @@
+{
+  "title": "Clearance Delivery",
+  "pages": 18,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "clearance-delivery-slides",
+  "audioDir": "clearance-delivery-audio",
+  "captionsManifest": "clearance-delivery-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

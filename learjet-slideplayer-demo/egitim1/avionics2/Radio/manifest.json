@@ -1,0 +1,11 @@
+{
+  "title": "Radio",
+  "pages": 12,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "Radio-slides",
+  "audioDir": "Radio-audio",
+  "captionsManifest": "Radio-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

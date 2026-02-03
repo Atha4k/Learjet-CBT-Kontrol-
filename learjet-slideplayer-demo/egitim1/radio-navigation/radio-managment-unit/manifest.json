@@ -1,0 +1,11 @@
+{
+  "title": "Radio Management Unit",
+  "pages": 69,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "radio-managment-unit-slides",
+  "audioDir": "radio-managment-unit-audio",
+  "captionsManifest": "radio-managment-unit-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

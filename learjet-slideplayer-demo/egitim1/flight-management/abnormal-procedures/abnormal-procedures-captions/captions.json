@@ -1,0 +1,162 @@
+[
+  {
+    "id": "s01",
+    "title": "If an engine fails or is shutdown, FAIL will be displayed. T…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "If an engine fails or is shutdown, FAIL will be displayed. The FAIL can be removed by placing the cursor over the FAIL and pressing the BACK key.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The pilot should manually enter a zero value for the fuel fl…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The pilot should manually enter a zero value for the fuel flow of the failed engine in place of the word FAIL. This will reinstate fuel related estimates such as fuel over destination, specific range, etc, for the remainder of the trip.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "If the fuel flow input has returned (such as after engine sh…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "If the fuel flow input has returned (such as after engine shut down and restart) it will be restored to normal operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "These procedures are to be followed after electrical power i…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "These procedures are to be followed after electrical power is restored following a power failure to the The accuracy of the may be affected following power interruption. This may include a simultaneous power loss to sensor.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Touch ONOFF key. If the time span from the beginning of the …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Touch ONOFF key. If the time span from the beginning of the power failure to the time this key is pressed is less than 7 seconds, the will display the last displayed page.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "After a short delay, the quality factor should decrease to a…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "After a short delay, the quality factor should decrease to a normal value. This is shown on DATA page 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "If the POSITION UNCERTAIN message is displayed, it should di…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "If the POSITION UNCERTAIN message is displayed, it should disappear as the quality factor improves.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "If the power failure exceeds more than 7 seconds and the ONO…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "If the power failure exceeds more than 7 seconds and the ONOFF key is selected, POWER FAIL page will be displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The latitudelongitude displayed on the POWER FAIL page repre…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The latitudelongitude displayed on the POWER FAIL page represents the best computed position coordinates at the time of power failure. The UTC shown is the time of that failure, and the duration of the interruption is displayed in minutes and seconds.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "On DATA page 3, the latitudelongitude coordinates displayed …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "On DATA page 3, the latitudelongitude coordinates displayed after POS represent the dead reckoning position estimate calculated using the last known groundspeed and track angle for the duration of power loss. To resolve the accuracy of the position, the following steps are carried out. a) Press the POS line select key to access the DEFINE POSITION page.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Press line select key to position the cursor over the system…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Press line select key to position the cursor over the systems latitude coordinates.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "This procedure will improve accuracy of the position. The qu…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "This procedure will improve accuracy of the position. The quality factor on DATA page 2 will return to normal value after a short delay.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "If the message POSITION UNCERTAIN is displayed, it should di…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "If the message POSITION UNCERTAIN is displayed, it should disappear.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "If the power failure occurs and is restored after 7 minutes …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "If the power failure occurs and is restored after 7 minutes has expired, the procedure below must be carried out. This same procedure may also be carried out if the is turned on the first time in flight. Press ONOFF key.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The system will run through the self-test and then display t…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The system will run through the self-test and then display the initialization page. Pressing the ACCEPT line select key will initialize the Having initialized the the next step is to update the best computed position. Touch DATA key.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "When over a known geographical position, Touch HOLD POS",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When over a known geographical position, Touch HOLD POS",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "A snapshot of geographical position is taken when HOLD POS l…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "A snapshot of geographical position is taken when HOLD POS line select key is pressed. however, continues to track the position of the aircraft. Press the POS",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "The DEFINE POSITION page will be displayed and the cursor wi…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The DEFINE POSITION page will be displayed and the cursor will default to the REF field. Touch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Pressing 2R allows entry of known coordinates. Watch.",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Pressing 2R allows entry of known coordinates. Watch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Now, set up flight plan route using key.",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Now, set up flight plan route using key.",
+    "caption_tr": ""
+  }
+]

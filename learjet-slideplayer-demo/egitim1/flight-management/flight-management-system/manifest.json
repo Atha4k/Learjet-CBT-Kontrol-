@@ -1,0 +1,11 @@
+{
+  "title": "Flight Management System",
+  "pages": 22,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "flight-management-system-slides",
+  "audioDir": "flight-management-system-audio",
+  "captionsManifest": "flight-management-system-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

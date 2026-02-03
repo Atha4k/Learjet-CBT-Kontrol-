@@ -1,0 +1,11 @@
+{
+  "title": "Flaps",
+  "pages": 25,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "flaps-slides",
+  "audioDir": "flaps-audio",
+  "captionsManifest": "flaps-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

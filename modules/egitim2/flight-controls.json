@@ -3,14 +3,14 @@
   "title": "Flight Controls",
   "summary": "Flight controls system overview and lessons.",
   "topics": [
-    { "id": "fc-01", "title": "General", "type": "lesson", "description": "" },
-    { "id": "fc-02", "title": "Elevators", "type": "lesson", "description": "" },
-    { "id": "fc-03", "title": "Ailerons", "type": "lesson", "description": "" },
-    { "id": "fc-04", "title": "Rudders", "type": "lesson", "description": "" },
-    { "id": "fc-05", "title": "Spoilers", "type": "lesson", "description": "" },
-    { "id": "fc-06", "title": "Flaps", "type": "lesson", "description": "" },
-    { "id": "fc-07", "title": "Stabilizer Trim", "type": "lesson", "description": "" },
-    { "id": "fc-08", "title": "Stall Warning", "type": "lesson", "description": "" },
-    { "id": "fc-10", "title": "Quiz", "type": "quiz", "description": "" }
+    { "id": "general", "title": "General", "type": "lesson", "description": "" },
+    { "id": "elevators", "title": "Elevators", "type": "lesson", "description": "" },
+    { "id": "ailerons", "title": "Ailerons", "type": "lesson", "description": "" },
+    { "id": "rudders", "title": "Rudders", "type": "lesson", "description": "" },
+    { "id": "spoilers", "title": "Spoilers", "type": "lesson", "description": "" },
+    { "id": "flaps", "title": "Flaps", "type": "lesson", "description": "" },
+    { "id": "stabilizer-trim", "title": "Stabilizer Trim", "type": "lesson", "description": "" },
+    { "id": "stall-warning", "title": "Stall Warning", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

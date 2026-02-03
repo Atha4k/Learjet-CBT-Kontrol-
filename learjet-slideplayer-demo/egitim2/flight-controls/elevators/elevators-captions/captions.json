@@ -1,0 +1,170 @@
+[
+  {
+    "id": "s01",
+    "title": "The elevators are hinged to the aft edge of the horizontal s…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The elevators are hinged to the aft edge of the horizontal stabilizer. They are connected to the control columns through 2 separate and independent cable systems, push pull rods and cranks. pop epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The pilot's control column is connected via a cable system t…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The pilot's control column is connected via a cable system to the left elevator. This cable system runs through the bottom of the airplane and ends at the left aft quadrant. Attached to this quadrant is the lower push rod. The upper push rod is connected to the lower rod and moves the left elevator. a epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The co-pilot's control column is connected via another cable…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The co-pilot's control column is connected via another cable system to the right elevator. This cable run is identical to the left cable system except through the engine rotor burst area. Here, the cable is routed upwards to the ceiling. This prevents both the cables from being cut by shrapnel resulting from an engine burst. a epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Now, the left and right elevator cable systems are independe…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Now, the left and right elevator cable systems are independent of each other. in order for the 2 elevators to move in unison, an elevator forward disconnect assembly joins the 2 control columns at the forward end. At the aft end, an aft disconnect assembly joins the 2 upper push rods to the 2 lower pushrods. ew epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The auto-pilot elevator operation is provided by the auto-pi…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The auto-pilot elevator operation is provided by the auto-pilot pitch servo motor that is connected to the left aft elevator quadrant. This motor incorporates an electrical clutch that engages only when the auto-pilot is engaged. regen) epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Depressing and holding the Touch Control Steering button als…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Depressing and holding the Touch Control Steering button also disengage the clutch while held, but it does not disengage the auto-pilot. pony epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "After disconnecting, the pilot controls pitch through the le…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "After disconnecting, the pilot controls pitch through the left elevator. eo epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Forward Disconnect Assembly Pulling the disconnect lever sep…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Forward Disconnect Assembly Pulling the disconnect lever separates the mechanical clutch, that joins the 2 control columns. A switch, attached to the lever, sends an electrical signal to the aft disconnect assembly when the lever is pulled. po epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The Aft Disconnect Assembly is an electro - mechanical devic…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The Aft Disconnect Assembly is an electro - mechanical device. A signal from the forward disconnect switch will cause the electrically operated actuator at the aft assembly to disengage the aft mechanical elevator assembly, thus separating the left and right elevators. roa epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Once the aft assembly is disconnected, the aft elevator disc…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Once the aft assembly is disconnected, the aft elevator disconnect switch will send a disconnect signal to the DAU 2. This will bring on an advisory CAS message ELEVATOR DISC. Note that this CAS message will appear only after the aft assembly has disconnected. pes epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The 2 elevator systems are now separated and the airplane ca…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The 2 elevator systems are now separated and the airplane can be controlled with the unjammed elevator. Returning the disconnect handle to the stowed position ( full in and vertical , will reconnect the elevator disconnect system and extinguish the CAS message. pra epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The auto-pilot cannot be re-engaged while the elevators are …",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The auto-pilot cannot be re-engaged while the elevators are disconnected. ra epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "UpDown Spring Assembly This assembly is interconnected betwe…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "UpDown Spring Assembly This assembly is interconnected between the elevator upper and lower push rods. regen) epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "This in turn applies a force onto the 2 elevator push rods. …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "This in turn applies a force onto the 2 elevator push rods. This Up Down spring assembly augments pitch stability at cruise speeds by providing higher elevator stick force as the airplane speed increases. pony epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Pitch Trim Bias(PTB) The system works in conjunction with th…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Pitch Trim Bias(PTB) The system works in conjunction with the UpDown spring assembly. Its function is to assist the pilot by providing additional spring pressure ( bias ) against elevator air loads if the horizontal stabilizer is jammed in an out-of-trim position. eo epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "The switch is located on the center forward pedestal. itis a…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The switch is located on the center forward pedestal. itis a 3 position switch, spring loaded to the center position, and has to be lifted before it can be moved forward or aft. The other positions are airplane (nose down) and NUP (nose up). When released, the switch returns to center. po epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Since the stabilizer cannot be trimmed, the pilot has to pul…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Since the stabilizer cannot be trimmed, the pilot has to pull the control column back to counteract this tendency. To assist him, he can reposition the switch towards NUP. po epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Selecting NUP causes the actuator to retract. The actuator p…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Selecting NUP causes the actuator to retract. The actuator piston end is connected to the left aft quadrant. This rotates the aft quadrant and through the push rods, repositions the elevators. The advisory CAS message PIT TRIM BIAS is displayed the moment the actuator retracts. roa epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "This repositioning of the elevators reduces the load the pil…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "This repositioning of the elevators reduces the load the pilots exerts on the control columns. Through the switch, the pilots can re-position the elevators as and when required. The advisory CAS message PIT TRIM BIAS is displayed whenever the actuator is not fully extended. pes epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Before takeoff, if the actuator is not fully extended, the a…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Before takeoff, if the actuator is not fully extended, the advisory CAS message PIT TRIM BIAS will be displayed. Advancing the thrust levers beyond with this advisory CAS message displayed will activate the unsafe take-off wamings. The CAS message will change into a warning message. pra epi mov see own ug aa I wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "Repositioning the switch towards will fully extend the actua…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Repositioning the switch towards will fully extend the actuator and reset the system. This will aiso extinguish the CAS message. ra epi mov see own ug aa I wri",
+    "caption_tr": ""
+  }
+]

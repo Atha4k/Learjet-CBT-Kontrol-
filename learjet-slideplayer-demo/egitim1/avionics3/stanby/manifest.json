@@ -1,0 +1,11 @@
+{
+  "title": "Standby Instruments",
+  "pages": 24,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "stanby-slides",
+  "audioDir": "stanby-audio",
+  "captionsManifest": "stanby-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

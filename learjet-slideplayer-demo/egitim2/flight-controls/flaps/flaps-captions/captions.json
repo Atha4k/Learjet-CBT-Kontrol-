@@ -1,0 +1,202 @@
+[
+  {
+    "id": "s01",
+    "title": "There are 2 flap segments, one on each wing. They are the fo…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "There are 2 flap segments, one on each wing. They are the fowler-type, single-siotted flaps and are electrically controlled and hydraulically operated. Each flap is supported by 3 flap tracks. pop epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Extension and retraction of the flaps is through the 2 jacks…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Extension and retraction of the flaps is through the 2 jackscrew actuators per flap. The flaps move aft and downwards. Un-commanded retraction due to airloads is prevented by the irreversibility of each actuator. a epi mov see own ug am i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Flaps Lever The flap selector lever has 4 positions - UP, 8,…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Flaps Lever The flap selector lever has 4 positions - UP, 8, 20 and with detents at the 8 and 20 positions. When retracting the flaps, there is a gate at the 20 position and the selector lever must be pulled out slightly to raise it above that setting. a epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The selector lever is attached to 2 Ts which transmit select…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The selector lever is attached to 2 Ts which transmit selected positions to the flap control unit or FCU. The AFM states that flaps must not be extended above FL ew epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Normal Flap Operation Normally, the flaps are extended by th…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Normal Flap Operation Normally, the flaps are extended by the main hydraulic system. Selecting the flap lever to 8 for take-off, causes the RVDTSs to signal the FCU. The arming solenoid valve opens when commanded by the FCU to port fluid to the servo valve. pegs epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The servo valve directs the hydraulic fluid to the flap driv…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The servo valve directs the hydraulic fluid to the flap drive motor to extend the flaps simultaneously. Flexible drive shafts, routed along the wing rear spar, transmit the rotary motion of the flaps drive motor to the input shaft of each ballscrew actuator. Ts mounted on each flap, feed back to the FCU and the flap indicating unit po epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Moving the flap lever also energizes a time-delay relay with…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Moving the flap lever also energizes a time-delay relay within the flap control unit. if the flaps fail to reach the desired selection in 75 seconds, the arming solenoid valve will close. This stops the flap drive motor operation. The normal flap extension from Up to takes about 10 seconds. por epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Alternate Flaps Extension if the main hydraulic system fails…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Alternate Flaps Extension if the main hydraulic system fails, the flaps can be operated by using the auxiliary hydraulic system. This involves selecting the hydraulic cross-flow valve switch XFLLOW) and moving the flap lever as desired. regen) epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "However, the maximum flap extension called for by the AFM wh…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "However, the maximum flap extension called for by the AFM when using the XFLOW is Flaps Also, when using XFLOW extension, it takes up to 60 seconds to lower the flaps from UP to This is due to the smaller capacity of the AUX pump. Again, note that the servo valve will close if the flaps are not in the desired position by 75 secs. pony epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The flap indications are shown on -the EICAS page as 0 to 40…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The flap indications are shown on -the EICAS page as 0 to 40 (digital format) -the EICAS-FLT page in an analog and pointer format the RMU page 1 in a digital format. - the RMU page 1 in a digital format. regen epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Let us assume that the flaps are at 8. When we move the flap…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Let us assume that the flaps are at 8. When we move the flap lever to the target magenta line will first indicate the desired flap selection. The digital displays on the EICAS page and the RMU will show 20 . The flaps digital display on the EICAS page will be boxed as the flaps are not yetin the selected 20 position. pony epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Then the 2 flap pointers will move as the flaps extend to Wh…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Then the 2 flap pointers will move as the flaps extend to When the flaps have moved to the selected position, the pointers should overlay the magenta line and the white box on the EICAS page will disappear. poy epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The normal take-off flaps setting is either 8 or The flaps d…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The normal take-off flaps setting is either 8 or The flaps digital display on the EICAS page will have a white box around it anytime - the flaps are notin the selected position or - the airplane is on the ground and the flaps are not set for take-off. pron epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Advancing the thrust levers beyond with the flaps not in tak…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Advancing the thrust levers beyond with the flaps not in take-off position will cause the take-off warnings to be activated. All the flap indications will turn red. The aural CONFIGURATION voice warning will also sound. pe epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "During flight, the spoilers should not be manually extended …",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "During flight, the spoilers should not be manually extended if the flaps are extended, except as specified in the EMERGENCY andor ABNORMAL procedures section of the AFM. A caution CAS message SPOILERS EXT is displayed if the spoilers are manually deployed with the flaps extended at 3 or more. pron epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Both the digital spoiler indications and the analog scale po…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Both the digital spoiler indications and the analog scale pointers will also turn amber anytime the spoilers are manually deployed with the flaps extended at 3 or more. ramon epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Flap Operating Speeds These flap speed limits are placarded …",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Flap Operating Speeds These flap speed limits are placarded next to the flap selector lever. The over-speed indication on the airspeed scale automatically adjusts to indicate the maximum speed for each flap setting. pn epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Flap Monitor System The flap control unit performs a self-te…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Flap Monitor System The flap control unit performs a self-test at power up and monitors for fauitsifailures within the system at all times. Additionally, the AFM requires the crew to perform a flap pre-flight test using the system test knob at the FLAPS position. regen epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "The FLAPS position on the system test knob is used during pr…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The FLAPS position on the system test knob is used during pre-flight to check - the asymmetry monitoring system - the uncommanded movements monitoring system and - to verify the shut down circuits for the flap system. pony epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "To test the system, place the system test knob to the FLAPS …",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "To test the system, place the system test knob to the FLAPS position and depress the test button. A satisfactory testis indicated by the display of the caution CAS messages FLAPS FAIL and the FLAPS FAULT. This FLAPS position on the system test knob is inhibited when the airplane is airborne. poy epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The flaps should still be operational in this case, but may …",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The flaps should still be operational in this case, but may operate in a degraded mode and at a reduced rate. Note that the indications and pointers are amber. pron epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "if the fault conditions clears, this fault may be reset by p…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "if the fault conditions clears, this fault may be reset by positioning the test knob to FLAP RESET and depressing it. pe epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "With this failure, the arming solenoid valve will close and …",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "With this failure, the arming solenoid valve will close and all extendretract commands to the flap control unit will be disabled. The entire flap system is now inoperative. pron epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Once a failure is detected, the flaps will freeze at the tim…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Once a failure is detected, the flaps will freeze at the time of failure and its pointers and indications will turn red. One malfunction that will cause this is flap asymmetry. This will occur if the FCU detects the flaps split by more than 2 to 7, depending on flap speed. Uncommanded movement of the flaps will also shut down the flaps system. ramon epi mov see own ug aa i wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "The crew cannot reset the flap system after a flap asymmetry…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The crew cannot reset the flap system after a flap asymmetry or uncommanded movement malfunction. pn epi mov see own ug aa i wri",
+    "caption_tr": ""
+  }
+]

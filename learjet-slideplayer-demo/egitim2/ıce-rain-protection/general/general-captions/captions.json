@@ -1,0 +1,130 @@
+[
+  {
+    "id": "s01",
+    "title": "The anti-icing and rain protection system on the Learjet 45 …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The anti-icing and rain protection system on the Learjet 45 is designed to detect and prevent ice build up on the - engine nacelle lip, engine inlet pressure and temperature probe, - the windshields",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "- the leading edges of the wings and horizontal stabilizer, …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "- the leading edges of the wings and horizontal stabilizer, - the pitot-static probes, stall warning vanes and total temperature probe.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Icing condition exists whenever -the SAT is between and and …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Icing condition exists whenever -the SAT is between and and - visible moisture is present. This includes clouds, rain, snow, sleet, ice crystals, or fog with a visibility of less than 1 mile.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The anti-icing systems are controlled through the switches o…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The anti-icing systems are controlled through the switches on the ANTI-ICE panel located in the center instrument panel. Their circuit breakers are found under the ANTI-ICE group.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The pneumatically heated systems are the nacelle anti-ice sy…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The pneumatically heated systems are the nacelle anti-ice system and the wingistab anti-ice system. The electrically heated components are the windshields, the pitot-static probes and the nacelle pressuretemperature probe.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Normally, the L and R NAC switches and the WINGSTAB switches…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Normally, the L and R NAC switches and the WINGSTAB switches are not selected on unless icing is encountered. Whereas the L and R switches and the L and R PROBES switches are switched on for the duration of the flight.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Ice Detection System There are 2 ways to detect ice formatio…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Ice Detection System There are 2 ways to detect ice formation on this airplane. One is by the ice detector system and the other is by a visual inspection.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Ice Detector System The ice detector is mounted on the left …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Ice Detector System The ice detector is mounted on the left side, just above the nose gear door. The ice detection system is powered whenever electrical power is available on the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "This detection system also monitors the L NAC switch, the R …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "This detection system also monitors the L NAC switch, the R NAC switch, and the WINGSTAB switch positions. Normally, all these 3 switches are OFF.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The detector consists of a probe that vibrates at a fixed fr…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The detector consists of a probe that vibrates at a fixed frequency. When ice is formed on the probe, its frequency changes and this displays a caution CAS message ICE DETECTED. Since all the 3 switches (L NAC, R NAC and WINGSTAB) are off, this will be a caution CAS message.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The non-normal checklist procedure calls for these 3 switche…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The non-normal checklist procedure calls for these 3 switches, L NAC, R NAC and WINGS TAB to be switched on. Only after ALL these 3 switches are switched ON, will the caution CAS message change into an advisory CAS message.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If any of these 3 switches is off, this becomes a caution CA…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If any of these 3 switches is off, this becomes a caution CAS message again. This CAS message ICE DETECTED is inhibited on the ground.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Once icing is detected, an internal heating element within t…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Once icing is detected, an internal heating element within the probe is automatically powered to melt the ice. The CAS message disappears when ice is no longer present. Crew are to ensure that they do not brush against or touch the probe. As this changes the frequency of the vibrating probe, this will cause the heater element to be powered.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Visual Inspection Located at both outboard ends on the wing …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Visual Inspection Located at both outboard ends on the wing leading edges is a black dot ( patch ). This is used to detect ice build-up on the wings during night operations.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Located on the center instrument panel is the Wing Inspectio…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Located on the center instrument panel is the Wing Inspection light switch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "When this Wing Inspection light switch is depressed, a beam …",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When this Wing Inspection light switch is depressed, a beam of light shines at the black spot on the right wing only. If ice is present, it will reflect the light. Note that clear ice may not be detectable from the cockpit.",
+    "caption_tr": ""
+  }
+]

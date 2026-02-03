@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s01",
+    "title": "Pitot-Static and Stall Warning Anti-ice Systems To prevent e…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Pitot-Static and Stall Warning Anti-ice Systems To prevent erroneous readings, the following probes are heated :- - left, right and standby pitot-static probes - left and right AOA (angle of attack) vanes and TAT probe.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The L PROBES and R PROBES switches are located on the anti-i…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The L PROBES and R PROBES switches are located on the anti-ice control panel. These switches control the heating for the probes as shown above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "With the switches off, their respective OFF light is illumin…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "With the switches off, their respective OFF light is illuminated. This is accompanied by the caution CAS messages LR PITOTHT and PITOTHT. Normally, the L and R PROBES switches are selected on for flight.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The integral heating elements for right pitot-static probe, …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The integral heating elements for right pitot-static probe, AOA vane and TAT probe are powered by the DC R Main Bus. The standby pitot-static probe is powered by the Right Essential Bus. Note that the TAT probe is heated only when airborne.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "A failure of the respective probe will bring on the caution …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "A failure of the respective probe will bring on the caution CAS messages as shown above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Both the left AOA vane and the pitot-static probe are powere…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Both the left AOA vane and the pitot-static probe are powered by the Left Main Bus.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "A failure of the respective probe will bring on the caution …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "A failure of the respective probe will bring on the caution CAS messages as indicated above.",
+    "caption_tr": ""
+  }
+]

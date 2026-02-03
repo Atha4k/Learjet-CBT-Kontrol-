@@ -1,0 +1,11 @@
+{
+  "title": "Tuning Operations",
+  "pages": 65,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "tuning-operations-slides",
+  "audioDir": "tuning-operations-audio",
+  "captionsManifest": "tuning-operations-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

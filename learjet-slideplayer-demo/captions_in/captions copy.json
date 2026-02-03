@@ -1,0 +1,314 @@
+[
+  {
+    "id": "s01",
+    "title": "Two display controllers are mounted in the glareshield, one …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Two display controllers are mounted in the glareshield, one for each crew.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The InhPa button toggles between setting the altimeter barom…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The InhPa button toggles between setting the altimeter barometric correction in inches of mercury (inHg) or hectoPascals (HPa). Power-up default is inHg.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The CUE button toggles the aircraft symbol between single cu…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The CUE button toggles the aircraft symbol between single cue and cross-pointer cue. Pressing either CUE button changes the cues on both PFDs to a common airplane symbol. Power-up default is single cue airplane symbol.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "This button selects the flight path angle (FPA) symbol on th…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "This button selects the flight path angle (FPA) symbol on the ADI. Power-up default option is FPA off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Power-up default is off.",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Power-up default is off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Full compass rose is the power-up default display on the Fir…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Full compass rose is the power-up default display on the First push of the HSI button changes display to partial compass arc. Second push causes to go into map display if the navigation source is Third push changes compass to full again.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Please take note that map display cannot be selected on the …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Please take note that map display cannot be selected on the if which is already displaying map, is on the same side. For this reason, on the co-pilot's side, map display is not available because is normally displayed on DU 3.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Before we proceed to talk about NAV button, let us focus our…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Before we proceed to talk about NAV button, let us focus our attention on a radio component, the Integrated Navigation Unit (INU). There are two INUs, INU 1 and INU 2. Residing inside each INU are the VOR, localizer, glideslope and marker beacon receiver module, automatic directional finder (ADF) and distance measurement equipment (DME).",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "On power up, the navigation source displayed on the is alway…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "On power up, the navigation source displayed on the is always from the on-side NAV receiver. Therefore, the navigation source annunciated on the pilot's is VORLOCIILS 1, while the co-pilot's navigation source is VORLOCIILS 2. When independent navigation sources are used, the navigation source, DME distance, desired course, course pointer and deviation bar are green in colour. Now touch the NAV button on the pilot's display controller",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Pushing pilot's NAV button changes pilot navigation source f…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Pushing pilot's NAV button changes pilot navigation source from VOR 1 to VOR 2. Both PFDs are now displaying navigation data from one common NAV receiver and therefore, the navigation information displayed on both sides are amber.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Similarly, if NAV 1 is selected as the navigation source on …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Similarly, if NAV 1 is selected as the navigation source on both PFDs, data displayed will also be amber. This flexibility of cross-selection allows crew to rely on the cross-side NAV receiver when his own receiver serviceability is suspected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If a cross selection is made as shown above, the colour of n…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If a cross selection is made as shown above, the colour of navigation information changes back to green since both sides are using independent navigation sources.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "There is only one installed on the aircraft Therefore, when …",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "There is only one installed on the aircraft Therefore, when is selected on both sides as the navigation source, the navigation data displayed on the PFDs are amber.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "But if navigation source is selected on one side and the opp…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "But if navigation source is selected on one side and the opposite side is on radio navigation, the data displayed are white. The radio navigation data remain in green.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The display controller contains two rotary bearing source se…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The display controller contains two rotary bearing source selector knobs which have OFF, NAV, ADF and positions. The left and right knobs are labelled O and respectively.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Except for which is common to both left and right bearing kn…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Except for which is common to both left and right bearing knobs, left bearing selector receives VOR and ADF signals from INU 1; and right bearing selector receives VOR and ADF signals from INU 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "When the left bearing selector is moved from its OFF positio…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "When the left bearing selector is moved from its OFF position, a cyan single pointer with circular head appears on the corresponding In the case of right bearing selector, it is a white double-line with diamond head pointer. Single pointer is also known as bearing pointer 1 and double pointer, bearing pointer 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "The display of the bearing pointers is accompanied by bearin…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The display of the bearing pointers is accompanied by bearing source annunciations which appear in the same colour as the pointers and at bottom left corner of In the NAV positon, the annunciation is VOR. In ADF or postion, itis ADFIFMS. Annunciation is followed by 1 when left bearing selector is used; 2 refers to right bearing selector. annunciaiton is not followed by a number since there is one",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Having selected VOR frequencies into the NAV receivers and p…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Having selected VOR frequencies into the NAV receivers and provided signals are received, bearing pointers will appear when the selectors are in NAV positions. In the full compass rose, bearing pointers are in full view. In the ARC, bearing pointers appear in partial with the head or tail in view. They may also be hidden away if the pointers are out of the compass arc.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "In map format, instead of pointers, navaid symbols appear on…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "In map format, instead of pointers, navaid symbols appear on the with bearings and distances correctly presented in relation to the aircraft. This is shown on the picture above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "In the ADF positions, bearing pointers point to the stations…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "In the ADF positions, bearing pointers point to the stations to provide relative bearings. In MAP display, ADF symbols are shown instead.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "In position, bearing pointers point to the active waypoint a…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "In position, bearing pointers point to the active waypoint and both pointers will coincide.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "Two concentric knobs are used to adjust brightness of displa…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Two concentric knobs are used to adjust brightness of display units (DU). Outer knob adjusts brightness of the corresponding outboard DU. Inner knob adjusts the inboard DU on the same side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "The inner knob also activates Electronic Display System (EDS…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "The inner knob also activates Electronic Display System (EDS) test function on the corresponding DUs when the knob is pushed and held for 5 to 6 seconds. Except for radio altimeter test, EDS test is only functional on the ground.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "The picture shows in the test mode when the corresponding te…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The picture shows in the test mode when the corresponding test button is pushed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "This picture shows EICAS and in the test mode.",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "This picture shows EICAS and in the test mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "When the EICAS is subjected to EDS test, the backup engine p…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "When the EICAS is subjected to EDS test, the backup engine page 1 automatically pops up on RMU 1.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "If the pilot's display controller fails, it will also render…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "If the pilot's display controller fails, it will also render the EICAS bezel controller inoperative and the MENU INOP is displayed above the controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "On the the following selections are automatically displayed:",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "On the the following selections are automatically displayed:",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "Slide 30",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "Slide 31",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "Slide 32",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "Slide 33",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "Slide 34",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Slide 35",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "Slide 36",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "Slide 37",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "If the co-pilot's display controller fails, the bezel contro…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "If the co-pilot's display controller fails, the bezel controller is inoperative and the MENU INOP is displayed above the controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "Except for the navigation source and bearing pointer that ar…",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Except for the navigation source and bearing pointer that are referenced to VOR 2, the rest of the automatic selections are the same as that of pilot's display controller failure.",
+    "caption_tr": ""
+  }
+]

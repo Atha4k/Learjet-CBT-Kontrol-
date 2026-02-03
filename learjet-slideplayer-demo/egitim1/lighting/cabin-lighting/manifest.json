@@ -1,0 +1,11 @@
+{
+  "title": "Cabin Lighting",
+  "pages": 13,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "cabin-lighting-slides",
+  "audioDir": "cabin-lighting-audio",
+  "captionsManifest": "cabin-lighting-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

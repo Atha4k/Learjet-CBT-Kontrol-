@@ -1,0 +1,11 @@
+{
+  "title": "Passenger System",
+  "pages": 11,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "passanger-system-slides",
+  "audioDir": "passanger-system-audio",
+  "captionsManifest": "passanger-system-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

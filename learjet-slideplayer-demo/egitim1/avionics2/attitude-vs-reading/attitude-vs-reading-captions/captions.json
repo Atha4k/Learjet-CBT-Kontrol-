@@ -1,0 +1,394 @@
+[
+  {
+    "id": "s01",
+    "title": "The is equipped with dual attitude and heading reference sys…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The is equipped with dual attitude and heading reference system (AHRS), each consisting of an attitude and heading reference unit (AHRU), configuration memory module and flux valve.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The AHRUs and the memory modules are located in the nose sec…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The AHRUs and the memory modules are located in the nose section. The flux valves are located at the wing tips, one on each side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The memory module is for storing of calibration data, which …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The memory module is for storing of calibration data, which is used to compensate AHRU inaccuracies due to mounting (installation errors) and local disturbances to the earth's magnetic field created by the airplane structure.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The flux valve senses the horizontal portion of the earth's …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The flux valve senses the horizontal portion of the earth's magnetic field and supplies a long-term heading reference to AHRU. The heading reference is processed by the AHRU to compute an inertially stabilised magnetic heading output.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The AHRU contains 3 Interferometer Fiber Optic Gyros (IFOG) …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The AHRU contains 3 Interferometer Fiber Optic Gyros (IFOG) that sense angular rotation around all three axes i.e. pitch, roll and yaw. It also consists of three accelerometers for sensing linear acceleration along all three axes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The central processor unit within the AHRU receives all of t…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The central processor unit within the AHRU receives all of the sensor inputs and performs the mathematical computations required to calculate aircraft attitude, heading, velociity, linear accelerations, angular rate of change and operating mode status. AHRS does not compute latitude and longitude position",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Attitude andor heading information is also used by the weath…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Attitude andor heading information is also used by the weather radar antenna, fuel quantity computer and flight director systems. AHRS 2 provides heading information through DAU 2 for the backup navigation display on the RMU. These interfaces are shown on the graphics above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Each AHRS has a primary and a secondary DC electrical power …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Each AHRS has a primary and a secondary DC electrical power sources. AHRS 1 receives primary power from the left essential bus and secondary power from right essential bus. AHRS 2 receives primary power from the right essential bus and secondary power from left essential bus. Under normal operation, primary power is active and secondary is at standby.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "When primary power voltage falls below 18 volts, secondary p…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "When primary power voltage falls below 18 volts, secondary power automatically becomes active until primary power recovers. The AHRU will exhibit no loss in performance when it switches operation between primary and secondary.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Recall from electrical power system that the left and right …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Recall from electrical power system that the left and right essential buses are powered when the respectives main batteries are selected on.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "With left and right essential powered, AHRS performs a power…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "With left and right essential powered, AHRS performs a power-up self-test. The gyros inside the AHRUSs spin up and determine the local vertical and magnetic heading. At this stage, attitude and heading outputs are not valid. Red ATT FAIL and TEST flags are annunciated on and on the RMU if backup navigation is selected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "While initialisation is taking place, the ADI sphere is comp…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "While initialisation is taking place, the ADI sphere is completely blue and the HSI begins with degrees under the lubber line. The compass card clicks towards 0 degree at one degree per second. Watch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "At 0 degree, initialisation is complete and red ATT FAIL and…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "At 0 degree, initialisation is complete and red ATT FAIL and TEST annunciations disappear on the respective and backup navigation display on the RMU. The AHRS now provides ADI with a valid attitude display. The compass on the HSI, and backup navigation sychronises to the existing heading. The initialisation process takes about 2 minutes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "It is important to note that during initialisation the airpl…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "It is important to note that during initialisation the airplane must remain stationary. Wind gusts, passenger loading, engine start or other preflight operations will not hinder AHRS alignment.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "If the initialisation requires more than two minutes, the AH…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "If the initialisation requires more than two minutes, the AHRS may have detected excessive aircraft motion.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "If the initialisation is unsatisfactory, initialisation may …",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "If the initialisation is unsatisfactory, initialisation may be restarted by cycling primary and secondary power. Momentarily turning airplane main batteries off and back on will restart initialisation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "If only one AHRS is required to be re-initialised, pull and …",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "If only one AHRS is required to be re-initialised, pull and reset the appropriate AHRS CBs. The CBs can be found on the CB panel in the INSTRUMENTINDICATIONS group. The PRI CB is on the on-side CB panel, whereas the SEC CB is on the off-side (opposite) CB panel.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "The standard AHRS operating modes are the normal mode for at…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The standard AHRS operating modes are the normal mode for attitude and the slaved mode for heading.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "In the normal mode, true airspeed (TAS) from the ADCs is use…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "In the normal mode, true airspeed (TAS) from the ADCs is used to compensate for acceleration-induced error sources normally encountered in a vertical gyro system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "In the slaved heading mode, flux valve establishes the magne…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "In the slaved heading mode, flux valve establishes the magnetic heading reference. System operation in this mode is similar to that of a conventional gyroscopically stabilized magnetic compass.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The AHR Ss then output attitude and heading data through the…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The AHR Ss then output attitude and heading data through their respective IC-600s for display on the PFDs and The displays are controlled by AHRS reversion switch located on system reversion panel on the lower instrument panel. The selector has 3 positions: 1, AHRS NORM, and 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "With the selector in the NORM position, pilot's receives dat…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "With the selector in the NORM position, pilot's receives data form AHRS 1; and co-pilot's and from AHRS 2. This is the normal operating position and, therefore, no annunciations are seen on the PFDs and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "If the selector is in 1 or 2 position, the AHRS selected wil…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "If the selector is in 1 or 2 position, the AHRS selected will provide attitude and heading references to both PFDs and This is known as AHRS reversion. In the above example, the AHRS reversion switch is placed in position 1, therefore, AHRS 1 is providing attitude and heading information to all.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "When a single AHRS is providing attitude and heading informa…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "When a single AHRS is providing attitude and heading information to both sides, amber annunciations ATT 12 appear at the top left of ADI, MAG 12 will appear above HSI as shown. 1 denotes AHRS 1, 2 denotes AHRS 2. In the earlier example, because AHRS 1 is the source providing attitude and heading references, ATT 1 and MAG 1 are annunciated as shown above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "When an AHRS fails, the following indications are observed o…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "When an AHRS fails, the following indications are observed on the associated",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "When an AHRS fails, the following indications are observed o…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue,",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "When an AHRS fails, the following indications are observed o…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue, - Red ATT FAIL flag appears in the upper centre of ADI,",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "When an AHRS fails, the following indications are observed o…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue, - Red ATT FAIL flag appears in the upper centre of ADI, - Heading compass rose freezes at existing heading, and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "When an AHRS fails, the following indications are observed o…",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue, - Red ATT FAIL flag appears in the upper centre of ADI, - Heading compass rose freezes at existing heading, and - Red FAIL flag appears on HSI above the fixed airplane symbol",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "If the failure is on AHRS 1, attitude signal will be lost to…",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "If the failure is on AHRS 1, attitude signal will be lost to weather radar antenna for stabilization. The fuel quantity reading will not be accurate unless the aircraft pitch attitude is adjusted to zero.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "If the failure occurs to ARHS 2, red FAIL flags will appear …",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "If the failure occurs to ARHS 2, red FAIL flags will appear on both and backup navigation display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "By selecting the AHRS reversion switch to the operative AHRS…",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's Touch AHRS reversion switch to simulate positioning",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "By selecting the AHRS reversion switch to the operative AHRS…",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's Touch AHRS reversion switch to simulate positioning",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "Since AHRS 2 is providing attitude and heading references to…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "Since AHRS 2 is providing attitude and heading references to all, ATT 2 and MAG 2 are annunciated on the PFDs and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "In accordance with the abnormal procedure, an attempt should…",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "In accordance with the abnormal procedure, an attempt should be made to reinitialise the failed AHRS inflight. This is done by pulling and resetting the affected AHRS CBs. In carrying out this procedure, airplane must be kept wings-level and unaccelerated flight during the re-alignment process. Inflight alignment takes about 15 seconds to complete.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "If neither AHRS has completely failed, but there is a disagr…",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "If neither AHRS has completely failed, but there is a disagreement between them on attitude or heading, the comparator monitor annunciation will appear flashing in amber and then become steady on both PFDs. The ATT will annunciate if there is a discrepency in attitude. Similarly, will annunciate if there is a difference in heading.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "The AHRUs normally receive TAS information from the on-side …",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "The AHRUs normally receive TAS information from the on-side ADC.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "In the event of a single ADC failure, they can both receives…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "In the event of a single ADC failure, they can both receives TAS from the operating ADC.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "If TAS input is completely lost on a AHRS which is very remo…",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "If TAS input is completely lost on a AHRS which is very remote, the CAS will display 'AHRS 1 or 2 BASIC message in white. Although system operation may be degraded somewhat in this mode, the manufacturer claims the AHRS still retains the same accuracy as a conventional spinning mass type gyro. However, if this occurs while airplane is on the ground, takeoff is not recommended.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s40",
+    "title": "Following entry into basic mode, the pilot must avoid sustai…",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "Following entry into basic mode, the pilot must avoid sustained, shallow banked turns of less than 6 degrees (e.g. a constant turn to hold DME arc). In addition, particular attention must be paid to ensure correct aircraft trim.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s41",
+    "title": "The AHRU receives flux valve input via AHRS HEADING FREE swi…",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "The AHRU receives flux valve input via AHRS HEADING FREE switch which is located toward the outboard end of the pilot's and co-pilots lower switch panels. These are latching type switches which are dark when slave is selected and contain a FREE annunciator that illuminates when free or directional gyro mode is selected. Touch the left HEADING FREE switch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s42",
+    "title": "When HEADIING FREE switch is pressed, FREE caption illuminat…",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "When HEADIING FREE switch is pressed, FREE caption illuminates and AHRS 1 goes into the DG mode of heading operation. In this mode, the heading output is not slaved to the flux valve. The pilot's annunciates this mode selection with in white above HSI.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s43",
+    "title": "Likewise, depressing the right HEADING FREE switch also disc…",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "Likewise, depressing the right HEADING FREE switch also disconnects AHRS 2 from its flux valve. Without the flux valve input, AHRS 2 will operate in DG (FREE) mode and DG 2 will annunciate on co-pilot's and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s44",
+    "title": "It is not recommended that AHR Ss are operated in DG mode. H…",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "It is not recommended that AHR Ss are operated in DG mode. However, DG mode might be used when flux valves have failed, OR when operating in charted areas of unreliable magnetic variation or heading",
+    "caption_tr": ""
+  },
+  {
+    "id": "s45",
+    "title": "Located beneath Heading Free switch is a 3-position slewing …",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "Located beneath Heading Free switch is a 3-position slewing switch: L--SLAVE--R. The switch is spring-loaded to the centre position.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s46",
+    "title": "When the DG mode is selected, the slewing switch becomes fun…",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "When the DG mode is selected, the slewing switch becomes functional. Toggling the switch to R slews the corresponding compass card anti-clockwise. Toggling it to L slews the compass card clockwise. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s47",
+    "title": "In the DG mode, as it is with any directional gyro, it is ne…",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "In the DG mode, as it is with any directional gyro, it is necessary to check compass heading every 5 minutes with reference to a known accurate heading source such as the standby compass. Any error can be removed by using the slewing switch to set the heading card to agree with the known reference.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s48",
+    "title": "Each AHRU is cooled by a fan which is also in nose section. …",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "Each AHRU is cooled by a fan which is also in nose section. The fan operates automatically to keep the AHRU with proper temperature limits.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s49",
+    "title": "If the fan cooling the AHRU should fail and the temperature …",
+    "imgSrc": "slides/s49.png",
+    "audioSrc": "audio/s49.mp3",
+    "caption_en": "If the fan cooling the AHRU should fail and the temperature exceeds predefined limits, an amber 'AHRS 1 or 2 OVHT message will appear on the CAS. Equipment damage may result if the AHRU is operated outside of normal temperature limits. Refer abnormal procedures for action.",
+    "caption_tr": ""
+  }
+]

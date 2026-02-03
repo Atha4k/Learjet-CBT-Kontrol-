@@ -1,0 +1,11 @@
+{
+  "title": "Cockpit Lighting",
+  "pages": 20,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "cockpit-lighting-slides",
+  "audioDir": "cockpit-lighting-audio",
+  "captionsManifest": "cockpit-lighting-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

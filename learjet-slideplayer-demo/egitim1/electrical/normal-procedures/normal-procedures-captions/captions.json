@@ -1,0 +1,344 @@
+[
+  {
+    "id": "s01",
+    "title": "Electrical Panel Status Before Power",
+    "title_tr": "Güç Verilmeden Önce Elektrik Paneli Durumu",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Before any form of electrical power is introduced to the airplane, the switch-indicators (SIs) on the electrical control panel are blank.",
+    "caption_tr": "Uçağa herhangi bir elektrik gücü verilmeden önce, elektrik kontrol panelindeki anahtar-gösterge (SI) ışıkları boştur (yanmaz)."
+  },
+  {
+    "id": "s02",
+    "title": "Selecting L BATT Powers Left Buses",
+    "title_tr": "L BATT Seçilince Sol Baralar Enerjilenir",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Depressing the left battery switch-indicator (L BATT) to ON closes the left battery, left essential, and left main contactors on the ground, thereby powering the respective buses. The electrical control panel is now powered and the OFF captions on the SIs illuminate as shown.",
+    "caption_tr": "Sol batarya anahtarını (L BATT) ON konumuna almak, yerdeyken sol batarya, sol essential ve sol main kontaktörlerini kapatır ve ilgili baraları enerjiler. Bu noktada elektrik kontrol paneli de beslenir ve gösterildiği gibi bazı SI’larda OFF yazıları yanar."
+  },
+  {
+    "id": "s03",
+    "title": "Selecting R BATT Powers Right Buses",
+    "title_tr": "R BATT Seçilince Sağ Baralar Enerjilenir",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Similarly, depressing the R BATT SI closes the right battery, right essential, and right main contactors and powers the buses as shown.",
+    "caption_tr": "Benzer şekilde R BATT SI seçildiğinde sağ batarya, sağ essential ve sağ main kontaktörleri kapanır ve gösterildiği gibi sağ taraftaki baralar enerjilenir."
+  },
+  {
+    "id": "s04",
+    "title": "Selecting EMER BATT Connects Emergency Battery",
+    "title_tr": "EMER BATT Seçilince Acil Batarya Bağlanır",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Selecting the EMER BATT switch connects the emergency battery to the emergency battery bus. The EMER caption illuminates to indicate the emergency battery is discharging. This is accompanied by the white EMER BATT annunciator on the crew warning panel.",
+    "caption_tr": "EMER BATT anahtarını seçmek, acil bataryayı acil batarya barasına bağlar. Batarya deşarj akımı veriyorsa SI üzerinde EMER yazısı yanar. Aynı anda ekip uyarı panelinde beyaz EMER BATT annunciator’ı görülür."
+  },
+  {
+    "id": "s05",
+    "title": "DU 2 Powers Up and Shows SUMRY",
+    "title_tr": "DU 2 Açılır ve Varsayılan Olarak SUMRY Gösterir",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "With the left essential bus powered, DU 2 turns on and the SUMRY page is displayed by default.",
+    "caption_tr": "Sol essential bara beslenince DU 2 açılır ve varsayılan olarak SUMRY sayfası görüntülenir."
+  },
+  {
+    "id": "s06",
+    "title": "Battery-Only: Three Independent Channels",
+    "title_tr": "Sadece Bataryalar: Üç Bağımsız Batarya Kanalı",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "With batteries as the only source of power, the system is split into three independent battery channels. The left volt indicates left battery voltage, the right volt indicates right battery voltage, and the emergency volt indicates emergency battery voltage.",
+    "caption_tr": "Güç kaynağı olarak yalnızca bataryalar varken sistem üç bağımsız batarya kanalına ayrılır. Sol volt sol batarya voltajını, sağ volt sağ batarya voltajını, emergency volt ise acil batarya voltajını gösterir."
+  },
+  {
+    "id": "s07",
+    "title": "GPU Connected: Advisory Messages Appear",
+    "title_tr": "GPU Bağlanınca: Bilgilendirme Mesajları Görünür",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "If the GPU is connected, you will observe a white advisory message EXTERNAL POWER on the CAS and a white EXT annunciation on the ELEC page. Note that these are not confirmations that the GPU parameters are acceptable.",
+    "caption_tr": "GPU uçağa bağlanınca CAS üzerinde beyaz EXTERNAL POWER mesajı ve ELEC sayfasında beyaz EXT göstergesi görülür. Ancak bunlar GPU’nun değerlerinin uygun olduğunun kesin kanıtı değildir."
+  },
+  {
+    "id": "s08",
+    "title": "Acceptable GPU Indicated by AVAIL",
+    "title_tr": "Uygun GPU, AVAIL Işığı ile Anlaşılır",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "An acceptable GPU is indicated by the green AVAIL light on the EXT SI.",
+    "caption_tr": "Uygun (kabul edilebilir) GPU, EXT SI üzerindeki yeşil AVAIL ışığı ile anlaşılır."
+  },
+  {
+    "id": "s09",
+    "title": "Selecting EXT Closes Anti-Flash Contactor",
+    "title_tr": "EXT Seçilince Anti-Flash Kontaktörü Kapanır",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Selecting EXT with AVAIL illuminated closes the anti-flash contactor and illuminates the ON caption. The AVAIL light extinguishes.",
+    "caption_tr": "AVAIL yanarken EXT seçilirse anti-flash kontaktörü kapanır ve ON yazısı yanar. AVAIL ışığı söner."
+  },
+  {
+    "id": "s10",
+    "title": "Bus-Tie and Non-Essential Contactors Close",
+    "title_tr": "Bus-Tie ve Non-Essential Kontaktörler Kapanır",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "At the same time, the bus-tie and the left and right non-essential contactors close. The remaining items to select are the L and R AV switches, if required.",
+    "caption_tr": "Aynı anda bus-tie ile sol ve sağ non-essential kontaktörler kapanır. Gerekliyse sırada L ve R AV anahtarlarının seçimi kalır."
+  },
+  {
+    "id": "s11",
+    "title": "GPU Now Powers the Entire Aircraft",
+    "title_tr": "Artık Tüm Uçak GPU ile Beslenir",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The entire aircraft is now powered by the GPU. If a battery start is intended, the AV switches should be left OFF.",
+    "caption_tr": "Artık uçağın tamamı GPU tarafından beslenir. Eğer batarya ile start yapılacaksa AV anahtarları OFF bırakılmalıdır."
+  },
+  {
+    "id": "s12",
+    "title": "GPU Charges the Batteries",
+    "title_tr": "GPU Bataryaları Şarj Eder",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Because the GPU is at a higher voltage, it charges all the batteries. The main batteries receive charging current from their respective generator buses.",
+    "caption_tr": "GPU daha yüksek voltajda olduğu için tüm bataryaları şarj eder. Ana bataryalar, kendi jeneratör baraları üzerinden şarj akımı alır."
+  },
+  {
+    "id": "s13",
+    "title": "Emergency Battery Charging Path",
+    "title_tr": "Acil Bataryanın Şarj Yolu",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The emergency battery is charged by the right generator bus through the right essential and isolation contactors. The EMER caption on the EMER BATT SI is extinguished because the battery is charging.",
+    "caption_tr": "Acil batarya, sağ jeneratör barasından sağ essential ve isolation kontaktörleri üzerinden şarj edilir. Batarya şarj olduğu için EMER BATT SI üzerindeki EMER yazısı sönük kalır."
+  },
+  {
+    "id": "s14",
+    "title": "Voltage Readings Now Reflect GPU",
+    "title_tr": "Bu Aşamada Voltajlar GPU’yu Gösterir",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "At this point, all voltage readings on the SUMRY and ELEC pages pertain to the GPU. Therefore, battery voltage checks must be done before introducing GPU, APU, or airplane generators.",
+    "caption_tr": "Bu aşamada SUMRY ve ELEC sayfalarındaki tüm voltaj okumaları GPU’ya aittir. Bu yüzden batarya voltaj kontrolü GPU/APU/uçak jeneratörleri devreye alınmadan önce yapılmalıdır."
+  },
+  {
+    "id": "s15",
+    "title": "Master Switch ON",
+    "title_tr": "Master Anahtarı ON",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The master switch is already in the ON position.",
+    "caption_tr": "Master anahtarı zaten ON konumundadır."
+  },
+  {
+    "id": "s16",
+    "title": "APU Started: RUN and AVAIL Indications",
+    "title_tr": "APU Çalışınca: RUN ve AVAIL Göstergeleri",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When the APU has started, the RUN annunciator and the green AVAIL light illuminate. AVAIL indicates the APU generator is ready. However, the APU generator contactor will not close if the GPU is present.",
+    "caption_tr": "APU çalıştığında RUN annunciator’ı ve yeşil AVAIL ışığı yanar. AVAIL, APU jeneratörünün hazır olduğunu gösterir. Ancak GPU bağlıysa APU jeneratör kontaktörü kapanmaz."
+  },
+  {
+    "id": "s17",
+    "title": "Selecting APU GEN Powers the Aircraft",
+    "title_tr": "APU GEN Seçilince Uçağı APU Besler",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Selecting APU GEN closes the APU contactor and the bus-tie. AVAIL extinguishes and ON illuminates. The APU generator is now powering the aircraft.",
+    "caption_tr": "APU GEN seçilince APU kontaktörü ve bus-tie kapanır. AVAIL söner, ON yanar. Artık uçağı APU jeneratörü besler."
+  },
+  {
+    "id": "s18",
+    "title": "Engine Start Scenario Using GPU",
+    "title_tr": "GPU Kullanarak Motor Start Senaryosu",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "We will refer to the schematic shown for engine start using the GPU. Although manual start is possible, we will consider automatic start only.",
+    "caption_tr": "Motor startı için GPU kullanılan şemayı referans alacağız. Manuel start mümkün olsa da burada sadece otomatik startı ele alacağız."
+  },
+  {
+    "id": "s19",
+    "title": "Pre-Start Checks",
+    "title_tr": "Start Öncesi Kontroller",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Before initiating engine start, verify: (1) engine computer switches are ON, and (2) thrust levers are at IDLE.",
+    "caption_tr": "Motor startına başlamadan önce şunları kontrol et: (1) engine computer anahtarları ON, (2) thrust kolları IDLE konumunda."
+  },
+  {
+    "id": "s20",
+    "title": "Right Engine Start: Automatic Circuit Reconfiguration",
+    "title_tr": "Sağ Motor Startı: Devrenin Otomatik Yeniden Konfigürasyonu",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Per normal procedure, the right engine is started first. When the R START switch is pressed, before the starter-generator is energized: essential contactors open, main avionics contactors open, and the left isolation contactor closes.",
+    "caption_tr": "Normal prosedüre göre önce sağ motor çalıştırılır. R START’a basıldığında starter-generator enerjilenmeden önce: essential kontaktörler açılır, main avionics kontaktörler açılır ve sol isolation kontaktörü kapanır."
+  },
+  {
+    "id": "s21",
+    "title": "Emergency Battery Powers Essential Buses During Start",
+    "title_tr": "Start Sırasında Essential Baraları Acil Batarya Besler",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "In this configuration, the essential and essential avionics buses are powered by the emergency battery through the emergency battery bus. Because the emergency battery is discharging, the EMER caption illuminates on the EMER BATT SI.",
+    "caption_tr": "Bu konfigürasyonda essential ve essential avionics baraları, acil batarya barası üzerinden acil batarya tarafından beslenir. Acil batarya deşarj olduğu için EMER BATT SI üzerinde EMER yanar."
+  },
+  {
+    "id": "s22",
+    "title": "EMER BATT Annunciation on Crew Warning Panel",
+    "title_tr": "Ekip Uyarı Panelinde EMER BATT Uyarısı",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "At the same time, EMER BATT is annunciated in white on the crew warning panel.",
+    "caption_tr": "Aynı anda ekip uyarı panelinde EMER BATT beyaz olarak görüntülenir."
+  },
+  {
+    "id": "s23",
+    "title": "Main Avionics Buses Depowered During Start",
+    "title_tr": "Start Esnasında Main Avionics Baraları Kesilir",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "While the emergency battery ensures continuous power to essential and essential avionics buses, the main avionics buses are depowered by opening the main avionics contactors.",
+    "caption_tr": "Acil batarya essential ve essential avionics baralara sürekli güç sağlarken, main avionics kontaktörleri açılarak main avionics baraların enerjisi kesilir."
+  },
+  {
+    "id": "s24",
+    "title": "Purpose: Prevent Voltage Spikes",
+    "title_tr": "Amaç: Voltaj Sıçramasını Önlemek",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "These changes prevent voltage-sensitive equipment from experiencing voltage spiking caused by high starter current during start. Wind-milling starts are not affected since the starter is not used.",
+    "caption_tr": "Bu değişiklikler, start sırasında starter’ın yüksek akım çekmesiyle oluşan voltaj sıçramalarının hassas ekipmanları etkilemesini önler. Wind-milling startta starter kullanılmadığı için bu durum geçerli değildir."
+  },
+  {
+    "id": "s25",
+    "title": "Starter Energized and Drives N2",
+    "title_tr": "Starter Enerjilenir ve N2’yi Döndürür",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "When the contactors are in position, the right line contactor closes and the starter is energized. It drives the N2 compressor through the tower shaft in the accessory gearbox.",
+    "caption_tr": "Kontaktörler doğru konuma geçince sağ line kontaktör kapanır ve starter enerjilenir. Accessory gearbox içindeki tower shaft üzerinden N2 kompresörünü döndürür."
+  },
+  {
+    "id": "s26",
+    "title": "Starter Disengages and Circuit Resets",
+    "title_tr": "Starter Ayrılır ve Devre Eski Haline Döner",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "At 50% N2, the line contactor opens and the starter disengages. The contactors involved in automatic switching then return to their original positions, ready for the next start.",
+    "caption_tr": "N2 %50 civarında line kontaktör açılır ve starter ayrılır. Otomatik anahtarlamada kullanılan kontaktörler de bir sonraki start için eski konumlarına geri döner."
+  },
+  {
+    "id": "s27",
+    "title": "Generator Online After GPU Deselected",
+    "title_tr": "GPU Çıkarılınca Jeneratör Otomatik Online Olur",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "At idle speed, the starter-generator is in generating mode. The line contactor remains open unless the GPU is deselected. Once the GPU is deselected, the right generator comes on-line automatically.",
+    "caption_tr": "Idle devreye gelince starter-generator üretim moduna geçer. GPU seçiliyse line kontaktör açık kalır. GPU devreden çıkarılınca sağ jeneratör otomatik olarak online olur."
+  },
+  {
+    "id": "s28",
+    "title": "Cross-Start: Temporary Current Exceedance",
+    "title_tr": "Cross-Start: Geçici Akım Aşımı Normaldir",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The left engine will be cross-started using the right generator. During cross-start, the operating generator current may temporarily exceed limits. This exceedance is inhibited from boxing/color change in this specific case.",
+    "caption_tr": "Sol motor, sağ jeneratör ile cross-start edilerek çalıştırılacaktır. Cross-start sırasında çalışan jeneratör akımı geçici olarak limitleri aşabilir. Bu durumda aşım için normalde görülen kutulama/renk değişimi bu özel durumda bastırılır (inhibit)."
+  },
+  {
+    "id": "s29",
+    "title": "Generators Online: Bus-Tie Opens",
+    "title_tr": "Jeneratörler Online: Bus-Tie Açılır",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "When the generators are on-line, the bus-tie opens to split the system into left and right. The generators are therefore not paralleled.",
+    "caption_tr": "Jeneratörler online olduğunda bus-tie açılır ve sistem sol/sağ olarak ayrılır. Böylece jeneratörler paralel çalıştırılmaz."
+  },
+  {
+    "id": "s30",
+    "title": "Battery Charging with Generators Online",
+    "title_tr": "Jeneratörler Online: Bataryaların Şarjı",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "The left generator bus charges the left main battery. The right generator bus charges the right main battery and the emergency battery.",
+    "caption_tr": "Sol jeneratör barası sol ana bataryayı şarj eder. Sağ jeneratör barası sağ ana bataryayı ve acil bataryayı şarj eder."
+  },
+  {
+    "id": "s31",
+    "title": "Dark Cockpit Achieved",
+    "title_tr": "Dark Cockpit Konseptine Dönüş",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "All switch-indicators are now blank, which conforms to the dark cockpit concept.",
+    "caption_tr": "Tüm switch-indicator’lar artık boştur; bu durum “dark cockpit” konseptine uygundur."
+  },
+  {
+    "id": "s32",
+    "title": "Display Interpretation After Generator Online",
+    "title_tr": "Jeneratör Online Sonrası Ekran Okuması",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "On the SUMRY and ELEC pages, L ESS VOLT represents left generator voltage. R ESS and EMER-V represent right generator voltage. On the ELEC page, generator symbols change from amber to cyan.",
+    "caption_tr": "SUMRY ve ELEC sayfalarında L ESS VOLT sol jeneratör voltajını gösterir. R ESS ve EMER-V ise sağ jeneratör voltajını temsil eder. ELEC sayfasında jeneratör sembolleri amber’den cyan’a döner."
+  },
+  {
+    "id": "s33",
+    "title": "Starting with APU Generator",
+    "title_tr": "APU Jeneratörü ile Start",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "Procedures are essentially the same if the APU generator is used to start the engines. After the engines have started, the airplane generators will come on-line automatically.",
+    "caption_tr": "Motorları APU jeneratörü ile başlatırken prosedür temelde aynıdır. Motorlar çalıştıktan sonra uçak jeneratörleri otomatik olarak online olur."
+  },
+  {
+    "id": "s34",
+    "title": "APU Can Be Paralleled on Ground Only",
+    "title_tr": "APU Paralel Olabilir (Sadece Yerde)",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "The APU generator can be paralleled with airplane generators. Since the APU is certified for ground use only, it must be shut down before takeoff.",
+    "caption_tr": "APU jeneratörü uçak jeneratörleriyle paralel çalışabilir. Ancak APU sadece yerde kullanım için sertifikalı olduğundan kalkıştan önce kapatılmalıdır."
+  },
+  {
+    "id": "s35",
+    "title": "Engine Start Using Main Batteries",
+    "title_tr": "Ana Bataryalarla Motor Startı",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "We will now discuss engine start using the main batteries. The graphic shows the system powered by batteries only.",
+    "caption_tr": "Şimdi ana bataryalar kullanılarak motor startını ele alacağız. Görsel, sistemin sadece bataryalarla beslendiğini gösterir."
+  },
+  {
+    "id": "s36",
+    "title": "Recommendation: AV Switches OFF for Battery Start",
+    "title_tr": "Öneri: Batarya Startı İçin AV Anahtarları OFF",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "For battery starts, it is recommended to leave both AV switches OFF to remove unnecessary electrical loads not required for engine start.",
+    "caption_tr": "Batarya ile start için, motor çalıştırmada gerekli olmayan gereksiz elektrik yüklerini azaltmak amacıyla iki AV anahtarının da OFF bırakılması önerilir."
+  },
+  {
+    "id": "s37",
+    "title": "Battery Start: Bus-Tie Closes",
+    "title_tr": "Batarya Startı: Bus-Tie Kapanır",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "During a battery start, the bus-tie closes to allow both main batteries to energize the right starter.",
+    "caption_tr": "Batarya startında bus-tie kapanır; böylece iki ana batarya birlikte sağ starter’ı besleyebilir."
+  },
+  {
+    "id": "s38",
+    "title": "After Right Engine Start: Start Left and Power Avionics",
+    "title_tr": "Sağ Motor Sonrası: Solu Başlat ve Avionics’i Besle",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "This schematic shows the right engine started and the right generator on-line. The left engine can now be started using the right generator. When both airplane generators are on-line, the AV switches can be selected ON to power the essential and main avionics buses.",
+    "caption_tr": "Bu şema sağ motorun çalıştığını ve sağ jeneratörün online olduğunu gösterir. Sol motor artık sağ jeneratör kullanılarak başlatılabilir. İki uçak jeneratörü de online olunca AV anahtarları ON yapılarak essential ve main avionics baraları beslenebilir."
+  }
+]

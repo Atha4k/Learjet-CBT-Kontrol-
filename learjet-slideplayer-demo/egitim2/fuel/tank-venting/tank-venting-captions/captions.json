@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s01",
+    "title": "A ram air inlet near the left engine pylon leading edge vent…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "A ram air inlet near the left engine pylon leading edge vents the fuel tanks to ambient. pop A a ml sm am GE mea is wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The connecting pipe from the ram air inlet leads to a surge …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The connecting pipe from the ram air inlet leads to a surge tank at the top of the fuselage tank. The surge tank minimises the possibility of fuel escaping through to the ram air inlet with aircraft maneuvers. a A a ml sm am GE mea is wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Vent lines, open at both ends, connect the fuselage tank to …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Vent lines, open at both ends, connect the fuselage tank to the wing tanks. One open end is located near the top front of the fuselage tank. The other open end is located near the wing tip end of the wing tank. a A a ml sm am GE mea is wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "A relief valve inside the fuselage tank protects the tank fr…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "A relief valve inside the fuselage tank protects the tank from damage in the event of vent line obstruction. A high internal tank pressure will be relieved through the flame arrester to ambient. A low internal tank pressure is relieved by allowing ambient air through the flame arrester into the tank. ew IN am GE mea is wri",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,12 @@
+
+{
+  "title": "Warning System",
+  "pages": 28,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "warning-system-Slides",
+  "audioDir": "warning-system-audio",
+  "captionsManifest": "warning-system-caption/captions.json", 
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

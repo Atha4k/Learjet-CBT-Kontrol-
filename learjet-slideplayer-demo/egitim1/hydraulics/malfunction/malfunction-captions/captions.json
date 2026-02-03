@@ -1,0 +1,66 @@
+[
+  {
+    "id": "s01",
+    "title": "Each EDP output pressure is monitored. If the left EDP outpu…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Each EDP output pressure is monitored. If the left EDP output pressure is less than psi, the left EDP symbol will turn amber.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "If the output pressure from both the EDPs is less than or mo…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "If the output pressure from both the EDPs is less than or more than psi, both the EDP symbols will turn amber.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "On the RMU, only the pressure indication will be in amber an…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "On the RMU, only the pressure indication will be in amber and it is not boxed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Note that with a total main hydraulic system failure, the sp…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Note that with a total main hydraulic system failure, the spoilers and thrust reversers will not be available. Roll authority will also be less than normal. The landing gears and flaps have to be extended by alternative means.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "There is no auxiliary pump pressure indication. However, if …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "There is no auxiliary pump pressure indication. However, if it produces a pressure of less than psi for more than 5 secs, a caution CAS message AUX LO will be displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "If a leak occurs at the auxiliary section of the reservoir, …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "If a leak occurs at the auxiliary section of the reservoir, a caution CAS message AUX LO is displayed when the level falls below Qts.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "If the brake accumulator pressure falls below psi or increas…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "If the brake accumulator pressure falls below psi or increases above psi, the digital readouts will turn amber and will be boxed. Note that the indication is not boxed on the RMU.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The tape indicator pointer will also turn amber and will ind…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The tape indicator pointer will also turn amber and will indicate the actual accumulator pressure. A caution CAS message ACCUM PRESS is displayed.",
+    "caption_tr": ""
+  }
+]

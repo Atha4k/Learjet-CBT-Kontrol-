@@ -1,0 +1,11 @@
+{
+  "title": "Overspeed",
+  "pages": 2,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "overspeed-slides",
+  "audioDir": "overspeed-audio",
+  "captionsManifest": "overspeed-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "avionics1",
+  "title": "Avionics 1",
+  "summary": "Avionics 1 alt başlıkları.",
+  "topics": [
+    { "id": "overview", "title": "Overview",  "type": "lesson", "description": "" },
+    { "id": "pfd", "title": "PFD",  "type": "lesson", "description": "" },
+    { "id": "eicas", "title": "EICAS",  "type": "lesson", "description": "" },
+    { "id": "mfd", "title": "MFD",  "type": "lesson", "description": "" },
+    { "id": "du-reversion-panel", "title": "DU Reversion Panel",  "type": "lesson", "description": "" },
+    { "id": "pfd-bezel-controller", "title": "PFD Bezel Controller",  "type": "lesson", "description": "" },
+    { "id": "eicas-bezel-controller", "title": "EICAS Bezel Controller",  "type": "lesson", "description": "" },
+    { "id": "mfd-bezel-controller", "title": "MFD Bezel Controller",  "type": "lesson", "description": "" },
+    { "id": "display-controller", "title": "Display Controller",  "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
+  ]
+}

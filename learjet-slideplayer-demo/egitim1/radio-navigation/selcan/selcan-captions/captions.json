@@ -1,0 +1,42 @@
+[
+  {
+    "id": "s01",
+    "title": "The SELCAL system consists of the SELCAL Decoder which is lo…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The SELCAL system consists of the SELCAL Decoder which is located on the centre pedestal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The decoder is connected to the COM 1, COM 2 and HF receiver…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The decoder is connected to the COM 1, COM 2 and HF receivers and will monitor their output for the SELCAL tone codes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "When an ARINC ground station with tone generating equipment …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "When an ARINC ground station with tone generating equipment wishes to contact an aircraft, the station will transmit SELCAL code given to the ground by the crew. When the code is received by the aircraft SELCAL decoder, it will illuminate the appropriate radio system annunciator (VHFor on the SELCAL decoder and sound the beeper.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Depressing the annunciator reset SELCAL decoder, extinguishe…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Depressing the annunciator reset SELCAL decoder, extinguishes the light and stop the beeper. Touch the SELCAL annunciator to acknowledge SELCAL.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The SELCAL system may be tested by depressing the SELCAL ann…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The SELCAL system may be tested by depressing the SELCAL annunciator. The SELCAL annunciator lights will flash and the beeper will sound indicating proper functioning of the SELCAL internal circuits.",
+    "caption_tr": ""
+  }
+]

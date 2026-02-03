@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s01",
+    "title": "Windshield Anti-ice and Defog System The 2 windshields are e…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Windshield Anti-ice and Defog System The 2 windshields are electrically heated to prevent fogging and ice build-up. This is by heating an integral film element contained in the outer layers of the windshield.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The windshield is composed of 7 layers. The outermost layer …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The windshield is composed of 7 layers. The outermost layer is made of a strong, tempered glass ply. Next to it is the heating element which is made of tin oxide. This layer is heated to provide anti-icing and defogs the windshield.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The 2 thick internal layers carry all the structural loads o…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The 2 thick internal layers carry all the structural loads of the windshield. They are joined together by a bonding layer. If the outermost glass layer breaks in flight, the structural integrity of the windshield is not compromised since the load is carried by the 2 inner layers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The innermost layer (crew shield) protects the inside of the…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The innermost layer (crew shield) protects the inside of the windshield from environmental and mechanical damage. It is bonded to the inner structural layer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "This windshield anti-ice system uses power from the 2 dedica…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "This windshield anti-ice system uses power from the 2 dedicated engine driven alternators to heat the integral film elements within the windshield. The system consists of a dual channel windshield controller, 2 power distribution panels and temperature sensors.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Windshield Controller The 2 channels are powered by the Left…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Windshield Controller The 2 channels are powered by the Left and Right essential busses respectively. The left windshield heating is controlled by the left channel through the L switch. The right windshield heating is controlled by the right channel through the R switch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Thus, a failure of the left channel will render the left win…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Thus, a failure of the left channel will render the left windshield heating inoperative. With the L and R switches off, their OFF lights are illuminated. Note that there is no CAS message displayed with the switches off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "To heat the left windshield, select the L switch on. Its OFF…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "To heat the left windshield, select the L switch on. Its OFF light extinguishes. The left controller channel commands the left to heat up the left windshield.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The normal temperature sensor sends the actual windshield te…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The normal temperature sensor sends the actual windshield temperature back to the windshield controller. During normal operation, the controller regulates the output of the alternators to maintain the windshield temperature between and Switching the R on heats up the right windshield.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Degraded Mode If there is a fault within the left channel ci…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Degraded Mode If there is a fault within the left channel circuitry during normal operation, the left windshield heating system continues to operate but in the degraded mode. The left alternator output is no longer modulated to maintain between and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Instead, the power applied to the left windshield depends on…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Instead, the power applied to the left windshield depends on the temperature of the windshield. When the windshield temperature exceeds the heating power is removed. This causes the windshield to cool down.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The normal windshield temperature is controlled to be betwee…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The normal windshield temperature is controlled to be between and If the left normal temperature sensor detect a temperature below with the system switched on, a caution CAS message L HT FAIL is displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "There is no cockpit indication of an alternator failure othe…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "There is no cockpit indication of an alternator failure other than the loss of windshield heating on that side. With this failure, heating to the left windshield will be lost.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "If the left channel fails to control the heating to the wind…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "If the left channel fails to control the heating to the windshield, its temperature may rise. When the left overheat sensor detects a temperature exceeding a caution CAS message L OVHT is displayed. The L should be switched off.",
+    "caption_tr": ""
+  }
+]

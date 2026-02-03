@@ -1,0 +1,11 @@
+{
+  "title": "Manual Mode",
+  "pages": 6,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "manual-mode-slides",
+  "audioDir": "manual-mode-audio",
+  "captionsManifest": "manual-mode-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "s01",
+    "title": "Emergency pressurization can be activated - Manually by the …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Emergency pressurization can be activated - Manually by the EMER PRESS switch or - Automatically. oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Air Distribution The conditioned air leaving the ECU splits …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Air Distribution The conditioned air leaving the ECU splits into 4 ducts. These are distributed into the left and right cabin, the cockpit and the gasper system. During normal operation, the emergency pressurization valves (EMER PRESS SOVs) are closed. J oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The EMER PRESS switch is a guarded switch. To activate the s…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The EMER PRESS switch is a guarded switch. To activate the system, lift up the guard and depress the switch. When manually selected, the ON light appears on the switch. The caution CAS message LR EMER PRESS ON is displayed after the EMER PRESS valves are opened. J oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "For the left EMER PRESS valve to open, the L BLEED switch mu…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "For the left EMER PRESS valve to open, the L BLEED switch must also be selected on with the engine running. The same applies for the right valve. Switching the L BLEED switch off with emergency pressurization activated will close the left EMER PRESS valve. J oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "When the emergency pressurization system is activated, the s…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "When the emergency pressurization system is activated, the signals the ECS controller to open the 2 EMER PRESS SOVs. The caution CAS message LR EMER PRESS ON is displayed when the valves are opened. I oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The also sends a signal to the ECS controller to automatical…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The also sends a signal to the ECS controller to automatically close the 2 ECS PRSOVs and the 2 HP SOVs. Thus, all the hot LP air is ducted directly into the cabin via the emergency pressurization valves. The temperature of the air going to the cabin and cockpit is hot and cannot be regulated by the air-conditioning temperature control system. Cabin pressure is controlled by the normal pressurization control system. J oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The automatic activation of the emergency pressurization sys…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The automatic activation of the emergency pressurization system depends on the landing altitude selection. If the landing altitude is set below ft, the will activate the emergency pressurization system when the cabin altitude reaches ft. If the landing altitude is set above ft, the activation is at ft cabin altitude. 1 oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Once activated, the will command the ECS controller to - ope…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Once activated, the will command the ECS controller to - open the 2 EMER PRESS valves and - close the 2 ECS PRSOV and the 2 HP SOVs. - The emergency pressurization system is as previously described. J oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The emergency depressurization switch (EMER DEPRESS) is also…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The emergency depressurization switch (EMER DEPRESS) is also a guarded switch. When the switch is selected, the ON light is illuminated and the advisory CAS message EMER DEPRESS is displayed. The will then drive both outflow valves to the full open position. oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The cabin altitude climbs at a rapid rate until the airplane…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The cabin altitude climbs at a rapid rate until the airplane is unpressurized or the cabin reaches ft., whichever comes first. When the cabin altitude reaches feet, the altitude limiters on each outflow valve causes them to move towards a closed position, preventing the cabin altitude from climbing further. J oo Jl INA",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Depressing the EMER DEPRESS switch a second time returns the…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Depressing the EMER DEPRESS switch a second time returns the system to the previous mode, Automatic or Manual. The ON light within the switch extinguishes and the CAS message disappears. J oo Jl INA",
+    "caption_tr": ""
+  }
+]

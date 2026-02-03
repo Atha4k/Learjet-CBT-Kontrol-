@@ -1,0 +1,11 @@
+{
+  "title": "Hydraulic Malfunctions",
+  "pages": 8,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "malfunction-slides",
+  "audioDir": "malfunction-audio",
+  "captionsManifest": "malfunction-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

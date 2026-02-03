@@ -1,0 +1,11 @@
+{
+  "title": "Landing",
+  "pages": 2,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "landing-slides",
+  "audioDir": "landing-audio",
+  "captionsManifest": "landing-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

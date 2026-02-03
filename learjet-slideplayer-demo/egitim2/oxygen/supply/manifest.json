@@ -1,0 +1,11 @@
+{
+  "title": "Supply",
+  "pages": 8,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "supply-slides",
+  "audioDir": "supply-audio",
+  "captionsManifest": "supply-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

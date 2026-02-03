@@ -1,0 +1,191 @@
+[
+  {
+    "id": "s01",
+    "title": "Bezel Controllers",
+    "title_tr": "Bezel Kontrolcüler",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The bezel controllers are mounted below DUs 1 and 4. The slip/skid indicators, originally located at the center of the bezel controllers, have been repositioned above the respective PFDs.",
+    "caption_tr": "Bezel kontrolcüler DU 1 ve DU 4’ün altına monte edilmiştir. Başlangıçta bezel kontrolcülerinin ortasında bulunan slip/skid göstergeleri, ilgili PFD’lerin üstüne taşınmıştır."
+  },
+  {
+    "id": "s02",
+    "title": "RA Minimum",
+    "title_tr": "RA Minimumu",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The controller provides selections for radio altitude (RA) minimum.",
+    "caption_tr": "Kontrolcü, radyo irtifası (RA) minimumu için seçim imkânı sağlar."
+  },
+  {
+    "id": "s03",
+    "title": "RA & BARO Minimums",
+    "title_tr": "RA ve BARO Minimumları",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The controller provides selections for radio altitude (RA) minimum and barometric altitude (BARO) minimum.",
+    "caption_tr": "Kontrolcü, radyo irtifası (RA) minimumu ve barometrik irtifa (BARO) minimumu için seçim imkânı sağlar."
+  },
+  {
+    "id": "s04",
+    "title": "Baro Corrections",
+    "title_tr": "Baro Düzeltmeleri",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The controller provides selections for RA minimum, BARO minimum, and barometric corrections.",
+    "caption_tr": "Kontrolcü; RA minimumu, BARO minimumu ve barometrik düzeltmeler için seçim imkânı sağlar."
+  },
+  {
+    "id": "s05",
+    "title": "RA/BARO Select",
+    "title_tr": "RA/BARO Seçimi",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The RA/BARO pushbutton selects either the RA or BARO minimum reference. There is no selection on power-up. Press RA/BARO to select RA minimum.",
+    "caption_tr": "RA/BARO butonu, RA veya BARO minimum referansını seçer. Sistem ilk açılışta seçili değildir. RA minimumu seçmek için RA/BARO’ya basın."
+  },
+  {
+    "id": "s06",
+    "title": "Default RA Min",
+    "title_tr": "Varsayılan RA Min",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The first press of the RA/BARO button selects the RA reference and displays a default minimum value. Press RA/BARO again to continue the selection cycle.",
+    "caption_tr": "RA/BARO butonuna ilk basış, RA referansını seçer ve varsayılan bir minimum değer gösterir. Seçim döngüsüne devam etmek için RA/BARO’ya tekrar basın."
+  },
+  {
+    "id": "s07",
+    "title": "Clear Selection",
+    "title_tr": "Seçimi Temizle",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Pressing the RA/BARO button a third time clears the selection and the minimums field becomes blank.",
+    "caption_tr": "RA/BARO butonuna üçüncü kez basıldığında seçim kaldırılır ve minimum alanı boş görünür."
+  },
+  {
+    "id": "s08",
+    "title": "Minimums Range",
+    "title_tr": "Minimum Aralığı",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "When RA or BARO is first selected, a default minimum value is displayed. Use the MINIMUMS knob to change it. In RA reference, the selectable range is 5 to 2500 ft. In BARO reference, it is 10 to 16000 ft.",
+    "caption_tr": "RA veya BARO ilk seçildiğinde varsayılan bir minimum değer görüntülenir. MINIMUMS düğmesiyle bu değer değiştirilebilir. RA referansında seçilebilir aralık 5–2500 ft’tir. BARO referansında ise 10–16000 ft’tir."
+  },
+  {
+    "id": "s09",
+    "title": "D Bug",
+    "title_tr": "D İşaretçisi",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "When a BARO minimum is set, a magenta “D” and a line appear across the altitude tape at the selected BARO minimum. This is called the “D bug.”",
+    "caption_tr": "BARO minimum ayarlandığında, irtifa bandında seçilen BARO minimum değerinde mor (magenta) bir “D” ve yatay bir çizgi görünür. Buna “D işaretçisi (D bug)” denir."
+  },
+  {
+    "id": "s10",
+    "title": "Minimums Sync",
+    "title_tr": "Minimum Senkronu",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "If RA is selected on both PFDs, turning either MINIMUMS knob changes the RA minimum on both PFDs. Likewise, if BARO is selected, turning either knob changes both BARO minimums simultaneously.",
+    "caption_tr": "RA her iki PFD’de de seçiliyse, MINIMUMS düğmelerinden herhangi birini çevirmek iki taraftaki RA minimumunu birlikte değiştirir. Aynı şekilde BARO seçiliyse, herhangi bir düğmeyi çevirmek her iki BARO minimumunu aynı anda değiştirir."
+  },
+  {
+    "id": "s11",
+    "title": "Independent Minimums",
+    "title_tr": "Bağımsız Minimumlar",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If the pilot selects RA minimum and the co-pilot selects BARO minimum, turning the pilot-side MINIMUMS knob changes only the pilot’s RA value. The co-pilot’s BARO value remains unchanged.",
+    "caption_tr": "Pilot RA minimum seçip yardımcı pilot BARO minimum seçerse, pilot tarafındaki MINIMUMS düğmesini çevirmek yalnızca pilotun RA değerini değiştirir. Yardımcı pilotun BARO değeri değişmeden kalır."
+  },
+  {
+    "id": "s12",
+    "title": "Sync to Pilot",
+    "title_tr": "Pilota Senkron",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If the co-pilot switches to RA reference, the RA minimum synchronizes to the pilot’s RA minimum.",
+    "caption_tr": "Yardımcı pilot RA referansına geçtiğinde, RA minimum değeri pilotun RA minimum değerine senkronize olur."
+  },
+  {
+    "id": "s13",
+    "title": "Sync to Co-Pilot",
+    "title_tr": "Yardımcı Pilota Senkron",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Conversely, if the co-pilot changes the BARO minimum and the pilot then switches from RA to BARO reference, the pilot’s BARO minimum synchronizes to the co-pilot’s BARO minimum.",
+    "caption_tr": "Tersine, yardımcı pilot BARO minimumunu değiştirir ve pilot RA’dan BARO referansına geçerse, pilotun BARO minimumu yardımcı pilotun BARO minimumuna senkronize olur."
+  },
+  {
+    "id": "s14",
+    "title": "BARO Sync",
+    "title_tr": "BARO Senkronu",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "If the co-pilot changes the BARO minimum and the pilot switches to BARO reference, the pilot’s BARO minimum synchronizes to the co-pilot’s BARO minimum.",
+    "caption_tr": "Yardımcı pilot BARO minimumunu değiştirir ve pilot BARO referansına geçerse, pilotun BARO minimumu yardımcı pilotun BARO minimumuna senkronize olur."
+  },
+  {
+    "id": "s15",
+    "title": "Minimums Warning",
+    "title_tr": "Minimum Uyarısı",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "With RA as the decision height reference, a MINIMUM warning is issued when radio altitude reaches or goes below the RA minimum. The warning is an amber “MIN” flashing for about 10 seconds in the lower half of the ADI, accompanied by the aural alert: “MINIMUM, MINIMUM.”",
+    "caption_tr": "Karar yüksekliği referansı RA iken, radyo irtifası RA minimum değerine eşit olduğunda veya altına düştüğünde MINIMUM uyarısı verilir. ADI’nin alt kısmında yaklaşık 10 saniye boyunca amber “MIN” yanıp söner ve aynı anda sesli uyarı “MINIMUM, MINIMUM” duyulur."
+  },
+  {
+    "id": "s16",
+    "title": "BARO Minimum Warn",
+    "title_tr": "BARO Minimum Uyarısı",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The same warnings occur when BARO reference is used and the barometric altitude reaches or equals the BARO minimum.",
+    "caption_tr": "BARO referansı kullanıldığında ve barometrik irtifa BARO minimum değerine ulaştığında veya eşit olduğunda aynı uyarılar oluşur."
+  },
+  {
+    "id": "s17",
+    "title": "Deselect RA Min",
+    "title_tr": "RA Min Kaldırma",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "RA minimum can be deselected by toggling the RA/BARO pushbutton until the selection is cleared and no annunciation is shown.",
+    "caption_tr": "RA minimum, RA/BARO butonuna basarak seçim kaldırılana ve herhangi bir gösterim (annunciation) kalmayana kadar değiştirilerek devre dışı bırakılabilir."
+  },
+  {
+    "id": "s18",
+    "title": "Remove BARO Min",
+    "title_tr": "BARO Min Kaldırma",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "To remove BARO minimum and the D bug: (1) turn the MINIMUMS knob down until the BARO annunciation is displayed and the value reaches the minimum limit—this also removes the D bug; (2) toggle the RA/BARO button until the BARO annunciation is removed.",
+    "caption_tr": "BARO minimumu ve D işaretçisini kaldırmak için: (1) MINIMUMS düğmesini BARO gösterimi gelene ve değer alt limite inene kadar azaltın—bu işlem D işaretçisini de kaldırır; (2) RA/BARO butonuna BARO gösterimi kaybolana kadar basın."
+  },
+  {
+    "id": "s19",
+    "title": "Baro Set Knob",
+    "title_tr": "Baro Ayar Düğmesi",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The BARO SET knob adjusts the barometric altimeter correction in either inHg or hPa. Rotating the knob changes the barometric correction readout below the altitude tape.",
+    "caption_tr": "BARO SET düğmesi, barometrik altimetre düzeltmesini inHg veya hPa cinsinden ayarlar. Düğmeyi çevirmek, irtifa bandının altındaki baro düzeltme değerini değiştirir."
+  },
+  {
+    "id": "s20",
+    "title": "Corrected Signal",
+    "title_tr": "Düzeltilmiş Sinyal",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "The corrected barometric signal is sent to the on-side ADC, which provides the corrected signal to the corresponding IC-600 for display processing. The IC-600 symbol generator then displays a corrected altitude tape on the PFD.",
+    "caption_tr": "Düzeltilmiş barometrik sinyal, ilgili taraftaki ADC’ye gönderilir. ADC bu düzeltilmiş sinyali ekran işlemesi için ilgili IC-600’e iletir. IC-600 içindeki sembol oluşturucu da PFD üzerinde düzeltilmiş bir irtifa bandı gösterir."
+  },
+  {
+    "id": "s21",
+    "title": "STD Button",
+    "title_tr": "STD Butonu",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Pressing the STD (standard) button returns the barometric correction to the standard setting (29.92 inHg or 1013 hPa).",
+    "caption_tr": "STD (standard) butonuna basmak, barometrik düzeltmeyi standart ayara (29.92 inHg veya 1013 hPa) geri döndürür."
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "title": "Refueling / Defueling",
+  "pages": 15,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "refuling-defuiling-slides",
+  "audioDir": "refuling-defuiling-audio",
+  "captionsManifest": "refuling-defuiling-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "APU",
+  "pages": 3,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "apu-slides",
+  "audioDir": "apu-audio",
+  "captionsManifest": "apu-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

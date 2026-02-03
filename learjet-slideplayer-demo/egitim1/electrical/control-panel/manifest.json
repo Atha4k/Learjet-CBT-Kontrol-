@@ -1,0 +1,11 @@
+{
+  "title": "Control Panel",
+  "pages": 37,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "control-panel-slides",
+  "audioDir": "control-panel-audio",
+  "captionsManifest": "control-panel-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

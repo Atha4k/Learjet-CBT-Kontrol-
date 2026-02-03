@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s01",
+    "title": "The APU control system ensures the safe operation of the APU…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The APU control system ensures the safe operation of the APU. It consists of : 1. Electronic Control Unit (ECU) 2. APU cockpit control panel 3. APU maintenance panel (not shown in picture) pr rea am RE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Electronic Control Unit (ECU) This is located in the tail-co…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Electronic Control Unit (ECU) This is located in the tail-cone section. The ECU commands the start and monitors the operation of the APU. itis also linked to the maintenance panel and cockpit panel. por rea am RE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The ECU is a fully automatic, digital unit. it sends and rec…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The ECU is a fully automatic, digital unit. it sends and receives electrical signals to safely operate the APU and shut down the APU when necessary. Before the APU is started, the ECU will perform a self-test. Its protective logic will prevent an APU start if it deems the APU operation not to be safe. po rea am RE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "All operations of the APU are monitored by the ECU. These ar…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "All operations of the APU are monitored by the ECU. These are listed above. ro rea am RE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Any fault that adversely affect the APU operation will cause…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Any fault that adversely affect the APU operation will cause the ECU to automatically shut down the APU. These faults are listed above. The APU will automatically shutdown if the ECU is un-powered. pe rea am RE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The APU maintenance panel is also located in the aft cone ar…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The APU maintenance panel is also located in the aft cone area above the Electronic Control Unit (not shown in above picture ). It displays the condition of the APU and provides signals for safe operation of the APU. The maintenance crew uses this panel to monitor the APU health and condition. rege rea am RE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "This is located on the aft center pedestal. It is used to co…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "This is located on the aft center pedestal. It is used to control the APU and monitor the electrical load of the startergenerator. The crew uses this panel to start and stop the APU. rege rea am RE wri",
+    "caption_tr": ""
+  }
+]

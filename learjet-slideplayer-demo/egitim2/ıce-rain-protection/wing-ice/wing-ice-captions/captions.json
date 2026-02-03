@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s01",
+    "title": "Wing Stabilizer Anti-ice System The leading edges of the win…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Wing Stabilizer Anti-ice System The leading edges of the wing and stabilizer are heated to prevent ice build-up. There are 2 wingstabilizer anti-ice vaives and they use the HP air from the engines for heating.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Both these 2 valves are controlled by the Integrated ECS Con…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Both these 2 valves are controlled by the Integrated ECS Controller through the WINGSTAB switch. For the left WINGSTAB valve to operate, the L BLEED switch must also be ON. Likewise, the R BLEED switch must be ON for the right WINGSTAB valve operation. The WINGSTAB switch is also monitored by the ice detection system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The WingStab anti-ice shut-off valves are powered by the lef…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The WingStab anti-ice shut-off valves are powered by the left and right main busses respectively. These valves will close if they become electrically unpowered.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Selecting the WINGSTAB switch ON opens both the valves. The …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Selecting the WINGSTAB switch ON opens both the valves. The HP air then flows into the leading edges of both the wings and the stabilizer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "This hot bleed air warms the leading edges via piccolo tubes…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "This hot bleed air warms the leading edges via piccolo tubes to prevent ice build-up. Piccolo tubes are tubes with holes in them, just like a flute. The excess air is vented overboard.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Temperature Control The wing skin temperatures on both wings…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Temperature Control The wing skin temperatures on both wings are continuously monitored by the 2 wing skin temperature sensors. This information is sent to the Integrated ECS controller which modulates the anti-ice valves to maintain the colder of the wings",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Apart from the 2 wing skin temperature sensors, there are 4 …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Apart from the 2 wing skin temperature sensors, there are 4 overheat temperature sensors, one on each wing and stabilizer. They will be activated when they sense a temperature of more than",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "There are also 4 under-heat sensors, one on each wing and st…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "There are also 4 under-heat sensors, one on each wing and stabilizer. They will be activated when they sense a temperature of less than",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The under-heat sensors monitor the wing and stabilizer tempe…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The under-heat sensors monitor the wing and stabilizer temperatures and provide under-heat signals to the controller. If the wing temperature falls below 4C for more than 10 seconds, a caution CAS message WING TEMP LOW is displayed. For a low stabilizer temperature, the caution CAS message STAB TEMP LOW is displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "If the stabilizer skin temperature exceeds as sensed by the …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "If the stabilizer skin temperature exceeds as sensed by the over-heat sensor, a warning CAS message STAB OVHT is displayed. This is followed by a warning message STAB OVHT. For a wing overheat, the warning message WING OVHT is displayed on both CAS and The anti-ice valves do not close automatically.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "If any of the stabilizer under-heat or overheat sensors fail…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If any of the stabilizer under-heat or overheat sensors fails, an advisory CAS message STAB FAULT will be displayed. Likewise, for the wing sensors failure, an advisory CAS message WING FAULT will also be displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "WingStab Anti-ice Leak Detection The ducting for the wing an…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "WingStab Anti-ice Leak Detection The ducting for the wing and stabilizer anti-ice bleed air system is monitored by a leak detection unit. A series of inter-connected heat detection elements is routed beside the anti-ice ducting and ends at the leak detector unit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "These warnings remain on until the temperature decreases. No…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "These warnings remain on until the temperature decreases. Note that the wingstabilizer anti-ice valves do not close automatically.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The flight manual corrective procedure for this malfunction …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The flight manual corrective procedure for this malfunction is to turn the STABWING anti-ice switch off and avoid flight into icing conditions.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "WingStab Anti-ice System Test The WingStab anti-ice system i…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "WingStab Anti-ice System Test The WingStab anti-ice system is tested with the ANTI-ICE position on the system test knob. A satisfactory test is followed by the warning messages WING OVHT and STAB OVHT and an advisory CAS message WGSTAB HT OK.",
+    "caption_tr": ""
+  }
+]

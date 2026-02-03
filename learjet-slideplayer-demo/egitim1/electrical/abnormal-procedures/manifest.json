@@ -1,0 +1,11 @@
+{
+  "title": "Abnormal Procedures",
+  "pages": 29,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "abnormal-procedures-slides",
+  "audioDir": "abnormal-procedures-audio",
+  "captionsManifest": "abnormal-procedures-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,436 @@
+[
+  {
+    "id": "s01",
+    "title": "Bezel Controllers",
+    "title_tr": "Bezel Kontrolleri",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The bezel controllers are mounted below DUs 1 and 4. The slipskid indicators, previously located at the center of the bezel controllers, are now repositioned above the respective PFDs.",
+    "caption_tr": "Bezel kontrol üniteleri DU 1 ve DU 4’ün altında yer alır. Daha önce bezel kontrol merkezinde bulunan slip/skid göstergeleri artık ilgili PFD’lerin üzerinde konumlandırılmıştır."
+  },
+  {
+    "id": "s02",
+    "title": "Controller Functions",
+    "title_tr": "Kontrol Fonksiyonları",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The controller provides selections for radio altitude (RA) minimum settings.",
+    "caption_tr": "Kontrol ünitesi radyo irtifa (RA) minimum ayarlarının seçilmesini sağlar."
+  },
+  {
+    "id": "s03",
+    "title": "Altitude Selection",
+    "title_tr": "İrtifa Seçimi",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The controller allows selection of radio altitude (RA) minimum, barometric altitude (BARO) minimum, and altitude reference modes.",
+    "caption_tr": "Kontrol ünitesi radyo irtifa (RA), barometrik irtifa (BARO) minimumları ve referans modlarının seçimini sağlar."
+  },
+  {
+    "id": "s04",
+    "title": "BARO Settings",
+    "title_tr": "BARO Ayarları",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "In addition to RA and BARO minimums, barometric correction settings can also be selected.",
+    "caption_tr": "RA ve BARO minimumlara ek olarak barometrik düzeltme ayarları da seçilebilir."
+  },
+  {
+    "id": "s05",
+    "title": "RA BARO Button",
+    "title_tr": "RA BARO Tuşu",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The RA/BARO pushbutton selects either RA or BARO reference. No selection is active at power-up.",
+    "caption_tr": "RA/BARO tuşu, RA veya BARO referansını seçmek için kullanılır. Sistem açıldığında herhangi bir seçim aktif değildir."
+  },
+  {
+    "id": "s06",
+    "title": "RA Default",
+    "title_tr": "RA Varsayılanı",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The first press selects RA reference with a default minimum altitude displayed.",
+    "caption_tr": "İlk basış RA referansını seçer ve varsayılan bir minimum irtifa gösterilir."
+  },
+  {
+    "id": "s07",
+    "title": "Clear Selection",
+    "title_tr": "Seçimi Kaldır",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Pressing the RA/BARO button a third time clears the selection and the display field becomes blank.",
+    "caption_tr": "RA/BARO tuşuna üçüncü kez basıldığında seçim kaldırılır ve alan boş hale gelir."
+  },
+  {
+    "id": "s08",
+    "title": "Minimum Adjustment",
+    "title_tr": "Minimum Ayarı",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "When RA or BARO is selected, the minimum value can be adjusted using the MINIMUM knob within defined limits.",
+    "caption_tr": "RA veya BARO seçildiğinde minimum değer, MINIMUM düğmesi kullanılarak belirlenen sınırlar içinde ayarlanabilir."
+  },
+  {
+    "id": "s09",
+    "title": "D Bug",
+    "title_tr": "D İşareti",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "When BARO minimum is selected, a magenta D bug appears on the altitude tape at the selected value.",
+    "caption_tr": "BARO minimum seçildiğinde, seçilen değerde irtifa bandı üzerinde mor renkli bir D işareti görünür."
+  },
+  {
+    "id": "s10",
+    "title": "Dual Sync",
+    "title_tr": "Çift Senkron",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "If RA or BARO is selected on both PFDs, adjusting one minimum control synchronizes both displays.",
+    "caption_tr": "Her iki PFD’de de RA veya BARO seçiliyse, birindeki ayar her iki ekranı senkronize eder."
+  },
+  {
+    "id": "s11",
+    "title": "Independent Minima",
+    "title_tr": "Bağımsız Minimum",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If one side uses RA and the other BARO, adjustments affect only the selected side.",
+    "caption_tr": "Bir taraf RA, diğer taraf BARO kullanıyorsa yapılan ayar yalnızca seçilen tarafı etkiler."
+  },
+  {
+    "id": "s12",
+    "title": "RA Sync",
+    "title_tr": "RA Senkronu",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "When both sides select RA reference, the minimum values synchronize automatically.",
+    "caption_tr": "Her iki taraf RA referansını seçtiğinde minimum değerler otomatik olarak senkronize olur."
+  },
+  {
+    "id": "s13",
+    "title": "BARO Sync",
+    "title_tr": "BARO Senkronu",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Switching from RA to BARO synchronizes the BARO minimum with the opposite side.",
+    "caption_tr": "RA’dan BARO’ya geçildiğinde BARO minimum değeri karşı tarafla senkronize edilir."
+  },
+  {
+    "id": "s14",
+    "title": "BARO Matching",
+    "title_tr": "BARO Eşitleme",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "BARO minimum values are synchronized when both sides use BARO reference.",
+    "caption_tr": "Her iki taraf BARO referansı kullandığında BARO minimum değerleri eşitlenir."
+  },
+  {
+    "id": "s15",
+    "title": "RA Warning",
+    "title_tr": "RA Uyarısı",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "When RA minimum is reached, a flashing amber MIN warning appears along with an aural alert.",
+    "caption_tr": "RA minimuma ulaşıldığında yanıp sönen amber MIN uyarısı ve sesli ikaz verilir."
+  },
+  {
+    "id": "s16",
+    "title": "BARO Warning",
+    "title_tr": "BARO Uyarısı",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The same minimum warning occurs when BARO altitude equals the BARO minimum value.",
+    "caption_tr": "BARO irtifa BARO minimum değere eşit olduğunda aynı uyarı gerçekleşir."
+  },
+  {
+    "id": "s17",
+    "title": "RA Deselect",
+    "title_tr": "RA Kaldırma",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "RA minimum can be deselected by cycling the RA/BARO button until no selection remains.",
+    "caption_tr": "RA minimum, RA/BARO tuşu çevrilerek seçim kaldırılana kadar devre dışı bırakılabilir."
+  },
+  {
+    "id": "s18",
+    "title": "Remove BARO",
+    "title_tr": "BARO Kaldırma",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "BARO minimum and D bug are removed by adjusting the minimum knob and clearing BARO selection.",
+    "caption_tr": "BARO minimum ve D işareti, minimum düğmesi ayarlanarak ve BARO seçimi kaldırılarak silinir."
+  },
+  {
+    "id": "s19",
+    "title": "BARO Set",
+    "title_tr": "BARO Ayarı",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The BARO SET knob adjusts barometric correction in either inHg or hPa units.",
+    "caption_tr": "BARO SET düğmesi barometrik düzeltmeyi inHg veya hPa biriminde ayarlar."
+  },
+  {
+    "id": "s20",
+    "title": "ADC Input",
+    "title_tr": "ADC Girişi",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Corrected barometric data is sent to the ADC and processed by the IC-600 for display.",
+    "caption_tr": "Düzeltilmiş barometrik veri ADC’ye gönderilir ve IC-600 tarafından görüntülenir."
+  },
+  {
+    "id": "s21",
+    "title": "Standard Reset",
+    "title_tr": "Standart Sıfırlama",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Pressing the STD button resets barometric correction to standard pressure.",
+    "caption_tr": "STD tuşuna basılması barometrik düzeltmeyi standart basınca sıfırlar."
+  },
+  {
+    "id": "s22",
+    "title": "Standard Button",
+    "title_tr": "Standart Tuş",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Pressing the standard button resets the barometric correction to the standard pressure setting.",
+    "caption_tr": "Standart tuşa basıldığında barometrik düzeltme standart basınç ayarına sıfırlanır."
+  },
+  {
+    "id": "s23",
+    "title": "Bezel Menu",
+    "title_tr": "Bezel Menü",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The bezel controller provides menu navigation and selection for display functions.",
+    "caption_tr": "Bezel kontrol ünitesi ekran fonksiyonları için menü gezintisi ve seçim imkânı sağlar."
+  },
+  {
+    "id": "s24",
+    "title": "Menu Navigation",
+    "title_tr": "Menü Gezintisi",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Menu buttons are used to navigate between available display pages.",
+    "caption_tr": "Menü tuşları, mevcut ekran sayfaları arasında geçiş yapmak için kullanılır."
+  },
+  {
+    "id": "s25",
+    "title": "Joystick Control",
+    "title_tr": "Joystick Kontrolü",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The joystick allows movement of the designator on map and plan displays.",
+    "caption_tr": "Joystick, harita ve plan ekranlarında işaretçinin hareket ettirilmesini sağlar."
+  },
+  {
+    "id": "s26",
+    "title": "Designator Origin",
+    "title_tr": "İşaretçi Başlangıcı",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "On power-up, the designator is positioned at the aircraft symbol.",
+    "caption_tr": "Sistem açıldığında işaretçi uçak sembolü üzerinde konumlanır."
+  },
+  {
+    "id": "s27",
+    "title": "Designator Movement",
+    "title_tr": "İşaretçi Hareketi",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "Moving the joystick displaces the designator relative to the aircraft symbol.",
+    "caption_tr": "Joystick hareketi, işaretçiyi uçak sembolüne göre kaydırır."
+  },
+  {
+    "id": "s28",
+    "title": "Distance Bearing",
+    "title_tr": "Mesafe ve İstikamet",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "When displaced, the distance and bearing from the aircraft to the designator are displayed.",
+    "caption_tr": "İşaretçi kaydırıldığında, uçak ile işaretçi arasındaki mesafe ve istikamet gösterilir."
+  },
+  {
+    "id": "s29",
+    "title": "Home Recall",
+    "title_tr": "Merkeze Dönüş",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "Pressing the recall button returns the designator to its home position.",
+    "caption_tr": "Recall tuşuna basıldığında işaretçi başlangıç konumuna döner."
+  },
+  {
+    "id": "s30",
+    "title": "Waypoint Skipping",
+    "title_tr": "Waypoint Atlama",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "Repeated presses of the button cycle the designator through waypoints.",
+    "caption_tr": "Tuşa ardışık basıldığında işaretçi waypointler arasında dolaşır."
+  },
+  {
+    "id": "s31",
+    "title": "Radar Waypoints",
+    "title_tr": "Radar Waypointleri",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "Offset designators can be stored as temporary radar waypoints.",
+    "caption_tr": "Kaydırılmış işaretçiler geçici radar waypointleri olarak kaydedilebilir."
+  },
+  {
+    "id": "s32",
+    "title": "Waypoint Storage",
+    "title_tr": "Waypoint Kaydı",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "Up to 25 temporary radar waypoints can be stored during a flight.",
+    "caption_tr": "Bir uçuş boyunca en fazla 25 geçici radar waypointi saklanabilir."
+  },
+  {
+    "id": "s33",
+    "title": "Waypoint Identification",
+    "title_tr": "Waypoint Tanımlama",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "Radar waypoints are labeled sequentially for identification.",
+    "caption_tr": "Radar waypointleri tanımlama amacıyla sıralı olarak etiketlenir."
+  },
+  {
+    "id": "s34",
+    "title": "List Access",
+    "title_tr": "Liste Erişimi",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "Stored radar waypoints can be accessed through the LIST function.",
+    "caption_tr": "Kaydedilen radar waypointlerine LIST fonksiyonu üzerinden erişilebilir."
+  },
+  {
+    "id": "s35",
+    "title": "Flight Plan Insert",
+    "title_tr": "Uçuş Planına Ekleme",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "Radar waypoints may be inserted into the active flight plan.",
+    "caption_tr": "Radar waypointleri aktif uçuş planına eklenebilir."
+  },
+  {
+    "id": "s36",
+    "title": "Shutdown Clear",
+    "title_tr": "Kapatma Temizleme",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "All temporary radar waypoints are cleared upon system shutdown.",
+    "caption_tr": "Sistem kapatıldığında tüm geçici radar waypointleri silinir."
+  },
+  {
+    "id": "s37",
+    "title": "Joystick Submenu",
+    "title_tr": "Joystick Alt Menüsü",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "Selecting the joystick submenu enables designator control functions.",
+    "caption_tr": "Joystick alt menüsü seçildiğinde işaretçi kontrol fonksiyonları aktif olur."
+  },
+  {
+    "id": "s38",
+    "title": "Designator Control",
+    "title_tr": "İşaretçi Kontrolü",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "The joystick moves the designator relative to aircraft position.",
+    "caption_tr": "Joystick, işaretçiyi uçağın konumuna göre hareket ettirir."
+  },
+  {
+    "id": "s39",
+    "title": "Map Mode",
+    "title_tr": "Harita Modu",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "In map mode, the designator originates from the aircraft symbol.",
+    "caption_tr": "Harita modunda işaretçi uçak sembolünden başlar."
+  },
+  {
+    "id": "s40",
+    "title": "Plan Mode",
+    "title_tr": "Plan Modu",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "In plan mode, the designator remains fixed while the aircraft symbol moves.",
+    "caption_tr": "Plan modunda işaretçi sabit kalır, uçak sembolü hareket eder."
+  },
+  {
+    "id": "s41",
+    "title": "Relative Data",
+    "title_tr": "Göreceli Veriler",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "Distance and bearing data update dynamically as the designator moves.",
+    "caption_tr": "İşaretçi hareket ettikçe mesafe ve istikamet verileri dinamik olarak güncellenir."
+  },
+  {
+    "id": "s42",
+    "title": "Hidden Designator",
+    "title_tr": "Gizli İşaretçi",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "When parked at the aircraft symbol, the designator is hidden.",
+    "caption_tr": "İşaretçi uçak sembolü üzerindeyken gizlenir."
+  },
+  {
+    "id": "s43",
+    "title": "Joystick Inputs",
+    "title_tr": "Joystick Girdileri",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "Directional joystick inputs move the designator accordingly.",
+    "caption_tr": "Joystick yön girdileri işaretçiyi ilgili yönde hareket ettirir."
+  },
+  {
+    "id": "s44",
+    "title": "Recall Function",
+    "title_tr": "Geri Çağırma",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "The recall function returns the designator to its home position.",
+    "caption_tr": "Geri çağırma fonksiyonu işaretçiyi başlangıç konumuna getirir."
+  },
+  {
+    "id": "s45",
+    "title": "Recall Confirmation",
+    "title_tr": "Geri Çağırma Onayı",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "Visual confirmation is provided when the designator returns home.",
+    "caption_tr": "İşaretçi merkeze döndüğünde görsel onay sağlanır."
+  },
+  {
+    "id": "s46",
+    "title": "Waypoint Review",
+    "title_tr": "Waypoint İncelemesi",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "Cycling through waypoints allows review of the flight plan.",
+    "caption_tr": "Waypointler arasında dolaşmak uçuş planının incelenmesini sağlar."
+  },
+  {
+    "id": "s47",
+    "title": "Radar Insert",
+    "title_tr": "Radar Ekleme",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "Pressing ENT stores the designator position as a radar waypoint.",
+    "caption_tr": "ENT tuşuna basıldığında işaretçi konumu radar waypointi olarak kaydedilir."
+  },
+  {
+    "id": "s48",
+    "title": "Waypoint Access",
+    "title_tr": "Waypoint Erişimi",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "Radar waypoints can be retrieved and activated from the list menu.",
+    "caption_tr": "Radar waypointleri liste menüsünden çağrılıp aktif hale getirilebilir."
+  }
+]
+
+

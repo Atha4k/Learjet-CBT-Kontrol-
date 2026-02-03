@@ -1,0 +1,11 @@
+{
+  "title": "ACP",
+  "pages": 29,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "ACP-slides",
+  "audioDir": "ACP-audio",
+  "captionsManifest": "ACP-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

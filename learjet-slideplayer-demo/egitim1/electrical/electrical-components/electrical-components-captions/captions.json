@@ -1,0 +1,415 @@
+[
+  {
+    "id": "s01",
+    "title": "Electrical System Components Overview",
+    "title_tr": "Elektrik Sistemi Bileşenlerine Genel Bakış",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The electrical system consists of various components such as the starter-generator, GPU, APU, GCU, main battery, emergency battery, fuses, circuit breakers, and contactors.",
+    "caption_tr": "Elektrik sistemi; starter-jeneratör, yer güç ünitesi (GPU), yardımcı güç ünitesi (APU), jeneratör kontrol ünitesi (GCU), ana batarya, acil durum bataryası, sigortalar, devre kesiciler ve kontaktörlerden oluşur."
+  },
+  {
+    "id": "s02",
+    "title": "Engine-Driven Starter Generators",
+    "title_tr": "Motor Tahrikli Starter-Jeneratörler",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Two engine-driven starter-generators, one on each engine, provide primary electrical power to the aircraft. Each starter-generator is rated at 30 volt-amperes.",
+    "caption_tr": "Her motor üzerinde bir adet olmak üzere iki motor tahrikli starter-jeneratör, uçağın ana elektrik gücünü sağlar. Her starter-jeneratör 30 volt-amper kapasitesindedir."
+  },
+  {
+    "id": "s03",
+    "title": "Starter-Generator Operating Principle",
+    "title_tr": "Starter-Jeneratör Çalışma Prensibi",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The starter-generator is a dual-function unit. During engine start it operates as a starter, and once the engine reaches idle speed it functions as a generator.",
+    "caption_tr": "Starter-jeneratör çift fonksiyonlu bir ünitedir. Motor çalıştırma sırasında starter olarak görev yapar, motor rölanti devrine ulaştığında jeneratör olarak çalışır."
+  },
+  {
+    "id": "s04",
+    "title": "Generator Line Contactor Control",
+    "title_tr": "Jeneratör Hat Kontaktörü Kontrolü",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Each generator is connected to its respective generator bus via a line contactor controlled by the L and R GEN switch-indicators on the electrical control panel.",
+    "caption_tr": "Her jeneratör, elektrik kontrol panelindeki L ve R GEN anahtar göstergeleri tarafından kontrol edilen bir hat kontaktörü üzerinden kendi jeneratör barasına bağlanır."
+  },
+  {
+    "id": "s05",
+    "title": "Generator OFF Indication",
+    "title_tr": "Jeneratör OFF Göstergesi",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "When the line contactor is open, the OFF caption illuminates. When the contactor closes, the OFF caption extinguishes and the generator is online.",
+    "caption_tr": "Hat kontaktörü açıkken OFF ibaresi yanar. Kontaktör kapandığında OFF ibaresi söner ve jeneratör devreye girer."
+  },
+
+  {
+    "id": "s06",
+    "title": "Generator Current Indication",
+    "title_tr": "Jeneratör Akım Göstergesi",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Generator output current is displayed on the summary or electrical schematic page through the EICAS or multi-function display controller.",
+    "caption_tr": "Jeneratör çıkış akımı, EICAS veya çok amaçlı ekran kontrolcüsü üzerinden özet ya da elektrik şeması sayfasında görüntülenir."
+  },
+  {
+    "id": "s07",
+    "title": "Bus-Tie Normal Operation",
+    "title_tr": "Bus-Tie Normal Çalışma Durumu",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "When both generators are online, the bus-tie opens automatically. This is the normal configuration.",
+    "caption_tr": "Her iki jeneratör devredeyken bus-tie otomatik olarak açılır. Bu normal konfigürasyondur."
+  },
+  {
+    "id": "s08",
+    "title": "Ground Power Unit (GPU)",
+    "title_tr": "Yer Güç Ünitesi (GPU)",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The GPU receptacle is located at the rear of the aircraft. GPU power must be regulated to 28 volts.",
+    "caption_tr": "GPU bağlantı noktası uçağın arka kısmında bulunur. GPU gücü 28 volta regüle edilmelidir."
+  },
+  {
+    "id": "s09",
+    "title": "External Power Switch Indication",
+    "title_tr": "Harici Güç Anahtar Göstergesi",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The EXT switch-indicator connects GPU power to the left generator bus via the anti-flash contactor.",
+    "caption_tr": "EXT anahtar göstergesi, GPU gücünü anti-flash kontaktörü üzerinden sol jeneratör barasına bağlar."
+  },
+  {
+    "id": "s10",
+    "title": "GPU Connection Indications",
+    "title_tr": "GPU Bağlantı Göstergeleri",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When GPU is connected, AVAIL light illuminates and EXTERNAL POWER advisory appears.",
+    "caption_tr": "GPU bağlandığında AVAIL ışığı yanar ve EXTERNAL POWER uyarısı görüntülenir."
+  },
+
+  {
+    "id": "s11",
+    "title": "GPU Availability Monitoring",
+    "title_tr": "GPU Uygunluk Kontrolü",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "GPU acceptability is confirmed only by the green AVAIL indication.",
+    "caption_tr": "GPU uygunluğu yalnızca yeşil AVAIL göstergesi ile doğrulanır."
+  },
+  {
+    "id": "s12",
+    "title": "GPU Ready Condition",
+    "title_tr": "GPU Hazır Durumu",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "With batteries ON and GPU connected, AVAIL confirms acceptable parameters.",
+    "caption_tr": "Bataryalar açıkken GPU bağlandığında AVAIL göstergesi uygun parametreleri doğrular."
+  },
+  {
+    "id": "s13",
+    "title": "GPU Powering the Aircraft",
+    "title_tr": "GPU’nun Uçağı Beslemesi",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Pressing EXT allows GPU to power both generator buses through the bus-tie.",
+    "caption_tr": "EXT anahtarına basıldığında GPU, bus-tie üzerinden her iki jeneratör barasını besler."
+  },
+  {
+    "id": "s14",
+    "title": "Bus-Tie Position with GPU",
+    "title_tr": "GPU Kullanımında Bus-Tie Konumu",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "With GPU in use, bus-tie remains closed and cannot be opened manually.",
+    "caption_tr": "GPU kullanılırken bus-tie kapalı kalır ve manuel olarak açılamaz."
+  },
+  {
+    "id": "s15",
+    "title": "GPU Power Priority",
+    "title_tr": "GPU Güç Önceliği",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Introducing GPU will cause other power sources to drop offline.",
+    "caption_tr": "GPU devreye alındığında diğer güç kaynakları devreden çıkar."
+  },
+
+  {
+    "id": "s16",
+    "title": "Generator Trip with GPU",
+    "title_tr": "GPU ile Jeneratörlerin Devreden Çıkması",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When GPU is introduced, generator line contactors trip.",
+    "caption_tr": "GPU devreye alındığında jeneratör hat kontaktörleri açılır."
+  },
+  {
+    "id": "s17",
+    "title": "Auxiliary Power Unit (APU)",
+    "title_tr": "Yardımcı Güç Ünitesi (APU)",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The APU is located in the tailcone and provides an alternative power source.",
+    "caption_tr": "APU kuyruk konisinde yer alır ve alternatif bir güç kaynağı sağlar."
+  },
+  {
+    "id": "s18",
+    "title": "APU Control Panel Location",
+    "title_tr": "APU Kontrol Paneli Konumu",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The APU control panel is located on the center pedestal.",
+    "caption_tr": "APU kontrol paneli orta pedestal üzerinde bulunur."
+  },
+  {
+    "id": "s19",
+    "title": "APU Start and Availability",
+    "title_tr": "APU Çalıştırma ve Kullanılabilirlik",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "RUN and AVAIL indications confirm APU generator readiness.",
+    "caption_tr": "RUN ve AVAIL göstergeleri APU jeneratörünün hazır olduğunu gösterir."
+  },
+  {
+    "id": "s20",
+    "title": "APU Generator Connection",
+    "title_tr": "APU Jeneratör Bağlantısı",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "APU generator powers the right bus and the left via the bus-tie.",
+    "caption_tr": "APU jeneratörü sağ barayı doğrudan, sol barayı bus-tie üzerinden besler."
+  },
+
+  {
+    "id": "s21",
+    "title": "APU Parallel Operation",
+    "title_tr": "APU Paralel Çalışma",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "APU can operate in parallel with aircraft generators.",
+    "caption_tr": "APU, uçak jeneratörleriyle paralel çalışabilir."
+  },
+  {
+    "id": "s22",
+    "title": "APU Power After Shutdown",
+    "title_tr": "Motor Kapatma Sonrası APU Gücü",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "After engine shutdown, APU smoothly takes over power supply.",
+    "caption_tr": "Motorlar kapatıldıktan sonra APU gücü sorunsuz şekilde devralır."
+  },
+  {
+    "id": "s23",
+    "title": "GPU Priority Over APU",
+    "title_tr": "GPU’nun APU Üzerindeki Önceliği",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Connecting GPU will disconnect the APU generator.",
+    "caption_tr": "GPU bağlandığında APU jeneratörü devreden çıkar."
+  },
+  {
+    "id": "s24",
+    "title": "Generator Control Unit (GCU)",
+    "title_tr": "Jeneratör Kontrol Ünitesi (GCU)",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "The GCU regulates and protects the generator and DC system.",
+    "caption_tr": "GCU, jeneratörü ve DC elektrik sistemini regüle eder ve korur."
+  },
+  {
+    "id": "s25",
+    "title": "GCU Functions",
+    "title_tr": "GCU Fonksiyonları",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The GCU performs monitoring, control, and protection functions.",
+    "caption_tr": "GCU izleme, kontrol ve koruma fonksiyonlarını yerine getirir."
+  },
+
+  {
+    "id": "s26",
+    "title": "End of GCU Topic",
+    "title_tr": "GCU Konusunun Sonu",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "This completes the Generator Control Unit topic.",
+    "caption_tr": "Bu slayt Jeneratör Kontrol Ünitesi konusunun tamamlandığını gösterir."
+  },
+  {
+    "id": "s27",
+    "title": "Main Batteries Overview",
+    "title_tr": "Ana Bataryalara Genel Bakış",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "Two main batteries supply power for engine start and backup.",
+    "caption_tr": "İki ana batarya motor çalıştırma ve yedek güç sağlar."
+  },
+  {
+    "id": "s28",
+    "title": "Main Battery Location",
+    "title_tr": "Ana Bataryaların Konumu",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Main batteries are located in the tailcone section.",
+    "caption_tr": "Ana bataryalar kuyruk konisi bölümünde bulunur."
+  },
+  {
+    "id": "s29",
+    "title": "Main Battery Characteristics",
+    "title_tr": "Ana Batarya Özellikleri",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "Nickel-cadmium batteries rated at 24 volts and 38 ampere-hours.",
+    "caption_tr": "24 volt, 38 amper-saat kapasiteli nikel-kadmiyum bataryalardır."
+  },
+  {
+    "id": "s30",
+    "title": "Battery Venting System",
+    "title_tr": "Batarya Havalandırma Sistemi",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "Battery gases are vented overboard during flight.",
+    "caption_tr": "Batarya gazları uçuş sırasında dışarı tahliye edilir."
+  },
+
+  {
+    "id": "s31",
+    "title": "Battery Bus Connection",
+    "title_tr": "Batarya Bara Bağlantısı",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "Each battery connects to its generator bus via a contactor.",
+    "caption_tr": "Her batarya bir kontaktör aracılığıyla jeneratör barasına bağlanır."
+  },
+  {
+    "id": "s32",
+    "title": "Battery OFF Indication",
+    "title_tr": "Batarya OFF Göstergesi",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "OFF indicates the battery is not connected.",
+    "caption_tr": "OFF göstergesi bataryanın bağlı olmadığını belirtir."
+  },
+  {
+    "id": "s33",
+    "title": "Low Voltage Protection",
+    "title_tr": "Düşük Voltaj Koruması",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "Battery contactor will not close below 14 volts on ground.",
+    "caption_tr": "Yerdeyken voltaj 14 voltun altındaysa batarya kontaktörü kapanmaz."
+  },
+  {
+    "id": "s34",
+    "title": "Automatic Battery Disconnect",
+    "title_tr": "Otomatik Batarya Ayrılması",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "Battery disconnects automatically if voltage remains low.",
+    "caption_tr": "Batarya voltajı düşük kalırsa otomatik olarak ayrılır."
+  },
+  {
+    "id": "s35",
+    "title": "Inflight Battery Logic",
+    "title_tr": "Uçuşta Batarya Mantığı",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "Battery protection is inhibited inflight and during engine start.",
+    "caption_tr": "Batarya koruması uçuş sırasında ve motor çalıştırmada devre dışıdır."
+  },
+
+  {
+    "id": "s36",
+    "title": "Emergency Battery Overview",
+    "title_tr": "Acil Durum Bataryasına Genel Bakış",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "Emergency battery is a lead-acid battery located in the nose section.",
+    "caption_tr": "Acil durum bataryası burun bölümünde bulunan kurşun-asit tip bataryadır."
+  },
+  {
+    "id": "s37",
+    "title": "Emergency Battery Connection",
+    "title_tr": "Acil Durum Bataryası Bağlantısı",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "Emergency battery connects to the emergency bus via a contactor.",
+    "caption_tr": "Acil durum bataryası bir kontaktör üzerinden acil durum barasına bağlanır."
+  },
+  {
+    "id": "s38",
+    "title": "Emergency Battery Indications",
+    "title_tr": "Acil Durum Bataryası Göstergeleri",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "OFF and EMER indications show battery status.",
+    "caption_tr": "OFF ve EMER göstergeleri batarya durumunu gösterir."
+  },
+  {
+    "id": "s39",
+    "title": "Emergency Battery Protection",
+    "title_tr": "Acil Durum Bataryası Koruması",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Emergency battery has the same ground protection logic.",
+    "caption_tr": "Acil durum bataryası yerde aynı koruma mantığına sahiptir."
+  },
+  {
+    "id": "s40",
+    "title": "Emergency Battery Current Sensor",
+    "title_tr": "Acil Durum Bataryası Akım Sensörü",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "Current sensor monitors charge and discharge.",
+    "caption_tr": "Akım sensörü şarj ve deşarjı izler."
+  },
+
+  {
+    "id": "s41",
+    "title": "Emergency Battery Discharge Warning",
+    "title_tr": "Acil Durum Bataryası Deşarj Uyarısı",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "EMER illuminates when discharge exceeds limits.",
+    "caption_tr": "Deşarj sınırı aşıldığında EMER göstergesi yanar."
+  },
+  {
+    "id": "s42",
+    "title": "Emergency Battery Low Charge Warning",
+    "title_tr": "Acil Durum Bataryası Düşük Şarj Uyarısı",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "High charging current triggers EMER BATT LOW message.",
+    "caption_tr": "Yüksek şarj akımı EMER BATT LOW mesajını tetikler."
+  },
+  {
+    "id": "s43",
+    "title": "Electrical Distribution Components",
+    "title_tr": "Elektrik Dağıtım Bileşenleri",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "Buses are interconnected by fuses, breakers, and contactors.",
+    "caption_tr": "Baralar sigortalar, devre kesiciler ve kontaktörlerle bağlanır."
+  },
+  {
+    "id": "s44",
+    "title": "Circuit Breaker Panels",
+    "title_tr": "Devre Kesici Panelleri",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "Two circuit breaker panels are installed in the cockpit.",
+    "caption_tr": "Kokpitte iki adet devre kesici paneli bulunur."
+  },
+  {
+    "id": "s45",
+    "title": "Circuit Breaker Identification",
+    "title_tr": "Devre Kesici Tanımlaması",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "Emergency battery bus circuit breakers are marked with a red ring.",
+    "caption_tr": "Acil durum batarya barasına ait devre kesiciler kırmızı halka ile işaretlidir."
+  }
+]

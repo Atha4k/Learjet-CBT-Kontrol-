@@ -1,0 +1,11 @@
+{
+  "title": "Gear Warning System",
+  "pages": 6,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "gear-warning-slides",
+  "audioDir": "gear-warning-audio",
+  "captionsManifest": "gear-warning-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "ICU",
+  "pages": 19,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "ICU-slides",
+  "audioDir": "ICU-audio",
+  "captionsManifest": "ICU-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

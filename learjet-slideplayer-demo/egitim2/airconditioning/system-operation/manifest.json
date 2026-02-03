@@ -1,0 +1,11 @@
+{
+  "title": "System Operation",
+  "pages": 7,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "system-operation-slides",
+  "audioDir": "system-operation-audio",
+  "captionsManifest": "system-operation-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

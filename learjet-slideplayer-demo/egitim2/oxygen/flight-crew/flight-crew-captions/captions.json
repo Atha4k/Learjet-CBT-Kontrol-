@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s01",
+    "title": "The following lesson describes the crew and observer's oxyge…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The following lesson describes the crew and observer's oxygen system. The Observer's oxygen system has a switchindicator located at the main instrument panel. This controls the observer's oxygen control valve. ve a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Click on the switchindicator to open the observer's oxygen c…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Click on the switchindicator to open the observer's oxygen control valve. eg a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The observer's oxygen control valve may also open automatica…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The observer's oxygen control valve may also open automatically if the cabin altitude exceeds feet. Should this happen the observer's oxygen control valve will be opened by an aneroid capsule and the switchindicator will also illuminate ON. a a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Pressing the switchindicator when it is illuminated ON will …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Pressing the switchindicator when it is illuminated ON will close the observer's oxygen control valve. Click on the switchindicator to close the valve. i a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The crew oxygen system does not have a control valve and oxy…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The crew oxygen system does not have a control valve and oxygen is always available at the pilot and copilot's masks. el a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The pilots and observer's oxygen masks are identical and are…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The pilots and observer's oxygen masks are identical and are stowed in a stowage box which is mounted on the seat backrest a a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "To remove the mask simply grasp it and pull it out. ma a i r…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "To remove the mask simply grasp it and pull it out. ma a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "For flight, rotate the control knob so that it is opposite t…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "For flight, rotate the control knob so that it is opposite the hundred percent position. In this position, oxygen flow will be one hundred percent on demand. if the control knob is rotated opposite to the Normal position, oxygen flow will be a mixture of cockpit air and oxygen on demand. eg a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "When required, one hundred percent oxygen flow under pressur…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "When required, one hundred percent oxygen flow under pressure may be selected by rotating the control knob opposite to the emergency position. In this position, oxygen will flow out under pressure. a a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "There is no provision to test for oxygen flow. However, ther…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "There is no provision to test for oxygen flow. However, there is a line flow indicator. This shows green when flow takes place or red when there is insufficient flow. rp i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The mask harness is tensioned so that itis smaller than a pe…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The mask harness is tensioned so that itis smaller than a person's head. The harness must be expanded in order to enable it to be slipped over a person's head. To do this, squeeze on the red inflation lever. Oxygen flows into the harness and enlarges it. After fitting over the head, release the inflation lever to allow the harness to tighten around the head. If necessary, squeeze the lever smartly and reposition the mask to a snug fit. a i ro. aw aa es ar Es BN aa ou wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "To communicate when wearing the mask, ensure that the microp…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "To communicate when wearing the mask, ensure that the microphone selector switch, at the audio panel, is out, that is, at the MASK position. a sa i ro. aw am es ar Es BN aa ou wri",
+    "caption_tr": ""
+  }
+]

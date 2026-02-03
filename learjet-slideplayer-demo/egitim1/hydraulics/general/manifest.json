@@ -1,0 +1,11 @@
+{
+  "title": "Hydraulic System General",
+  "pages": 13,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "general-slides",
+  "audioDir": "general-audio",
+  "captionsManifest": "general-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

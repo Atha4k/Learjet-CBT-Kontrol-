@@ -1,0 +1,11 @@
+{
+  "title": "Clock",
+  "pages": 16,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "clock-slides",
+  "audioDir": "clock-audio",
+  "captionsManifest": "clock-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

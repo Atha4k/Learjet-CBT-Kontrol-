@@ -1,0 +1,119 @@
+[
+  {
+    "id": "s01",
+    "title": "Passenger Compartment Lighting System Overview",
+    "title_tr": "Yolcu Kabini Aydınlatma Sistemi Genel Bakış",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Passenger compartment lighting system consists of entry/exit light, cabin interior light, and NO SMOKING / FASTEN SEAT BELT signs.",
+    "caption_tr": "Yolcu kabini aydınlatma sistemi; giriş/çıkış ışığı, kabin içi aydınlatma ve NO SMOKING / FASTEN SEAT BELT ikaz işaretlerinden oluşur."
+  },
+  {
+    "id": "s02",
+    "title": "Main Entryway Control Panel",
+    "title_tr": "Ana Giriş Kontrol Paneli",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Primary cabin lighting control is through the Main Entryway Control panel located on the left-hand storage cabin forward of the door. When a switch is selected, the corresponding green LED illuminates.",
+    "caption_tr": "Kabin aydınlatmasının ana kontrolü, kapının önünde sol tarafta bulunan Ana Giriş Kontrol Paneli üzerinden yapılır. Bir anahtar seçildiğinde ilgili yeşil LED yanar."
+  },
+  {
+    "id": "s03",
+    "title": "Cockpit Switch Function",
+    "title_tr": "Kokpit Anahtar Fonksiyonu",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The COCKPIT switch controls the pilot’s overhead light provided the entry door is open and the pilot’s OVRHD rotary knob is in the OFF position.",
+    "caption_tr": "COCKPIT anahtarı, giriş kapısı açık ve pilotun OVRHD döner düğmesi OFF konumundayken pilot üst aydınlatmasını kontrol eder."
+  },
+  {
+    "id": "s04",
+    "title": "Entry/Exit Door Light",
+    "title_tr": "Giriş / Çıkış Kapısı Aydınlatması",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The cabin entry/exit door light illuminates the lower door steps when both upper and lower doors are open. It is powered by the right hot bus regardless of battery switch position.",
+    "caption_tr": "Kabin giriş/çıkış kapı ışığı, üst ve alt kapılar açıkken alt kapı basamaklarını aydınlatır. Batarya anahtar konumundan bağımsız olarak sağ hot bus tarafından beslenir."
+  },
+  {
+    "id": "s05",
+    "title": "Cabin Overhead Lights",
+    "title_tr": "Kabin Tavan Aydınlatması",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Overhead lights consist of indirect fluorescent lighting located along the cabin walls and are controlled by the CABIN LIGHT switch.",
+    "caption_tr": "Tavan aydınlatmaları, kabin duvarları boyunca yerleştirilmiş dolaylı floresan ışıklardan oluşur ve CABIN LIGHT anahtarı ile kontrol edilir."
+  },
+  {
+    "id": "s06",
+    "title": "Cabin Light Intensity Control",
+    "title_tr": "Kabin Işık Şiddeti Kontrolü",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Pressing the CABIN LIGHT switch turns the lights on. Holding the switch increases intensity, while pressing and holding again dims the light. A quick press turns the lights off.",
+    "caption_tr": "CABIN LIGHT anahtarına basıldığında ışıklar yanar. Basılı tutulduğunda ışık şiddeti artar, tekrar basılı tutulduğunda azalır. Kısa basma ışıkları kapatır."
+  },
+  {
+    "id": "s07",
+    "title": "Spot Light System",
+    "title_tr": "Spot Işık Sistemi",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The SPOT LIGHT switch controls reading lights, table lights, entry light, and lavatory spot lights. Individual seat lights have separate controls.",
+    "caption_tr": "SPOT LIGHT anahtarı; okuma ışıkları, masa ışıkları, giriş ışığı ve lavabo spot ışıklarını kontrol eder. Koltuklardaki okuma ışıkları ayrı kontrol edilir."
+  },
+  {
+    "id": "s08",
+    "title": "Spot Light Switch Operation",
+    "title_tr": "Spot Işık Anahtarı Çalışma Mantığı",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The SPOT LIGHT switch operates in the same manner as the CABIN LIGHT switch.",
+    "caption_tr": "SPOT LIGHT anahtarı, CABIN LIGHT anahtarı ile aynı çalışma mantığına sahiptir."
+  },
+  {
+    "id": "s09",
+    "title": "Power Supply of Cabin Lights",
+    "title_tr": "Kabin Işıklarının Güç Kaynağı",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The CABIN, SPOT, and LAV LIGHT switches are powered by non-essential buses.",
+    "caption_tr": "CABIN, SPOT ve LAV LIGHT anahtarları non-essential bus’lar tarafından beslenir."
+  },
+  {
+    "id": "s10",
+    "title": "Momentary Switches",
+    "title_tr": "Anlık Tip Anahtarlar",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The panel contains three momentary switches labeled CABIN LIGHT, SPOTLIGHT, and DISABLE CABIN.",
+    "caption_tr": "Panel üzerinde CABIN LIGHT, SPOTLIGHT ve DISABLE CABIN olarak etiketlenmiş üç adet anlık tip anahtar bulunur."
+  },
+  {
+    "id": "s11",
+    "title": "Parallel Control Panels",
+    "title_tr": "Paralel Kontrol Panelleri",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Flight deck and main entryway control panels operate in parallel. The DISABLE function allows the flight deck panel to deactivate the entryway panel.",
+    "caption_tr": "Kokpit ve ana giriş kontrol panelleri paralel çalışır. DISABLE fonksiyonu, kokpit panelinin giriş panelini devre dışı bırakmasına olanak tanır."
+  },
+  {
+    "id": "s12",
+    "title": "Seat Belt and No Smoking Signs Control",
+    "title_tr": "Emniyet Kemeri ve Sigara İçilmez İkazları",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "NO SMOKING and FASTEN SEAT BELT signs are controlled by a three-position switch on the cockpit LIGHTS panel.",
+    "caption_tr": "NO SMOKING ve FASTEN SEAT BELT ikazları, kokpitteki LIGHTS panelinde bulunan üç konumlu anahtar ile kontrol edilir."
+  },
+  {
+    "id": "s13",
+    "title": "BELTS and NO SMOKING Modes",
+    "title_tr": "BELTS ve NO SMOKING Modları",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "In BELTS mode, a chime sounds and seat belt signs illuminate. In NO SMOKING / BELTS mode, both signs illuminate accompanied by a chime.",
+    "caption_tr": "BELTS modunda bir uyarı sesi duyulur ve emniyet kemeri ışıkları yanar. NO SMOKING / BELTS modunda ise her iki ikaz da uyarı sesiyle birlikte yanar."
+  }
+]

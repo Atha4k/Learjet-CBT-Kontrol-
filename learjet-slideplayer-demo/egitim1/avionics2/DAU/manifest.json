@@ -1,0 +1,11 @@
+{
+  "title": "DAU",
+  "pages": 20,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "DAU-slides",
+  "audioDir": "DAU-audio",
+  "captionsManifest": "DAU-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

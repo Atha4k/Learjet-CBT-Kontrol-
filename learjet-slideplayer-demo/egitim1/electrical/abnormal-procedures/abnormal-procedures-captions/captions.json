@@ -1,0 +1,292 @@
+[
+  {
+    "id": "s01",
+    "title": "Abnormal Conditions Covered",
+    "title_en": "Abnormal Conditions Covered",
+    "title_tr": "İncelenecek Anormal Durumlar",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "We shall deal with the following abnormal conditions: Single generator failure, Double generator failure Battery overheat and Essentiallisolation contactor failure.",
+    "caption_tr": "Bu bölümde şu anormal durumları ele alacağız: Tek jeneratör arızası, çift jeneratör arızası, batarya aşırı ısınması ve Essential/Isolation kontaktörü arızası."
+  },
+  {
+    "id": "s02",
+    "title": "Single Generator Failure Effects",
+    "title_en": "Single Generator Failure Effects",
+    "title_tr": "Tek Jeneratör Arızasının Etkileri",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Let us assume that the left generator has failed. When a single generator failure occurs, the non-essential buses shed automatically and the failed generator is disconnected from its generator bus.",
+    "caption_tr": "Sol jeneratörün arızalandığını varsayalım. Tek jeneratör arızasında non-essential bus’lar otomatik olarak shed edilir ve arızalı jeneratör kendi generator bus’ından ayrılır."
+  },
+  {
+    "id": "s03",
+    "title": "Bus-Tie Closes After Failure",
+    "title_en": "Bus-Tie Closes After Failure",
+    "title_tr": "Arızadan Sonra Bus-Tie Kapanır",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "About 5 seconds following the failure bus tie will close. If the bus-tie fails to close automatically, it may be closed manually.",
+    "caption_tr": "Arızadan yaklaşık 5 saniye sonra bus-tie kapanır. Bus-tie otomatik kapanmazsa manuel olarak kapatılabilir."
+  },
+  {
+    "id": "s04",
+    "title": "Cockpit Indications: L GEN FAIL",
+    "title_en": "Cockpit Indications: L GEN FAIL",
+    "title_tr": "Kokpit Göstergeleri: L GEN FAIL",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Single generator failure is indicated in the cockpit by the following warnings: 1. Single chime tone, 2. Master caution (CAUT) lights flashing, and 3. Flashing amber message L GEN FAIL is posted on the CAS.",
+    "caption_tr": "Tek jeneratör arızası kokpitte şu uyarılarla görülür: 1) Tek chime, 2) Master CAUT ışıklarının yanıp sönmesi, 3) CAS üzerinde yanıp sönen amber “L GEN FAIL” mesajı."
+  },
+  {
+    "id": "s05",
+    "title": "Cancel Master CAUT and Stop Flashing",
+    "title_en": "Cancel Master CAUT and Stop Flashing",
+    "title_tr": "Master CAUT Susturma ve Yanıp Sönmeyi Durdurma",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Pressing either master CAUT switch extinguishes CAUT lights and stops the CAS message from flashing.",
+    "caption_tr": "Master CAUT düğmelerinden herhangi birine basmak CAUT ışıklarını söndürür ve CAS mesajının yanıp sönmesini durdurur."
+  },
+  {
+    "id": "s06",
+    "title": "Control Panel: Load Shedding and GEN OFF",
+    "title_en": "Control Panel: Load Shedding and GEN OFF",
+    "title_tr": "Kontrol Paneli: Yük Atma ve GEN OFF",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "On the electrical control panel, left and right non-essential OFF captions illuminate to indicate load shedding has taken place. The left generator OFF caption also illuminates to indicate that the generator is disconnected.",
+    "caption_tr": "Elektrik kontrol panelinde L ve R non-essential OFF yazıları yanarak load shedding olduğunu gösterir. Sol jeneratör OFF yazısı da yanarak jeneratörün ayrıldığını gösterir."
+  },
+  {
+    "id": "s07",
+    "title": "SUMRY/ELEC: Zero Current and Amber Symbol",
+    "title_en": "SUMRY/ELEC: Zero Current and Amber Symbol",
+    "title_tr": "SUMRY/ELEC: Akım Sıfır ve Amber Sembol",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "On the SUMRY and ELEC system displays, the current output of the inoperative generator indicates zero. On the ELEC system display, the generator symbol changes to amber colour.",
+    "caption_tr": "SUMRY ve ELEC ekranlarında arızalı jeneratörün akım çıkışı sıfır görünür. ELEC sayfasında jeneratör sembolü amber renge döner."
+  },
+  {
+    "id": "s08",
+    "title": "All VOLT Readings Refer to the Operating Generator",
+    "title_en": "All VOLT Readings Refer to the Operating Generator",
+    "title_tr": "Tüm VOLT Değerleri Çalışan Jeneratöre Aittir",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "In this case here all VOLT readings on the SUMRY and ELEC belong to the operating generator.",
+    "caption_tr": "Bu durumda SUMRY ve ELEC üzerindeki tüm VOLT okumaları çalışan jeneratöre aittir."
+  },
+  {
+    "id": "s09",
+    "title": "Attempt to Reset the Failed Generator",
+    "title_en": "Attempt to Reset the Failed Generator",
+    "title_tr": "Arızalı Jeneratörü Resetleme Denemesi",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "In accordance with single generator inoperative non-normal procedures an attempt should be made to recover the generator. To do that 1. Check affected generator 2. Check that N2 is more than 80 r-p-m, and 3. The affected generator switch is depressed for about 1 second.",
+    "caption_tr": "Tek jeneratör arızası prosedürüne göre jeneratörü geri kazanmak için deneme yapılmalıdır: 1) Etkilenen jeneratörü kontrol et, 2) N2’nin 80% rpm’den büyük olduğundan emin ol, 3) İlgili GEN düğmesine yaklaşık 1 saniye bas."
+  },
+  {
+    "id": "s10",
+    "title": "If Reset Succeeds: Return to Normal",
+    "title_en": "If Reset Succeeds: Return to Normal",
+    "title_tr": "Reset Başarılıysa: Normale Dönüş",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "If the generator resets, the non-essential buses will reconnect automatically, bus-tie will open to split the generator buses, and normal operation will resume.",
+    "caption_tr": "Jeneratör resetlenirse non-essential bus’lar otomatik geri bağlanır, bus-tie açılarak sistemler ayrılır ve normal çalışma devam eder."
+  },
+  {
+    "id": "s11",
+    "title": "If Reset Fails: Restore Non-Essential (If Desired)",
+    "title_en": "If Reset Fails: Restore Non-Essential (If Desired)",
+    "title_tr": "Reset Başarısızsa: Non-Essential’i Geri Getirme (Gerekirse)",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "If the generator fails to reset, at the discretion of the crew, the non-essential buses may be restored by pushing the L and R NON-ESS Sils. However, it is important to check that the current limitation of the operative generator is not exceeded.",
+    "caption_tr": "Jeneratör resetlenmezse, mürettebatın kararına bağlı olarak L ve R NON-ESS düğmeleriyle non-essential bus’lar geri getirilebilir. Ancak çalışan jeneratörün akım limitinin aşılmadığından emin olunmalıdır."
+  },
+  {
+    "id": "s12",
+    "title": "Dual Generator Failure: Additional Bus Shedding",
+    "title_en": "Dual Generator Failure: Additional Bus Shedding",
+    "title_tr": "Çift Jeneratör Arızası: Ek Bus Shed Edilmesi",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "We have learnt that in a single generator failure situation, non-essential buses are shed automatically. When two generators fail, besides the non-essential buses, the main and main avionics buses are shed also to prevent overloading of batteries since batteries are the only sources of power now.",
+    "caption_tr": "Tek jeneratör arızasında non-essential bus’lar otomatik shed edilir. İki jeneratör arızasında ise bataryalar tek güç kaynağı olacağı için, non-essential’a ek olarak main ve main avionics bus’lar da shed edilerek bataryaların aşırı yüklenmesi önlenir."
+  },
+  {
+    "id": "s13",
+    "title": "Cockpit Indications: LR GEN FAIL",
+    "title_en": "Cockpit Indications: LR GEN FAIL",
+    "title_tr": "Kokpit Göstergeleri: LR GEN FAIL",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Failure of two generators is recognised in the cockpit by: 1.Triple chime tone, 2.Master warning (WARN) light flashing. 3.Flashing red message LR GEN FAIL is posted on the CAS, and red GEN FAIL annunciation on the crew warning panel.",
+    "caption_tr": "İki jeneratör arızası kokpitte şu şekilde tanınır: 1) Üçlü chime, 2) Master WARN ışıklarının yanıp sönmesi, 3) CAS üzerinde yanıp sönen kırmızı “LR GEN FAIL” mesajı ve crew warning panelinde kırmızı GEN FAIL annunciation."
+  },
+  {
+    "id": "s14",
+    "title": "Cancel Master WARN and Stop Flashing",
+    "title_en": "Cancel Master WARN and Stop Flashing",
+    "title_tr": "Master WARN Susturma ve Yanıp Sönmeyi Durdurma",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Pressing either master WARN switch will extinguish WARN lights and stop the CAS message from flashing.",
+    "caption_tr": "Master WARN düğmelerinden herhangi birine basmak WARN ışıklarını söndürür ve CAS mesajının yanıp sönmesini durdurur."
+  },
+  {
+    "id": "s15",
+    "title": "System Splits Into Three Battery Channels",
+    "title_en": "System Splits Into Three Battery Channels",
+    "title_tr": "Sistem 3 Batarya Kanalına Ayrılır",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "When two generators fail, the electrical system is split into three independent battery channels. The main batteries support their respective essential and essential avionics buses, and the emergency battery powers the emergency battery bus.",
+    "caption_tr": "İki jeneratör arızasında elektrik sistemi 3 bağımsız batarya kanalına ayrılır. Ana bataryalar kendi essential ve essential avionics bus’larını besler, emergency battery ise emergency battery bus’ı besler."
+  },
+  {
+    "id": "s16",
+    "title": "ELEC Page and Panel in Dual GEN Failure",
+    "title_en": "ELEC Page and Panel in Dual GEN Failure",
+    "title_tr": "Çift GEN Arızasında ELEC Sayfası ve Panel Görünümü",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The graphics above show the ELEC system page and electrical control panel depicting dual generator failure condition.",
+    "caption_tr": "Yukarıdaki görseller, çift jeneratör arızası durumunda ELEC sistem sayfasını ve elektrik kontrol panelini gösterir."
+  },
+  {
+    "id": "s17",
+    "title": "LR GEN FAIL: Recovery Attempt and Load Reduction",
+    "title_en": "LR GEN FAIL: Recovery Attempt and Load Reduction",
+    "title_tr": "LR GEN FAIL: Kurtarma Denemesi ve Yük Azaltma",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "In accordance with LR GEN FAIL non-normal procedures, an attempt must be made to recover the generators. If the generators cannot be recovered, itis necessary to reduce electrical loads further by following the checklist instructions. When the loads are reduced in accordance with the checklist, the batteries would be able to last for 1 hour.",
+    "caption_tr": "LR GEN FAIL prosedürüne göre jeneratörleri geri kazanmak için mutlaka deneme yapılmalıdır. Geri kazanılamazsa checklist’e göre elektrik yükleri daha da azaltılmalıdır. Yükler azaltılırsa bataryalar yaklaşık 1 saat dayanabilir."
+  },
+  {
+    "id": "s18",
+    "title": "Main Battery Venting Arrangement",
+    "title_en": "Main Battery Venting Arrangement",
+    "title_tr": "Ana Bataryaların Havalandırması",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The main batteries are vented to ambient pressure through two tubes that extend through the tailcone skin just aft of the tailcone baggage door. The protruding end of the tubes are cut at an angle so that one tube takes air in to vent the batteries and exhausts the gases from the battery case.",
+    "caption_tr": "Ana bataryalar, tailcone bagaj kapağının hemen arkasındaki gövde kaplamasından geçen iki tüp ile dış ortama havalandırılır. Tüplerin uçları açılı kesilmiştir; biri hava alarak havalandırmayı sağlar, diğeri batarya gazlarını dışarı atar."
+  },
+  {
+    "id": "s19",
+    "title": "Battery Temperature Indications and Color Logic",
+    "title_en": "Battery Temperature Indications and Color Logic",
+    "title_tr": "Batarya Sıcaklığı Göstergeleri ve Renk Mantığı",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Battery temperatures are displayed on the SUMRY and ELEC pages. If the battery temperature is below 60 C, the digital readout is white in colour. If the temperature exceeds 60 C but is less than 70 C, the digital readout will change to amber. At the same time the digital readout is boxed in the same colour.",
+    "caption_tr": "Batarya sıcaklıkları SUMRY ve ELEC sayfalarında gösterilir. 60°C altındaysa dijital okuma beyazdır. 60°C’yi aşıp 70°C’nin altındaysa okuma amber olur ve aynı renkte kutu içine alınır."
+  },
+  {
+    "id": "s20",
+    "title": "Initial Battery Overheat Warning (CAUT)",
+    "title_en": "Initial Battery Overheat Warning (CAUT)",
+    "title_tr": "İlk Seviye Batarya Aşırı Isınma Uyarısı (CAUT)",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "This preliminary stage of battery overheat will sound a single chime and cause master CAUT lights and CAS amber message 'R BATT OVHT to flash.",
+    "caption_tr": "Batarya aşırı ısınmasının bu ilk aşamasında tek chime duyulur; master CAUT ışıkları ve CAS üzerindeki amber “R BATT OVHT” mesajı yanıp söner."
+  },
+  {
+    "id": "s21",
+    "title": "Checklist Action: Disconnect the Battery",
+    "title_en": "Checklist Action: Disconnect the Battery",
+    "title_tr": "Checklist İşlemi: Bataryayı Ayır",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The checklist requires that battery be disconnected by pushing the BATT Sil, which in this example is the right battery.",
+    "caption_tr": "Checklist, bataryanın BATT düğmesine basılarak ayrılmasını ister (bu örnekte sağ batarya)."
+  },
+  {
+    "id": "s22",
+    "title": "Severe Battery Overheat (WARN) Indications",
+    "title_en": "Severe Battery Overheat (WARN) Indications",
+    "title_tr": "İleri Seviye Batarya Aşırı Isınma (WARN) Göstergeleri",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "If the battery temperature continues to rise and exceeds 70 C, . The value and box will change to red, and - Triple chime will sound, - Master WARN lights will flash, .Red R BATT OVHT message will appear on the CAS flashing, and Red R BATT OVHT will annunciate",
+    "caption_tr": "Batarya sıcaklığı artmaya devam edip 70°C’yi aşarsa değer ve kutu kırmızı olur; üçlü chime çalar; master WARN ışıkları yanıp söner; CAS’ta kırmızı “R BATT OVHT” mesajı yanıp söner ve panelde kırmızı R BATT OVHT annunciation görülür."
+  },
+  {
+    "id": "s23",
+    "title": "Automatic Battery Disconnect (If Not Manual)",
+    "title_en": "Automatic Battery Disconnect (If Not Manual)",
+    "title_tr": "Manuel Ayrılmadıysa Otomatik Batarya Ayrılması",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "By then if battery has not been disconnected manually, it will disconnect automatically.",
+    "caption_tr": "Bu aşamaya gelindiğinde batarya manuel ayrılmadıysa otomatik olarak devreden çıkar."
+  },
+  {
+    "id": "s24",
+    "title": "Normal Isolation Contactor Positions",
+    "title_en": "Normal Isolation Contactor Positions",
+    "title_tr": "Normal Isolation Kontaktör Pozisyonları",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Under normal operating conditions the left and right isolation contactors are in the open and closed position respectively.",
+    "caption_tr": "Normal çalışma koşullarında sol isolation kontaktörü açık, sağ isolation kontaktörü kapalı konumdadır."
+  },
+  {
+    "id": "s25",
+    "title": "Essential Contactor Failure: Isolation Contactor Closes",
+    "title_en": "Essential Contactor Failure: Isolation Contactor Closes",
+    "title_tr": "Essential Kontaktör Arızası: Isolation Kontaktörü Kapanır",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Should the left or right essential contactor fail in the open position, the left isolation contactor will close. In the above example, the right essential contactor has failed in the open position. Under this condition the left isolation contactor will close.",
+    "caption_tr": "Sol veya sağ essential kontaktör açık konumda arızalanırsa sol isolation kontaktörü kapanır. Bu örnekte sağ essential kontaktör açık konumda arızalıdır; bu durumda sol isolation kontaktörü kapanır."
+  },
+  {
+    "id": "s26",
+    "title": "Power Re-Routing After Contactor Failure",
+    "title_en": "Power Re-Routing After Contactor Failure",
+    "title_tr": "Kontaktör Arızasından Sonra Gücün Yeniden Dağıtılması",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "In this configuration, the emergency battery bus, right essential and right essential avionics buses are powered by the left generator bus. The generator bus also charges the emergency battery.",
+    "caption_tr": "Bu konfigürasyonda emergency battery bus, sağ essential ve sağ essential avionics bus’lar sol generator bus üzerinden beslenir. Aynı zamanda bu bus emergency battery’yi şarj eder."
+  },
+  {
+    "id": "s27",
+    "title": "CAS Advisory: R ESS BUS FAULT",
+    "title_en": "CAS Advisory: R ESS BUS FAULT",
+    "title_tr": "CAS Mesajı: R ESS BUS FAULT",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "A white CAS message R ESS BUS FAULT is posted to indicate a latent failure of the right essential bus contactor.",
+    "caption_tr": "Sağ essential bus kontaktöründe gizli (latent) bir arızayı göstermek için CAS’ta beyaz “R ESS BUS FAULT” mesajı çıkar."
+  },
+  {
+    "id": "s28",
+    "title": "Right Isolation Contactor Fails Open (No CAS Prompt)",
+    "title_en": "Right Isolation Contactor Fails Open (No CAS Prompt)",
+    "title_tr": "Sağ Isolation Kontaktörü Açık Arızalanır (CAS Uyarısı Yok)",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Another instance in which the left isolation contactor closes is when the right isolation contactor fails in the open position. In this case the left generator bus will power the emergency battery bus and charge the emergency battery. The right essential and essential avionics buses continue to be powered by the right generator bus. There is no prompt on the CAS to alert the crew.",
+    "caption_tr": "Sol isolation kontaktörünün kapanacağı bir diğer durum, sağ isolation kontaktörünün açık konumda arızalanmasıdır. Bu durumda sol generator bus emergency battery bus’ı besler ve emergency battery’yi şarj eder. Sağ essential ve essential avionics bus’lar sağ generator bus ile beslenmeye devam eder. Mürettebatı uyaran bir CAS mesajı yoktur."
+  },
+  {
+    "id": "s29",
+    "title": "Lesson Complete: Abnormal Procedures",
+    "title_en": "Lesson Complete: Abnormal Procedures",
+    "title_tr": "Ders Sonu: Abnormal Prosedürler",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "This completes the topic on Essentiallsolation Contactor Failure and also the lesson on Abnormal Procedures.",
+    "caption_tr": "Bu slayt ile Essential/Isolation Contactor Failure konusu ve Abnormal Procedures dersi tamamlanmıştır."
+  }
+]

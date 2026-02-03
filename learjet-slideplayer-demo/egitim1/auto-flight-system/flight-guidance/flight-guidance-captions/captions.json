@@ -1,0 +1,802 @@
+[
+  {
+    "id": "s01",
+    "title": "Depressing the knob will synchronize the bug on PFDs and to …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Depressing the knob will synchronize the bug on PFDs and to the aircraft heading. Touch the knob to simulate that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Let's examine the various features on the",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Let's examine the various features on the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Let's examine the various features on the",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Let's examine the various features on the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "These knobs are used to individually set the courses on the …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "These knobs are used to individually set the courses on the left and right HSI displays. They are used primarily to set the course for a VOR radial or LOC course.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The course knobs have a push button in the centre to synchro…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The course knobs have a push button in the centre to synchronize the display to the airplanes \"direct-to\" course.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Suppose the airplane is at the position as shown. It is trac…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Suppose the airplane is at the position as shown. It is tracking to intercept on the course of radial of a VOR station. Now touch the 1 button to simulate pushing.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The course pointer and the deviation bar will align themselv…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The course pointer and the deviation bar will align themselves and point to the VOR station. The assembly behaves like a bearing pointer. It indicates to the crew the existing radial the airplane is on.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "This feature enables the crew to track direct to the VOR sta…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "This feature enables the crew to track direct to the VOR station on that radial, if desired.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Heading is selected via a rotary knob, with a \"Heading Bug\" …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Heading is selected via a rotary knob, with a \"Heading Bug\" symbol on the face of the knob. The heading knob controls the heading bug and digital display on both PFDs and the bug on the MAP display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Depressing the knob will synchronize the bug on PFDs and to …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Depressing the knob will synchronize the bug on PFDs and to the aircraft heading. Touch the knob to simulate that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The roll mode consist of the following buttons: NAV,",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The roll mode consist of the following buttons: NAV,",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The roll mode consist of the following buttons: NAV, APP, an…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The roll mode consist of the following buttons: NAV, APP, and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The roll mode consist of the following buttons: NAV, APP, an…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The roll mode consist of the following buttons: NAV, APP, and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The pitch mode consist of the following buttons:",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The pitch mode consist of the following buttons:",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The pitch mode consist of the following buttons: ALT, and, A…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The pitch mode consist of the following buttons: ALT, and, ASEL.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "The table shows the various FD roll modes that can be select…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The table shows the various FD roll modes that can be selected from the roll buttons.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The table shows the various FD pitch modes that can be selec…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The table shows the various FD pitch modes that can be selected from the pitch buttons.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "ROL is a basic mode which is automatically selected when a p…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "ROL is a basic mode which is automatically selected when a pitch mode is first selected. Touch button",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "When ROL is annunciated on the roll mode, it has two meaning…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "When ROL is annunciated on the roll mode, it has two meanings: 1) If the selection of the ROL is made with airplane in a bank of less than 6, the roll bar will command the airplane to wings level. This is called heading hold mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "If the selection of the ROL mode is made and the bank angle …",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "If the selection of the ROL mode is made and the bank angle is more than 6 but less than then the roll bar will command airplane to maintain the roll at that bank angle. This is roll hold mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "Tis a basic mode and itis automatically selected when a roll…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Tis a basic mode and itis automatically selected when a roll mode is first selected. Touch button",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "Tis a basic mode and itis automatically selected when a roll…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Tis a basic mode and itis automatically selected when a roll mode is first selected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "In the basic PIT mode, the pitch bar sync to the existing ai…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "In the basic PIT mode, the pitch bar sync to the existing airplane pitch attitude. This is known as pitch hold mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Recall that the button on the control wheel can be used as a…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Recall that the button on the control wheel can be used as a FD pitch or roll sync switch if AP is not engaged. Pitch sync requires a roll FD mode engaged and roll sync reqiures a pitch FD mode engaged.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "To demonstrate pitch sync: the left graphic has the airplane…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "To demonstrate pitch sync: the left graphic has the airplane pitch attitude below the horizon and the pitch bar is against it. If the airplane is pitched up (centre picture), the pitch bar remains below the horizon. If pressed and released, the pitch synchronises with the new pitch attitude.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "Similarly, can be used to synchronise the roll bar as is sho…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "Similarly, can be used to synchronise the roll bar as is shown in the above graphic.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "Heading select is used to maintain a magnetic heading. The h…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "Heading select is used to maintain a magnetic heading. The heading bug is positioned to the desired heading on the HSI using the Knob on the Touch knob to simulate positioning heading bug to heading.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "Moving heading bug from the existing heading will create an …",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Moving heading bug from the existing heading will create an error in the heading select mode. The flight director computer will cause displacement of the roll bar and move the bar to the left.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "By following the command bars and turning the aircraft left,…",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "By following the command bars and turning the aircraft left, the compass card will move. When the desired heading is reached, the roll bar centralizes and maintains the required heading.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "The NAV button, when selected, provides various FD mode annu…",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "The NAV button, when selected, provides various FD mode annunciations which depend on what is selected on the navigation source.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "If the the navigation source is VOR, LOC or ILS, FD roll mod…",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "If the the navigation source is VOR, LOC or ILS, FD roll mode annunciation will be VOR or LOCBC.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "To fly the NAV mode: 1) Set up a flight plan into the",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "To fly the NAV mode: 1) Set up a flight plan into the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "To fly the NAV mode: 1) Set up a flight plan into the 2) Sel…",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "To fly the NAV mode: 1) Set up a flight plan into the 2) Select as the navigation source by depressing button on the master display controller",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "Push NAV button on the This will cause to annunciate in gree…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "Push NAV button on the This will cause to annunciate in green (capture) on the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "The flight director function captures and directs the aircra…",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "The flight director function captures and directs the aircraft to a track intercept. It will direct the aircraft with a shortest turn to intercept the desired track. This is shown in the graphic above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "Once the aircraft is on track, the deviation indicator is ce…",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "Once the aircraft is on track, the deviation indicator is centred and the desired track is achieved. The AP may be engaged if desired, as is shown on the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "To select VOR NAV mode: 1) Select VOR frequency on RMU NAV w…",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "To select VOR NAV mode: 1) Select VOR frequency on RMU NAV window on the master side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "To select VOR NAV mode: 1) Select VOR frequency on the RMU o…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "To select VOR NAV mode: 1) Select VOR frequency on the RMU on the master side. 2) Press NAV button on the display controller on the same side. This will make VOR as the navigation source on the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "Set the course pointer to the desired course. 4) Select NAV …",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Set the course pointer to the desired course. 4) Select NAV button. Do that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s40",
+    "title": "When the aircraft is outside the normal capture range of the…",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "When the aircraft is outside the normal capture range of the VOR signal, as shown above, engaging the NAV button annunciates in green and VOR in white. The flight director is armed to capture the VOR signal and generates a roll command to fly selected heading.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s41",
+    "title": "When the aircraft is within the VOR captured range, the FD a…",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "When the aircraft is within the VOR captured range, the FD automatically drops the heading select mode and switches to VOR capture phase. The white VOR replaces turns green and is boxed in white for 8 seconds. The FD now provides roll bar with a command to bank the aircraft to capture and track the selected VOR radial.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s42",
+    "title": "When the aircraft satisfies VOR track conditions, the course…",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "When the aircraft satisfies VOR track conditions, the course error signal is removed from the lateral steering command. The DME distance is used for lateral gain programming. The system automatically compensates for crosswind of up to 45 course error.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s43",
+    "title": "The intended function of the FD APP mode is that APP button …",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "The intended function of the FD APP mode is that APP button be used for - VOR approach. -ILS approach.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s44",
+    "title": "Instead of selecting the mode with the NAV button on the the…",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "Instead of selecting the mode with the NAV button on the the APP button is pushed. If the aircraft is not within the capture range, heading and APP engage lights will illuminate. VAPP annunciate in white and in green on the PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s45",
+    "title": "When the VAPP is captured, mode is removed. VAPP replaces an…",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "When the VAPP is captured, mode is removed. VAPP replaces and becomes green. A pitch mode such as VS or IAS may be used to step down the aircraft on the selected radial onto the runway.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s46",
+    "title": "The ILS approach mode automatically intercepts, captures, an…",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "The ILS approach mode automatically intercepts, captures, and tracks the front course localizer and glideslope signals. The mode is interlocked so that the glideslope capture is inhibited until the localizer is captured.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s47",
+    "title": "Select ILS frequency on the RMU NAV window.",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "Select ILS frequency on the RMU NAV window.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s48",
+    "title": "Push the NAV button on the display controller to select ILS …",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "Push the NAV button on the display controller to select ILS as the navigation source.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s49",
+    "title": "Set the course pointer to the inbound course to be flown by …",
+    "imgSrc": "slides/s49.png",
+    "audioSrc": "audio/s49.mp3",
+    "caption_en": "Set the course pointer to the inbound course to be flown by turning the course on the 4) Push the APP button on Do that.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s50",
+    "title": "Pushing the APP button arms both localizer and glideslope mo…",
+    "imgSrc": "slides/s50.png",
+    "audioSrc": "audio/s50.mp3",
+    "caption_en": "Pushing the APP button arms both localizer and glideslope modes when aircraft is not within the localizer capture range. If not selected, the (heading) is also annunciated in green as an active mode before localizer capture. In practice, APP is normally selected when the aircraft is being vectored to a position ready for localizer capture as shown in the bottom left picture. Arming the LOCIGS early may result in them being captured if aircraft is vectored across the runway.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s51",
+    "title": "When the localizer is captured, is replaced by LOC in green.…",
+    "imgSrc": "slides/s51.png",
+    "audioSrc": "audio/s51.mp3",
+    "caption_en": "When the localizer is captured, is replaced by LOC in green. LOC is boxed in white for 8 seconds. Roll command bar will now direct the aircraft to centre line of localizer beam.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s52",
+    "title": "At glideslope capture, the computer drops any other roll mod…",
+    "imgSrc": "slides/s52.png",
+    "audioSrc": "audio/s52.mp3",
+    "caption_en": "At glideslope capture, the computer drops any other roll mode that was in use. The armed GS turns green and becomes the active pitch mode. The captured GS automatically generates a pitch command to track the glideslope beam.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s53",
+    "title": "The system compensates for aircraft closure on the glideslop…",
+    "imgSrc": "slides/s53.png",
+    "audioSrc": "audio/s53.mp3",
+    "caption_en": "The system compensates for aircraft closure on the glideslope antenna as the system goes into track mode, as shown above. Glideslope programming is normally a computed function of radio altitude. If radio altitude is not available, then GS programming is a function of vertical speed true air speed (TAS), marker beacon, and time. If the autopilot is engaged, it must be disengaged before reaching ft AGL since this aircraft is equipped with single channel autopilot system suitable for CAT 1 approach.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s54",
+    "title": "Selecting low bank on the limits bank angles to 14 left and …",
+    "imgSrc": "slides/s54.png",
+    "audioSrc": "audio/s54.mp3",
+    "caption_en": "Selecting low bank on the limits bank angles to 14 left and 14 right. The mode is selected with the button and is annunciated on the button and by a green arc on the top of the ADI on both PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s55",
+    "title": "Low bank does not engage for NAV mode, - Approach mode, and …",
+    "imgSrc": "slides/s55.png",
+    "audioSrc": "audio/s55.mp3",
+    "caption_en": "Low bank does not engage for NAV mode, - Approach mode, and - Basic roll mode",
+    "caption_tr": ""
+  },
+  {
+    "id": "s56",
+    "title": "Above ft mean sea level the bank angle is automatically redu…",
+    "imgSrc": "slides/s56.png",
+    "audioSrc": "audio/s56.mp3",
+    "caption_en": "Above ft mean sea level the bank angle is automatically reduced to 14 when FD modes are heading select and VOR capture (VOR). When descending below ft the heading select mode bank angle returns to the standard bank value",
+    "caption_tr": ""
+  },
+  {
+    "id": "s57",
+    "title": "All FD pitch modes except altitude hold (ALT) and altitude p…",
+    "imgSrc": "slides/s57.png",
+    "audioSrc": "audio/s57.mp3",
+    "caption_en": "All FD pitch modes except altitude hold (ALT) and altitude preselect (ASEL) are used when the aircraft is in the climb and descent phases.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s58",
+    "title": "Speed button is used to engage the speed hold mode (IAS or M…",
+    "imgSrc": "slides/s58.png",
+    "audioSrc": "audio/s58.mp3",
+    "caption_en": "Speed button is used to engage the speed hold mode (IAS or MACH). The FD will command pitch change as necessary to maintain the speed that existed at the time of engagement. The selected speed above the speed tape and the bug will synchronize to the speed at the time of engagement.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s59",
+    "title": "To change the speed after that, it can be set by turning kno…",
+    "imgSrc": "slides/s59.png",
+    "audioSrc": "audio/s59.mp3",
+    "caption_en": "To change the speed after that, it can be set by turning knob on the The FD computer, sensing a new speed is requested, will pitch the bar accordingly so as to achieve the new reference speed. Touch the knob to simulate changing speed to kts.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s60",
+    "title": "To hold the speed at constant mach number, aircraft speed mu…",
+    "imgSrc": "slides/s60.png",
+    "audioSrc": "audio/s60.mp3",
+    "caption_en": "To hold the speed at constant mach number, aircraft speed must be more than Next, pushing the knob changes the speed tape from IAS reference to Mach reference. In the Mach reference, the FD pitch mode is changed to MACH. If a new mach number is desired, it is achieved by turning the knob.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s61",
+    "title": "Recall that button can be used to change the speed of the ai…",
+    "imgSrc": "slides/s61.png",
+    "audioSrc": "audio/s61.mp3",
+    "caption_en": "Recall that button can be used to change the speed of the aircraft. To change the speed: 1) Depressed the button and manoeuvre the aircraft until the desired speed is achieved. 2) Release the button.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s62",
+    "title": "When the button is released, the speed bug and the selected …",
+    "imgSrc": "slides/s62.png",
+    "audioSrc": "audio/s62.mp3",
+    "caption_en": "When the button is released, the speed bug and the selected speed synchronize to the new manoeuvred speed, which in this case is kts. The FD computer, sensing the new reference speed, will position the pitch bar to achieve the new speed. The autopilot, if it is engaged, will follow the command bars to attain the required speed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s63",
+    "title": "When the vertical speed mode is engaged, the following occur…",
+    "imgSrc": "slides/s63.png",
+    "audioSrc": "audio/s63.mp3",
+    "caption_en": "When the vertical speed mode is engaged, the following occurs: - VS is annunciated in green on both the PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s64",
+    "title": "The speed select bug on the airspeed tape is removed and the…",
+    "imgSrc": "slides/s64.png",
+    "audioSrc": "audio/s64.mp3",
+    "caption_en": "The speed select bug on the airspeed tape is removed and the digital speed reference is replaced with amber dashes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s65",
+    "title": "The displays the vertical speed target value above the verti…",
+    "imgSrc": "slides/s65.png",
+    "audioSrc": "audio/s65.mp3",
+    "caption_en": "The displays the vertical speed target value above the vertical speed scale in plus or minus ftmin and the bug positions correspondingly.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s66",
+    "title": "At the time when VS button is pressed on the the existing ve…",
+    "imgSrc": "slides/s66.png",
+    "audioSrc": "audio/s66.mp3",
+    "caption_en": "At the time when VS button is pressed on the the existing vertical speed is the reference. If a new vertical speed reference is desired, the knob is turned until the vertical speed target is displayed above the vertical speed scale.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s67",
+    "title": "As with the speed mode, the can also be used to change the a…",
+    "imgSrc": "slides/s67.png",
+    "audioSrc": "audio/s67.mp3",
+    "caption_en": "As with the speed mode, the can also be used to change the aircraft vertical speed. The vertical speed is changed the same way as the airspeed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s68",
+    "title": "The flight level change mode is also used to fly to new alti…",
+    "imgSrc": "slides/s68.png",
+    "audioSrc": "audio/s68.mp3",
+    "caption_en": "The flight level change mode is also used to fly to new altitude using predefined airspeed profiles as shown by the graphs above. The speed reference used by control law is computed based on the baro corrected altitude.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s69",
+    "title": "Pressing button the first time engages the flight level chan…",
+    "imgSrc": "slides/s69.png",
+    "audioSrc": "audio/s69.mp3",
+    "caption_en": "Pressing button the first time engages the flight level change mode in the normal climbdescent profile. is annunciated in green on both PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s70",
+    "title": "In a normal climb profile, the speed reference is kts below …",
+    "imgSrc": "slides/s70.png",
+    "audioSrc": "audio/s70.mp3",
+    "caption_en": "In a normal climb profile, the speed reference is kts below ft, and it is Mach above ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s71",
+    "title": "In descent, the speed reference is above ft. It is kts from …",
+    "imgSrc": "slides/s71.png",
+    "audioSrc": "audio/s71.mp3",
+    "caption_en": "In descent, the speed reference is above ft. It is kts from ft to ft. The speed reference changes linearly from to kts for decreasing altitudes between ft to ft. The speed reference is kts below ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s72",
+    "title": "Pressing the button the second time selects the high speed c…",
+    "imgSrc": "slides/s72.png",
+    "audioSrc": "audio/s72.mp3",
+    "caption_en": "Pressing the button the second time selects the high speed climbdescent schedule and changes the FD annunciation to flight level change high",
+    "caption_tr": ""
+  },
+  {
+    "id": "s73",
+    "title": "In high speed climb schedule, the speed reference equals kts…",
+    "imgSrc": "slides/s73.png",
+    "audioSrc": "audio/s73.mp3",
+    "caption_en": "In high speed climb schedule, the speed reference equals kts below ft. it changes linearly from kts to kts for increasing altitudes from ft to ft. It then stays at kts from ft to ft and itis Mach above ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s74",
+    "title": "In high speed descent, the speed reference is above ft to 27…",
+    "imgSrc": "slides/s74.png",
+    "audioSrc": "audio/s74.mp3",
+    "caption_en": "In high speed descent, the speed reference is above ft to 27,000ft It is kts from ft to ft. It changes linearly from kts to kts for decreasing altitudes between ft and ft. The speed reference is kts below ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s75",
+    "title": "When flight level change is in control, the speed tape autom…",
+    "imgSrc": "slides/s75.png",
+    "audioSrc": "audio/s75.mp3",
+    "caption_en": "When flight level change is in control, the speed tape automatically switches to mach reference when the mach schedule is intercepted during climb. Conversely, the speed tape changes to IAS reference during descent and IAS schedule is intercepted.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s76",
+    "title": "In flight level change mode, the knob is inhibited. It has n…",
+    "imgSrc": "slides/s76.png",
+    "audioSrc": "audio/s76.mp3",
+    "caption_en": "In flight level change mode, the knob is inhibited. It has no effect on the speed reference and speed bug. The speed reference is determined by the speed schedule.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s77",
+    "title": "During climb or descent, if the is pushed and held, the crew…",
+    "imgSrc": "slides/s77.png",
+    "audioSrc": "audio/s77.mp3",
+    "caption_en": "During climb or descent, if the is pushed and held, the crew can manoeuvre the aircraft. However, when the button is released, flight level change mode takes over to bring the aircraft back to the speed schedule.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s78",
+    "title": "Pushing the button the third time cancels the mode and basic…",
+    "imgSrc": "slides/s78.png",
+    "audioSrc": "audio/s78.mp3",
+    "caption_en": "Pushing the button the third time cancels the mode and basic pitch mode (PIT) is entered. Watch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s79",
+    "title": "Depressing the button arms, then captures the pitch steering…",
+    "imgSrc": "slides/s79.png",
+    "audioSrc": "audio/s79.mp3",
+    "caption_en": "Depressing the button arms, then captures the pitch steering commands of the flight director if: 1) is selected as the navigation source on the master side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s80",
+    "title": "Push NAV button on the to select on the roll mode.",
+    "imgSrc": "slides/s80.png",
+    "audioSrc": "audio/s80.mp3",
+    "caption_en": "Push NAV button on the to select on the roll mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s81",
+    "title": "3) is programmed for a vertical navigation profile,",
+    "imgSrc": "slides/s81.png",
+    "audioSrc": "audio/s81.mp3",
+    "caption_en": "3) is programmed for a vertical navigation profile,",
+    "caption_tr": ""
+  },
+  {
+    "id": "s82",
+    "title": "The altitude preselector is set below existing altitude and …",
+    "imgSrc": "slides/s82.png",
+    "audioSrc": "audio/s82.mp3",
+    "caption_en": "The altitude preselector is set below existing altitude and airplane is within TOD.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s83",
+    "title": "Pressing the vertical navigation button will arm the mode. I…",
+    "imgSrc": "slides/s83.png",
+    "audioSrc": "audio/s83.mp3",
+    "caption_en": "Pressing the vertical navigation button will arm the mode. In the armed condition, white is annunciated on the PFDs in the FD pitch mode annunciation field.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s84",
+    "title": "Fifteen seconds prior to initiating the descent, the amber V…",
+    "imgSrc": "slides/s84.png",
+    "audioSrc": "audio/s84.mp3",
+    "caption_en": "Fifteen seconds prior to initiating the descent, the amber VTA (vertical track alert) annunciator appears on the PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s85",
+    "title": "At TOD, is captured and turned green. The automatically init…",
+    "imgSrc": "slides/s85.png",
+    "audioSrc": "audio/s85.mp3",
+    "caption_en": "At TOD, is captured and turned green. The automatically initiates capture of the descent path. The amber VTA annunciator is changed to green",
+    "caption_tr": ""
+  },
+  {
+    "id": "s86",
+    "title": "The scale on the right of ADI monitor the vertical profile o…",
+    "imgSrc": "slides/s86.png",
+    "audioSrc": "audio/s86.mp3",
+    "caption_en": "The scale on the right of ADI monitor the vertical profile of the descent path. Enroute vertical navigation scaling is ft full scale, and the terminal scaling is ft, and approach is ft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s87",
+    "title": "The altitude preselect (ASEL) mode is used in conjunction wi…",
+    "imgSrc": "slides/s87.png",
+    "audioSrc": "audio/s87.mp3",
+    "caption_en": "The altitude preselect (ASEL) mode is used in conjunction with another pitch mode to automatically capture, level off, and hold the altitude that was set with ASEL knob on the The ASEL function also provides the aititude reference for the altitude alert function.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s88",
+    "title": "To select ASEL mode: 1) Set the altitude in the altitude pre…",
+    "imgSrc": "slides/s88.png",
+    "audioSrc": "audio/s88.mp3",
+    "caption_en": "To select ASEL mode: 1) Set the altitude in the altitude preselect window, using the ASEL knob on the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s89",
+    "title": "Engage a vertical mode such as or to initiate a descent. The…",
+    "imgSrc": "slides/s89.png",
+    "audioSrc": "audio/s89.mp3",
+    "caption_en": "Engage a vertical mode such as or to initiate a descent. The displays the following: - ASEL in white - The other vertical mode in green",
+    "caption_tr": ""
+  },
+  {
+    "id": "s90",
+    "title": "At capture point, ASEL turns green and is boxed in white for…",
+    "imgSrc": "slides/s90.png",
+    "audioSrc": "audio/s90.mp3",
+    "caption_en": "At capture point, ASEL turns green and is boxed in white for 8 seconds. Aircraft then begins to flare to slow down its rate of descent. The capture point is dependent on the vertical speed. ASEL will capture much early if the vertical speed is high; and the reverse is true.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s91",
+    "title": "When within 20 ft of the preselected altitude, the green ASE…",
+    "imgSrc": "slides/s91.png",
+    "audioSrc": "audio/s91.mp3",
+    "caption_en": "When within 20 ft of the preselected altitude, the green ASEL annunciation is replaced with altitude hold (ALT) mode in green. The ALT button light illuminates to indicate captured.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s92",
+    "title": "At ft before the selected altitude, the altitude alert warni…",
+    "imgSrc": "slides/s92.png",
+    "audioSrc": "audio/s92.mp3",
+    "caption_en": "At ft before the selected altitude, the altitude alert warning is activated. The altitude preselect window and digital display change to amber. Simultaneously, an aural warning which sounds like that of a bell is heard.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s93",
+    "title": "When the aircraft is within ft of the target altitude, the p…",
+    "imgSrc": "slides/s93.png",
+    "audioSrc": "audio/s93.mp3",
+    "caption_en": "When the aircraft is within ft of the target altitude, the preselect window and digital display change back to their original colours.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s94",
+    "title": "If the aircraft deviates from its selected altitude by more …",
+    "imgSrc": "slides/s94.png",
+    "audioSrc": "audio/s94.mp3",
+    "caption_en": "If the aircraft deviates from its selected altitude by more than ft, it will again trigger the altitude alert warning. The altitude preselect window and the digital display turn amber and the bell sounds. The preselect window and digital display, however, return to their original colours when the aircraft has deviated ft or more from the selected altitude.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s95",
+    "title": "The altitude hold mode may be engaged at any time by depress…",
+    "imgSrc": "slides/s95.png",
+    "audioSrc": "audio/s95.mp3",
+    "caption_en": "The altitude hold mode may be engaged at any time by depressing the ALT button. When selected, ALT is annunciated in green on the PFDs and the command bar will maintain the aircraft at that barometric altitude. The picture shows the aircraft is passing ft Touch the ALT button.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s96",
+    "title": "The go-around (GA) mode is used to transition from a landing…",
+    "imgSrc": "slides/s96.png",
+    "audioSrc": "audio/s96.mp3",
+    "caption_en": "The go-around (GA) mode is used to transition from a landing approach to a climb out condition in the event of a missed approach. The crew selects GA mode by pushing the GA button located on the left throttle handle.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s97",
+    "title": "With GA mode selected, all previously selected FD modes are …",
+    "imgSrc": "slides/s97.png",
+    "audioSrc": "audio/s97.mp3",
+    "caption_en": "With GA mode selected, all previously selected FD modes are cancelled, except for ASEL arm mode . The ROL annunciation in green provides a wings level command to the roll bar; and the GA provides 9 pitch up command to the pitch bar. If the autopilot is engaged, it will disengage when GA is selected. However, selecting GA will not disconnect yaw damper.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s98",
+    "title": "GA is cancelled with ASEL capture or by engaging any other p…",
+    "imgSrc": "slides/s98.png",
+    "audioSrc": "audio/s98.mp3",
+    "caption_en": "GA is cancelled with ASEL capture or by engaging any other pitch mode.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s99",
+    "title": "GA can also be cancelled by depressing the button, but in th…",
+    "imgSrc": "slides/s99.png",
+    "audioSrc": "audio/s99.mp3",
+    "caption_en": "GA can also be cancelled by depressing the button, but in this case all modes are cancelled and FD command bars will clear from view. Touch the button.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s100",
+    "title": "Once the predicted overspeed condition is corrected, the FD …",
+    "imgSrc": "slides/s100.png",
+    "audioSrc": "audio/s100.mp3",
+    "caption_en": "Once the predicted overspeed condition is corrected, the FD reverts to the mode selected prior to activation of the MAX annunciation.",
+    "caption_tr": ""
+  }
+]

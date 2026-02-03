@@ -1,0 +1,74 @@
+[
+  {
+    "id": "s01",
+    "title": "Bleed Air Duct Overheat Detection The bleed air temperature …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Bleed Air Duct Overheat Detection The bleed air temperature from the engines is regulated to about To monitor the air temperature in the supply ducts, a bleed air over-temperature switch is installed just downstream of the HP SOVs on each side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "If the bleed air temperature in the left duct exceeds a caut…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "If the bleed air temperature in the left duct exceeds a caution CAS message L BLEED OVHT will be displayed. One possible cause is that the left HP SOV failed to close fully. This allowed some hot HP air to leak through. Note that no valve closes automatically when an overheat is detected. The right side is identical.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Pylon Overheat Detection There are four over-temperature sen…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Pylon Overheat Detection There are four over-temperature sensors for each engine pneumatic system. Two are located in each pylon and 2 on each side of the tail-cone adjacent to the pylons.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "If a duct leaks, the left overheat sensor is activated if it…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "If a duct leaks, the left overheat sensor is activated if it senses more than C. A warning CAS message L ENG PYLON OVHT is displayed, followed by a warning annunciation L ENG PYLON OVHT. This indicates a bleed air leak in the pylon area or just inside the tail-cone area around the left engine. The right side is identical.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Tailcone Leak Detection Detection of a bleed air leak in the…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Tailcone Leak Detection Detection of a bleed air leak in the tailcone area is through heat sensing elements routed near the bleed ducts. These elements are designed to trip the detection system",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "If an air leak occurs between the left HP SOV and the left E…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "If an air leak occurs between the left HP SOV and the left ECS check valve, a warning CAS message L BLEED AIR LEAK will be displayed together with a warning annunciation L BLEED AIR LEAK. The right side is identical.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "If the bleed air leak is detected between the 2 ECS check va…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "If the bleed air leak is detected between the 2 ECS check valves and the PACK valve, a warning CAS message LR BLEED AIR LEAK will be displayed together with both the L R BLEED AIR LEAK annunciations on the Note that no valve closes automatically when an overheat or leak is detected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Bleed Air Duct Leak Detection System Test The bleed air duct…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Bleed Air Duct Leak Detection System Test The bleed air duct leak detection sensors, anti-icing duct leak sensors and the engine fire detect sensors are all tested together with the FIRE DET position on the system test knob.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "With the test switch at FIRE DET and the system test switch …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "With the test switch at FIRE DET and the system test switch depressed, - the warning CAS message LR BLEED AIR LEAK and - the warning annunciations L BLEED AIR LEAK, R BLEED AIR LEAK are displayed together with the engine fire indications.",
+    "caption_tr": ""
+  }
+]

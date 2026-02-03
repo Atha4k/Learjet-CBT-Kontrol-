@@ -1,0 +1,11 @@
+{
+  "title": "Flight Data",
+  "pages": 10,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "flight-data-slides",
+  "audioDir": "flight-data-audio",
+  "captionsManifest": "flight-data-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

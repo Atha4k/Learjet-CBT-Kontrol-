@@ -1,0 +1,11 @@
+{
+  "title": "Cooling",
+  "pages": 17,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "cooling-slides",
+  "audioDir": "cooling-audio",
+  "captionsManifest": "cooling-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

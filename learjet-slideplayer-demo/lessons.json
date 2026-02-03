@@ -1,0 +1,681 @@
+{
+  "airplane-general": {
+    "id": "airplane-general",
+    "title": "Airplane General",
+    "lessons": [
+      {
+        "id": "general",
+        "title": "General",
+        "pkg": "egitim1/airplane-general/general"
+      },
+      {
+        "id": "warning-system",
+        "title": "Warning System",
+        "pkg": "egitim1/airplane-general/warning-system"
+      },
+      {
+        "id": "doors-exits",
+        "title": "Doors and Exits",
+        "pkg": "egitim1/airplane-general/doors-exits"
+      },
+      {
+        "id": "emergency-lights",
+        "title": "Emergency Light",
+        "pkg": "egitim1/airplane-general/emergency-lights"
+      }
+    ]
+  },
+
+  "electrical": {
+    "id": "electrical",
+    "title": "Electrical",
+    "lessons": [
+      {
+        "id": "overview",
+        "title": "Overview",
+        "pkg": "egitim1/electrical/overview"
+      },
+      {
+        "id": "electrical-components",
+        "title": "Electrical Components",
+        "pkg": "egitim1/electrical/electrical-components"
+      },
+      {
+        "id": "control-panel",
+        "title": "Control Panel",
+        "pkg": "egitim1/electrical/control-panel"
+      },
+      {
+        "id": "system-indications",
+        "title": "System Indications",
+        "pkg": "egitim1/electrical/system-indications"
+      },
+      {
+        "id": "system",
+        "title": "System",
+        "pkg": "egitim1/electrical/system"
+      },
+      {
+        "id": "normal-procedures",
+        "title": "Normal Procedures",
+        "pkg": "egitim1/electrical/normal-procedures"
+      },
+      {
+        "id": "abnormal-procedures",
+        "title": "Abnormal Procedures",
+        "pkg": "egitim1/electrical/abnormal-procedures"
+      },
+      {
+        "id": "ac-power",
+        "title": "AC Power",
+        "pkg": "egitim1/electrical/ac-power"
+      }
+      
+    ]
+  },
+    "lighting": {
+    "id": "lighting",
+    "title": "Lighting",
+    "lessons": [
+      {
+        "id": "overview",
+        "title": "Overview",
+        "pkg": "egitim1/lighting/overview"
+      },
+      {
+        "id": "cockpit-lighting",
+        "title": "Cockpit Lighting",
+        "pkg": "egitim1/lighting/cockpit-lighting"
+      },
+      {
+        "id": "cabin-lighting",
+        "title": "Cabin Lighting",
+        "pkg": "egitim1/lighting/cabin-lighting"
+      },
+      {
+        "id": "exterior-lighting",
+        "title": "Exterior Lighting",
+        "pkg": "egitim1/lighting/exterior-lighting"
+      },
+      {
+        "id": "abnormal-conditions",
+        "title": "Abnormal Conditions",
+        "pkg": "egitim1/lighting/abnormal-conditions"
+      }
+    ]
+  },
+"avionics1": {
+  "id": "avionics1",
+  "title": "Avionics 1",
+  "lessons": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "pkg": "egitim1/avionics1/overview"
+    },
+    {
+      "id": "pfd",
+      "title": "Primary Flight Display (PFD)",
+      "pkg": "egitim1/avionics1/PFD"
+    },
+    {
+      "id": "eicas",
+      "title": "EICAS",
+      "pkg": "egitim1/avionics1/EICAS"
+    },
+    {
+      "id": "mfd",
+      "title": "Multi Function Display (MFD)",
+      "pkg": "egitim1/avionics1/MFD"
+    },
+    {
+      "id": "du-reversion-panel",
+      "title": "DU Reversion Panel",
+      "pkg": "egitim1/avionics1/DU-reversion-panel"
+    },
+    {
+      "id": "pfd-bezel-controller",
+      "title": "PFD Bezel Controller",
+      "pkg": "egitim1/avionics1/PDF-bezel-controller"
+    },
+    {
+      "id": "eicas-bezel-controller",
+      "title": "EICAS Bezel Controller",
+      "pkg": "egitim1/avionics1/EICAS-bezel-controller"
+    },
+    {
+      "id": "mfd-bezel-controller",
+      "title": "MFD Bezel Controller",
+      "pkg": "egitim1/avionics1/MFD-bezel-controller"
+    },
+    {
+      "id": "display-controller",
+      "title": "Display Controller",
+      "pkg": "egitim1/avionics1/display-controller"
+    }
+  ]
+},
+"avionics2": {
+  "id": "avionics2",
+  "title": "Avionics 2",
+  "lessons": [
+    { "id": "IC-600", "title": "IC-600", "pkg": "egitim1/avionics2/IC-600" },
+    { "id": "attitude-vs-reading", "title": "Attitude vs Reading", "pkg": "egitim1/avionics2/attitude-vs-reading" },
+    { "id": "air-data", "title": "Air Data", "pkg": "egitim1/avionics2/air-data" },
+    { "id": "DAU", "title": "DAU", "pkg": "egitim1/avionics2/DAU" },
+    { "id": "Radio", "title": "Radio", "pkg": "egitim1/avionics2/Radio" },
+    { "id": "Radar-system", "title": "Radar System", "pkg": "egitim1/avionics2/Radar-system" },
+    { "id": "GPWS", "title": "GPWS", "pkg": "egitim1/avionics2/GPWS" }
+  ]
+},
+"avionics3": {
+  "id": "avionics3",
+  "title": "Avionics 3",
+  "lessons": [
+    {
+      "id": "pilot-static",
+      "title": "Pitot Static System",
+      "pkg": "egitim1/avionics3/pilot-static"
+    },
+    {
+      "id": "temperature",
+      "title": "Temperature",
+      "pkg": "egitim1/avionics3/temperature"
+    },
+    {
+      "id": "stanby",
+      "title": "Standby Instruments",
+      "pkg": "egitim1/avionics3/stanby"
+    },
+    {
+      "id": "flight-data",
+      "title": "Flight Data",
+      "pkg": "egitim1/avionics3/flight-data"
+    },
+    {
+      "id": "cockpit-voice",
+      "title": "Cockpit Voice Recorder",
+      "pkg": "egitim1/avionics3/cockpit-voice"
+    },
+    {
+      "id": "clock",
+      "title": "Clock",
+      "pkg": "egitim1/avionics3/clock"
+    }
+  ]
+},
+"auto-flight-system": {
+  "id": "auto-flight-system",
+  "title": "Auto Flight System",
+  "lessons": [
+    {
+      "id": "overview",
+      "title": "Overview",
+      "pkg": "egitim1/auto-flight-system/overview"
+    },
+    {
+      "id": "AP-YD-operations",
+      "title": "AP / YD Operations",
+      "pkg": "egitim1/auto-flight-system/AP-YD-operations"
+    },
+    {
+      "id": "flight-director",
+      "title": "Flight Director",
+      "pkg": "egitim1/auto-flight-system/flight-director"
+    },
+    {
+      "id": "flight-guidance",
+      "title": "Flight Guidance",
+      "pkg": "egitim1/auto-flight-system/flight-guidance"
+    },
+    {
+      "id": "overspeed",
+      "title": "Overspeed",
+      "pkg": "egitim1/auto-flight-system/overspeed"
+    }
+  ]
+},
+"hydraulic": {
+  "id": "hydraulics",
+  "title": "Hydraulics",
+  "lessons": [
+    {
+      "id": "auxiliary-system",
+      "title": "Auxiliary System",
+      "pkg": "egitim1/hydraulics/auxiliary-system"
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim1/hydraulics/general"
+    },
+    {
+      "id": "indications",
+      "title": "Indications",
+      "pkg": "egitim1/hydraulics/indications"
+    },
+    {
+      "id": "main-system",
+      "title": "Main System",
+      "pkg": "egitim1/hydraulics/main-system"
+    },
+    {
+      "id": "malfunction",
+      "title": "Malfunction",
+      "pkg": "egitim1/hydraulics/malfunction"
+    }
+  ]
+},
+"pneumatics": {
+  "id": "pneumatics",
+  "title": "Pneumatics",
+  "lessons": [
+    {
+      "id": "apu",
+      "title": "APU",
+      "pkg": "egitim2/pneumatics/apu"
+    },
+    {
+      "id": "engine-bleed",
+      "title": "Engine Bleed",
+      "pkg": "egitim2/pneumatics/engine-bleed"
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim2/pneumatics/general"
+    },
+    {
+      "id": "leak-overheat",
+      "title": "Leak / Overheat",
+      "pkg": "egitim2/pneumatics/leak-overheat"
+    }
+  ]
+},
+"airconditioning": {
+  "id": "airconditioning",
+  "title": "Air Conditioning",
+  "lessons": [
+    {
+      "id": "cooling",
+      "title": "Cooling",
+      "pkg": "egitim2/airconditioning/cooling"
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim2/airconditioning/general"
+    },
+    {
+      "id": "system-operation",
+      "title": "System Operation",
+      "pkg": "egitim2/airconditioning/system-operation"
+    },
+    {
+      "id": "temp-control",
+      "title": "Temperature Control",
+      "pkg": "egitim2/airconditioning/temp-control"
+    }
+  ]
+},
+"pressurisation": {
+  "id": "pressurisation",
+  "title": "Pressurisation",
+  "lessons": [
+    {
+      "id": "automatic-mode",
+      "title": "Automatic Mode",
+      "pkg": "egitim2/pressurisation/automatic-mode"
+    },
+    {
+      "id": "emergency-mode",
+      "title": "Emergency Mode",
+      "pkg": "egitim2/pressurisation/emergency-mode"
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim2/pressurisation/general"
+    },
+    {
+      "id": "manual-mode",
+      "title": "Manual Mode",
+      "pkg": "egitim2/pressurisation/manual-mode"
+    },
+    {
+      "id": "warning-protections",
+      "title": "Warning & Protection",
+      "pkg": "egitim2/pressurisation/warning-protections"
+    }
+  ]
+},
+"ice-rain-protection": {
+  "id": "ıce-rain-protection",
+  "title": "Ice & Rain Protection",
+  "lessons": [
+  {
+    "id": "general",
+    "title": "General",
+    "pkg": "egitim2/ice-rain-protection/general"
+  },
+  {
+    "id": "nacelle-ice",
+    "title": "Nacelle Ice Protection",
+    "pkg": "egitim2/ice-rain-protection/nacelle-ice"
+  },
+  {
+    "id": "probe-heat",
+    "title": "Probe Heat System",
+    "pkg": "egitim2/ice-rain-protection/probe-heat"
+  },
+  {
+    "id": "windshield-ice",
+    "title": "Windshield Ice Protection",
+    "pkg": "egitim2/ice-rain-protection/windshield-ice"
+  },
+  {
+    "id": "wing-ice",
+    "title": "Wing Ice Protection",
+    "pkg": "egitim2/ice-rain-protection/wing-ice"
+  }
+  ]
+},
+  "landing-gear": {
+    "id": "landing-gear",
+    "title": "Landing Gear",
+    "lessons": [
+      {
+        "id": "general",
+        "title": "General",
+        "pkg": "egitim2/landing-gear/general"
+      },
+      {
+        "id": "gear-operations",
+        "title": "Gear Operations",
+        "pkg": "egitim2/landing-gear/gear-operations"
+      },
+      {
+        "id": "gear-warning",
+        "title": "Gear Warning System",
+        "pkg": "egitim2/landing-gear/gear-warning"
+      },
+      {
+        "id": "brake-system",
+        "title": "Brake System",
+        "pkg": "egitim2/landing-gear/brake-system"
+      },
+      {
+        "id": "nose-wheel",
+        "title": "Nose Wheel Steering",
+        "pkg": "egitim2/landing-gear/nose-wheel"
+      }
+    ]
+  },
+  "radio-navigation": {
+    "id": "radio-navigation",
+    "title": "Radio Navigation",
+    "lessons": [
+      {
+        "id": "ACP",
+        "title": "ACP",
+        "pkg": "egitim1/radio-navigation/ACP"
+      },
+      {
+        "id": "clearance-delivery",
+        "title": "Clearance Delivery",
+        "pkg": "egitim1/radio-navigation/clearance-delivery"
+      },
+      {
+        "id": "FMS",
+        "title": "FMS",
+        "pkg": "egitim1/radio-navigation/FMS"
+      },
+      {
+        "id": "HF-radio",
+        "title": "HF Radio",
+        "pkg": "egitim1/radio-navigation/HF-radio"
+      },
+      {
+        "id": "ICU",
+        "title": "ICU",
+        "pkg": "egitim1/radio-navigation/ICU"
+      },
+      {
+        "id": "INU",
+        "title": "INU",
+        "pkg": "egitim1/radio-navigation/INU"
+      },
+      {
+        "id": "overview",
+        "title": "Overview",
+        "pkg": "egitim1/radio-navigation/overview"
+      },
+      {
+        "id": "radio-managment-unit",
+        "title": "Radio Managment Unit",
+        "pkg": "egitim1/radio-navigation/radio-managment-unit"
+      },
+      {
+        "id": "selcan",
+        "title": "SELCAN",
+        "pkg": "egitim1/radio-navigation/selcan"
+      },
+      {
+        "id": "tuning-operations",
+        "title": "Tuning Operations",
+        "pkg": "egitim1/radio-navigation/tuning-operations"
+      }
+    ]
+  },
+  "flight-management": {
+    "id": "flight-management",
+    "title": "Flight Management System",
+    "lessons": [
+      {
+        "id": "overview",
+        "title": "Overview",
+        "pkg": "egitim1/flight-management/overview"
+      },
+      {
+        "id": "flight-management-system",
+        "title": "Flight Management System",
+        "pkg": "egitim1/flight-management/flight-management-system"
+      },
+      {
+        "id": "FMS",
+        "title": "FMS",
+        "pkg": "egitim1/flight-management/FMS"
+      },
+      {
+        "id": "function-keys",
+        "title": "Function Keys",
+        "pkg": "egitim1/flight-management/function-keys"
+      },
+      {
+        "id": "normal-operation",
+        "title": "Normal Operation",
+        "pkg": "egitim1/flight-management/normal-operation"
+      },
+      {
+        "id": "route-modifications",
+        "title": "Route Modifications",
+        "pkg": "egitim1/flight-management/route-modifications"
+      },
+      {
+        "id": "landing",
+        "title": "Landing",
+        "pkg": "egitim1/flight-management/landing"
+      },
+      {
+        "id": "abnormal-procedures",
+        "title": "Abnormal Procedures",
+        "pkg": "egitim1/flight-management/abnormal-procedures"
+      }
+    ]
+  },
+  "oxygen": {
+    "id": "oxygen",
+    "title": "Oxygen",
+    "lessons": [
+      {
+        "id": "supply",
+        "title": "Supply",
+        "pkg": "egitim2/oxygen/supply"
+      },
+      {
+        "id": "flight-crew",
+        "title": "Flight Crew",
+        "pkg": "egitim2/oxygen/flight-crew"
+      },
+      {
+        "id": "passanger-system",
+        "title": "Passenger System",
+        "pkg": "egitim2/oxygen/passanger-system"
+      },
+      {
+        "id": "quiz",
+        "title": "Quiz",
+        "pkg": "egitim2/oxygen/quiz"
+      }
+    ]
+  },
+  "flight-controls": {
+  "id": "flight-controls",
+  "title": "Flight Control",
+  "lessons": [
+    {
+      "id": "ailerons",
+      "title": "Ailerons",
+      "pkg": "egitim2/flight-controls/ailerons"
+    },
+    {
+      "id": "elevators",
+      "title": "Elevators",
+      "pkg": "egitim2/flight-controls/elevators"
+    },
+    {
+      "id": "flaps",
+      "title": "Flaps",
+      "pkg": "egitim2/flight-controls/flaps"
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim2/flight-controls/general"
+    },
+    {
+      "id": "rudders",
+      "title": "Rudders",
+      "pkg": "egitim2/flight-controls/rudders"
+    },
+    {
+      "id": "spoilers",
+      "title": "Spoilers",
+      "pkg": "egitim2/flight-controls/spoilers"
+    },
+    {
+      "id": "stabilizer-trim",
+      "title": "Stabilizer Trim",
+      "pkg": "egitim2/flight-controls/stabilizer-trim"
+    },
+    {
+      "id": "stall-warning",
+      "title": "Stall Warning",
+      "pkg": "egitim2/flight-controls/stall-warning"
+    }
+  ]
+},
+"power-system": {
+  "id": "power-system",
+  "title": "Power System",
+  "lessons": [
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim2/power-system/general"
+    },
+    {
+      "id": "APU-controls",
+      "title": "APU Controls",
+      "pkg": "egitim2/power-system/APU-controls"
+    },
+    {
+      "id": "APU-operations",
+      "title": "APU Operations",
+      "pkg": "egitim2/power-system/APU-operations"
+    },
+    {
+      "id": "quiz",
+      "title": "Quiz",
+      "pkg": "egitim2/power-system/quiz"
+    }
+  ]
+},
+"fire-protection": {
+  "id": "fire-protection",
+  "title": "Fire Protection",
+  "lessons": [
+    {
+      "id": "detection-system",
+      "title": "Detection System",
+      "pkg": "egitim2/fire-protection/detection-system"
+    },
+    {
+      "id": "fire-detection",
+      "title": "Fire Detection",
+      "pkg": "egitim2/fire-protection/fire-detection"
+    },
+    {
+      "id": "fire-extinguishing",
+      "title": "Fire Extinguishing",
+      "pkg": "egitim2/fire-protection/fire-extinguishing"
+    },
+    {
+      "id": "quiz",
+      "title": "Quiz",
+      "pkg": "egitim2/fire-protection/quiz"
+    }
+  ]
+},
+"fuel": {
+  "id": "fuel",
+  "title": "Fuel",
+  "lessons": [
+    {
+      "id": "fuel-feed",
+      "title": "Fuel Feed",
+      "pkg": "egitim2/fuel/fuel-feed"
+    },
+    {
+      "id": "fuel-tanks",
+      "title": "Fuel Tanks",
+      "pkg": "egitim2/fuel/fuel-tanks"
+    },
+    {
+      "id": "fuel-transfer",
+      "title": "Fuel Transfer",
+      "pkg": "egitim2/fuel/fuel-transfer"
+    },
+    {
+      "id": "quantity-indication",
+      "title": "Quantity Indication",
+      "pkg": "egitim2/fuel/quantity-indication"
+    },
+    {
+      "id": "refuling-defuiling",
+      "title": "Refueling / Defueling",
+      "pkg": "egitim2/fuel/refuling-defuiling"
+    },
+    {
+      "id": "tank-venting",
+      "title": "Tank Venting",
+      "pkg": "egitim2/fuel/tank-venting"
+    }
+  ]
+}
+}
+
+
+
+
+

@@ -1,0 +1,18 @@
+[
+  {
+    "id": "s01",
+    "title": "All of the FD pitch modes except ASEL, ALT, GS and PIT have …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "All of the FD pitch modes except ASEL, ALT, GS and PIT have overspeed protection through the The FD predicts an overspeed condition based upon acceleration to prevent an overspeed condition from occurring. The pitch bar will provide a pitch up command to arrest the acceleration.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "While overspeed protection is active, the selected FD modes …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "While overspeed protection is active, the selected FD modes are unaffected and the MAX annunciation is displayed in amber on the left side of ADI.",
+    "caption_tr": ""
+  }
+]

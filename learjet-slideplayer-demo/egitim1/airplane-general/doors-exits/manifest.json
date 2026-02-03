@@ -1,0 +1,11 @@
+{
+  "title": "Doors and Exits",
+  "pages": 28,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "doors-exits-slides",
+  "audioDir": "doors-exits-audio",
+  "captionsManifest": "doors-exits-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

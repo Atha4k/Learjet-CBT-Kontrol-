@@ -1,0 +1,11 @@
+{
+  "title": "Fuel Feed",
+  "pages": 12,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fuel-feed-slides",
+  "audioDir": "fuel-feed-audio",
+  "captionsManifest": "fuel-feed-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Flight Crew",
+  "pages": 12,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "flight-crew-slides",
+  "audioDir": "flight-crew-audio",
+  "captionsManifest": "flight-crew-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

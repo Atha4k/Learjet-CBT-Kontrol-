@@ -1,0 +1,50 @@
+[
+  {
+    "id": "s01",
+    "title": "Landing Gear Caution Warning System This system provides inp…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Landing Gear Caution Warning System This system provides inputs to the and EICAS whenever an unsafe landing is attempted. This will activate voice and visual warnings to alert the crew.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Landing Gear Caution System One of the 2 conditions that act…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Landing Gear Caution System One of the 2 conditions that activate the Caution CAS message GEAR and its indications is as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "This is the other condition that activates the \"Caution\" CAS…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "This is the other condition that activates the \"Caution\" CAS message GEAR and its indications are as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Landing Gear Warning System The conditions that activate the…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Landing Gear Warning System The conditions that activate the Warning CAS message GEAR and its indications are as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Landing Gear Test System The gear warning system can be test…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Landing Gear Test System The gear warning system can be tested by placing the TEST RESET selector to GEAR and depressing the PRESS TEST switch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Selecting and pressing the switch will also illuminate the 3…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Selecting and pressing the switch will also illuminate the 3 Advisory and 3 DOWN lights. However, the warning system is not tested.",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "id": "s01",
+    "title": "The 2 spoiler panels are located in front of the trailing ed…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The 2 spoiler panels are located in front of the trailing edge flaps. The spoilers are hydraulically powered by the main hydraulic system and their operations are controlled by the Spoileron Controller. The spoiler panels are extended and retracted by the spoiler actuator. pr epi mov see own ug aa PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Spoiler Lever This is located on the left side of the thrott…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Spoiler Lever This is located on the left side of the throttle quadrant and is linked to 2 RVDTs (rotary variable differential transformer). These Ts send the signals to the spoileron controller whenever the lever is moved. por epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "There are 3 marked settings for the spoiler lever that corre…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "There are 3 marked settings for the spoiler lever that corresponds to the detents : - RET (full retract) - ARM for auto-spoiler operation) and - EXT (full extension). po epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The range between the ARM and EXT detents allows for variabl…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The range between the ARM and EXT detents allows for variable spoiler positions in-flight. There are aiso 2 unmarked detents between ARM and EXT. They correspond to intermediate spoiler extension positions of approximately 15 and ro epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "There are 3 modes of operation for the spoilers system. - No…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "There are 3 modes of operation for the spoilers system. - Normal or Manual Spoiler mode - Auto-Spoiler mode - Spoileron mode pe epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Normal or Manual Spoiler Mode The spoilers can be extended s…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Normal or Manual Spoiler Mode The spoilers can be extended symmetrically on the ground or in-flight by moving the spoiler lever aft of the ARM position. On the ground, placing the lever to any position aft of ARM will cause a full extension of the spoilers in 1 second. Gare epi mov see own ug aa PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "When the spoiler lever is placed in any position aft of ARM,…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "When the spoiler lever is placed in any position aft of ARM, the RVDTs attached to it will signal the spoileron controller or computer. The controller, in turn, energizes the servo valves to meter hydraulic pressure to the extend side of the actuators. po epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The spoiler actuators will then extend the spoiler panels. T…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The spoiler actuators will then extend the spoiler panels. The controller receives spoiler extension feed-back from the RVDTSs attached to the 2 actuators, and it neutralizes the servo valves when the spoilers have reached the selected position. po epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "In-flight, the amount of spoiler panel extension will depend…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "In-flight, the amount of spoiler panel extension will depend on the spoiler lever position and airspeed. Below knots, the spoileron controller commands a 60 extension when the lever is placed to EXT. At higher speeds, this full extension is not available when the lever is placed to EXT. prone epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "When the spoilers are extended or retracted in-flight, the h…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When the spoilers are extended or retracted in-flight, the horizontal stabilizer configuration trim system automatically adjusts the pitch trim to compensate for the pitching moment caused by spoilers repositioning. sa epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The spoilers should not be manually extended if the flaps ar…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The spoilers should not be manually extended if the flaps are also extended while in-flight except as specified in the EMERGENCY andor ABNORMAL procedures section of the AFM. A caution CAS message SPOILERS EXT is displayed if the spoilers are manually deployed with the flaps extended at 3 or more. po epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The digital spoiler indicators and the analog scale pointers…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The digital spoiler indicators and the analog scale pointers will turn amber anytime - the flaps are extended to 3 or more and - the spoilers are manually extended in flight JE epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The spoiler indications are shown on -the SUMRY page as 0 to…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The spoiler indications are shown on -the SUMRY page as 0 to 60 (digital format) -the EICAS - page in digital format and also in an analog and pointer format - the RMU page 1 in a digital format. porn epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Note that the digital format indication, displays the comman…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Note that the digital format indication, displays the commanded spoiler position by the spoiler lever or the auto-spoiler function. it does not display differential extension as a result of spoileron mode operation. Moving the spoiler lever will cause it to display the desired spoiler selection. pone epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The pointers show the actual spoiler panel extension for all…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The pointers show the actual spoiler panel extension for all conditions inclusive of differential requirements. We will discuss more of this under the spoileron mode of operation. Gries epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "The spoilers must be fully retracted for take-off. If the sp…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The spoilers must be fully retracted for take-off. If the spoilers are extended with the airplane on the ground, the spoiler indications will be boxed. An advisory CAS message SPOILERS EXT is also displayed. Ge coe epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Advancing the thrust levers beyond will cause the take-off w…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Advancing the thrust levers beyond will cause the take-off warnings to be activated. The advisory CAS message SPOILER EXT and all the spoiler indications will tum red. The aural CONFIGURATION voice warning will also sound. Placing the spoiler lever to RET will retract the spoilers and resets the system. Ge epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Auto-Spoilers Mode This mode is designed for automatic exten…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Auto-Spoilers Mode This mode is designed for automatic extension of the spoilers during -a RTO (rejected take-off) and - after a normal landing. gon epi mov see own ug aa PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "This mode fully extends both spoilers when the spoiler lever…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "This mode fully extends both spoilers when the spoiler lever is at ARM and - both thrust levers are at idle or cut-off and - a ground mode is sensed by either squat switch and - atleast 1 left and 1 right wheel speed is greater than 60 knots pony epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Prior to take-off, the spoiler lever is placed at ARM. When …",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Prior to take-off, the spoiler lever is placed at ARM. When a RTO or rejected take-off is executed, the spoilers will extend fully when all the 3 conditions are met. Note that the spoiler lever remains at ARM even after the spoilers have automatically deployed. por) epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The auto-spoilers will not extend on the ground even with th…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The auto-spoilers will not extend on the ground even with the ARM position selected and the thrust levers at idle UNTIL the airplane has accelerated past 60 knots. pr epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "Prior to landing, the spoiler lever is again placed at ARM. …",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Prior to landing, the spoiler lever is again placed at ARM. After touch down, the spoilers will deploy fully when the thrust levers are retarded to idle and the wheel speeds exceed 60 knots. Note that the spoiler lever remains at ARM even after the spoilers have automatically deployed. pen) epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "Once the spoilers have deployed automatically, advancing the…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Once the spoilers have deployed automatically, advancing the thrust levers from idle automatically stows the spoiler panels. However, the spoiler lever remains at the ARM position and it has to be physically placed to RET to reset the system. pry epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Spoileron Mode The spoilerons operate automatically on the g…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Spoileron Mode The spoilerons operate automatically on the ground and in-flight to augment the ailerons whenever the pilot's control wheel is turned more than 5. regen epi mov see own ug aa PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "With the aileron connected, a rotation of the pilot's contro…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "With the aileron connected, a rotation of the pilot's control wheel more than 5 provides a roll input to the spoileron computer. The appropriate spoiler, left or right, extends to the commanded deflection while the other spoiler is commanded stowed. poy epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "The spoilers operate in the pure spoileron mode if the spoil…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "The spoilers operate in the pure spoileron mode if the spoilers have not been extended through the use of the spoiler lever. Note that the digital display is 0 since the spoiler leveris atRET. poy epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "Note that the digital display is still 0 since the spoiler l…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "Note that the digital display is still 0 since the spoiler lever is at RET. However, the left spoiler pointer displays the actual spoiler deflection. pr epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "Returning the control wheel to neutral will retract the left…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Returning the control wheel to neutral will retract the left spoiler. peony epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "Let us assume that the spoilers are manually extended to Bot…",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "Let us assume that the spoilers are manually extended to Both the digital displays and the pointers will indicate the desired and actual spoiler extension. pn epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "When the pilot executes a left bank, the spoileron computer …",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "When the pilot executes a left bank, the spoileron computer mix logic retracts the right spoiler first to give a differential necessary for the roll command. ramon epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "Note that the digital displays remain at 15 since this is se…",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "Note that the digital displays remain at 15 since this is selected by the spoiler lever. pn epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "Returning the control wheel to neutral will cause the left s…",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "Returning the control wheel to neutral will cause the left spoiler to retract to 15 and the right spoiler will extend back to 15 too. pron epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "Spoiler Monitor System The spoileron controller contains a m…",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "Spoiler Monitor System The spoileron controller contains a monitor system to prevent electrical or mechanical faults from causing the un-commanded extension or retraction of the spoilers. The controller always performs a self-test at power up. eo epi mov see own ug aa PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "If it detects a self-test failure or fault during normal ope…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "If it detects a self-test failure or fault during normal operation, the shut-off valve closes and the spoilers are blown down. However, if the monitor system does not stow the spoilers, depressing and holding the will also retract the spoilers but they may not fully retract. po epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Spoilers Fail When a malfunction causes the spoileron monito…",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "Spoilers Fail When a malfunction causes the spoileron monitor system to trip, a caution CAS message SPOILERS FAIL is displayed. If the maifunction was momentary or has cleared, it may be possible to reset the spoileron computer using the RESET position on the test knob. po epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "However, if it is not possible to reset the system, there is…",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "However, if it is not possible to reset the system, there is an AFM requirement to descend to or below. This limitation is for the extended time required to make an emergency descent with spoilers inoperative. roa epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "Spoiler Jam if the right spoiler is jammed, the spoileron co…",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "Spoiler Jam if the right spoiler is jammed, the spoileron controller continues to operate the left spoiler. it also tries to retract the jammed right spoiler. A caution CAS message R SPOILER JAM is displayed. pes epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "Spoiler Electrical Power The spoileron controller is powered…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "Spoiler Electrical Power The spoileron controller is powered by the L Essential Bus for spoiler operation through the circuit breaker. The indicating system is powered by the R Essential Bus through the IND circuit breaker in the FLIGHT group. pra epi mov see own ug am PE wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "Bus cb) power to the spoileron computer is lost, the spoiler…",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Bus cb) power to the spoileron computer is lost, the spoilers will retract and will be inoperative in all modes. if the R ESS Bus IND cb) power is lost, the spoilerons will be operational only in the aileron disconnect mode. ra epi mov see own ug am PE wri",
+    "caption_tr": ""
+  }
+]

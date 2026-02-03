@@ -1,0 +1,11 @@
+{
+  "title": "Gear Operations",
+  "pages": 28,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "gear-operations-slides",
+  "audioDir": "gear-operations-audio",
+  "captionsManifest": "gear-operations-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

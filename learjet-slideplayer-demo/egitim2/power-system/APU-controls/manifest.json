@@ -1,0 +1,11 @@
+{
+  "title": "APU Controls",
+  "pages": 7,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "APU-controls-slides",
+  "audioDir": "APU-controls-audio",
+  "captionsManifest": "APU-controls-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

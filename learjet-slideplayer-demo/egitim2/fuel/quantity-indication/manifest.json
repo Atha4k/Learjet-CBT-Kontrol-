@@ -1,0 +1,11 @@
+{
+  "title": "Quantity Indication",
+  "pages": 6,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "quantity-indication-slides",
+  "audioDir": "quantity-indication-audio",
+  "captionsManifest": "quantity-indication-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

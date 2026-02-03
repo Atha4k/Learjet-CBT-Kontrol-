@@ -3,14 +3,14 @@
   "title": "Electrical",
   "summary": "Electrical system overview and lessons.",
   "topics": [
-    { "id": "el-01", "title": "Overview", "type": "lesson", "description": "" },
-    { "id": "el-02", "title": "Electrical Components", "type": "lesson", "description": "" },
-    { "id": "el-03", "title": "Electrical Control Panel", "type": "lesson", "description": "" },
-    { "id": "el-04", "title": "Electrical System Indications", "type": "lesson", "description": "" },
-    { "id": "el-05", "title": "System", "type": "lesson", "description": "" },
-    { "id": "el-06", "title": "Normal Procedures", "type": "lesson", "description": "" },
-    { "id": "el-07", "title": "Abnormal Procedures", "type": "lesson", "description": "" },
-    { "id": "el-08", "title": "AC Power", "type": "lesson", "description": "" },
-    { "id": "el-09", "title": "Quiz", "type": "quiz", "description": "" }
+    { "id": "overview", "title": "Overview", "type": "lesson", "description": "" },
+    { "id": "electrical-components", "title": "Electrical Components", "type": "lesson", "description": "" },
+    { "id": "control-panel", "title": "Electrical Control Panel", "type": "lesson", "description": "" },
+    { "id": "system-indications", "title": "Electrical System Indications", "type": "lesson", "description": "" },
+    { "id": "system", "title": "System", "type": "lesson", "description": "" },
+    { "id": "normal-procedures", "title": "Normal Procedures", "type": "lesson", "description": "" },
+    { "id": "abnormal-procedures", "title": "Abnormal Procedures", "type": "lesson", "description": "" },
+    { "id": "ac-power", "title": "AC Power", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

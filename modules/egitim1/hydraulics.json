@@ -3,11 +3,11 @@
   "title": "Hydraulics",
   "summary": "Hydraulic system overview and lessons.",
   "topics": [
-    { "id": "hy-01", "title": "Konu 1", "type": "lesson", "description": "" },
-    { "id": "hy-02", "title": "Konu 2", "type": "lesson", "description": "" },
-    { "id": "hy-03", "title": "Konu 3", "type": "lesson", "description": "" },
-    { "id": "hy-04", "title": "Konu 4", "type": "lesson", "description": "" },
-    { "id": "hy-05", "title": "Konu 5", "type": "lesson", "description": "" },
-    { "id": "hy-06", "title": "Konu 6", "type": "quiz", "description": "" }
+    { "id": "general", "title": "General", "type": "lesson", "description": "" },
+    { "id": "auxiliary-system", "title": "Auxiliary System", "type": "lesson", "description": "" },
+    { "id": "indications", "title": "Indications", "type": "lesson", "description": "" },
+    { "id": "main-system", "title": "Main System", "type": "lesson", "description": "" },
+    { "id": "malfunction", "title": "Malfunction", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

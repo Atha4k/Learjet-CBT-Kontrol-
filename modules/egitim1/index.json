@@ -24,9 +24,19 @@
       "path": "modules/egitim1/lighting.json"
     },
     {
-      "slug": "avionics",
-      "title": "Avionics",
-      "path": "modules/egitim1/avionics.json"
+      "slug": "avionics 1",
+      "title": "Avionics 1",
+      "path": "modules/egitim1/avionics1.json"
+    },
+     {
+      "slug": "avionics 2",
+      "title": "Avionics 2",
+      "path": "modules/egitim1/avionics2.json"
+    },
+    {
+      "slug": "avionics 3",
+      "title": "Avionics 3",
+      "path": "modules/egitim1/avionics3.json"
     },
     {
       "slug": "auto-flight-system",

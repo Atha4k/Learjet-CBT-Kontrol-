@@ -1,0 +1,18 @@
+[
+  {
+    "id": "s01",
+    "title": "Upon touchdown, page 1 of the LANDING summary will be displa…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Upon touchdown, page 1 of the LANDING summary will be displayed automatically. Information on this page is self-explanatory. oo FR N _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Landing page 22 will display the best computed position coor…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Landing page 22 will display the best computed position coordinates, the most significant sensors derived position co-ordinates, and the difference between the two. J oo FR N _",
+    "caption_tr": ""
+  }
+]

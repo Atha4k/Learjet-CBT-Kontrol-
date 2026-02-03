@@ -1,0 +1,12 @@
+{
+  "title": "Air Data",
+  "pages": 23,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "air-data-slides",
+  "audioDir": "air-data-audio",
+  "captionsManifest": "air-data-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}
+

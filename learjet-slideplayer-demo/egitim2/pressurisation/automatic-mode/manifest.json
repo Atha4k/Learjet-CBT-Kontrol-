@@ -1,0 +1,11 @@
+{
+  "title": "Automatic Mode",
+  "pages": 21,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "automatic-mode-slides",
+  "audioDir": "automatic-mode-audio",
+  "captionsManifest": "automatic-mode-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Overview",
+  "pages": 13,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "overview-slides",
+  "audioDir": "overview-audio",
+  "captionsManifest": "overview-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

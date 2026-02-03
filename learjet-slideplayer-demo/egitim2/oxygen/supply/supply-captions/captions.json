@@ -1,0 +1,66 @@
+[
+  {
+    "id": "s01",
+    "title": "This lesson will describe the oxygen supply up to the three …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "This lesson will describe the oxygen supply up to the three systems. The oxygen supply for ail these systems is stored inside two oxygen bottles located inside the forward compartment of the observer's cabinet",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Each oxygen bottle incorporates: A Direct-reading pressure g…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Each oxygen bottle incorporates: A Direct-reading pressure gauge",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The pressure sensors provide information on bottle pressure …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The pressure sensors provide information on bottle pressure on the SUMMARY page of EICAS or on the R-M-U, engine page two. It also provides information on pressure, expressed in liters pr i ro. aw aa Fr wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The pressure sensors also provide CAS messages if the bottle…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The pressure sensors also provide CAS messages if the bottle pressure is at an abnormal level. OXYGEN PRESSURE HIGH or OXYGEN QUANTITY LOW will be displayed. This is accompanied by a single chime and master caution. Check oxygen quantity to determine the fault. rr i ro. aw aa Fr wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "In the event of an abnormally high pressure within the bottl…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "In the event of an abnormally high pressure within the bottle, the safety discharge plug will rupture. Oxygen will escape to ambient through a port on the right side of the fuselage. m i ro. aw am Fr wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The thermal discharge port is located on the right side of t…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The thermal discharge port is located on the right side of the fuselage, aft and below the cockpit window. it is normally covered by a green plastic disc and a missing disc could indicate that a thermal discharge has taken place. pr i ro. aw am Fr wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The pressure of the oxygen, which leaves the bottle, is regu…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The pressure of the oxygen, which leaves the bottle, is regulated down to about sixty to eighty This regulated oxygen pressure is available at the oxygen masks of the pilots, at the observer's oxygen control valve, and at the passenger oxygen contro valve. i ro. aw aa Fr wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "This may be an indication that the oxygen cylinder shutoff v…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "This may be an indication that the oxygen cylinder shutoff vaives have not been opened after maintenance work has been carried out p i ro. aw aa Fr wri",
+    "caption_tr": ""
+  }
+]

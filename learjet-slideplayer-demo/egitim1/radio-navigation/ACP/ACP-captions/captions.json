@@ -1,0 +1,234 @@
+[
+  {
+    "id": "s01",
+    "title": "The pilot's and co-pilots digital audio control panels are l…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The pilot's and co-pilots digital audio control panels are located outboard of the PFDs on each side of the cockpit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The observer's audio control panel is on the right of his se…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The observer's audio control panel is on the right of his seat. It is located on top of the manual stowage compartment.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Each audio control panel (ACP) receives digitized audio from…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Each audio control panel (ACP) receives digitized audio from integrated navigation units (INU), integrated communications units (ICU) and HF through high-speed digital data buses and reconstitutes them into headphone and speaker signals. The pilot and co-pilot may listen to the same audio source at independent audio volume level settings over the cockpit speaker and headset.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The audio control panels also receive inputs from crew warni…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The audio control panels also receive inputs from crew warning panel ground proximity warningwindshear systems and trim-in motion detector for horizontal stabilizer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Microphone transmit buttons are located along the top row of…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Microphone transmit buttons are located along the top row of the audio control panel. For night flying operations, the transmit buttons are annunciated with lighted green bar on the switch indicating the selected microphone.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "When the transmit button is pushed, it latches in the down p…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "When the transmit button is pushed, it latches in the down position. When latched down, it connects microphone (hand-held, boom or oxygen mask microphone) to the selected radio. At the same time, it also enables the audio reception at the preset volume. This is regardless of whether the receive button is on or off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "For boom and hand-held microphone to be connected to the rad…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "For boom and hand-held microphone to be connected to the radios, the BOONMASK switch must be selected in the depressed position.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "When oxygen mask is used, the BOONMASK switch must be select…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "When oxygen mask is used, the BOONMASK switch must be selected UP.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The transmit buttons are mechanically interlocked so that ea…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The transmit buttons are mechanically interlocked so that each new selection automatically deselects the previous selection. Watch",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Depressing the PA button connects the boom, hand-held or oxy…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Depressing the PA button connects the boom, hand-held or oxygen microphone to the passenger address (PA) amplifier. The audio level for the PA is automatically adjusted for conditions and is not settable by the crew.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "An emergency switch is located in the upper right corner of …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "An emergency switch is located in the upper right corner of each audio control panel. When emergency is depressed, that side of microphone and audio reception is connected directly to COM 1 and NAV 1 and all functions of the audio control panel are by-passed except the headphone volume.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "To receive NAV 1 audio IDENT with emergency button selected …",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "To receive NAV 1 audio IDENT with emergency button selected on the audio control panel, the NAV AUDIO switch on the must be depressed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The receive buttons are located on the lower rows of the aud…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The receive buttons are located on the lower rows of the audio control panel. When these push-onpush-off switches are latched in the down position, audio is turned off from the receiver. When unlatched in the up position, the audio associated with that button is connected to the headphone and also to the speaker, if selected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The audio level can be adjusted by rotating the receive butt…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The audio level can be adjusted by rotating the receive button. Counter-clockwise to decrease the volume, and clockwise to increase the volume. The audio level pointer on the knobs is illuminated for night flight.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "When the DME knob is unlatched up and the arrow on the knob …",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "When the DME knob is unlatched up and the arrow on the knob is centred straight up, the audio level is at a minimum. Rotating the control knob in either direction 1 or 2 will increase the volume for that corresponding receiver only.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "The SIDETONE button selects the on-side cockpit speaker. In …",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The SIDETONE button selects the on-side cockpit speaker. In the latched down position, the speaker is turned off; and when the control is in the unlatched (up) position, the on-side cockpit speaker is on.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The sidetone level control is used to prevent undesirable fe…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The sidetone level control is used to prevent undesirable feedback of speaker sidetone audio into the transmitting microphone. When transmitting, both the on-side and off-side speaker sidetone audio levels will be lowered. In addition, the off-side headphone and sidetone levels are lowered.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "With the speaker on, the SPEAKER knob can be used to adjust …",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "With the speaker on, the SPEAKER knob can be used to adjust the volume of the cockpit speaker. This control functions in series with the individual receive buttons.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "The IDIBOTHVOICE switch is located on the right side of the …",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The IDIBOTHVOICE switch is located on the right side of the audio control panel. In the ID position, the VOR and ADF audio is filtered out to enhance the Morse code identification and eliminate the voice signal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "In the VOICE position, the audio ident is filtered out and t…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "In the VOICE position, the audio ident is filtered out and the voice content remains. This position is useful for ATIS reception. In BOTH position, voice and ident signals may be heard simultaneously.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The controls for the marker beacon receiver are located at t…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The controls for the marker beacon receiver are located at the bottom of the audio control panel. The marker beacon volume control is used to adjusted the volume to the on-side speaker and headphone. The volume cannot be adjusted below an internally preset level. The selector must be in up position to receive the audio.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "The MUTE control is a momentary-action switch. Pushing this …",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "The MUTE control is a momentary-action switch. Pushing this selector will temporarily silence the marker beacon audio. The audio remains muted for the time it takes the aircraft to leave the influence of the marker beacon, then resets in preparation for reception of the next marker beacon.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "The same selector also controls sensitivity of marker beacon…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The same selector also controls sensitivity of marker beacon receiver. If both selectors are in LO or HI position, then the sensitivity of both receivers will correspondingly be in low or high. But if one of them is in LO, then both receivers sensitivity will be set to low. The graphics above explain this.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "The interphone (INPH) volume control adjusts the on-side hea…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "The interphone (INPH) volume control adjusts the on-side headset audio level when the interphone function is used. The interphone operates on a hot mic basis.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "When INPH is push in (latched), the on-side interphone (inte…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "When INPH is push in (latched), the on-side interphone (intercom) is turned off. When the control is up (unlatched), the on-side interphone is turned on.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "The HEADPHONE control is used to adjust the on-side headphon…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "The HEADPHONE control is used to adjust the on-side headphone volume. This control functions in series with the individual audio source controls.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "The MICIMASK control allows for microphone audio switching b…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "The MICIMASK control allows for microphone audio switching between the boomhand-held microphone and the oxygen mask microphone. In the latched down position (MIC), boom and hand-held microphones are activated. In the up position, oxygen mask microphone is activated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "The MASK intercom feature provides interphone audio to the o…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The MASK intercom feature provides interphone audio to the on-side cockpit speaker during oxygen mask operation. This speaker audio is available regardless of the ONOFF button position.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "Please note that INPH must be selected on (up) whenever the …",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "Please note that INPH must be selected on (up) whenever the MASK microphone is selected. With this setting, the on-side speaker can be used for intercom via the on-side oxygen mask microphone and cockpit speaker. It also allows adjustable volume control of the off-side MASK intercom on the speaker.",
+    "caption_tr": ""
+  }
+]

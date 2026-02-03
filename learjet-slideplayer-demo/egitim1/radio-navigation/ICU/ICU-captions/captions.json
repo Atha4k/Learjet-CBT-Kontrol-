@@ -1,0 +1,154 @@
+[
+  {
+    "id": "s01",
+    "title": "Two Integrated Communications Units (ICU) are located in the…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Two Integrated Communications Units (ICU) are located in the nose avionics bay.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The Integrated Communications Unit consists of: - COM Trance…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The Integrated Communications Unit consists of: - COM Tranceiver Module - Mode C Transponder Each module is self-contained within its own housing and each has its own power source.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The COM tranceiver module is a conventional COM tranceiver. …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The COM tranceiver module is a conventional COM tranceiver. The tranceiver operates on a dual bandwidth: narrowband and wideband.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The COM 1 antenna is mounted below the aircraft The COM 2 an…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The COM 1 antenna is mounted below the aircraft The COM 2 antenna is located on top.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "To provide operation throughout the world, COM tranceiver ha…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "To provide operation throughout the world, COM tranceiver has been designed to accommodate the frequency range of MHz to MHz, with channel spacing of 25 KHz. Selection of COM frequency is on RMU in the COM window. The top line is the active frequency.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "If a COM frequency is selected on the RMU and the transmit b…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "If a COM frequency is selected on the RMU and the transmit button on the audio control panel (ACP) is depressed, keying the MIC switch behind the outboard control wheel or the hand mike will cause transmission to occur. This is evidenced by a amber TX which is annunciated on top of the COM window.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The COM transmitter is incorporated with a 2-minute timer co…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The COM transmitter is incorporated with a 2-minute timer control. Pressing the MIC switch or the hand mike to transmit set the timer running. The timer resets each time transmission ceases.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "If the switch is keyed for 2 minutes, a bleep will be heard …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "If the switch is keyed for 2 minutes, a bleep will be heard over the headset as a warning. At the same time, amber TX will change to red MIC 10 seconds after that, the timer will cutoff the transmission and shutdown the transmitter.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The receiver is not affected by the timer control. It contin…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The receiver is not affected by the timer control. It continues to function normally even though transmitter is shutdown by the timer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "This feature is provided to cater for microphone jammed situ…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "This feature is provided to cater for microphone jammed situation. By shutting down the transmitter, it frees the affected frequency so that communications between other aircrafts and the controller can continue without disruption.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "There are two transponders onboard the aircraft, each residi…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "There are two transponders onboard the aircraft, each residing in the integrated communications unit (ICU). An interlock feature is incorporated which allows one transponder to work at any one time.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Transponder antennas are located at the bottom of the aircra…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Transponder antennas are located at the bottom of the aircraft The forward antenna is connected to transponder 1 and the aft, transponder 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The transponder system is wired via squat switches. When air…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The transponder system is wired via squat switches. When air mode is sensed, the transponder system will respond to all valid ATC radar interrogation with a coded identification andor reporting altitude reply.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Each transponder receives air data information from ADCs 1 a…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Each transponder receives air data information from ADCs 1 and 2. Transponder 1 uses ADC 1 information and transponder 2 uses ADC 2 information as their primary sources. In the event of an ADC failure, each transponder can use the off-side ADC information through the ADC reversion switch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "There are 4 IDENT buttons, one on RMUs 1 and 2; and one on e…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "There are 4 IDENT buttons, one on RMUs 1 and 2; and one on each of the control wheel as shown. When one of these IDENT buttons is pressed, it will initiate an IDENT pulse from the transponder when requested.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "The transponder code and mode are selected on the RMU in the…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The transponder code and mode are selected on the RMU in the ATC window. Because of the interlock feature that enable one transponder to be used at any one time, both RMUs ATC windows will display the same transponder code and mode. When the code or mode is changed on one RMU, the other RMU will track the change. This will be discussed later in the RMU operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The operating modes of the transponder are : STANDBY, 12 ATC…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The operating modes of the transponder are : STANDBY, 12 ATC ON and 12 ATC ALT. The power-up mode is STANDBY. In this mode, transponder is ready but not replying.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "The number 1 in front indicates that transponder 1 is used. …",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The number 1 in front indicates that transponder 1 is used. Likewise, 2 means transponder 2 is used.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "ATC ALT means transponder is operating in modes A and C with…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "ATC ALT means transponder is operating in modes A and C with altitude reporting.",
+    "caption_tr": ""
+  }
+]

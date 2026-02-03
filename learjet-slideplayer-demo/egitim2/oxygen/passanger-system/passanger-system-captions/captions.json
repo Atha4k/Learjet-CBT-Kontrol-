@@ -1,0 +1,90 @@
+[
+  {
+    "id": "s01",
+    "title": "Controls for the passenger oxygen system consist of two swit…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Controls for the passenger oxygen system consist of two switchindicators located at the main instrument panei. va i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "This passenger oxygen system may be deployed automatically o…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "This passenger oxygen system may be deployed automatically or manually. The Pax OxyAuto switch is used to arm or to inhibit automatic deployment. i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "For automatic operation, the Pax OxyAuto switch indicator is…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "For automatic operation, the Pax OxyAuto switch indicator is selected so thatit is blank. In this position, should cabin altitude exceed feet, the pressurisation controller will send a signal to the passenger oxygen control valve to open it. The PAX DEPLOY switchindicator will illuminate ON and a CAS message Pax Oxy Deploy, will flash for five seconds. Any time the passenger oxygen system is turned on, the emergency lights will automatically come on. pe i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "To disarm or inhibit automatic operation of the system, sele…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "To disarm or inhibit automatic operation of the system, select the Pax OxyAuto switchindicator so that the word OFF is illuminated. mo i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Manual operation is controlled by the Pax Deploy switchindic…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Manual operation is controlled by the Pax Deploy switchindicator. When desired, the passenger oxygen system can be turned on at any time by selecting the pax deploy switchindicator. prog io i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Select the PAX Deploy Sl by clicking on it. This action send…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Select the PAX Deploy Sl by clicking on it. This action sends a signal to open the pax oxygen control valve. The pax deploy switchindicator will illuminate ON. Note that the emergency lights come on when the passenger oxygen system is turned on either automatically or manually. pp i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The passenger oxygen control valve may be reset closed if de…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The passenger oxygen control valve may be reset closed if desired. This is done by selecting the Pax Deploy switch indicator. The word ON will extinguish if the valve resets to the closed position. Note that if the valve was deployed automatically, it cannot be reset unless the cabin altitude is below feet. bia i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "When the pax oxygen system is fumed on, oxygen pressure will…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "When the pax oxygen system is fumed on, oxygen pressure will release latches to open the mask stowage doors and the masks will drop down in front of each passenger. Oxygen will not flow out through the mask unless the passenger pulls the mask towards his face. This action will open a mask valve inside the stowage box to allow oxygen to flow thru the mask. The oxygen-flow through the mask will be under pressure and not on demand. i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "This message indicates a fault in the actuation circuit for …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "This message indicates a fault in the actuation circuit for the passenger oxygen control vaive. Both auto-deploy and manual deploy may not be functional. if passengers are carried on board, refer to the Airplane Flight Manual for procedures to follow. i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "To summarize, if the pax oxy auto switch is blank, the auto …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "To summarize, if the pax oxy auto switch is blank, the auto deploy system is armed. If cabin altitude exceeds feet, the pax oxygen system will turn on automatically. The Pax Deploy switch will illuminate ON. If the pax oxy auto switch is illuminated OFF, the auto deploy system is inhibited and it will not be able to turn the passenger oxygen on if the cabin exceeds feet. To manually turn the pax system on at any time, press the pax deploy switchindicator. The pax oxygen system will turn on. The Pax Deploy switch will illuminate ON. i i ro. aw aa a h a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The observer's system is similar except that there is no pro…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The observer's system is similar except that there is no provision to inhibit automatic deployment. If cabin altitude exceeds feet, the observer's system is tumed on automatically. The observer's switch will illuminate ON. The observer's system may also be turned on manually at any time by depressing the observer's switch. The observer's switch will then illuminate ON. Both pax and observer systems may be reset - if conditions permit - by pressing the illuminated Pax Deploy switchindicator or the illuminated Observer's switch indicator. i i ro. aw aa a h a wri",
+    "caption_tr": ""
+  }
+]

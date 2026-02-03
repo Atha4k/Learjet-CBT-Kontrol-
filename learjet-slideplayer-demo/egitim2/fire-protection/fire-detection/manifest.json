@@ -1,0 +1,11 @@
+{
+  "title": "Fire Detection",
+  "pages": 8,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fire-detection-slides",
+  "audioDir": "fire-detection-audio",
+  "captionsManifest": "fire-detection-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

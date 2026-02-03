@@ -1,0 +1,173 @@
+[
+  {
+    "id": "s01",
+    "title": "Hot Buses Powered by Batteries",
+    "title_tr": "Bataryalar Tarafından Beslenen Hot Buslar",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "With no external power source present, electrical power is always available to a group of hot buses from the batteries, regardless of whether the batteries are selected ON or OFF.",
+    "caption_tr": "Harici bir güç kaynağı bulunmadığında, bataryalar açık veya kapalı konumda olsun, hot bus gruplarına her zaman elektrik gücü sağlanır."
+  },
+  {
+    "id": "s02",
+    "title": "Types of Hot Buses",
+    "title_tr": "Hot Bus Türleri",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The hot buses include the rear hot bus, left and right hot buses, and the left and right emergency hot buses.",
+    "caption_tr": "Hot buslar; arka hot bus, sol ve sağ hot buslar ile sol ve sağ acil durum hot buslardan oluşur."
+  },
+  {
+    "id": "s03",
+    "title": "Emergency Battery Hot Buses",
+    "title_tr": "Acil Durum Batarya Hot Busları",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The left and right emergency battery hot buses also receive backup power from the emergency battery. These buses supply power to engine fire extinguishers and firewall shut-off valves.",
+    "caption_tr": "Sol ve sağ acil durum batarya hot busları, acil durum bataryasından yedek güç alır ve motor yangın söndürme sistemleri ile firewall kapatma valflerini besler."
+  },
+  {
+    "id": "s04",
+    "title": "Hot Bus Power Source Change",
+    "title_tr": "Hot Bus Güç Kaynağının Değişmesi",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Once an external power source such as the GPU is established, the hot buses are powered by that available source instead of the batteries.",
+    "caption_tr": "GPU gibi harici bir güç kaynağı bağlandığında, hot buslar bataryalar yerine bu güç kaynağı tarafından beslenir."
+  },
+  {
+    "id": "s05",
+    "title": "DC Bus Structure",
+    "title_tr": "DC Bus Yapısı",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The DC buses consist of non-essential buses, main buses, main avionics buses, essential avionics buses, and essential buses.",
+    "caption_tr": "DC bus yapısı; non-essential, main, main avionics, essential avionics ve essential buslardan oluşur."
+  },
+  {
+    "id": "s06",
+    "title": "Bus Interconnections",
+    "title_tr": "Bus Bağlantıları",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "These buses are interconnected by contactors, fuses, and circuit breakers that automatically isolate faulty circuits.",
+    "caption_tr": "Bu buslar; kontaktörler, sigortalar ve devre kesiciler aracılığıyla birbirine bağlanır ve arızalı devreler otomatik olarak izole edilir."
+  },
+  {
+    "id": "s07",
+    "title": "Emergency Battery Bus Operation",
+    "title_tr": "Acil Durum Batarya Bus Çalışması",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The emergency battery bus is normally connected to the right generator bus. It connects to the emergency battery during engine start or when batteries are the only power source available.",
+    "caption_tr": "Acil durum batarya busu normalde sağ jeneratör busuna bağlıdır; motor çalıştırma sırasında veya yalnızca bataryalar mevcutsa acil bataryaya bağlanır."
+  },
+  {
+    "id": "s08",
+    "title": "Contactor Control Logic",
+    "title_tr": "Kontaktör Kontrol Mantığı",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Except for essential and isolation contactors, all contactors are controlled by switch-indicators on the electrical control panel. Essential and isolation contactors operate automatically.",
+    "caption_tr": "Essential ve isolation kontaktörler dışında tüm kontaktörler elektrik kontrol panelindeki switch-indicatorlar ile kontrol edilir; essential ve isolation kontaktörler tamamen otomatiktir."
+  },
+  {
+    "id": "s09",
+    "title": "Bus-Tie Operation with Single Power Source",
+    "title_tr": "Tek Güç Kaynağında Bus-Tie Çalışması",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "When a single power source powers the aircraft, the bus-tie closes to supply both generator buses. Bus-tie cannot be opened when GPU is used.",
+    "caption_tr": "Uçak tek bir güç kaynağıyla beslendiğinde bus-tie kapanır ve her iki jeneratör busu beslenir. GPU kullanıldığında bus-tie manuel açılamaz."
+  },
+  {
+    "id": "s10",
+    "title": "GPU Power Priority",
+    "title_tr": "GPU Güç Önceliği",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When GPU is present, APU and aircraft generators are excluded from powering the aircraft. Introducing GPU removes existing power sources.",
+    "caption_tr": "GPU bağlıyken APU ve uçak jeneratörleri devre dışı kalır; GPU devreye alındığında mevcut güç kaynakları otomatik olarak ayrılır."
+  },
+  {
+    "id": "s11",
+    "title": "APU Generator Usage",
+    "title_tr": "APU Jeneratör Kullanımı",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The APU generator may operate in parallel with aircraft generators on the ground but must be deselected before flight.",
+    "caption_tr": "APU jeneratörü yerde uçak jeneratörleriyle paralel çalışabilir ancak havalanmadan önce devreden çıkarılmalıdır."
+  },
+  {
+    "id": "s12",
+    "title": "Voltage Sensitive Systems",
+    "title_tr": "Voltaj Hassas Sistemler",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Essential and avionics buses supply voltage-sensitive equipment that can be affected by voltage spikes during engine start.",
+    "caption_tr": "Essential ve avionics buslar, motor çalıştırma sırasında oluşabilecek voltaj dalgalanmalarına hassas ekipmanları besler."
+  },
+  {
+    "id": "s13",
+    "title": "Electrical Protection During Engine Start",
+    "title_tr": "Motor Çalıştırma Sırasında Elektriksel Koruma",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Before engine start, avionics buses are temporarily depowered and emergency battery supplies essential systems to prevent voltage spikes.",
+    "caption_tr": "Motor çalıştırma öncesinde voltaj dalgalanmalarını önlemek için avionics buslar geçici olarak enerjisiz bırakılır ve essential sistemler acil batarya ile beslenir."
+  },
+  {
+    "id": "s14",
+    "title": "Voltage Spike Protection",
+    "title_tr": "Voltaj Dalgalanması Koruması",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "This electrical protection ensures continuous power to sensitive equipment and prevents damage from voltage spikes.",
+    "caption_tr": "Bu elektriksel koruma, hassas ekipmanlara sürekli güç sağlar ve voltaj dalgalanmalarından kaynaklanabilecek hasarları önler."
+  },
+  {
+    "id": "s15",
+    "title": "Normal Generator Operation",
+    "title_tr": "Normal Jeneratör Çalışması",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "When generators are producing power and GPU is deselected, generator line contactors close and supply their respective buses.",
+    "caption_tr": "Jeneratörler güç üretmeye başladığında ve GPU devreden çıkarıldığında, jeneratör kontaktörleri kapanarak ilgili busları besler."
+  },
+  {
+    "id": "s16",
+    "title": "Split Bus Configuration",
+    "title_tr": "Ayrılmış Bus Yapısı",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "During normal flight, the bus-tie remains open to isolate left and right systems, increasing system redundancy.",
+    "caption_tr": "Normal uçuş sırasında bus-tie açık kalır ve sol-sağ sistemleri ayırarak emniyeti artırır."
+  },
+  {
+    "id": "s17",
+    "title": "Single Generator Failure",
+    "title_tr": "Tek Jeneratör Arızası",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "If one generator fails in flight, non-essential buses are shed to reduce electrical load but may be restored if required.",
+    "caption_tr": "Uçuş sırasında bir jeneratör arızalanırsa non-essential buslar yük azaltmak için devreden çıkarılır, gerekirse tekrar devreye alınabilir."
+  },
+  {
+    "id": "s18",
+    "title": "Dual Generator Failure",
+    "title_tr": "Çift Jeneratör Arızası",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "When both generators fail, main and avionics buses are shed in addition to non-essential buses. Some buses may still be recoverable.",
+    "caption_tr": "Her iki jeneratör de arızalandığında non-essential buslara ek olarak main ve avionics buslar da devreden çıkarılır; bazı buslar tekrar kazanılabilir."
+  },
+  {
+    "id": "s19",
+    "title": "Battery Backup Operation",
+    "title_tr": "Batarya Yedek Güç Çalışması",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "If generators cannot be recovered, the batteries supply power for approximately one hour provided electrical loads are reduced.",
+    "caption_tr": "Jeneratörler geri kazanılamazsa, elektrik yükleri azaltıldığı sürece bataryalar yaklaşık bir saat boyunca güç sağlayabilir."
+  }
+]

@@ -1,33 +1,188 @@
 {
-  "s01": { "title":"Learjet 45 Overview", "title_tr":"Learjet 45 Genel Bakış", "en":"The Learjet 45 is a low-wing, twin engined business jet that is used as an advanced trainer. pree a.", "tr":"" },
-  "s02": { "title":"Fuselage Sections", "title_tr":"Gövde Bölümleri", "en":"The fuselage comprises four main sections.", "tr":"" },
-  "s03": { "title":"Nose Section Layout", "title_tr":"Burun Bölümü Düzeni", "en":"EmEmmGGwmm-, The nose section consists of an equipment bay on the upper haif with the nose landing gear bay below.", "tr":"" },
-  "s04": { "title":"Fuel Section & MLG Bay", "title_tr":"Yakıt Bölümü ve Ana İniş Takımı Yuvası", "en":"The fuel section is behind the rear pressure bulkhead. This section consists of a fuselage fuel tank and the main landing gear bay.", "tr":"" },
-  "s05": { "title":"Tailcone Compartments", "title_tr":"Kuyruk Konisi Bölmeleri", "en":"Behind this is the tailcone section, which consists of a baggage compartment, an A-P-U or auxiliary power unit compartment, and a tailcone compartment. The tailcone compartment serves as another equipment bay. 1 1 a Po 1 -", "tr":"" },
-  "s06": { "title":"Main Entry Door", "title_tr":"Ana Giriş Kapısı", "en":"Entry to the airplane is through the main entry door at the forward left side of the fuselage. The entry door is made up of the upper and the lower doors. Only the upper door is classified as an emergency exit. PE yy )", "tr":"" },
-  "s07": { "title":"Emergency Escape Hatch", "title_tr":"Acil Kaçış Kapağı", "en":"An emergency escape hatch is located at the rear right hand side of the passenger cabin. In an emergency, the hatch is removed from the airplane structure.", "tr":"" },
-  "s08": { "title":"Baggage & Tailcone Access", "title_tr":"Bagaj ve Kuyruk Konisine Erişim", "en":"Access to the baggage compartment is by a baggage door on the left hand side of the tailcone section. Access to the tailcone compartment is by a door on the right hand side of the tailcone section. Both the baggage and tailcone compartments are not pressurised. PE yy )", "tr":"" },
-  "s09": { "title":"Pilot Seats Location", "title_tr":"Pilot Koltuklarının Konumu", "en":"The two pilots seats are located in front of the entry door. PEE Pa. . . am Pon wr)", "tr":"" },
-  "s10": { "title":"Observer Seat & Cabinet", "title_tr":"Gözlemci Koltuğu ve Dolabı", "en":"Directly behind is an observer's seat. Next to the observer is an observer's cabinet. The cabinet houses two oxygen bottles for the fixed oxygen system and also for the aircraft manuals and documentation. IE J. . a . am oo. Pn wr.", "tr":"" },
-  "s11": { "title":"Passenger Seats & Escape Hatch", "title_tr":"Yolcu Koltukları ve Kaçış Kapağı", "en":"Six passenger seats are fitted. The escape hatch is located on the right hand side of the cabin area. ae Ze a Py o am Py PR oe wy,", "tr":"" },
-  "s12": { "title":"Lavatory & Aft Baggage", "title_tr":"Tuvalet ve Arka Bagaj", "en":"Behind the passenger area is a toilet and aft baggage compartment. This area can be enclosed by sliding doors within the compartment bulkheads. Lo a PE. . Py I. om Py oo. a. wy.", "tr":"" },
-  "s13": { "title":"Seat Adjustments (Crew)", "title_tr":"Koltuk Ayarları (Mürettebat)", "en":"The pilots and observer's seats are identical. All seat adjustments are mechanical. Co J. . a . am oo. Pn wr.", "tr":"" },
-  "s14": { "title":"Vertical Seat Adjustment", "title_tr":"Dikey Koltuk Ayarı", "en":"Lift the lever up to unlock the seat and allow it to be moved vertically. oo a Pa. . . am Pon wr)", "tr":"" },
-  "s15": { "title":"Backrest Angle", "title_tr":"Sırtlık Açısı", "en":"The backrest angle is adjusted with a lever at the side of the seat.", "tr":"" },
-  "s16": { "title":"Armrest Adjustment", "title_tr":"Kolçak Ayarı", "en":"The armrest angle is adjusted by an adjusting wheel under each armrest. To stow the armrest, raise it to the vertical position and then push it towards the seat back. oo J -", "tr":"" },
-  "s17": { "title":"Headrest Adjustment", "title_tr":"Başlık Ayarı", "en":"The headrest is adjustable for height as well as for angle. This is done by manually repositioning the headrest to the desired position.", "tr":"" },
-  "s18": { "title":"Lumbar & Harness Lock", "title_tr":"Bel Desteği ve Emniyet Kemer Kilidi", "en":"An adjusting wheel at the side of the seat back allows for lumbar adjustment. At the side of the seat back is a lever, which is used to lock or unlock the safety harness. 1 To IB )", "tr":"" },
-  "s19": { "title":"Lavatory Limitations", "title_tr":"Tuvalet Kısıtlamaları", "en":"The toilet is located at the right hand side of the aft compartment. The toilet seat is not rated for takeoff or landing and must not be occupied during these phases of flight. Note that there is no washbasin in the aircraft. J, Ze a Py o am Py PE Lo wy V1", "tr":"" },
-  "s20": { "title":"Aft Luggage Platform", "title_tr":"Arka Bagaj Platformu", "en":"On the left side of the aft compartment is a luggage platform. A baggage net may be erected to prevent bags from sliding off the platform. a I Se am ES wy)", "tr":"" },
-  "s21": { "title":"Lavatory System Components", "title_tr":"Tuvalet Sistemi Bileşenleri", "en":"The toilet assembly consists mainly of a waste reservoir and a flushing reservoir and associated pumps and valve. DE PE. I. . am Py PE . wr)", "tr":"" },
-  "s22": { "title":"Flush Pump Operation", "title_tr":"Deşarj Pompası Çalışması", "en":"Whenever the toilet flush switch is operated, a flush pump will run for a pre-determined period of time. The flush pump draws water from the flushing reservoir to spray it around the toilet bowl before it collects in the waste reservoir. PEN", "tr":"" },
-  "s23": { "title":"External Servicing Panel", "title_tr":"Dış Servis Paneli", "en":"The toilet assembly is serviced through an external servicing panel on the right hand side just below the right wing leading edge. Information on servicing will be found under the GROUND HANDLING module. Co oo J - ca J 4p", "tr":"" },
-  "s24": { "title":"Instrument Panel Layout", "title_tr":"Göstergeler Paneli Düzeni", "en":"This shows the instrument panel layout. Typical Instrument panel arrangement shown PE oo In a, a DE on a4", "tr":"" },
-  "s25": { "title":"Glare Shield & EFIS Controls", "title_tr":"Güneşlik ve EFIS Kontrolleri", "en":"At the top is the glare shield panel, which has controls for the auto flight guidance system or A-F-G-S. On either side of this are the controls for the E-F--S or Electronic Flight Instrument System. Outboard of these are the master warningcaution lights.", "tr":"" },
-  "s26": { "title":"Display Units & ECAS", "title_tr":"Ekran Üniteleri ve ECAS", "en":"The main instrument panel has four screens, referred to as Display Units. The D-U one and the D-U four units are the or Primary Flight Displays. D-U two is known as E--C-A-S or Engine Indicating and Crew Alert System. D-U three is the or Muiti-function Display. ew aa 1 I Te am el ama ames", "tr":"" },
-  "s27": { "title":"Standby Instruments", "title_tr":"Yedek Göstergeler", "en":"GmSGm At the center of the instrument panel are the three independent standby instruments, showing airspeed, attitude and altitude. a a ea am mmm", "tr":"" },
-  "s28": { "title":"CWP & RMU Overview", "title_tr":"CWP ve RMU Genel Bakış", "en":"Below the standby instruments is the Crew Warning Panel, which consists of warning lights. Two R-M-Us or Radio Management Units are located below the crew-warning panel. These are used mainly for communications system control.", "tr":"" },
-  "s29": { "title":"Systems Control Row", "title_tr":"Sistem Kontrol Sırası", "en":"Imm- The lower edge of the main instrument panel consists of controls for the various aircraft systems.", "tr":"" },
-  "s30": { "title":"Pedestal & Systems Controls", "title_tr":"Pedestal ve Sistem Kontrolleri", "en":"Le The top of the control pedestal, apart from housing the thrust levers for the engines, also has controls for other aircraft systems. Circuit breaker panels, not shown here, are located on the pilot's sidewalls. a nem a a Py am Py ca a.", "tr":"" },
-  "s31": { "title":"Lesson Complete", "title_tr":"Ders Sonu", "en":"This completes the lesson on Airplane General. PEE PE. . Py I. om Py oo. a. wy.", "tr":"" }
+  "s01": {
+    "title": "Learjet 45 Overview",
+    "title_tr": "Learjet 45 Genel Bakış",
+    "en": "The Learjet 45 is a low-wing, twin-engine business jet used as an advanced trainer.",
+    "tr": "Learjet 45, alçak kanatlı, çift motorlu bir iş jeti olup ileri seviye eğitim uçağı olarak kullanılır."
+  },
+  "s02": {
+    "title": "Fuselage Sections",
+    "title_tr": "Gövde Bölümleri",
+    "en": "The fuselage is made up of four main sections.",
+    "tr": "Uçak gövdesi dört ana bölümden oluşur."
+  },
+  "s03": {
+    "title": "Nose Section Layout",
+    "title_tr": "Burun Bölümü Düzeni",
+    "en": "The nose section contains an equipment bay on the upper half and the nose landing gear bay below.",
+    "tr": "Burun bölümünün üst kısmında bir ekipman bölmesi, altında ise burun iniş takımı yuvası bulunur."
+  },
+  "s04": {
+    "title": "Fuel Section & MLG Bay",
+    "title_tr": "Yakıt Bölümü ve Ana İniş Takımı Yuvası",
+    "en": "The fuel section is located behind the rear pressure bulkhead. It consists of a fuselage fuel tank and the main landing gear bay.",
+    "tr": "Yakıt bölümü arka basınç perdesinin arkasındadır. Gövde yakıt tankı ve ana iniş takımı yuvasından oluşur."
+  },
+  "s05": {
+    "title": "Tailcone Compartments",
+    "title_tr": "Kuyruk Konisi Bölmeleri",
+    "en": "Behind this is the tailcone section, which includes a baggage compartment, an APU compartment, and an equipment bay.",
+    "tr": "Bunun arkasında bagaj bölmesi, APU bölmesi ve bir ekipman bölmesini içeren kuyruk konisi bölümü bulunur."
+  },
+  "s06": {
+    "title": "Main Entry Door",
+    "title_tr": "Ana Giriş Kapısı",
+    "en": "Entry to the aircraft is through the main entry door on the forward left side of the fuselage. It consists of an upper and lower door, and only the upper door is classified as an emergency exit.",
+    "tr": "Uçağa giriş, gövdenin sol ön tarafındaki ana giriş kapısından yapılır. Üst ve alt kapıdan oluşur; yalnızca üst kapı acil çıkış olarak sınıflandırılır."
+  },
+  "s07": {
+    "title": "Emergency Escape Hatch",
+    "title_tr": "Acil Kaçış Kapağı",
+    "en": "An emergency escape hatch is located on the rear right side of the passenger cabin and can be removed in an emergency.",
+    "tr": "Yolcu kabininin sağ arka tarafında acil durumlarda çıkarılabilen bir acil kaçış kapağı bulunur."
+  },
+  "s08": {
+    "title": "Baggage & Tailcone Access",
+    "title_tr": "Bagaj ve Kuyruk Konisine Erişim",
+    "en": "The baggage compartment is accessed through a door on the left side of the tailcone. The tailcone compartment is accessed through a door on the right side. Both compartments are unpressurized.",
+    "tr": "Bagaj bölmesine kuyruk konisinin sol tarafındaki kapıdan erişilir. Kuyruk konisi bölmesine sağ taraftaki kapıdan erişilir. Her iki bölüm de basınçlandırılmamıştır."
+  },
+  "s09": {
+    "title": "Pilot Seats Location",
+    "title_tr": "Pilot Koltuklarının Konumu",
+    "en": "The two pilot seats are located in front of the entry door.",
+    "tr": "İki pilot koltuğu, giriş kapısının önünde bulunur."
+  },
+  "s10": {
+    "title": "Observer Seat & Cabinet",
+    "title_tr": "Gözlemci Koltuğu ve Dolabı",
+    "en": "Behind the pilots is an observer’s seat. Next to it is an observer’s cabinet containing oxygen bottles and aircraft manuals.",
+    "tr": "Pilotların arkasında bir gözlemci koltuğu bulunur. Yanındaki dolapta oksijen tüpleri ve uçak dokümantasyonları yer alır."
+  },
+  "s11": {
+    "title": "Passenger Seats & Escape Hatch",
+    "title_tr": "Yolcu Koltukları ve Kaçış Kapağı",
+    "en": "Six passenger seats are installed. The escape hatch is located on the right side of the cabin.",
+    "tr": "Uçakta altı yolcu koltuğu bulunur. Kaçış kapağı kabinin sağ tarafında yer alır."
+  },
+  "s12": {
+    "title": "Lavatory & Aft Baggage",
+    "title_tr": "Tuvalet ve Arka Bagaj",
+    "en": "Behind the passenger area is a lavatory and an aft baggage compartment, which can be enclosed with sliding doors.",
+    "tr": "Yolcu bölümünün arkasında bir tuvalet ve sürgülü kapılarla kapatılabilen bir arka bagaj bölmesi bulunur."
+  },
+  "s13": {
+    "title": "Seat Adjustments (Crew)",
+    "title_tr": "Koltuk Ayarları (Mürettebat)",
+    "en": "The pilot and observer seats are identical, and all adjustments are mechanical.",
+    "tr": "Pilot ve gözlemci koltukları aynıdır ve tüm ayarlar mekaniktir."
+  },
+  "s14": {
+    "title": "Vertical Seat Adjustment",
+    "title_tr": "Dikey Koltuk Ayarı",
+    "en": "Lift the lever to unlock the seat and move it vertically.",
+    "tr": "Kolu yukarı kaldırarak koltuğun kilidini açın ve dikey olarak ayarlayın."
+  },
+  "s15": {
+    "title": "Backrest Angle",
+    "title_tr": "Sırtlık Açısı",
+    "en": "The backrest angle is adjusted using a lever on the side of the seat.",
+    "tr": "Sırtlık açısı, koltuğun yanındaki bir kol yardımıyla ayarlanır."
+  },
+  "s16": {
+    "title": "Armrest Adjustment",
+    "title_tr": "Kolçak Ayarı",
+    "en": "The armrest angle is adjusted with a wheel under each armrest. To stow it, raise it vertically and push it toward the seat back.",
+    "tr": "Kolçak açısı, altındaki ayar tekeri ile ayarlanır. Toplamak için dik konuma kaldırın ve sırtlığa doğru itin."
+  },
+  "s17": {
+    "title": "Headrest Adjustment",
+    "title_tr": "Başlık Ayarı",
+    "en": "The headrest is adjustable in both height and angle by manually repositioning it.",
+    "tr": "Başlık hem yükseklik hem de açı olarak elle yeniden konumlandırılarak ayarlanabilir."
+  },
+  "s18": {
+    "title": "Lumbar Support & Harness Lock",
+    "title_tr": "Bel Desteği ve Emniyet Kemeri Kilidi",
+    "en": "A wheel on the side of the seat allows lumbar adjustment. A lever on the seat back locks or unlocks the safety harness.",
+    "tr": "Koltuk yanındaki teker bel desteğini ayarlar. Sırtlıktaki kol, emniyet kemerini kilitlemek veya açmak için kullanılır."
+  },
+  "s19": {
+    "title": "Lavatory Limitations",
+    "title_tr": "Tuvalet Kısıtlamaları",
+    "en": "The lavatory is located on the right side of the aft compartment. The seat cannot be used during takeoff or landing, and there is no washbasin on the aircraft.",
+    "tr": "Tuvalet arka bölümün sağ tarafındadır. Kalkış ve iniş sırasında kullanılamaz ve uçakta lavabo bulunmaz."
+  },
+  "s20": {
+    "title": "Aft Luggage Platform",
+    "title_tr": "Arka Bagaj Platformu",
+    "en": "On the left side of the aft compartment is a luggage platform. A baggage net may be installed to prevent bags from sliding.",
+    "tr": "Arka bölümün sol tarafında bir bagaj platformu bulunur. Çantaların kaymasını önlemek için bagaj ağı takılabilir."
+  },
+  "s21": {
+    "title": "Lavatory System Components",
+    "title_tr": "Tuvalet Sistemi Bileşenleri",
+    "en": "The lavatory system consists mainly of a waste reservoir, a flushing reservoir, and associated pumps and valves.",
+    "tr": "Tuvalet sistemi temel olarak bir atık tankı, bir yıkama tankı ve ilgili pompa ve valflerden oluşur."
+  },
+  "s22": {
+    "title": "Flush Pump Operation",
+    "title_tr": "Deşarj Pompası Çalışması",
+    "en": "When the flush switch is activated, the flush pump runs for a preset time, spraying water from the flush reservoir into the bowl before it flows to the waste reservoir.",
+    "tr": "Deşarj düğmesi çalıştırıldığında, pompa belirli bir süre çalışır, suyu yıkama tankından klozete püskürtür ve ardından atık tankına yönlendirir."
+  },
+  "s23": {
+    "title": "External Servicing Panel",
+    "title_tr": "Dış Servis Paneli",
+    "en": "The lavatory system is serviced through an external panel on the right side below the wing leading edge.",
+    "tr": "Tuvalet sistemi, sağ tarafta kanat hücum kenarının altında bulunan dış servis panelinden servis edilir."
+  },
+  "s24": {
+    "title": "Instrument Panel Layout",
+    "title_tr": "Göstergeler Paneli Düzeni",
+    "en": "This illustration shows the layout of the instrument panel.",
+    "tr": "Bu görsel, gösterge panelinin düzenini göstermektedir."
+  },
+  "s25": {
+    "title": "Glare Shield & EFIS Controls",
+    "title_tr": "Güneşlik ve EFIS Kontrolleri",
+    "en": "At the top is the glare shield panel with controls for the Auto Flight Guidance System. On both sides are controls for the Electronic Flight Instrument System.",
+    "tr": "Üstte, Otomatik Uçuş Yönlendirme Sistemi kontrol düğmelerini içeren güneşlik paneli bulunur. Her iki yanında Elektronik Uçuş Gösterge Sistemi kontrolleri yer alır."
+  },
+  "s26": {
+    "title": "Display Units & ECAS",
+    "title_tr": "Ekran Üniteleri ve ECAS",
+    "en": "The main panel features four display units. DU1 and DU4 are the Primary Flight Displays. DU2 is the Engine Indicating and Crew Alerting System (ECAS). DU3 is the Multi-Function Display.",
+    "tr": "Ana panelde dört ekran ünitesi bulunur. DU1 ve DU4 birincil uçuş göstergeleridir. DU2, Motor Gösterge ve Uyarı Sistemidir (ECAS). DU3 çok işlevli ekrandır."
+  },
+  "s27": {
+    "title": "Standby Instruments",
+    "title_tr": "Yedek Göstergeler",
+    "en": "At the center of the panel are three independent standby instruments showing airspeed, attitude, and altitude.",
+    "tr": "Panelin ortasında hava hızı, duruş açısı ve irtifayı gösteren üç bağımsız yedek gösterge bulunur."
+  },
+  "s28": {
+    "title": "CWP & RMU Overview",
+    "title_tr": "CWP ve RMU Genel Bakış",
+    "en": "Below the standby instruments is the Crew Warning Panel with warning lights. Beneath it are two Radio Management Units used for communication control.",
+    "tr": "Yedek göstergelerin altında uyarı ışıklarını içeren Mürettebat Uyarı Paneli bulunur. Onun altında iletişim sistemlerinin kontrolü için kullanılan iki adet Radyo Yönetim Ünitesi (RMU) vardır."
+  },
+  "s29": {
+    "title": "Systems Control Row",
+    "title_tr": "Sistem Kontrol Sırası",
+    "en": "The lower edge of the main panel contains controls for various aircraft systems.",
+    "tr": "Ana panelin alt kısmında çeşitli uçak sistemleri için kontrol düğmeleri bulunur."
+  },
+  "s30": {
+    "title": "Pedestal & Systems Controls",
+    "title_tr": "Pedestal ve Sistem Kontrolleri",
+    "en": "The top of the pedestal contains thrust levers and other aircraft system controls. Circuit breakers are located on the pilot sidewalls.",
+    "tr": "Pedestalın üst kısmı motor güç kolları ve diğer sistem kontrollerini barındırır. Devre kesiciler pilot yan panellerinde bulunur."
+  },
+  "s31": {
+    "title": "Lesson Complete",
+    "title_tr": "Ders Sonu",
+    "en": "This completes the lesson on Airplane General.",
+    "tr": "Airplane General dersi burada tamamlanmıştır."
+  }
 }

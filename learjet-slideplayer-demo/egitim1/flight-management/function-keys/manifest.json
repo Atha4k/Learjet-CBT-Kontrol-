@@ -1,0 +1,11 @@
+{
+  "title": "Function Keys",
+  "pages": 123,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "function-keys-slides",
+  "audioDir": "function-keys-audio",
+  "captionsManifest": "function-keys-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

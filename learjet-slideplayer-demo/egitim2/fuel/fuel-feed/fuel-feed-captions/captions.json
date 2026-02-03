@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s01",
+    "title": "Main Jet Pump normally supplies fuel to the engine. The Main…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Main Jet Pump normally supplies fuel to the engine. The Main Jet Pump functions by high-pressure fuel from the motive flow pump. This in turn is engine-driven thru the accessory gearbox. As the Main Jet Pump can only function when the engine is running, another pressure source is required to provide fuel pressure for starting an engine. J A a ml sm aa el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "This other pressure source is the Standby pump. This may be …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "This other pressure source is the Standby pump. This may be started at any time by selecting its switchindicator. post A a ml sm am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "For normal starts - called autostarts - the Standby pump wil…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "For normal starts - called autostarts - the Standby pump will operate automatically. All thatis required is to select ON the Start switchindicator. Select the Left Start switchindicator. a A a ml sm am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Once the engine has started and attained starter cutout spee…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Once the engine has started and attained starter cutout speed, the Standby pump automatically stops. The Main Jet pump now takes over to supply fuel to the engine fuel pump. Jere IN am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Motive flow pressure also powers the Scavenge pumps in the s…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Motive flow pressure also powers the Scavenge pumps in the system.These pumps transfer fuel from the outboard bays of the wing tank to the collector tank. This is to ensure that there is always fuel at the inlet of the Main Jet pump. ER IN am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "An advisory message, FUEL BAY LOW, is displayed when the qua…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "An advisory message, FUEL BAY LOW, is displayed when the quantity in the collector tank reaches this level. A possible reason for this is insufficient pressure from the motive flow pump to operate the scavenge pumps properly. jpo\" IN am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Fuel from the Main Jet pump goes through a normally open Fir…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Fuel from the Main Jet pump goes through a normally open Firewall Shutoff Valve. This valve only closes if the Engine Fire switch is operated. Select the Engine Fire switch to close the valve. JE A a ml sm am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Fuel from the Main Jet pump goes through a normally open Fir…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Fuel from the Main Jet pump goes through a normally open Firewall Shutoff Valve. This valve only closes if the Engine Fire switch is operated. Select the Engine Fire switch to close the valve. The Engine Fire switch will illuminate CLOSED when selected, and an advisory message, Firewall Shutoff Vaive Closed will be displayed on CAS. JE A a ml sm am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Master Caution and the amber Firewall Shutoff Valve Fauit me…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Master Caution and the amber Firewall Shutoff Valve Fauit message will be displayed instead. Note that the Engine Fire switch still illuminates CLOSED. joss IN am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Beyond the Firewall Shutoff Valve is a fuel filter. This is …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Beyond the Firewall Shutoff Valve is a fuel filter. This is referred to as the Airframe fuel filter. If the filter is dirty, fuel may bypass the filter element. In flight, a white FUEL FILTER message will be displayed. This changes to amber with the airplane on ground. aa IN am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Master Warning the red FUEL PRESSURE LOW light on the crew-w…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Master Warning the red FUEL PRESSURE LOW light on the crew-waming panel will illuminate and a flashing red Low Fuel Pressure message will be displayed on CAS. Gai oo A a ml sm am el mn wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Fuel is supplied to the A-P-U by the right Standby pump. Ref…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Fuel is supplied to the A-P-U by the right Standby pump. Refer to the module on the A-P-U for a detailed explanation of the A-P-U fuel system. me Zan IN aa el mn wri",
+    "caption_tr": ""
+  }
+]

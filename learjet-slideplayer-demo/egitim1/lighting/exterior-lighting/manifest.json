@@ -1,0 +1,11 @@
+{
+  "title": "Exterior Lighting",
+  "pages": 25,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "exterior-lighting-slides",
+  "audioDir": "exterior-lighting-audio",
+  "captionsManifest": "exterior-lighting-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

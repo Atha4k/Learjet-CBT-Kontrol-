@@ -1,0 +1,11 @@
+{
+  "title": "Main Hydraulic System",
+  "pages": 5,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "main-system-slides",
+  "audioDir": "main-system-audio",
+  "captionsManifest": "main-system-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

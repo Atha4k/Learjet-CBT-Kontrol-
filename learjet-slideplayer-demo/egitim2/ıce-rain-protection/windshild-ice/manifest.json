@@ -1,0 +1,11 @@
+{
+  "title": "Windshield Ice Protection",
+  "pages": 14,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "windshield-ice-slides",
+  "audioDir": "windshield-ice-audio",
+  "captionsManifest": "windshield-ice-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

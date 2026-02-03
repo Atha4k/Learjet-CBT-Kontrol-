@@ -1,0 +1,38 @@
+[
+  {
+    "id": "s01",
+    "title": "Lighting Effects of Single Generator Failure",
+    "title_tr": "Tek Jeneratör Arızasının Aydınlatmaya Etkisi",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Following a single generator failure, the airplane electrical system automatically sheds the non-essential buses. Lighting affected by a single generator failure consists mainly of cabin area lights.",
+    "caption_tr": "Tek bir jeneratör arızasından sonra uçağın elektrik sistemi non-essential bus’ları otomatik olarak devreden çıkarır. Bu durumda esas olarak kabin bölgesindeki aydınlatmalar etkilenir."
+  },
+  {
+    "id": "s02",
+    "title": "Dual Generator Failure and Lighting Impact",
+    "title_tr": "Çift Jeneratör Arızası ve Aydınlatmaya Etkisi",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "In the unlikely event of a dual generator failure, cockpit interior lighting is affected in addition to the cabin lighting already lost. Batteries become the sole source of power, and only selected instruments remain illuminated.",
+    "caption_tr": "Nadir görülen çift jeneratör arızasında, daha önce kaybedilen kabin aydınlatmasına ek olarak kokpit iç aydınlatması da etkilenir. Bu durumda bataryalar tek güç kaynağı olur ve yalnızca belirli göstergeler aydınlatılabilir."
+  },
+  {
+    "id": "s03",
+    "title": "Lighting Systems Remaining Operational",
+    "title_tr": "Çalışmaya Devam Eden Aydınlatma Sistemleri",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "All switch-indicator lights continue to operate normally, as do landing gear indicator lights and the magnetic compass light. Cockpit flood lights and map lights remain operational as long as the left main battery is online.",
+    "caption_tr": "Tüm anahtar-gösterge ışıkları normal şekilde çalışmaya devam eder. İniş takımı gösterge ışıkları ve manyetik pusula ışığı da çalışır. Sol ana batarya devrede kaldığı sürece kokpit flood ve harita ışıkları kullanılabilir."
+  },
+  {
+    "id": "s04",
+    "title": "Emergency Battery Powered Lighting",
+    "title_tr": "Acil Durum Bataryası ile Beslenen Aydınlatma",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "If both main batteries are depleted, the emergency battery supplies power to essential cockpit instruments. Landing gear indicator lights and the magnetic compass light remain operational, while all switch-indicator lights become inoperative.",
+    "caption_tr": "Her iki ana batarya tükendiğinde, acil durum bataryası temel kokpit göstergelerine güç sağlar. İniş takımı gösterge ışıkları ve manyetik pusula ışığı çalışmaya devam ederken, tüm anahtar-gösterge ışıkları devre dışı kalır."
+  }
+]

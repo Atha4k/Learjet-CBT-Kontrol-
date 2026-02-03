@@ -1,0 +1,11 @@
+{
+  "title": "Brake System",
+  "pages": 40,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "brake-system-slides",
+  "audioDir": "brake-system-audio",
+  "captionsManifest": "brake-system-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

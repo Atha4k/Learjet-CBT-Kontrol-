@@ -1,0 +1,11 @@
+{
+  "title": "Electrical System Indications",
+  "pages": 21,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "system-indications-slides",
+  "audioDir": "system-indications-audio",
+  "captionsManifest": "system-indications-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

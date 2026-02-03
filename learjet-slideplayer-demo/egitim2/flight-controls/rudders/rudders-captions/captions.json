@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s01",
+    "title": "The rudder is attached to the vertical stabilizer at 3 hinge…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The rudder is attached to the vertical stabilizer at 3 hinge points. The rudder trim tab is attached to the trailing edge of the rudder. The rudder pedals enable the pilots to operate the rudder via a cable system. pegs epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The pilot's cable is routed along the bottom of the airplane…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The pilot's cable is routed along the bottom of the airplane. The co-pilots cable is identical except along the rotor burst zone. Here, the cable is routed upwards to the ceiling. This prevents both the cables from being cut by shrapnel in the event of an engine burst. po epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The rudder pedals are used to operate the rudder, brakes and…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The rudder pedals are used to operate the rudder, brakes and the nose wheel steering systems. The pedals position can be adjusted forward and aft through a toggle switch which is located on the lower switch panel. Connected to each pedal are 2 force transducers. por epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "An electrical actuator repositions this trim tab through 2 p…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "An electrical actuator repositions this trim tab through 2 push rods. This actuator is powered by the Right Essential Bus through the TRIM-RUD circuit breaker in the FLIGHT group. gon epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The rudder trim indications are shown on -the SUMRY page as …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The rudder trim indications are shown on -the SUMRY page as or R1-R10digital format) -the EICAS - page in digital format and also in an analog and pointer format -the RMU page 2 in a digital format por) epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The rudder takeoff trim band is between L1 and The trim sett…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The rudder takeoff trim band is between L1 and The trim setting for the rudder must be within this takeoff band for takeoff. If the trim setting is out of the band for take-off, the trim unit will be boxed and an advisory CAS message TAKE OFF TRIM is displayed. pr epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Advancing the throttles beyond will cause the take-off warni…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Advancing the throttles beyond will cause the take-off warnings to be activated. The advisory CAS message TAKE OFF TRIM and all the rudder trim indications will turn red. pen) epi mov see own ug am es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Un-commanded rudder trim can be stopped by depressing and ho…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Un-commanded rudder trim can be stopped by depressing and holding either Control Wheel Master switch Also, the AFM procedure for a Yaw Axis Malfunction calls for pulling the TRIM-RUD circuit breaker if the malfunction is isolated to the rudder trim system. pry epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "This yaw servo can be manually overridden by depressing the …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "This yaw servo can be manually overridden by depressing the - Depressing the will disconnect the yaw damper. - Depressing and holding the will disable the rudder boost. The yaw servo receives electrical power from the AFCS SERVOS circuit breaker in the FLIGHT group. pony epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Rudder Boost System This system is activated to assist the c…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Rudder Boost System This system is activated to assist the crew when a heavy rudder pedal force is required to maintain directional control, such as engine failure during take off. When activated, it will defiect the rudder proportional to the force applied on rudder pedals. gon epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The 2 - 1IC600 computer provides all the computational aspec…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The 2 - 1IC600 computer provides all the computational aspects for the rudder boost system. Inputs to the computer come from the rudder pedal force transducers and the Rudder Boost arm switch. This arming switch is located on the center forward pedestal. pony epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The Rudder Boost System is armed when - the Rudder Boost swi…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The Rudder Boost System is armed when - the Rudder Boost switch is selected on - the flaps is extended beyond 3 and - the airspeed is less than knots. por) epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Following an engine failure, the Rudder Boost System is acti…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Following an engine failure, the Rudder Boost System is activated when - a rudder pedal force exceeding 23 kgs is sensed by the force transducers. This pedal force can be from either the pilot's pedals, co-pilot's pedals or the sum of the pilot and co-pilots rudder pedals. A green RB also appears on the pr epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "When activated, the system will deflect the rudder and the d…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "When activated, the system will deflect the rudder and the deflection is proportional to the pedal force. The rudder boost system will deactivate automatically, if the airspeed exceeds knots or if the flaps are retracted to less than 3, eveniif the pedal force applied is more than 23 kgs. pen) epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "An advisory CAS message RUD BOOST INOP will be displayed if …",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "An advisory CAS message RUD BOOST INOP will be displayed if - the rudder boost switch is OFF or - the system is disabled due to a malfunction in the 2 - IC600 or - any of the rudder pedal force sensors fail. pry epi mov see own ug aa es go a wri",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s01",
+    "title": "The goal of this Flight Management System or module is to fa…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The goal of this Flight Management System or module is to familiarise the crew with : - system initialization - copy flight plan route - flight plan construction - flight modification",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The has one Universal Navigation Corporation UNS 1C installe…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The has one Universal Navigation Corporation UNS 1C installed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The is a fully integrated navigation management system desig…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The is a fully integrated navigation management system designed to provide the pilot with centralised control for: - airplanes navigation receivers - computer flight planning - fuel management - roll channel input to the autopilot",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The utilises its associated combined receiver to process sig…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The utilises its associated combined receiver to process signals from the nearest four satellites to determine the airplanes precise position.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "This position is known as Best Computed Position and display…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "This position is known as Best Computed Position and displayed on the as POS. Typical accuracy of the POS is 25 meters horizontally and 35 meters vertically.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "In the event of insufficient satellites coverage, the positi…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "In the event of insufficient satellites coverage, the position can also be derived mathematically from all available navigational receivers such as the VOR and DME receivers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The consists of the following components: - Control Display …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The consists of the following components: - Control Display Unit (CDU) - Data Transfer Unit (DTU)",
+    "caption_tr": ""
+  }
+]

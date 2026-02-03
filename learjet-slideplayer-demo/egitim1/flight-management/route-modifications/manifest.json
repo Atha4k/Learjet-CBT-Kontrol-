@@ -1,0 +1,11 @@
+{
+  "title": "Route Modifications",
+  "pages": 26,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "route-modifications-slides",
+  "audioDir": "route-modifications-audio",
+  "captionsManifest": "route-modifications-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

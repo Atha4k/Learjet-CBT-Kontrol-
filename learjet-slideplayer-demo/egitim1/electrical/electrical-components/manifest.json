@@ -1,0 +1,11 @@
+{
+  "title": "Electrical Components",
+  "pages": 44,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "electrical-components-slides",
+  "audioDir": "electrical-components-audio",
+  "captionsManifest": "electrical-components-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

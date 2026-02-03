@@ -1,0 +1,66 @@
+[
+  {
+    "id": "s01",
+    "title": "Fire detector wires are located around the engine where ther…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Fire detector wires are located around the engine where there is a possibility of fire occurring. The engine accessory gearbox is one such area as there are fuel, oil and hydraulic components mounted on it. A detector wire loop runs around the gearbox. regen _ a aa a Me me wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Another area is the hot section or the area surrounding the …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Another area is the hot section or the area surrounding the combustion chamber where damage to the engine casing may cause a fire. A detector wire loop runs around the outer casing of the engine over the hot section. There is also a detector wire loop around the firewall that separates the engine strut or pylon from the engine. A fuel line from the wing tank passes through the firewall and a leak here may cause a fire. pony _ EY Ses aa a Me me wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "These detector wires are connected to circuitry inside a Fir…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "These detector wires are connected to circuitry inside a Fire Detection Unit A detector wire consists of a central core, which carries electrical current. Surrounding the central core is a casing, which has electrical ground potential. Separating the central core from the casing is a material, which is normally a non-conductor. poy _ EY Ses aa a Me me wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "If a fire occurs the detector wire is heated, causing the re…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "If a fire occurs the detector wire is heated, causing the resistance of the material inside the casing to be lowered. This allows the current from the central core to flow to ground. The detection unit circuitry senses this and then sounds the alarm. A fire alarm triggers aural as well as visual warnings. pron _ a aa a Me me wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Left or Right Engine Fire Fail advisory message to be displa…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Left or Right Engine Fire Fail advisory message to be displayed on CAS. This indicates that the detection system may not be able to trigger the alarm if a fire occurs. pe _ a aa a Me me wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "An engine fire alarm triggers master warming. There is also …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "An engine fire alarm triggers master warming. There is also a voice warning. The word FIRE will appear flashing in the I-T-T indicator. The words FIRE PUSH in the Engine Fire switch will illuminate flashing. if the R-M-U was selected to monitor the engine, a fire warning will cause the word FIRE to appear in red above the N1 digital readout. pron _ a aa a Me me wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Select the master warning light to cancel the warning. ramon…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Select the master warning light to cancel the warning. ramon _ EY Ses aa a Me me wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "In summary, following cancellation of master warning, the wo…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "In summary, following cancellation of master warning, the word FIRE will remain on steady within the indicator, or the R-M-U, and the FIRE PUSH light on the engine fire switch will remain on flashing. pn _ EY Ses aa a Me me wri",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "s01",
+    "title": "The 2 aileron control surfaces are hinged to the trailing ed…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The 2 aileron control surfaces are hinged to the trailing edge of the wings and are connected through pulleys and cables to the control wheels. They can be mechanically positioned with either control wheel or by the auto-pilot roll servo. pop epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Aileron effectiveness is augmented by the 2 full-time spoile…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Aileron effectiveness is augmented by the 2 full-time spoilerons. The spoilerons operate whenever the control wheel is moved, both on ground and in flight. a epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Each aileron panel contains a balance tab which is controlle…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Each aileron panel contains a balance tab which is controlled by push-pull rods attached to the fixed wing surface. The balance tabs function is to reduce pilots effort when deflecting the ailerons against air loads in-flight. a epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Both the aileron control surfaces as shown above. Notice tha…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Both the aileron control surfaces as shown above. Notice that only the left aileron has a trim tab. We will discuss its function under the Aileron Trim system. ew epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The ailerons are positioned by a roll servo when the auto-pi…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The ailerons are positioned by a roll servo when the auto-pilot is in use. The servo consists of a clutch that engages only when the auto-pilot is engaged. This servo can be manually overridden by disengaging the auto-pilot or by the regen) epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Depressing and holding the Touch Control Steering button als…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Depressing and holding the Touch Control Steering button also disengages the roll servo clutch, but it does not disengage the auto-pilot. The roll servo receives electrical power from the AFCS SERVOS circuit breaker in the FLIGHT group on the pilot's circuit breaker panel. pony epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The trim tab is an integral part of the left-hand aileron su…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The trim tab is an integral part of the left-hand aileron surface. It is moved by the trim tab electrical motor through 2 connecting rods. The trim and trim arming switches ( ) are located on the outboard horn of each pilot's control wheel. gon epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Depressing the arming button in the center of the trim switc…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Depressing the arming button in the center of the trim switch and simultaneously moving the barrel of the trim switch left or right energises the trim motor and moves the trim tab. The pilot's trim switch has priority over the co-pilot's trim switch if both of them are moved simultaneously. pony epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The aileron trim indications are shown on -the SUMRY page as…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The aileron trim indications are shown on -the SUMRY page as or R1-R10digital format) -the EICAS - page in digital format and also in an analog and pointer format -the RMU page 2 in a digital format por) epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The aileron takeoff trim band is between L1 and The trim set…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The aileron takeoff trim band is between L1 and The trim setting for the aileron must be within this takeoff band for takeoff. If the trim is out of the band for take-off, the trim unit will be boxed and an advisory CAS message TAKE OFF TRIM is displayed. pr epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Advancing the throttles beyond will cause the take-off warni…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Advancing the throttles beyond will cause the take-off warnings to be activated. The advisory CAS message TAKE OFF TRIM and all the aileron trim indications will turn red. The aural CONFIGURATION voice warning will also sound. pen) epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Un-commanded aileron trim can be stopped by depressing and h…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Un-commanded aileron trim can be stopped by depressing and holding either Control Wheel Master switch Also, the AFM procedure for a Roll Axis Malfunction calls for pulling the TRIM-AIL circuit breaker if the malfunction is isolated to the roll trim system. pry epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Aileron effectiveness is augmented by the 2 full-time spoile…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Aileron effectiveness is augmented by the 2 full-time spoilerons. The spoilerons operate whenever the pilot's control wheel is deflected more than t , both on ground and in flight. rege epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "There are 2 levers connected to the pilot's control wheel. O…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "There are 2 levers connected to the pilot's control wheel. One is the roll disconnect actuation lever while the other is the roll re-connect lever. po epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Pushing the roll disconnect actuation lever towards the pilo…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Pushing the roll disconnect actuation lever towards the pilot disengages a clutch within the control wheel hub. This also trips 2 roll disconnect switches that signal the spoileron system. An advisory CAS message ROLL DISC will be displayed, when roll disconnect is actuated. po epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Only the pilot's control wheel is disengaged from the ailero…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Only the pilot's control wheel is disengaged from the aileron system. The co-pilot control wheel is still connected to the aileron control system. Artificial friction is introduced into the pilot's control wheel upon disconnection to provide some level of pilot feel. roa epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The auto-pilot cannot be re-engaged as long as roll disconne…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The auto-pilot cannot be re-engaged as long as roll disconnect is activated. pes epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "With the aileron system connected, - the spoilerons respond …",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "With the aileron system connected, - the spoilerons respond when the pilot's control wheel is deflected greater than 6 . With the aileron system disconnected, - the spoilerons respond when the pilot's control wheel is deflected greater than 1. pra epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "To reset the system, push the roll re-connect lever away fro…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "To reset the system, push the roll re-connect lever away from the pilot. Both the levers move away from the pilot as the clutch within the control wheel engages. The advisory CAS message ROLL DISC also extinguishes. The pilot's control wheel is now connected to the aileron control system again. ra epi mov see own ug am Se. wri",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "s01",
+    "title": "Two data acquisition units (DAU), one for each side of the a…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Two data acquisition units (DAU), one for each side of the aircraft, are installed in the tailcone equipment area of the airplane. The left DAU is designated as DAU 1 and the right as DAU 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Each DAU is divided into two independent and isolated channe…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Each DAU is divided into two independent and isolated channels: channels A and B. Each channel of the DAU has its own power source. DAU 1A (DAU 1 channel A) and DAU 2A are powered by emergency battery bus. DAUs 1B and 2B are powered by left and right essential buses respectively.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The DAUs receive engine and airplane systems sensor informat…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The DAUs receive engine and airplane systems sensor information. The left engine sensors are connected to DAU 1 and the right engine sensors to DAU 2. Each channel of the DAU receives the same amount of engine inputs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "In addition to engine data, the DAU also collect analog data…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "In addition to engine data, the DAU also collect analog data from other airplane systems such as: elecrical power, hydraulic, environment control, flight control and fuel systems.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Aircraft systems are also split into left and right. General…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Aircraft systems are also split into left and right. Generally, left systems are connected to DAU 1 and right systems to DAU 2. However, there are some systems whose sensors are connected only to one DAU; and there are some to both DAUs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "For redundancy, both channels of each DAU independently conv…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "For redundancy, both channels of each DAU independently convert on-side engine and aircraft systems information to digital format. The IC-600 symbol generators will then tap the information from the selected channel of the DAU and disseminate the data to the DU, normally DU 2, for the EICAS display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Engine data and airplane systems are also fed directly to ra…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Engine data and airplane systems are also fed directly to radio management unit (RMU) for display on backup engine pages. Specifically, DAU 1A supplies left engine data and DAU 2A supplies right engine data.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The DAU also supplies an interface to external functions tha…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The DAU also supplies an interface to external functions that need data, such as flight data recorder The receives data inputs from DAU 1A.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The DAUs interface with the DAU reversion switch which deter…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The DAUs interface with the DAU reversion switch which determines the channels that are to be used by the IC-600 computers. The switch has 3 positions: A, DAU NORM, and B. With the switch in DAU NORM position, both IC-600 computers use channel A from DAU 1 and channel B from DAU 2 for engine and systems display. Now, touch DAU reversion switch to simulate changing position",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "When the DAU reversion switch is selected to A, both IC-600 …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When the DAU reversion switch is selected to A, both IC-600 computers use only channel A information from both DAUs for display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Likewise, in B position, channel B of both DAUs will be used…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Likewise, in B position, channel B of both DAUs will be used to provide information to both computers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "When either A or B is selected, a DAU A or DAU B REV message…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "When either A or B is selected, a DAU A or DAU B REV message, as appropriate, will appear on the CAS as an advisory.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "If either DAU 1B or DAU 2A fails, DAU 1B or 2A FAIL message …",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "If either DAU 1B or DAU 2A fails, DAU 1B or 2A FAIL message will appear in amber on the CAS. With reversion switch in DAU NORM position, engine indications are not affected on the EICAS since DAUs 1B and 2A are not used by IC-600 computers. Therefore, no remedial action is needed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "However, on the backup engine page 1, all right engine data …",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "However, on the backup engine page 1, all right engine data will be invalid if DAU 2A fails since DAU 2A is involved in providing right engine data directly to RMU for backup engine display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "If DAU 1A fails, amber message DAU 1A FAIL' is posted on the…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "If DAU 1A fails, amber message DAU 1A FAIL' is posted on the CAS. The left engine indications become invalid on the EICAS. In accordance with checklist, the DAU reversion selector is required to be positioned to B. Touch the DAU selector to simulate moving to B.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "By switching selector to B, channel B on both DAUs will be u…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "By switching selector to B, channel B on both DAUs will be used to provide data. This will bring back the left engine parameters display on the EICAS. Recall that when DAU selector is in other positions than DAU NORM, a white reversion message appear.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "And since DAU 1A provides left engine data to the backup eng…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "And since DAU 1A provides left engine data to the backup engine display on the RMU, all left engine data is lost on the RMU. Backup engine display is not interfaced with the DAU reversion selector.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Similarly, failure of DAU 2B requires reversion selector to …",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Similarly, failure of DAU 2B requires reversion selector to be switched to A position inorder to regain right side of engine parameters on the EICAS. Touch the DAU reversion selector to position",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Similarly, failure of DAU 2B requires reversion selector to …",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Similarly, failure of DAU 2B requires reversion selector to be switched to A position inorder to regain right side of engine parameters on the EICAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "If both channels of a DAU should fail, the engine instrument…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "If both channels of a DAU should fail, the engine instruments display for the corresponding side will be lost Also, any other systems information that is processed by that DAU will also be lost. In this case DAU reversion is useless. Refer to checklist for list of engine and system indications that will be affected with total DAU failure.",
+    "caption_tr": ""
+  }
+]

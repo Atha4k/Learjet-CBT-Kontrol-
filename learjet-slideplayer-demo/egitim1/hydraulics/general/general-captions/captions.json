@@ -1,0 +1,106 @@
+[
+  {
+    "id": "s01",
+    "title": "On the Learjet there are 2 hydraulic systems - the Main and …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "On the Learjet there are 2 hydraulic systems - the Main and the Auxiliary hydraulic systems. The Main hydraulic system is supplied by the 2 engine driven pumps (EDP). The Auxiliary hydraulic system is supplied by an electrical pump (AUX pump).",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Some aircraft systems require hydraulic pressure to operate.…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Some aircraft systems require hydraulic pressure to operate. The aircraft systems that are hydraulically powered are the landing gears, flaps, spoilers, brakes and thrust reversers. The hydraulic system components are located above the tailcone baggage compartment.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The above schematic is the synoptic page found on the EICAS …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The above schematic is the synoptic page found on the EICAS We will be using this schematic to describe the hydraulic system and the hydraulic system pressure flow.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Control Panel This is located at the forward center instrume…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Control Panel This is located at the forward center instrument panel. The switches associated with the hydraulic system on this panel are the auxiliary hydraulics (AUX and the hydraulic cross-flow XFLOW ) switches.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The circuit breakers for the hydraulic systems are found und…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The circuit breakers for the hydraulic systems are found under the section on the circuit breaker panel.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Hydraulic Reservoir A hydraulic reservoir is located above t…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Hydraulic Reservoir A hydraulic reservoir is located above the tailcone baggage compartment. This reservoir is partitioned into 2 sections.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The smaller section (Auxiliary) supplies fluid to the auxili…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The smaller section (Auxiliary) supplies fluid to the auxiliary or AUX pump. The reservoir is pressurised by air tapped from the pneumatic manifold.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "It measures the fluid level which is indicated as OVERFULL, …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "It measures the fluid level which is indicated as OVERFULL, FULL or ADD. The OVERFULL, FULL and ADD levels are indicated by lights on the ground service panel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Ground Service Panel The is located on the right side of the…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Ground Service Panel The is located on the right side of the fuselage, aft of the wing trailing edge. This panel is used by the maintenance crew for system servicing and for monitoring hydraulic quantity status.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The servicing panel is covered except for a viewing window w…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The servicing panel is covered except for a viewing window which shows the 3 RESERVOIR level lights. The lights correspond to ADD, FULL and OVERFULL. The reservoir level quantities which correspond to the lights are as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The is shown with its cover removed. During their exterior c…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The is shown with its cover removed. During their exterior checks, crew are to ensure that only the FULL light is illuminated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If the ADD light is illuminated, the fluid level is at the l…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If the ADD light is illuminated, the fluid level is at the low ADD level.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "If the OVER full light is illuminated, this means that the r…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "If the OVER full light is illuminated, this means that the reservoir is over-serviced. Crew should inform the maintenance crew to drain off the excess fluid.",
+    "caption_tr": ""
+  }
+]

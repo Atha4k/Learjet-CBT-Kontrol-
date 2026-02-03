@@ -1,0 +1,11 @@
+{
+  "title": "Stabilizer Trim",
+  "pages": 43,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "stabilizer-trim-slides",
+  "audioDir": "stabilizer-trim-audio",
+  "captionsManifest": "stabilizer-trim-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

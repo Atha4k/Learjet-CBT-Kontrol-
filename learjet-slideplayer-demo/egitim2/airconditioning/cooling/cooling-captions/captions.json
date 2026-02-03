@@ -1,0 +1,138 @@
+[
+  {
+    "id": "s01",
+    "title": "Environmental Control Unit (ECU) From the Pack Valve, the ai…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Environmental Control Unit (ECU) From the Pack Valve, the air flows into the ECU. Here, the hot air is cooled and the cooling operation is controlled by the Integrated ECS Controller. _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The ECU consists of the primary and secondary heat exchanger…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The ECU consists of the primary and secondary heat exchangers, a three-wheel air cycle machine (ACM), a low limit temperature valve and an ACM bypass shutoff valve. J _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "There are 2 methods of cooling the hot bleed air. One is by …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "There are 2 methods of cooling the hot bleed air. One is by air to air heat exchange within the pre-cooler, the primary and secondary heat exchangers. The other method is by compression of the hot air, followed by rapid expansion through the turbine section of the ACM. J _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "When the aircraft is in flight, ram air enters through the A…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "When the aircraft is in flight, ram air enters through the ACM air scoop on top of the fuselage. it flows through the heat exchangers and pre-cooler where the ram air cools the hot engine bleed air. Then it exits through an exhaust opening located above the right engine pylon. J _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "On the ground, the ACM driven impeller fan draws air through…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "On the ground, the ACM driven impeller fan draws air through the heat exchangers to compensate for the lack of ram air. I _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Cooling Operation When the PACK switch is first selected on,…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Cooling Operation When the PACK switch is first selected on, the pack bi-level valve opens and the bleed air passes through a pre-cooler and the primary heat exchanger. Here, some heat exchange takes place with the ram air before it flows to the ACM compressor. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The ACM consists of a compressor and a turbine section. Atta…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The ACM consists of a compressor and a turbine section. Attached on the same shaftis a fan that is used to draw air through during ground operations. During the initial start up of the ECU, the air exiting the primary heat exchanger (PRI finds it difficult to turn the short bladed ACM compressor. I _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "To prevent a back pressure onto the primary heat exchanger, …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "To prevent a back pressure onto the primary heat exchanger, this air now flows through the ACM bypass check valve directly to the secondary heat exchanger (SEC where it exits to the ACM turbine. This air, now impinging against the larger turbine blades, turns the turbine. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "As a result, the ACM compressor also rotates. As the compres…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "As a result, the ACM compressor also rotates. As the compressor rotates, the air from the primary heat exchanger finds it easier to flow through the ACM compressor section. As the compressor outlet air pressure increases, it closes the ACM bypass check valve. J _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Now all the air flows through the ACM compressor. As the air…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Now all the air flows through the ACM compressor. As the air is compressed, its pressure and temperature also increases. The secondary heat exchanger removes some of this heat. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Further cooling is achieved by allowing this air to expand r…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Further cooling is achieved by allowing this air to expand rapidly through the turbine section. This cold or conditioned air now passes through a water separator where moisture is removed before it enters the cabin. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The water collected is drawn by bleed-air suction to the wat…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The water collected is drawn by bleed-air suction to the water spray aspirator located upstream of the secondary heat exchanger. The water sprays help in heat extraction through the secondary heat exchanger. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "For flights above FL sufficient cooling is achieved through …",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "For flights above FL sufficient cooling is achieved through the 2 heat exchangers. Therefore, the Cabin Pressure Controller or commands the ACM Bypass Valve to open. This causes most of the air to flow directly to the cabin bypassing the ACM turbine. I _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "As aresult, the ACM speed decreases down to a wind milling s…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "As aresult, the ACM speed decreases down to a wind milling speed. This ACM Bypass Valve automatically closes when the airplane descends below FL I _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The temperature of the conditioned air exiting the water sep…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The temperature of the conditioned air exiting the water separator is monitored by the temperature sensor. If the temperature falls below the sensor sends a signal to the Integrated ECS controller which will command the Low Limit Valve to open. I _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "This allows some hot air from the compressor to mix with the…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "This allows some hot air from the compressor to mix with the air leaving the turbine section. This increases the air temperature, thus preventing ice formation inside the water separator. I _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Pack Overheat The air temperature exiting the compressor is …",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Pack Overheat The air temperature exiting the compressor is monitored. If it exceeds a caution CAS message PACK OVHT will be displayed. Note that the ACM will continue to operate and the pack valve does not close automatically. _",
+    "caption_tr": ""
+  }
+]

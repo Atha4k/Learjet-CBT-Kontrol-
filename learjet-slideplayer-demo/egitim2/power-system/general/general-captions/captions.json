@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s01",
+    "title": "The Auxiliary Power Unit (APU) installed on the airplane, is…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The Auxiliary Power Unit (APU) installed on the airplane, is a single shaft, constant speed gas turbine engine. itis designed to provide pneumatic and electrical loads to the airplane. Made by Allied Signals, it is assigned a model number -RE pop rea am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "itis located in the aft tail-cone compartment, above the 2 m…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "itis located in the aft tail-cone compartment, above the 2 main batteries and is enclosed within a shroud. a rea am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The air inlet for the APU is located on the left side of the…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The air inlet for the APU is located on the left side of the fuselage, just above the left engine pylon. The exhaust gases exit the APU through the exhaust opening above the right engine pylon. a rea am a a. wri",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The maximum altitude for an APU inflight start or operating …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The maximum altitude for an APU inflight start or operating with electrical and bleed loads is feet Without load, the APU can be operated up to feet. However, currently the APU is certified for ground use only. ew rea am a a. wri",
+    "caption_tr": ""
+  }
+]

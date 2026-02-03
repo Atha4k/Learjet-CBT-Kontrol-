@@ -1,0 +1,106 @@
+[
+  {
+    "id": "s01",
+    "title": "Air Distribution The conditioned air leaving the ECU splits …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Air Distribution The conditioned air leaving the ECU splits into 4 ducts. These are distributed into the left and right cabin, the cockpit and the gasper system. The gasper ends at nozzle outlets over the seats to increase the airflow to the individual passenger. _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Temperature Control The air temperature to the cockpit and t…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Temperature Control The air temperature to the cockpit and the cabin can be controlled. This is carried out through the 2 temperature selectors located in front of the co-pilot. There are 2 selectors, one for the cabin and the other for the cockpit. J _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The heating system consists of the Integrated ECS controller…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The heating system consists of the Integrated ECS controller, the 2 temperature control valves and the 2 temperature selectors. The selectable temperature ranges from at COLD to at HOT. There are 2 modes of temperature control, the AUTO mode and the Manual Temperature mode. J _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Temperature Control For the system to operate in the AUTO mo…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Temperature Control For the system to operate in the AUTO mode, ensure that the MANUAL TEMP switch is not selected on. _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The actual cabin and the cockpit temperatures are always mon…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The actual cabin and the cockpit temperatures are always monitored by the Integrated ECS controller. If a warmer cockpit temperature is selected, the ECS controller commands the cockpit temperature control valve to open. J _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "This allows some hot air to mix with the conditioned air goi…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "This allows some hot air to mix with the conditioned air going to cockpit. In this way, the cockpit air temperature is increased. The ECS controller continuously modulates the temperature control valve to maintain the selected temperature at the cockpit. The cabin temperature control is identical. J _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Manual Temperature Control This mode is used if the AUTO tem…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Manual Temperature Control This mode is used if the AUTO temperature mode function fails. This will occur after a failure of both the generators. _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Selecting the MANUAL TEMP switch ON puts the system in the M…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Selecting the MANUAL TEMP switch ON puts the system in the Manual mode. Now, the 2 temperature control valves cockpit and cabin) respond directly to their selectors via the Integrated ECS controller. JN _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "If a cooler cockpit temperature is selected, the Integrated …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "If a cooler cockpit temperature is selected, the Integrated ECS controller commands the cockpit temperature control valve to close. This stops the mixing and results in only conditioned air going to the cockpit. Note that there is no automatic temperature control in the Manual mode. The valves remain in their last selected position. JN _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The aft tail cone baggage section is unpressurized. This are…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The aft tail cone baggage section is unpressurized. This area is heated by 6 electrical blanket heaters to within a range of - The heater onoff switch is located next to the light switch. There is no cockpit control or indications when the heaters are working. FE _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Temperature Indications Only the Cabin temperature is indica…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Temperature Indications Only the Cabin temperature is indicated on the EICAS - ECS page. The TEMP CONT indicators show the actual temperature in the supply distribution ducts to the cabin and cockpit. They range from at C to at H. _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If the cabin supply duct temperature exceeds with the temper…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If the cabin supply duct temperature exceeds with the temperature control in the AUTO mode, the CAB TEMP CONT indicator will turn amber. The cabin temperature control valve will also close. A caution CAS message CABDUCT OVHT will be displayed. The cockpit overheat system is identical. J _ oo _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "However, if the cabin supply duct temperature exceeds with t…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "However, if the cabin supply duct temperature exceeds with the temperature control in the Manual mode, only the CAB TEMP CONT indicator will turn amber. The cabin temperature control vaive does not close. The caution CAS message CAB DUCT OVHT is also displayed. J _ oo _",
+    "caption_tr": ""
+  }
+]

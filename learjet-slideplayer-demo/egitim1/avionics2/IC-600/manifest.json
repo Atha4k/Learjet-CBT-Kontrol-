@@ -1,0 +1,11 @@
+{
+  "title": "IC-600",
+  "pages": 45,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "IC-600-slides",
+  "audioDir": "IC-600-audio",
+  "captionsManifest": "IC-600-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

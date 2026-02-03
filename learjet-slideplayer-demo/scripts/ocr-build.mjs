@@ -13,7 +13,7 @@ const OUT_MANIFEST = path.join(OUT_MANIFEST_DIR, "manifest.json");
 
 // Slayt aralığı
 const START = 1;
-const END   = 31;
+const END   = 150;
 
 // Alt yazı bandı (slayt yüksekliğinin oranı)
 const CAPTION_BAND_RATIO = 0.22;     // alt bant yüksekliği (oran)

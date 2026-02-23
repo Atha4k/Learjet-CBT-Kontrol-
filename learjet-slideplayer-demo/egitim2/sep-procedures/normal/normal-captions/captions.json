@@ -1,0 +1,106 @@
+[
+  {
+    "id": "s01",
+    "title": "Check that all safety equipment is servicable and correctly …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Check that all safety equipment is servicable and correctly located. PE 1 EE .",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Make sure all cabin baggage is securely stowed. J 1 EE .",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Make sure all cabin baggage is securely stowed. J 1 EE .",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Check that all swivel seats are locked facing forward. J 1 E…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Check that all swivel seats are locked facing forward. J 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Ensure that all seat backs are upright. Cr 1 EE . aa o dy 4 …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Ensure that all seat backs are upright. Cr 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "If passengers are carried, the commander shall ensure that a…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "If passengers are carried, the commander shall ensure that a safety briefing, based on the contents of the Safety Information Card, is carried out. EE 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Point out the locations of the passenger oxygen mask stowage…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Point out the locations of the passenger oxygen mask stowage compartments and show how a mask is used. Cre 1 EE .",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Point out where the life-vests are stowed. en on 1 EE . aa o…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Point out where the life-vests are stowed. en on 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Demostrate how to put on a lifevest and the method of inflat…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Demostrate how to put on a lifevest and the method of inflation. J 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Point out the locations of the emergency exits. J 1 EE . aa …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Point out the locations of the emergency exits. J 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Brief passengers on how to open the emergency exits. ne 1 EE…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Brief passengers on how to open the emergency exits. ne 1 EE .",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Show passengers how to fasten and unfasten a seatbelt eae 1 …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Show passengers how to fasten and unfasten a seatbelt eae 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "For all take-offs and landings, ensure that passengers are s…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "For all take-offs and landings, ensure that passengers are seated with their seatbelts fastened. ne 1 EE . aa o dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The carriage of infants, handicapped persons and dangerous g…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The carriage of infants, handicapped persons and dangerous goods is normally prohibited. If required refer to the SEP manual for details of the approval authority. ae 1 EE .",
+    "caption_tr": ""
+  }
+]

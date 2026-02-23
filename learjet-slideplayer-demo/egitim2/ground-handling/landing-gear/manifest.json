@@ -1,0 +1,11 @@
+{
+  "title": "Landing Gear",
+  "pages": 9,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "landing-gear-slides",
+  "audioDir": "landing-gear-audio",
+  "captionsManifest": "landing-gear-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

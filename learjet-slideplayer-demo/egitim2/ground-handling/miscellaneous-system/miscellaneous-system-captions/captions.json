@@ -1,0 +1,58 @@
+[
+  {
+    "id": "s01",
+    "title": "Item Visually check crew and passenger system oxygen thermal…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Item Visually check crew and passenger system oxygen thermal discharge indicators are intact. Inform maintenance crew if any disc is missing.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Normally, the toilets are serviced before each flight. If se…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Normally, the toilets are serviced before each flight. If servicing is required, you will need a lavatory servicing unit. The toilet servicing panel is located just beneath the right wing root. Open the panel to gain access to the fill and drain ports.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Fill the lavatory service flushing unit with clean water. 2.…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Fill the lavatory service flushing unit with clean water. 2. Then connect a hose from this servicing unit to the FILL port. 3. Connect another hose from the WASTE DRAIN port to the servicing unit. 4. Depress and hold the WASTE DRAIN switch. This starts the marceratorpump and the service lamp illuminates.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Release the switch when you see air is occupying the waste l…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Release the switch when you see air is occupying the waste line to the service unit The marcerator sound will also change when not under load. 6. When the flush reservoir is full, an internal float switch will open and disable the circuit between the fill solenoid and the service lamp. The service lamp will extinguish and fluid flow will stop.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Fill the flush reservoir inside toilet assembly with clean w…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Fill the flush reservoir inside toilet assembly with clean water from lavatory service unit. 8. After servicing is complete, disconnect all service lines and close toilet servicing panel.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Water Servicing 1. First, remove the trimmings. 2. Then remo…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Water Servicing 1. First, remove the trimmings. 2. Then remove the snap plug from top of water tank. 3. Fill water tank with potable water.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Water Servicing 1. First, remove the trimmings. 2. Then remo…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Water Servicing 1. First, remove the trimmings. 2. Then remove the snap plug from top of water tank. 3. Fill water tank with potable water.",
+    "caption_tr": ""
+  }
+]

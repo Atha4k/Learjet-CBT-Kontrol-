@@ -1,0 +1,90 @@
+[
+  {
+    "id": "s01",
+    "title": "Should an engine fail at cruise level, a descent to a lower …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Should an engine fail at cruise level, a descent to a lower flight level has to be made in order to maintain a safe flight. The shows the descent speed schedule for a maximum range descent to an altitude at or below the single engine service ceiling for the aircraft gross weight. re a 1 _ Ce 2 2 om dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The thrust should be set at on the good engine and fly the d…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The thrust should be set at on the good engine and fly the descent speed schedule to single engine altitude. Ce a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "A quick check should be made on FUEL PAGE 1 or PERF PAGE to …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "A quick check should be made on FUEL PAGE 1 or PERF PAGE to obtained aircraft weight at the time of engine failure. ee a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "EngineApproximate Ceiling At to determine the ceiling at whi…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "EngineApproximate Ceiling At to determine the ceiling at which aircraft will level off depending on aircraft weight obtained earlier. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The 1 EngineLong Range Cruise Speed table provides quick ref…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The 1 EngineLong Range Cruise Speed table provides quick reference to 1 engine long range cruise descent speed schedule. EE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Once the aircraft is leveled off at the required flight leve…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Once the aircraft is leveled off at the required flight level, the 1 Engine-Long Range Cruise table should be referred to so as to obtain fuel flow based on the existing ISA deviation and weight of the aircraft. Setting the thrust to this fuel flow will ensure aircraft flying at long range cruise speed. re a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "If immediate landing cannot be made and range is of concern,…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "If immediate landing cannot be made and range is of concern, a cruise climb should be initiated to the next available higher ceiling when weight of the aircraft permits. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The 1 Engine-Long Range Cruise tables are avaible from to FL…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The 1 Engine-Long Range Cruise tables are avaible from to FL Standard and non-standard temperatures provide interpolation factors. Ce a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The RUNWAY ACTUAL LANDING DISTANCE is also used to determine…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The RUNWAY ACTUAL LANDING DISTANCE is also used to determine Actual Landing Distance which commences when the aircraft is at 50 ft above threshold fill aircraft makes a complete stop. The chart is used in a similar manner as RUNWAY TAKEOFF FIELD LENGTH. Ce a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "In the Emergency Procedures such as Partial Flap Landing, th…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "In the Emergency Procedures such as Partial Flap Landing, the procedure call for Normal Landing Distance to be increased by a factor of When an emergency such as this is encountered, factoring of the Runway does not apply as it is an emergency situation. The airport which the crew has nominated to land must have the Runway Length equal to or more than the Actual Landing Distance x 1.2ft. mee a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Landing is not permitted if the Runway Length falls short of…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Landing is not permitted if the Runway Length falls short of the Landing Distance calculated. ee a 1 _",
+    "caption_tr": ""
+  }
+]

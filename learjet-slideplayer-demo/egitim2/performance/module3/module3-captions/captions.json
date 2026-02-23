@@ -1,0 +1,226 @@
+[
+  {
+    "id": "s01",
+    "title": "The above picture shows the seating layout of Each seating i…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The above picture shows the seating layout of Each seating is designated with a fuselage station The supernumerary crew occupies at seat number 1. It is recommended that passengers are distributed symmetrically on both sides of the seating rows. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The formula given above is the item Index. Item Index is the…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The formula given above is the item Index. Item Index is the moment of the item, loaded or unloaded. When an item is loaded, the Weight is positive. Conversely, if an item is unloaded from the aircraft after having work out the aircraft C of G trim, a negative sign is associated with the Weight. By doing that a new CG trim can be workout without error. ER 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "From the formula of the item index, it can be determined tha…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "From the formula of the item index, it can be determined that the reference datum of the aircraft is at fuselage station J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Recall in your basic that a clockwise moment about a fulcrum…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Recall in your basic that a clockwise moment about a fulcrum is considered positive moment and anti-clockwise, negative moment. When items are loaded on the right of reference datum (on FS it will produce clockwise moment and, hence, a positive sign. Likewise, loading items on the left of datum will create anti-clockwise moment which will result in negative sign. EE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "It is upon this basis that the INDEX COMPUTATION chart is fo…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "It is upon this basis that the INDEX COMPUTATION chart is formulated. We will discuss this again later on. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Above is the manual loadsheet. Explanation is available when…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Above is the manual loadsheet. Explanation is available when you click on each box on the loadsheet. The explanation will appear in the text box. There will be no audio accompanied each explanation. You may begin clicking each box for explanation. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Let's consider a practical example of a flight, from SIN to …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Let's consider a practical example of a flight, from SIN to The Basic Weight and Index of the aircraft are entered. These are obtained from the from the Basic Weight Schedule which is kept in the Aircraft Certification File. men an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Enter Crew weight and Index. They can be found in Weight and…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Enter Crew weight and Index. They can be found in Weight and Balance manual. There are no pantry items on the These are food, beverages, cutlery, etc, found in normal passenger airplane. a mean 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Adding Basic and Crew gives the Dry Operating Weight. The Ta…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Adding Basic and Crew gives the Dry Operating Weight. The Takeoff Fuel, which is from the flight plan, is kg. Adding these two gives Operating Weight of the aircraft. men an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Up to this stage, no traffic load is considered yet. Moving …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Up to this stage, no traffic load is considered yet. Moving on to the top right corner, this space allows the crew to determine maximum traffic load that can be carried for this particular flight. men an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Taking the lowest of the three Maximum Takeoff Weights, the …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Taking the lowest of the three Maximum Takeoff Weights, the Maximum Certified Takeoff Wt is used as the basis to determine the Allowed Traffic Load-764 kg. em an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The flight consists of 3 passengers. For loadsheet purposes,…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The flight consists of 3 passengers. For loadsheet purposes, each passenger weight is 77 kg. In addition, each passenger is entitled to 20 kg of baggage. That gives total baggage weight of 60 kg. Adding all three passengers weights gives kg. Total Traffic Load is kg. me an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Since the Allowed Traffic load is kg and the Actual Traffic …",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Since the Allowed Traffic load is kg and the Actual Traffic load is kg, the aircraft can further accommodate kg. This is known as Underlioad Before en an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "The Zero Fuel Wt is addition of everything except Takeoff Fu…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The Zero Fuel Wt is addition of everything except Takeoff Fuel. men an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Turning now to LEARJET 45 TRIM CHART to workout the Zero Fue…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Turning now to LEARJET 45 TRIM CHART to workout the Zero Fuel Wt CG trim. Enter the departure station, flight number and the date in the box as shown. The aircraft Basic Wt and the Index are enter on the first line of the Index Computation. men an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Referring to the INDEX TABLE for passenger, retrieve passeng…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Referring to the INDEX TABLE for passenger, retrieve passengers weights and indices and fill them accordingly on the INDEX COMPUTATION. Notice that passengers indices are negative. This was explained earlier. Now add all the passengers indices. PE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Subtract the total passengers indices from the Dry Operating…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Subtract the total passengers indices from the Dry Operating Weight Index-that gives as the resultant index units. Ce 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Going back to the INDEX TABLE again. A total of 60 kg passen…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Going back to the INDEX TABLE again. A total of 60 kg passengers baggage is loaded into the Tail Baggage Area. To obtain 60 kg baggage index, we will have to add and (which are index units for 10 kg and 50 kg of baggage respectively). That gives Index Unit of (positive index). Alternatively, the Item Index formula may also be used to determine the baggage index. Transfer this figure to the INDEX COMPUTATION chart. PE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Along the line LADEN INDEX ZERO FUEL WEIGHT (LIZFWY), the to…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Along the line LADEN INDEX ZERO FUEL WEIGHT (LIZFWY), the total Zero Fuel Wt is kg; The resultant indices are IU. With the two information, we will proceed to the TRIM CHART. a ta 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "On the TRIM CHART, draw a vertical line (LIZFW) to coincide …",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "On the TRIM CHART, draw a vertical line (LIZFW) to coincide I. U on the horizontal scales. On the vertical scales, locate Actual Zero Fuel Wt of kg and draw a horizontal line across the the TRIM CHART. Where the two lines intersect, that is the Zero Fuel Wt Centre of Gravity (C of FE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The intersection of LIZFW and must be within the applicable …",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The intersection of LIZFW and must be within the applicable envelope as well as below the maximum line. Re-trimming is required if the above conditions are not met. FE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "Now, draw a line through the C of G and follow the closest M…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Now, draw a line through the C of G and follow the closest MAC (Mean Aerodynamic Chord) line to meet the MAC scale at the top of the chart. Read the MAC in . Ce 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "Now, proceed to the loadsheet and fill the space as shown. S…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Now, proceed to the loadsheet and fill the space as shown. Still on the loadsheet, continue where we last stopped and fill the Takeoff Fuel. Adding Zero Fuel Wt to this gives Takeoff Wit of the aircraft. Now, go back to the INDEX COMPUTATION chart. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "On the Index computation chart, fill kg as shown. To find th…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "On the Index computation chart, fill kg as shown. To find the index of takeoff fuel, refer FUEL INDEX TABLE. Locate index unit for kg of fuel. Transfer that on INDEX COMPUTATION. Under LADEN INDEX TAKEOFF WEIGHT (LITOW), the Takeoff Wt is kg and the associated index is LU. PE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "Going back to the TRIM CHART, draw a vertical line (LITOW) a…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Going back to the TRIM CHART, draw a vertical line (LITOW) at .U.and a horizontal line at the actual Takeoff Wt of kg. The intersection of the LITOW line and actual TOW line shows the position of the Takeoff Wt C of G. Ensure the C of G is within the envelop, otherwise re-trimming is required. PE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "Draw a line through the Takeoff Wt C of G using the closest …",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "Draw a line through the Takeoff Wt C of G using the closest MAC line as a guide. Project the line to the top and determine the TOW MAC-23.6. rn me an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "From the STAB TRIM SETTING chart, the horizontal stabilizer …",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "From the STAB TRIM SETTING chart, the horizontal stabilizer position is determined. The chart converts TOW MAC to stabilizer trim setting. em an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "Complete the loadsheet by filling LITOW , MACTOW and STAB TO…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Complete the loadsheet by filling LITOW , MACTOW and STAB TO. rn me an 1 _",
+    "caption_tr": ""
+  }
+]

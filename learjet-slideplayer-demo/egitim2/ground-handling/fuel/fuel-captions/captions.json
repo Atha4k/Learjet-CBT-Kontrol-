@@ -1,0 +1,210 @@
+[
+  {
+    "id": "s01",
+    "title": "Safety Precautions Before refueling is carried out, certain …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Safety Precautions Before refueling is carried out, certain safety precautions must be carried out. A summary of these is shown above. For more information, refer to the LearJet 45 Fueling Instructions Manual.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Slide 2",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Use only approved fuels for refueling the aircraft. Based on…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Use only approved fuels for refueling the aircraft. Based on a specific gravity of the tank usable fuel and distribution are as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Water Drain Check All fuel tanks are to be checked for the p…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Water Drain Check All fuel tanks are to be checked for the presence of water prior to refueling and again after refueling at all stations whenever an aircraft is on the ground for more than 6 hours.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Drain fuel samples from each of the aircraft drain points in…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Drain fuel samples from each of the aircraft drain points into individual glass containers. There are 4 drain valves on the aircraft. - 2 Wing Tank drain valves - 2 Fuselage Tank drain valves",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Use the Water Finding Paste to detect for the presence of wa…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Use the Water Finding Paste to detect for the presence of water. Use a clean screwdriver to dip into the paste container. Then dip this into the 3 bottles of fuel, each drained from the left, fuselage and right tanks respectively. The presence of water is indicated by the paste changing colour from green to lavender (purple). If water is present, drained the affected tank until water is no longer detected.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Let us now prepare to refuel the airplane Let's assume that …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Let us now prepare to refuel the airplane Let's assume that the required departure fuel is kgs. The amount of fuel remaining on board is kgs and the SG obtained from the refueller is The preparation to refuel the aircraft is as shown above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Record this information into the Fuel and Oil Record form. 1…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Record this information into the Fuel and Oil Record form. 1. - Determine the fuel load requirement kgs) 2. - Obtain SG of fuel from the fuel supply agency.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The FUEL ON ARRIVAL should have been recorded by the previou…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The FUEL ON ARRIVAL should have been recorded by the previous flight crew. This value is the tank quantity reading obtained from the fuel indication panel in the cockpit. Note : The aircraft is to be refueled such that the fuel quantity as obtained from the fuel quantity gauges in the cockpit reflects the TOTAL Departure Fuel Required",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The 'TOTAL FUEL BEFORE FUELLING entry depends upon the trans…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The 'TOTAL FUEL BEFORE FUELLING entry depends upon the transit time. Determine the amount left and enter the appropriate fuel quantity into this column.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The procedures for the pressure refueling is as shown.",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The procedures for the pressure refueling is as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Open the Refueling Control Panel and the Single Point Refuel…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Open the Refueling Control Panel and the Single Point Refueling access doors.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Next, we need to ground the airplane. This is done by connec…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Next, we need to ground the airplane. This is done by connecting a grounding cable from refueling truck to the airplane grounding jack point or to a grounding lug at the nose gear. This prevents possible fire andor explosion due to static electricity or sparks.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Next, remove the refuel adapter cap and connect the refuelin…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Next, remove the refuel adapter cap and connect the refueling nozzle to the refuel adapter.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "On the Refueling Control Panel, set the Power Switch to ON. …",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "On the Refueling Control Panel, set the Power Switch to ON. The total fuel remaining in the tanks will be displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Next, move the Pre-check valve lever to the OPEN position. T…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Next, move the Pre-check valve lever to the OPEN position. Then begin to refuel the airplane. The fuel flow shall cease within 20 seconds. If fuel flow does not cease within 20 seconds, do not use the pressure refueling system to refuel the aircraft. This may overfill the airplane and dump fuel overboard.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Reposition the Pre-check valve to the CLOSED position and re…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Reposition the Pre-check valve to the CLOSED position and resume refuelling the airplane. All the 3 tanks will be loaded simultaneously.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "When the refueling is complete, note the quantity displayed …",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "When the refueling is complete, note the quantity displayed on the refuel control panel and set the Power switch to OFF. Then disconnect and remove the refuelling nozzle, grounding cable and close the 2 access doors.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Documentation After refuelling, the crew is to record all in…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Documentation After refuelling, the crew is to record all information into the Fuel and Qil Log. The procedures are as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Enter the quantity that was displayed on the Refuelling Cont…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Enter the quantity that was displayed on the Refuelling Control Panel into this FUEL IN TANKS column.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "Next, the flight crew is to complete the FUEL IN TANK portio…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Next, the flight crew is to complete the FUEL IN TANK portion of the FLIGHT CREW column. Note : The aircraft is to be refueled such that the fuel quantity as obtained from the fuel quantity gauges in the cockpit reflects the \"Total Departure Fuel Required.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "Then determine the Calculated Uplift. This is obtained by de…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Then determine the Calculated Uplift. This is obtained by deducting the Total Fuel before Refueling from the Fuel in Tanks\". This is the of fuel amount that should be uplifted.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "Next, enter the Actual Uplift figures. This is obtained from…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "Next, enter the Actual Uplift figures. This is obtained from the refueller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "Then, calculate the DISCREPANCY. The Discrepancy Actual upli…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "Then, calculate the DISCREPANCY. The Discrepancy Actual uplift - Calculated uplift Note : The discrepancy should not exceed 3 and up to a maximum of 45 kgs of the sum of the fuel quantity gauge readings. This is based on the cockpit fuel quantity indication.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "Record the RECEIPT NUMBER and the TOTAL UPLIFT figure. The T…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Record the RECEIPT NUMBER and the TOTAL UPLIFT figure. The TOTAL UPLIFT figure is taken from there refueling trucks totalizer meter.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "If the fuel uplifted is not Jet A-1, record it into the appr…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "If the fuel uplifted is not Jet A-1, record it into the appropriate column. Also enter the time refuelling started and completed. Finally, sign and enter you pilot's licence number.",
+    "caption_tr": ""
+  }
+]

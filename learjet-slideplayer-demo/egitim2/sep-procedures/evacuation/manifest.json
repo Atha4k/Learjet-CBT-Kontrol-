@@ -1,0 +1,11 @@
+{
+  "title": "Evacuation",
+  "pages": 15,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "evacuation-slides",
+  "audioDir": "evacuation-audio",
+  "captionsManifest": "evacuation-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

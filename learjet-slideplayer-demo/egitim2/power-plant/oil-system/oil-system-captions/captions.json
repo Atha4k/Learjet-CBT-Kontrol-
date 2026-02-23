@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s01",
+    "title": "Oil for engine lubrication is stored in an oil tank that is …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Oil for engine lubrication is stored in an oil tank that is on the right hand side of the engine. An oil pump, driven by the accessory gearbox, takes oil from the tank.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The oil filter has a bypass in the event that the filter ele…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The oil filter has a bypass in the event that the filter element is clogged. In this case, a white LEFT or RIGHT OIL FILTER advisory message will be displayed in flight on CAS. On ground the message will change to amber.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Pressure and Temperature Bypass valve allows oil to bypass t…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Pressure and Temperature Bypass valve allows oil to bypass three air-oil coolers when the oil temperature is low. When the oil temperature increases, this valve then direct oil through the air-oil coolers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Qil is then directed to lubricate bearings and gearboxes dir…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Qil is then directed to lubricate bearings and gearboxes directly or after being cooled by the Fuel Heater Oil Cooler.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "An oil pressure sensor provides for the oil pressure display…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "An oil pressure sensor provides for the oil pressure display on EICAS and the RMU. If the oil pressure falls below a safe limit, this triggers master warning, illuminates the appropriate OIL PRESSURE LOW light on the and also causes a red Left or Right Oil Pressure Low warning message to flash on CAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "An oil temperature sensor provides for the oil temperature d…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "An oil temperature sensor provides for the oil temperature display on EICAS and the RMU.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The scavenge elements of the oil pump draw oil out from the …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The scavenge elements of the oil pump draw oil out from the bearing compartments and gearboxes and returns the oil back to the oil tank. Metallic chips detected by a chip sensor during flight will cause a white Left or Right Engine Chip advisory message to be display on CAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "To minimise oil foaming, the oil tank air pressure is allowe…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "To minimise oil foaming, the oil tank air pressure is allowed to increase to the setting of a breather pressurisation valve.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Engine oil level should be checked within one hour of engine…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Engine oil level should be checked within one hour of engine shutdown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Opening an access panel on the outboard side of each engine …",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Opening an access panel on the outboard side of each engine cowling gives access to a dipstick. This is the oil tank of the right hand engine which has a separate fill port for topping up.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "For the left hand engine the dipstick port serves as the fil…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "For the left hand engine the dipstick port serves as the fill port as well.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "The dipstick is marked with a FULL and a ONE QUART LOW posit…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "The dipstick is marked with a FULL and a ONE QUART LOW position. Fill to the FULL mark if oil is at or below the ONE QUART LOW mark.",
+    "caption_tr": ""
+  }
+]

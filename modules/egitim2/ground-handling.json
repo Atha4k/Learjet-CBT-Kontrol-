@@ -3,11 +3,11 @@
   "title": "Ground Handling",
   "summary": "Ground handling system overview and lessons.",
   "topics": [
-    { "id": "gh-01", "title": "General", "type": "lesson", "description": "" },
-    { "id": "gh-02", "title": "Power Plant", "type": "lesson", "description": "" },
-    { "id": "gh-03", "title": "Fuel", "type": "lesson", "description": "" },
-    { "id": "gh-04", "title": "Miscellaneous System", "type": "lesson", "description": "" },
-    { "id": "gh-05", "title": "Landing Gear/Hyd", "type": "lesson", "description": "" },
-    { "id": "gh-06", "title": "Quiz", "type": "quiz", "description": "" }
+    { "id": "general", "title": "General", "type": "lesson", "description": "" },
+    { "id": "power-plant", "title": "Power Plant", "type": "lesson", "description": "" },
+    { "id": "fuel", "title": "Fuel", "type": "lesson", "description": "" },
+    { "id": "miscellaneous-system", "title": "Miscellaneous System", "type": "lesson", "description": "" },
+    { "id": "landing-gear", "title": "Landing Gear/Hyd", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "quiz", "description": "" }
   ]
 }

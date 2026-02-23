@@ -1,0 +1,11 @@
+{
+  "title": "Fuel",
+  "pages": 26,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fuel-slides",
+  "audioDir": "fuel-audio",
+  "captionsManifest": "fuel-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

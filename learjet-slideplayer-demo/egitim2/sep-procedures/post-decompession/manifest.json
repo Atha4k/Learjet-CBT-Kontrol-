@@ -1,0 +1,11 @@
+{
+  "title": "Post Decompression",
+  "pages": 2,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "post-decompression-slides",
+  "audioDir": "post-decompression-audio",
+  "captionsManifest": "post-decompression-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

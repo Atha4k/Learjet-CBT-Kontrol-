@@ -1,0 +1,890 @@
+[
+  {
+    "id": "s01",
+    "title": "Slide 1",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Lets begin with Limitations in module 1. Please view the lis…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Lets begin with Limitations in module 1. Please view the list of Limitations at your own pace. There will be no audio accompanying the Limitations. J 1 _ ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Slide 3",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Slide 4",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Slide 5",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Slide 6",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Slide 7",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Engine Instrument and Crew Alerting System (EICAS). FE 1 _",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Engine Instrument and Crew Alerting System (EICAS). FE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "On ground, with the flaps selected for takeoff, the respecti…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "On ground, with the flaps selected for takeoff, the respective Digital Electronic Engine Control (DEEC) will determine the proper takeoff N1 and position the N1 reference bug to that value. The left and right N1 reference bugs should agree within 1. The N1 needle should align with the N1 bug when the thrust lever is placed in the TO position. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "If the left and right N1 bugs do not agree within 1, refer t…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "If the left and right N1 bugs do not agree within 1, refer to the applicable Takeoff Thrust Setting table for the proper thrust setting. J 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Takeoff Thrust Setting tables are available for selection: a…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Takeoff Thrust Setting tables are available for selection: anti-ice off, nacelle heat only and anti-ice on. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "For aircraft which uses N1 as reference for setting power, w…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "For aircraft which uses N1 as reference for setting power, when N1 is plotted against outside air temperature (OAT) with pressure altitude (PA) constant, the N1 initially rises with OAT until it peaks, after which N1 decreases as OAT increases. EE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "To obtain N1 from the table, we need to know the OAT and the…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "To obtain N1 from the table, we need to know the OAT and the PA of the airport. J 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Let us assume the aircraft is taking off from Changi Interna…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Let us assume the aircraft is taking off from Changi International Airport which has a field elevation of 22 feet. Assuming the temperature is and the is mb. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "Using the Correction Table which is provided in the Quick Re…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "Using the Correction Table which is provided in the Quick Reference Handbook the correction is feet. Adding feet to airport elevation of 22 feet, a pressure altitude of feet is obtained. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "With the temperature and PA known, we shall be able to obtai…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "With the temperature and PA known, we shall be able to obtain N1 from the TakeoffiGo Around chart. If anti-ice is not required, we shall use the chart shown above. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "The temperature is The pressure altitude of feet lies betwee…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "The temperature is The pressure altitude of feet lies between 0 and feet. Interpolating and gives N1 as This is the figure the respective DEEC will compute. The N1 is displayed on the EICAS and is represented by N1 reference bug. a an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "The shaded areas on the chart consist of N1 values that are …",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The shaded areas on the chart consist of N1 values that are close to the peak. When N1 falls in the shaded area, N1 should be obtained from the respective LIMIT TABLE. a aan 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "The LIMIT TABLE magnifies the shaded areas. By giving a peak…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "The LIMIT TABLE magnifies the shaded areas. By giving a peak and additional values below the peak, it allows N1 to be interpolated more accurately. So, ifthe OAT is interpolating between and give an N1 value of a an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "Another example: pressure altitude is feet and temperature i…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Another example: pressure altitude is feet and temperature is At feet, the temperature is below the shaded area. Interpolating between and gives At feet, the temperature is in the shaded area. Interpolating between and in the LIMIT TABLE gives Interpolating between ft and ft pressure altitude gives the required power setting of a an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "The Automatic Performance Reserve (APR) system provides for …",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "The Automatic Performance Reserve (APR) system provides for an automatic increase in thrust on the operative engine in the event of power loss on the other engine during takeoff. aaa 1 _ ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "This reserve power can be applied automatically if the APR i…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "This reserve power can be applied automatically if the APR is armed or it can be obtained manually by placing the thrust levers full forward to the APR position. a an 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "The use of APR Thrust Setting chart is the same as TakeoffiG…",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The use of APR Thrust Setting chart is the same as TakeoffiGo Around chart. The table selected depends whether ANTIHICE or NAC HEAT ONLY is required or not. a an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "When the thrust levers are moved to Maximum Continuous Thrus…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "When the thrust levers are moved to Maximum Continuous Thrust position and the flaps are up, the DEEC will compute power. The N1 indicators should aligned with N1 reference bug on the EICAS. a an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "The Maximum Continuous Thrust For Climb may be used to count…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "The Maximum Continuous Thrust For Climb may be used to counter-check the N1 reference bug displayed on the EICAS. The climb speed stipulated on the chart is KIAS up to and M above a an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "Some boxes consist of two N1 values. The bold figure is with…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "Some boxes consist of two N1 values. The bold figure is without anti-ice. The regular figure is to be used when anti-ice system is selected. Determination of N1 is the same as in TakeoffiGo-Around Thrust Setting. a an 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "If an engine failure occurs, Maximum Continuous Thrust For T…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "If an engine failure occurs, Maximum Continuous Thrust For Transition and Climb Single Engine should be used to determine the FE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "The takeoff flight path is divided into segments defined by …",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The takeoff flight path is divided into segments defined by changes in the airplane configuration. The terms used in flight path plotting are defined as follows and illustrated on the TAKEOFF PROFILE figure. Reference zero is a point 35 feet above the runway surface at the final point of the takeoff run (takeoff distance). J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "For obstacle clearance, maintain second segment climb (gear …",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "For obstacle clearance, maintain second segment climb (gear up, flaps at takeoff setting, takeoff thrust, and until reaching obstacle clearance altitude. PR 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "Transition segment begins at the end of second segment feet …",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "Transition segment begins at the end of second segment feet and thrust cutback to maximum continuous ) for level-off and acceleration from V2 to KIAS, flap retraction, and continued acceleration to KIAS (en route climb speed). ER 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "All the three segments satisfy the Takeoff Weight Limits cha…",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "All the three segments satisfy the Takeoff Weight Limits chart requirement. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "The Climb Limit Weight is derived from the Takeoff Weight Li…",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "The Climb Limit Weight is derived from the Takeoff Weight Limit charts. The charts are issued for flaps 8 and 20 takeoff. In SIAs operation, flaps 8 takeoff is the standard procedure. The charts are provided for ANTI-ICE OFF or ON. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "Let's consider an example shown on the screen. With the data…",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "Let's consider an example shown on the screen. With the data given above, correction is ft. Pressure altitude is ft. rn a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "When using the Takeoff Weight Limit chart, itis only necessa…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "When using the Takeoff Weight Limit chart, itis only necessary to round up the pressure altitude to the nearest higher thousand l.e. ft. However, if the temperature and pressure altitude intersection falls within the shaded area, itis necessary to use the actual pressure altitude ft) as the weight in this region may be close to the maximum takeoff weight. ee a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Let's proceed to find the Takeoff Weight Limit. From on the …",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "Let's proceed to find the Takeoff Weight Limit. From on the extreme left, we will move horizontally to meet pressure altitude of ft. From here, move down to the APR reference line. Since SIAs operation is to takeoff without APR armed, follow the slanted line and read climb limit weight. Climb limit weight is kg. rn a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "Brake energy weight limit is not normally considered because…",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "Brake energy weight limit is not normally considered because for it to be of concern, takeoff must be at high airport elevation. Therefore, in finding weight from Takeoff Weight Limits chart, brake energy weight limit may be ignored. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "Next is to find the Field Length Limit Weight. To find this …",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "Next is to find the Field Length Limit Weight. To find this weight, the Dry Runway Takeoff Field Length and Takeoff Field Length Correction charts are used. The charts are presented for 8 or 20 flap settings, APR armed or off. a am 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "The Takeoff Field Length charts also cater for takeoff on we…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "The Takeoff Field Length charts also cater for takeoff on wet runway. The charts used here for wet runway are based on deployment of thrust reversers to idle position in case of a rejected takeoff. This conforms to limitations which do not permit full reversers to be used on aircrafts not modified by SB Adopting these charts for aircrafts which are modified by SB or, aircraft with thrust reversers certified for full deployment, will result in more conservative performance, hence, increasing safety margin. Ce 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "As definition of wet runway is one in which it is well-soake…",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "As definition of wet runway is one in which it is well-soaked. a - 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s40",
+    "title": "Ce 1 _ aa ce 2 2 dy 4 1 I.",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "Ce 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s41",
+    "title": "The Takeoff Field Length charts may be used to determine eit…",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "The Takeoff Field Length charts may be used to determine either of the following: The Field Length Limit Weight if runway length is given. The takeoff distance required. This information is useful in determining Obstacle Limit Weight. We need to know the reference zero position in order to find the required climb gradient. rn a 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s42",
+    "title": "To find the Field Length Limit Weight of the aircraft, we mu…",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "To find the Field Length Limit Weight of the aircraft, we must start off with Takeoff Field Length Correction chart, and fix the runway length on the right side to make it as corrected takeoff field length. Then we work left, correcting for altitude, anti-ice, anti-skid, runway gradient and wind in the process, to arrive at uncorrected takeoff field length. rn a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s43",
+    "title": "Having obtained the uncorrected takeoff field length, we wil…",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "Having obtained the uncorrected takeoff field length, we will switch to appropriate Takeoff Field Length chart to convert the uncorrected field length into aircraft weight for the existing pressure altitude and temperature. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s44",
+    "title": "Let's consider the example above. correction is ft. Pressure…",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "Let's consider the example above. correction is ft. Pressure altitude is ft. Rounding to nearest higher thousand, that gives ft. Let's turn to the chart fig CL 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s45",
+    "title": "Step 1: Fix runway length of ft on the right side of the cha…",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "Step 1: Fix runway length of ft on the right side of the chart. Step 2: Move left across altitude, anti-ice and anti-skid corrections since there are no corrections to be made on these. Stop at B where gradient line of is. Follow the contour of the gradient lines to the reference line. Step 3: Move left to wind column and stop at C to correct for 10 kt headwind. Finally, follow the solid line and read the Uncorrected Takeoff Field Length. In metric, the figure metre. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s46",
+    "title": "Proceed to Dry Runway Takeoff Field Length (fig Locating the…",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "Proceed to Dry Runway Takeoff Field Length (fig Locating the pressure altitude of ft and temperature bring us into a box (in red) where numbers are shown above. m lies between m and m. Correspondingly, the required weight lies between kg and kg. By interpolation, we obtain Field Limit Weight of kg. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s47",
+    "title": "When all the 3 weights:- Maximum Certified Takeoff Weight kg…",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "When all the 3 weights:- Maximum Certified Takeoff Weight kg), Climb Limit Weight and Field Length Limit Weight have been determined, the Maximum Allowable Takeoff Weight is the most restrictive of the three. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s48",
+    "title": "Let's consider another example on the screen. There is no au…",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "Let's consider another example on the screen. There is no audio in the next few screens. J 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s49",
+    "title": "When obstacle is present along the flight path, to fulfill r…",
+    "imgSrc": "slides/s49.png",
+    "audioSrc": "audio/s49.mp3",
+    "caption_en": "When obstacle is present along the flight path, to fulfill regulatory requirements, aircraft must be able to clear the obstacle by 35 feet. The climb performance in this case is based on the net climb gradient and one engine out. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s50",
+    "title": "Two charts, Distant Takeoff Flight and Close-In Takeoff Flig…",
+    "imgSrc": "slides/s50.png",
+    "audioSrc": "audio/s50.mp3",
+    "caption_en": "Two charts, Distant Takeoff Flight and Close-In Takeoff Flight Path, are provided to enable crew to determine the climb gradient required to overcome obstacle if the obstacle height and the horizontal distant from reference zero are known. rn 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s51",
+    "title": "The Distant Takeoff Flight Path chart is used if the obstacl…",
+    "imgSrc": "slides/s51.png",
+    "audioSrc": "audio/s51.mp3",
+    "caption_en": "The Distant Takeoff Flight Path chart is used if the obstacle is a distant obstacle. The obstacle considered here falls in the second segment. The chart facilitates determination of the required gradient to 10 NM from the reference zero. In the case of obstacle which falls in the shaded area, the Close-In Takeoff Flight Path chart is used. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s52",
+    "title": "The Close-In Takeoff Flight Path chart facilitates determina…",
+    "imgSrc": "slides/s52.png",
+    "audioSrc": "audio/s52.mp3",
+    "caption_en": "The Close-In Takeoff Flight Path chart facilitates determination of required gradient within approximately 2 NM horizontal distance from the reference zero. If the obstacle falls on the right side of the line shown, the obstacle is in the second segment. If the obstacle is on the left of the line, the obstacle is in the first segment. a a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s53",
+    "title": "Each line on the chart is plotted based on 1) net climb grad…",
+    "imgSrc": "slides/s53.png",
+    "audioSrc": "audio/s53.mp3",
+    "caption_en": "Each line on the chart is plotted based on 1) net climb gradient of the aircraft and 2) single engine operation. All gradient lines begin at reference zero which is 35 ft above runway. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s54",
+    "title": "If the horizontal distance from reference zero and the heigh…",
+    "imgSrc": "slides/s54.png",
+    "audioSrc": "audio/s54.mp3",
+    "caption_en": "If the horizontal distance from reference zero and the height of the obstacle are know, the required climb gradient can be obtained. By moving the base of the obstacle to coincide with reference zero and picking the gradient that matches the horizontal distance and obstacle height, the required climb gradient of the aircraft is obtained. This is the gradient which will enable aircraft to clear the obstacle by 35 ft. This gradient must be converted into weight of the aircraft in order to obtain Obstacle Limit Weight See next slide. - 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s55",
+    "title": "Let's consider the example above. rn 1 _",
+    "imgSrc": "slides/s55.png",
+    "audioSrc": "audio/s55.mp3",
+    "caption_en": "Let's consider the example above. rn 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s56",
+    "title": "The procedures for finding Obstacle Limit Weight are as foll…",
+    "imgSrc": "slides/s56.png",
+    "audioSrc": "audio/s56.mp3",
+    "caption_en": "The procedures for finding Obstacle Limit Weight are as follows: The first step is to determine the Maximum Allowable Takeoff Weight by considering a) Maximum Certified Takeoff Weight b Climb Limit Weight and c) Field Length Limit Weight, and take the lowest of the three. rn 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s57",
+    "title": "Having obtained the Maximum Allowable Takeoff Weight, we wil…",
+    "imgSrc": "slides/s57.png",
+    "audioSrc": "audio/s57.mp3",
+    "caption_en": "Having obtained the Maximum Allowable Takeoff Weight, we will assume that this weight can clear obstacle and we have to prove it. RE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s58",
+    "title": "Since the Max Allowable Takeoff Weight is field length limit…",
+    "imgSrc": "slides/s58.png",
+    "audioSrc": "audio/s58.mp3",
+    "caption_en": "Since the Max Allowable Takeoff Weight is field length limited, the runway length is the takeoff distance and, therefore, reference zero is at the end of the runway. Joining line from the end of the runway to the tip of the obstacle is the obstacle gradient which the aircraft must overcome. This is also the required climb gradient of the aircraft. A 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s59",
+    "title": "Using the Close-In Takeoff Flight Path chart, we will determ…",
+    "imgSrc": "slides/s59.png",
+    "audioSrc": "audio/s59.mp3",
+    "caption_en": "Using the Close-In Takeoff Flight Path chart, we will determine the gradient. From the chart, the required climb gradient is Notice also the obstacle lies is in the second segment. RE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s60",
+    "title": "The next step is to convert the Max Allowable Takeoff Weight…",
+    "imgSrc": "slides/s60.png",
+    "audioSrc": "audio/s60.mp3",
+    "caption_en": "The next step is to convert the Max Allowable Takeoff Weight kg) into actual climb gradient of the aircraft so that we can compare actual climb gradient with the gradient required. Since the obstacle lies in the second segment, locate Second Segment Climb Gradient chart. RE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s61",
+    "title": "From the table, at sea-level, converting kg to gradient give…",
+    "imgSrc": "slides/s61.png",
+    "audioSrc": "audio/s61.mp3",
+    "caption_en": "From the table, at sea-level, converting kg to gradient gives At ft pressure altitude, the gradient is Interpolating these two gradients will give an uncorrected climb gradient at ft pressure altitude-4.5. Using the graph on the right to correct gradient for Wind, Anti-ice Off and APR Off. This gives a corrected climb gradient of which is also the actual climb gradient of the aircraft. I. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s62",
+    "title": "Since the actual climb gradient is more than the required cl…",
+    "imgSrc": "slides/s62.png",
+    "audioSrc": "audio/s62.mp3",
+    "caption_en": "Since the actual climb gradient is more than the required climb gradient the obstacle is cleared. Therefore, the Max Allowable Takeoff Weight of kg is proven to clear obstacle on this runway. . 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s63",
+    "title": "Since the Max Allowable Takeoff Weight is field limited, the…",
+    "imgSrc": "slides/s63.png",
+    "audioSrc": "audio/s63.mp3",
+    "caption_en": "Since the Max Allowable Takeoff Weight is field limited, the reference zero is at the end of the runway. The red line is the required gradient. 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s64",
+    "title": "Turning to Close-In Takeoff Flight Path to determine the req…",
+    "imgSrc": "slides/s64.png",
+    "audioSrc": "audio/s64.mp3",
+    "caption_en": "Turning to Close-In Takeoff Flight Path to determine the required gradient, we have the gradient as Next is to convert Max Allowable Takeoff Wt to actual climb gradient, so that comparison can be made between actual climb gradient and the required climb gradient. For this, we must go to Second Segment Climb Gradient chart since the obstacle is in the second segment. RE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s65",
+    "title": "From the Second Segment Climb Gradient chart, the actual cli…",
+    "imgSrc": "slides/s65.png",
+    "audioSrc": "audio/s65.mp3",
+    "caption_en": "From the Second Segment Climb Gradient chart, the actual climb gradient of the aircraft is Actual climb gradient is less than the required climb gradient and under these circumstances, aircraft will not clear the obstacle. RE 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s66",
+    "title": "To solve this problem, one method is to reduce takeoff weigh…",
+    "imgSrc": "slides/s66.png",
+    "audioSrc": "audio/s66.mp3",
+    "caption_en": "To solve this problem, one method is to reduce takeoff weight in steps. For each lesser weight, the above process is repeated until actual and required climb gradients are equal. This ensures that the aircraft will clear the obstacle by 35 ft. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s67",
+    "title": "Another method is by interpolation. Interpolating actual and…",
+    "imgSrc": "slides/s67.png",
+    "audioSrc": "audio/s67.mp3",
+    "caption_en": "Another method is by interpolation. Interpolating actual and required climb gradient gives a new actual climb gradient of This is also the corrected climb gradient. Working this figure to obtain the uncorrected, we derive a new takeoff weight of kg. Ce ae 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s68",
+    "title": "The next step is to determine the takeoff distance of the ai…",
+    "imgSrc": "slides/s68.png",
+    "audioSrc": "audio/s68.mp3",
+    "caption_en": "The next step is to determine the takeoff distance of the aircraft when the weight is kg. This is to determine the new reference zero. From the Dry Runway Takeoff Field Length chart, the takeoff distance required is metres or ft. This gives ft - ft ft of runway left. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s69",
+    "title": "The horizontal distance of obstacle from new reference zero …",
+    "imgSrc": "slides/s69.png",
+    "audioSrc": "audio/s69.mp3",
+    "caption_en": "The horizontal distance of obstacle from new reference zero is ft ft ft. From the Close-In Takeoff Flight Path, the new required climb gradient is Since the new actual climb gradient is the obstacle is cleared. The takeoff weight can be further increased by using the first method described earlier. Ce a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s70",
+    "title": "Max Allowable Takeoff Weight of kg. The new weight is known …",
+    "imgSrc": "slides/s70.png",
+    "audioSrc": "audio/s70.mp3",
+    "caption_en": "Max Allowable Takeoff Weight of kg. The new weight is known as Obstacle Limit Weight. The Obstacle Limit Weight is the Max Allowable Takeoff Weight since it is the lowest among the weights. ae 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s71",
+    "title": "If after one interpolation and the actual climb gradient is …",
+    "imgSrc": "slides/s71.png",
+    "audioSrc": "audio/s71.mp3",
+    "caption_en": "If after one interpolation and the actual climb gradient is still less than the required climb gradient, the interpolation process is repeated until actual climb gradient is at least equal to the required climb required. This will ensure obstacle is cleared a minimum height of 35 ft. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s72",
+    "title": "Takeoff Speeds tables exist for flap 8 and 20 settings; dry …",
+    "imgSrc": "slides/s72.png",
+    "audioSrc": "audio/s72.mp3",
+    "caption_en": "Takeoff Speeds tables exist for flap 8 and 20 settings; dry and wet runway conditions. In determining Vspeeds, actual takeoff weight is used. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s73",
+    "title": "Proceeding to fig locate PA of ft and temperature For takeof…",
+    "imgSrc": "slides/s73.png",
+    "audioSrc": "audio/s73.mp3",
+    "caption_en": "Proceeding to fig locate PA of ft and temperature For takeoff weight of kg, kts. Now, go to the extreme right to determine VR and kts and kts. JE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s74",
+    "title": "If the runway is wet, the Wet Runway Takeoff Speeds table is…",
+    "imgSrc": "slides/s74.png",
+    "audioSrc": "audio/s74.mp3",
+    "caption_en": "If the runway is wet, the Wet Runway Takeoff Speeds table is used instead of the dry runway condition. JR 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s75",
+    "title": "Having obtained the thrust setting and the Vspeeds, the data…",
+    "imgSrc": "slides/s75.png",
+    "audioSrc": "audio/s75.mp3",
+    "caption_en": "Having obtained the thrust setting and the Vspeeds, the data must be filled on the takeoff bug card. ER 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s76",
+    "title": "Details of the takeoff data are explained on the screen. Lan…",
+    "imgSrc": "slides/s76.png",
+    "audioSrc": "audio/s76.mp3",
+    "caption_en": "Details of the takeoff data are explained on the screen. Landing data will be explained in the Landing Section. ER 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s77",
+    "title": "There is no audio in the following slides. JE 1 _ aa ce 2 2 …",
+    "imgSrc": "slides/s77.png",
+    "audioSrc": "audio/s77.mp3",
+    "caption_en": "There is no audio in the following slides. JE 1 _ aa ce 2 2 dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s78",
+    "title": "The Climb Tables show Time, Distance and Fuel used to climb …",
+    "imgSrc": "slides/s78.png",
+    "audioSrc": "audio/s78.mp3",
+    "caption_en": "The Climb Tables show Time, Distance and Fuel used to climb from sea level to altitude for standard and non-standard temperatures at various weights. For practical purpose, the takeoff weight is used to determine data from the climb table, since the fuel consumed during takeoff phase is minimal. ea 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s79",
+    "title": "The climb speed schedule is based on an operational climb sc…",
+    "imgSrc": "slides/s79.png",
+    "audioSrc": "audio/s79.mp3",
+    "caption_en": "The climb speed schedule is based on an operational climb schedule to optimize fuel consumption and APPROXIMATE THE BEST RATE OF CLIMB SPEED. The climb speeds given are KIAS up to ft and above ft. Climb thrustis J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s80",
+    "title": "Consider the example above. From the table shown, the Time, …",
+    "imgSrc": "slides/s80.png",
+    "audioSrc": "audio/s80.mp3",
+    "caption_en": "Consider the example above. From the table shown, the Time, Distance and the Fuel required for the aircraft to reach flight level are minutes, NM and kg of fuel. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s81",
+    "title": "If the climb involves initial leveling off at intermediate l…",
+    "imgSrc": "slides/s81.png",
+    "audioSrc": "audio/s81.mp3",
+    "caption_en": "If the climb involves initial leveling off at intermediate level before climbing to final altitude, the performance values of the two altitudes may be obtained by subtracting the two altitudes performance data. Cre mm 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s82",
+    "title": "Tables are presented at Kg weight intervals from Kg to Kg, a…",
+    "imgSrc": "slides/s82.png",
+    "audioSrc": "audio/s82.mp3",
+    "caption_en": "Tables are presented at Kg weight intervals from Kg to Kg, and at Kg. Interpolation is valid between Kg and Kg. Data for Kg may be used for weight below Kg. EE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s83",
+    "title": "Tropical Atmosphere in the range FL to FL Tropical Atmospher…",
+    "imgSrc": "slides/s83.png",
+    "audioSrc": "audio/s83.mp3",
+    "caption_en": "Tropical Atmosphere in the range FL to FL Tropical Atmosphere assumes ISA therefore, this table may be used if the ISA deviation is a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s84",
+    "title": "The M and M Cruise tables provide Fuel Flow within the main …",
+    "imgSrc": "slides/s84.png",
+    "audioSrc": "audio/s84.mp3",
+    "caption_en": "The M and M Cruise tables provide Fuel Flow within the main table, Indicated Airspeed for each Flight Level, and True Airspeed (TAS) for each combination of Flight Level and Temperature deviation from ISA. Engine thrust is adjusted to maintain constant Mach as weight decreases. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s85",
+    "title": "So, at cruising altitude of FL and aircraft weight of Kg, se…",
+    "imgSrc": "slides/s85.png",
+    "audioSrc": "audio/s85.mp3",
+    "caption_en": "So, at cruising altitude of FL and aircraft weight of Kg, setting the thrust levers to give fuel flow of Kghr will enable aircraft to achieve speed of M The data is based on ISA TAS is knots. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s86",
+    "title": "The Long Range Cruise tables provide for 99 maximum range cr…",
+    "imgSrc": "slides/s86.png",
+    "audioSrc": "audio/s86.mp3",
+    "caption_en": "The Long Range Cruise tables provide for 99 maximum range cruise from to FIL and for weights starting at Kg to Kg and at Kg. Standard and non-standard temperatures provide interpolation factors. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s87",
+    "title": "The Long Range Cruise tables provide TAS and Fuel Flow withi…",
+    "imgSrc": "slides/s87.png",
+    "audioSrc": "audio/s87.mp3",
+    "caption_en": "The Long Range Cruise tables provide TAS and Fuel Flow within the main table for each Weight, Altitude and Temperature combination. It also provides Indicated Mach Number and Airspeed for the Long Range Cruise speed schedule for each Weight and Altitude combination. Engine thrust is adjusted to maintain the Long Range Cruise speed schedule as weight decreases. eae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s88",
+    "title": "Example, assuming the aircraft is at FL the weight at cruise…",
+    "imgSrc": "slides/s88.png",
+    "audioSrc": "audio/s88.mp3",
+    "caption_en": "Example, assuming the aircraft is at FL the weight at cruise is Kg, and assuming ISA is to fly at a speed of M the thrust levers will have to be positioned such that fuel flow of kghr is indicated on the EICAS. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s89",
+    "title": "Where, for a particular condition, Long Range Cruise is not …",
+    "imgSrc": "slides/s89.png",
+    "audioSrc": "audio/s89.mp3",
+    "caption_en": "Where, for a particular condition, Long Range Cruise is not achievable, but thrust limited cruise at is possible, is annotated. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s90",
+    "title": "The Maximum Speed Cruise tables provide Indicated Mach Numbe…",
+    "imgSrc": "slides/s90.png",
+    "audioSrc": "audio/s90.mp3",
+    "caption_en": "The Maximum Speed Cruise tables provide Indicated Mach Number (IMN) or Airspeed, True Airspeed, and Fuel Flows for an MmoVmo or Vmax cruise from to FIL Mach Number is provided above ft and Indicated Airspeed below. a ane a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s91",
+    "title": "Thrust for maximum speed cruise is for the limiting conditio…",
+    "imgSrc": "slides/s91.png",
+    "audioSrc": "audio/s91.mp3",
+    "caption_en": "Thrust for maximum speed cruise is for the limiting condition, Mmo, Vmo, or maximum cruise thrust Engine thrust is set at or below to maintain Mmo or Vmo where this is limiting, or set at when Mmo or Vmo is not achievable. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s92",
+    "title": "Tables are presented at Kg weight intervals from Kg to Kg, a…",
+    "imgSrc": "slides/s92.png",
+    "audioSrc": "audio/s92.mp3",
+    "caption_en": "Tables are presented at Kg weight intervals from Kg to Kg, and at Kg. Interpolation is valid between Kg and Kg. Data for Kg may be used for weight below Kg. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s93",
+    "title": "The descent performance schedules show Time, Distance and Fu…",
+    "imgSrc": "slides/s93.png",
+    "audioSrc": "audio/s93.mp3",
+    "caption_en": "The descent performance schedules show Time, Distance and Fuel used, for normal and high-speed descents respectively, from a given altitude to sea level. An average descent weight of Kg is assumed in the tables, and the thrust setting for descent is IDLE. Data are shown without the use of spoiler. Descent rate and angle are increased if spoiler are deployed. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s94",
+    "title": "If a Normal Speed descent is made at FL to sea level, from t…",
+    "imgSrc": "slides/s94.png",
+    "audioSrc": "audio/s94.mp3",
+    "caption_en": "If a Normal Speed descent is made at FL to sea level, from the Normal Speed descent table, the Time, Distance and Fuel used are 9.1minutes, 53 nm and kg of fuel respectively. The tables may be used to determine descent data involving intermediate levels by subtracting the performance values for two altitudes. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s95",
+    "title": "SlIAs policy is to descend using Normal Speed schedule l.e. …",
+    "imgSrc": "slides/s95.png",
+    "audioSrc": "audio/s95.mp3",
+    "caption_en": "SlIAs policy is to descend using Normal Speed schedule l.e. M KIAS250 KIAS speed schedule for descent, with speed reduction to KIAS by ft. The profile for this descent is NM per ft of descent plus 5 NM for speed reduction to approach speed. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s96",
+    "title": "The Maximum Landing Climb Limit and Brake Energy Limit are o…",
+    "imgSrc": "slides/s96.png",
+    "audioSrc": "audio/s96.mp3",
+    "caption_en": "The Maximum Landing Climb Limit and Brake Energy Limit are obtained from Landing Weight Limit charts, Anti-ice Off or On. The chart format is the same as the Takeoff Weight Limit chart. If the airport pressure altitude and surface temperature are known, the Landing Climb Limit and Brake Energy Limit can be determined. Particular attention must be paid to Brake Energy Limit especially in high temperature and elevation situations. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s97",
+    "title": "To determine Landing Field Length Limit weight, three charts…",
+    "imgSrc": "slides/s97.png",
+    "audioSrc": "audio/s97.mp3",
+    "caption_en": "To determine Landing Field Length Limit weight, three charts are used, namely, RUNWAY ACTUAL LANDING DISTANCE, RUNWAY ACTUAL LANDING DISTANCE CORRECTION CHART, and FACTORED LANDING DISTANCE. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s98",
+    "title": "Regulatory requirement dictates that destination runway must…",
+    "imgSrc": "slides/s98.png",
+    "audioSrc": "audio/s98.mp3",
+    "caption_en": "Regulatory requirement dictates that destination runway must be factored: -- A jet aircraft must have at least of the required Landing Distance to be available at Destination. -- If the destination runway is wet, the aircraft must be able to land subject to the Landing Distance Available being at least of the Landing Distance Required. Cre mm 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s99",
+    "title": "For example, if the destination field length is ft, the land…",
+    "imgSrc": "slides/s99.png",
+    "audioSrc": "audio/s99.mp3",
+    "caption_en": "For example, if the destination field length is ft, the landing distance required if the runway is dry is ft. That leaves ft as safety zone. If the runway is wet, the landing distance required is ft. The safety zone in this case is ft EE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s100",
+    "title": "Having factored the Destination runway, the RUNWAY ACTUAL LA…",
+    "imgSrc": "slides/s100.png",
+    "audioSrc": "audio/s100.mp3",
+    "caption_en": "Having factored the Destination runway, the RUNWAY ACTUAL LANDING DISTANCE CORRECTION CHART is used. The factored distance is fixed on the right side of the chart as Corrected Landing Distance. The distance is corrected for Anti-skid, Runway Gradient and Wind, to give Uncorrected Landing Distance. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s101",
+    "title": "The Uncorrected Landing Distance is then convert to weight u…",
+    "imgSrc": "slides/s101.png",
+    "audioSrc": "audio/s101.mp3",
+    "caption_en": "The Uncorrected Landing Distance is then convert to weight using RUNWAY ACTUAL LANDING DISTANCE chart. The weight obtained is the Landing Field Length Limit Weight. ee en 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s102",
+    "title": "The above table provides the crew with Vref, landing speed. …",
+    "imgSrc": "slides/s102.png",
+    "audioSrc": "audio/s102.mp3",
+    "caption_en": "The above table provides the crew with Vref, landing speed. To find Vref, the estimated Landing Weight of the aircraft and the airport pressure altitude must be known. For example, if the estimated Landing Weight is Kg and the airport pressure altitude is ft and below, Vrefis knots for flaps 40 landing. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s103",
+    "title": "Having obtained Vref, the landing speed is written on the la…",
+    "imgSrc": "slides/s103.png",
+    "audioSrc": "audio/s103.mp3",
+    "caption_en": "Having obtained Vref, the landing speed is written on the landing bug card as shown above. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s104",
+    "title": "Details of landing data are explained above. eae a 1 _",
+    "imgSrc": "slides/s104.png",
+    "audioSrc": "audio/s104.mp3",
+    "caption_en": "Details of landing data are explained above. eae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s105",
+    "title": "For landing other than flaps Vref is obtained from the table…",
+    "imgSrc": "slides/s105.png",
+    "audioSrc": "audio/s105.mp3",
+    "caption_en": "For landing other than flaps Vref is obtained from the table labeled APPRAOCH SPEED S--ABNORMAL LANDINGS. The table provides landing speeds for flaps 0, 8 and 20 landings. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s106",
+    "title": "Two Holding Operations tables are provided, showing Fuel Flo…",
+    "imgSrc": "slides/s106.png",
+    "audioSrc": "audio/s106.mp3",
+    "caption_en": "Two Holding Operations tables are provided, showing Fuel Flows and Indicated Airspeed for holding at various weights and altitude conditions. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s107",
+    "title": "The holding speeds presented are sufficient to ensure a comf…",
+    "imgSrc": "slides/s107.png",
+    "audioSrc": "audio/s107.mp3",
+    "caption_en": "The holding speeds presented are sufficient to ensure a comfortable margin above stick shaker operation or low-speed buffet while manoeuvring in a holding pattern. a ane a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s108",
+    "title": "The holding Fuel Flows are valid in the range ft to FL The F…",
+    "imgSrc": "slides/s108.png",
+    "audioSrc": "audio/s108.mp3",
+    "caption_en": "The holding Fuel Flows are valid in the range ft to FL The Fuel Flows at ft are estimated because data are not available in this region. These data should be used with caution, as they are extrapolated. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s109",
+    "title": "Tables are presented at kg weight intervals from kg to kg, a…",
+    "imgSrc": "slides/s109.png",
+    "audioSrc": "audio/s109.mp3",
+    "caption_en": "Tables are presented at kg weight intervals from kg to kg, and at kg. Interpolation is valid between kg and kg. Data for kg may be used for weights below kg. ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s110",
+    "title": "The Holding Speed Schedule indicates constant speeds related…",
+    "imgSrc": "slides/s110.png",
+    "audioSrc": "audio/s110.mp3",
+    "caption_en": "The Holding Speed Schedule indicates constant speeds related to weight from ft to FL Between FL and FIL these speeds linearly increase by knots, and are then constant from FL to Holding is not recommended above FL ae a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s111",
+    "title": "Short term holding below FIL may be conducted at VREF the cl…",
+    "imgSrc": "slides/s111.png",
+    "audioSrc": "audio/s111.mp3",
+    "caption_en": "Short term holding below FIL may be conducted at VREF the clean Manoeuvring speed. Extended periods of holding, and all holding above FIL should be carried out at the holding speeds from the table. ae a 1 _",
+    "caption_tr": ""
+  }
+]

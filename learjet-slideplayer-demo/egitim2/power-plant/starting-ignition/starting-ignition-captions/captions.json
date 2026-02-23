@@ -1,0 +1,122 @@
+[
+  {
+    "id": "s01",
+    "title": "Ignition is provided by two ignitor plugs spaced around the …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Ignition is provided by two ignitor plugs spaced around the combustion chamber. Both the starter-generator and the ignitor plugs are normally automatically controlled by the DEEC but may be manually controlled.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "In a normal engine start - called an autostart - the Engine …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "In a normal engine start - called an autostart - the Engine Computer switch is in the ON position. The thrust lever is then moved from Cutoff to Idle position, and the Start switch momentarily depressed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The Start switch will illuminate ON. This action signals the…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The Start switch will illuminate ON. This action signals the DEEC to initiate a start cycle. The start-generator is energised and a green START annunciator will be displayed on EICAS for the engine to be started.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "As the engine increases, at percent the ignitors are automat…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "As the engine increases, at percent the ignitors are automatically turned on. A green IGN annunciator will be displayed on EICAS to indicate that both ignitors are functional.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "If the IGN annunciator is white, it indicates that one ignit…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "If the IGN annunciator is white, it indicates that one ignitor plug is faulty. If both plugs are faulty, the IGN annunciator is amber and this will also trigger master caution.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "At about 10 to 11 percent fuel is admitted from the FCU to t…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "At about 10 to 11 percent fuel is admitted from the FCU to the combustion chamber and the engine should light up. should rapidly increase. At 45 percent N2 ignition is automatically terminated as the engine is now self-sustaining, and the IGN annunciator will go off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "At 50 percent the starter-generator cuts out and the START a…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "At 50 percent the starter-generator cuts out and the START annunciator will go off and the Start switch will blank. At the same time the Standby pump will also automatically stop.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "If the Engine Computer switch is in the MAN or OFF position,…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "If the Engine Computer switch is in the MAN or OFF position, the autostart circuit is not functional and a Manual Start is required. Manual Starts require the ignition, and fuel to be pilot-controlled. Depending on the situation the starter may also be required to be manually controlled.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The ignition system is manually controlled by depressing the…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The ignition system is manually controlled by depressing the ignition switch-indicator. When the switch-indicator is depressed, it will illuminate ON and the green IGN annunciator should be displayed on EICAS. Note that the Ignition switch-indicator does NOT illuminate ON when ignition is being turned on automatically during an autostart. Annunciations for a faulty ignition system are the same as in an autostart.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The Standby pump has to be switched on manually be depressin…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The Standby pump has to be switched on manually be depressing the Standby pump switchindicator. The Standby pump switch-indicator should illuminate ON and the white STANDBY PUMP ON message should be displayed on CAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Check engine speed. If engine speed is at or above minimum o…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Check engine speed. If engine speed is at or above minimum of 10 percent N1 or the engine speed is sufficiently high for fuel to be admitted to the combustion chamber. To do this windmill start, move the thrust lever from Cutoff to Idle and the engine should light up.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If engine speed is less than 10 percent N1 or the starter is…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If engine speed is less than 10 percent N1 or the starter is required to crank the engine up to this speed. Depressing the engine Start switchlindicator will energise the starter only for a starter-assisted start. The Left Start switch illuminates ON and a green START annunciator should be displayed to confirm that the starter is energised.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "When either N2 or N2 reaches 10 percent, move the thrust lev…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "When either N2 or N2 reaches 10 percent, move the thrust lever from Cutoff to Idle. The engine should light up. For a manual start the starter cuts out at 45 percent IRE",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "In either case, once the engine is started and stabilised, t…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "In either case, once the engine is started and stabilised, the ignition is turned off by depressing the ignition switch. The standby pump is also switched off or it may be left on as desired.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "The ignition system is also automatically turned on by an au…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "The ignition system is also automatically turned on by an auto-ignition circuit if engine falls off without a change in thrust lever position. The system assumes that a flame-out has occurred and ignitors will be turned on automatically to try to relight the engine. The IGN annunciator should be displayed on EICAS to show that ignition is on.",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "s01",
+    "title": "Engine speeds which are not synchronised may cause annoying …",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Engine speeds which are not synchronised may cause annoying cabin noise levels.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "An engine sychronisation system allows either the or shafts …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "An engine sychronisation system allows either the or shafts to be sychronised to reduce cabin noise levels.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "An Engine Sync switch is located at the control stand. This …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "An Engine Sync switch is located at the control stand. This has three positions, OFF, and The system should not be used for takeoff or landing.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Selecting the switch to either the N1 or N2 positions will a…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Selecting the switch to either the N1 or N2 positions will allow the system to synchronise the N1 or N2 shaft speeds if the thrust levers are lined up.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "A green annunciator will be displayed on EICAS between the N…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "A green annunciator will be displayed on EICAS between the N1 indicators or above the N2 title.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "The annunciator will change to amber if the landing gear is …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "The annunciator will change to amber if the landing gear is lowered when the system has not been switched off. This reminds the pilot that the sync system should not be left on for landing.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Certain engine parameters are monitored by the respective en…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Certain engine parameters are monitored by the respective engine DEEC. A memory in the DEEC is able to record the engine parameters when signalled by the pilot.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "An EDS RECORD pushbutton is located at the aft end of the co…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "An EDS RECORD pushbutton is located at the aft end of the control pedestal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Depressing the EDS RECORD button will record parameters whic…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Depressing the EDS RECORD button will record parameters which occurred 4 minutes before the button is pushed to the next 1 miniute.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "A left or right CHECK EDS advisory message will appear on CA…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "A left or right CHECK EDS advisory message will appear on CAS if there is a fault in the system or if the memory is full.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Maintenance personnel will be able to download the recorded …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Maintenance personnel will be able to download the recorded information using test equipment to facilitate troubleshooting.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Each engine has an engine vibration sensor mounted on the en…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Each engine has an engine vibration sensor mounted on the engine casing.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "The vibration level of the engine is recorded in an Engine V…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "The vibration level of the engine is recorded in an Engine Vibration Monitor.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "If the engine vibration exceeds preset levels, a Left or Rig…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "If the engine vibration exceeds preset levels, a Left or Right Engine Vibration Monitor advisory message is displayed on CAS.",
+    "caption_tr": ""
+  }
+]

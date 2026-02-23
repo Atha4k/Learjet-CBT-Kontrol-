@@ -1,0 +1,194 @@
+[
+  {
+    "id": "s01",
+    "title": "Fuel from the main jet pump or standby pump is supplied to t…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Fuel from the main jet pump or standby pump is supplied to the engine fuel pump. The engine fuel pump is mechanically-driven through the accessory gearbox and has two pump stages. Output from the low pressure stage is fed to the motive flow pump. It also passes through a Fuel Heater Oil Cooler. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The Fuel Heater Oil Cooler serves to maintain a constant fue…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The Fuel Heater Oil Cooler serves to maintain a constant fuel temperature while at the same time it cools the oil. This is done by a bypass valve which controls how much oil is allowed to flow thru the heater element. A sensor at the Fuel Heater Oil Cooler provides indication if the fuel temperature is not in the normal range. A left or right FUEL HEATER white advisory message indicates that fuel temperature is higher than normal. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The engine fuel filter has a bypass in case the filter eleme…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The engine fuel filter has a bypass in case the filter element is blocked. If fuel is bypassing the filter in flight, a white Left or Right FUEL FILTER advisory message will be displayed on CAS. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "The filtered fuel is fed to the high pressure stage of the p…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "The filtered fuel is fed to the high pressure stage of the pump and this high pressure fuel is then fed to the Fuel Control Unit or FCU. This FCU will provide the correct fuel flow to the combustion chamber depending on input commands from the electronic engine control circuit J J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "A flowmeter downstream of the FCU send signals to EICAS and …",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "A flowmeter downstream of the FCU send signals to EICAS and the RMU to display the flow rate in kilograms per hour. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "We will next look at the Fuel Control Unit to see how it con…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "We will next look at the Fuel Control Unit to see how it controls fuel flow. As the FCU is a complicated unit, the following description has been simplified for explanation purposes. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The FCU is controlled by the DEEC. Power to the DEEC is cont…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The FCU is controlled by the DEEC. Power to the DEEC is controlled by the Engine Computer switch. The switch is normally in the ON position and in this position the DEEC circuits are fully operational. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The DEEC receives inputs from:- Thrust Lever position via in…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The DEEC receives inputs from:- Thrust Lever position via inputs from a transducer. and N2 -ITT. - Engine inlet pressure and temperature. - Mach number, Altitude, Ambient Pressure and Temperature from the Air Data Computer. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "DEEC outputs control a DC torque motor in the FCU, which in …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "DEEC outputs control a DC torque motor in the FCU, which in turn controls fuel pressure in a metering valve controller. 1 J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Surge Bleed valve. This valve will modulate to prevent compr…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Surge Bleed valve. This valve will modulate to prevent compressor surge. - an auto ignition system. - a normally open Overspeed solenoid valve. This shuts down the engine if N1 exceeds percent or if N2 exceeds percent - a normally open Manual Mode solenoid valve. Fuel pressure thru this activates a Governer lockout mechanism. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Within the FCU is a centrifugal governor which is driven by …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Within the FCU is a centrifugal governor which is driven by the accessory gearbox. The governer normally functions as an overspeed governor and is set to prevent from exceeding percent A J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Thrust lever movement mechanically operates a Manual Shutoff…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Thrust lever movement mechanically operates a Manual Shutoff valve inside the FCU. This is closed with the thrust lever at CUTOFF and opens with the thrust lever at IDLE or beyond Idle. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "For back-up purposes in the event of a faulty DEEC, thrust l…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "For back-up purposes in the event of a faulty DEEC, thrust lever movement also operates a mechanical linkage to the FCU to provide inputs to the governor valve controller. Under normal conditions fuel pressure through the open Manual Mode solenoid valve acts on the Governor Lockout, which acts as a disconnect clutch. IR J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "If the engine does not run satisfactorily in the ON mode, th…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "If the engine does not run satisfactorily in the ON mode, the DEEC circuit may automatically trip to the Manual mode, or the Engine Computer switch may be selected to Manual or OFF. In either case, the Manual Mode soleniod valve closes. Without fuel pressure the governor Lockout is no longer active and the mechnical linkage from the thrust lever will now be able to change the fuel pressure in the governor valve controller. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "With the Engine Computer switch at Manual or OFF, the surge …",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "With the Engine Computer switch at Manual or OFF, the surge bleed valve is locked out at the one-third open position and is unable to modulate and cater for all conditions of engine operation. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "With the engine computer switch at MANUAL, only the circuit …",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "With the engine computer switch at MANUAL, only the circuit controlling the Overspeed solenoid valve is active. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "In the OFF position, even the Overspeed Solenoid is inactive…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "In the OFF position, even the Overspeed Solenoid is inactive. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Left or Right ENGINE COMPUTER FAULT advisory message to be d…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Left or Right ENGINE COMPUTER FAULT advisory message to be displayed on CAS. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Engine Computer switch to OFF, then back to ON. If a reset i…",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Engine Computer switch to OFF, then back to ON. If a reset is not successful the amber MAN annunciator will still be displayed. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "When the thrust lever is fully retarded it will be at the CU…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "When the thrust lever is fully retarded it will be at the CUTOFF position. At this position the Manual Shutoff valve inside the FCU will be closed and fuel supply to the engine is cut off. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "As the thrust lever is advanced, it will move to the IDLE po…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "As the thrust lever is advanced, it will move to the IDLE position and the manual shutoff valve in the FCU will open. At this position the engine will maintain idling speed which is dependant on air-ground sensing. I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "From the Idle position the thrust lever has a modulation ran…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "From the Idle position the thrust lever has a modulation range until it reaches the or Max Cruise detent. Beyond this are further detents - or Max Continuous, TO or Takeoff, and APR or Automatic Performance Reserve. Thrust lever position in the detents will be indicated as green annunciators outboard of each N1 indicator. The annunciator will display TO, or APR depending on which detent the thrust lever is in. These detent positions are power setting positions and at each of these positions the FCU will control the engine to I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "At these detent positions a reference bug will be displayed …",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "At these detent positions a reference bug will be displayed outside the scale and a computed reference will be displayed inside the scale in magenta. The engine should accelerate to this power setting, that is, the indicator pointer should be opposite the reference bug and the actual should approximate the reference I J oo cel",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "The N1 reference bug and Reference can also be displayed eve…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "The N1 reference bug and Reference can also be displayed even though the thrust lever may not be in a detent position. On the ground the N1 reference bug and reference will be displayed. In this case the reference shown reflects the Takeoff I J oo cel",
+    "caption_tr": ""
+  }
+]

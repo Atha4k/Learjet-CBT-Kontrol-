@@ -1,0 +1,18 @@
+[
+  {
+    "id": "s01",
+    "title": "This procedure applies when passengers are carried. After de…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "This procedure applies when passengers are carried. After descent to a safe altitude, and conditions permitting, check the condition of the passengers. If required, use the portable oxygen bottle and mask located in the aft compartment. After donning the mask and confirming proper flow, check the condition of the passengers.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Caution passengers that in flight with the low differential …",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Caution passengers that in flight with the low differential pressure, operating the handle of the entry door or the hatch may cause them to be opened.",
+    "caption_tr": ""
+  }
+]

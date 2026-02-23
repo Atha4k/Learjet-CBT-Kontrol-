@@ -1,0 +1,12 @@
+{
+  "id": "sep-procedures",
+  "title": "SEP Procedures",
+  "summary": "SEP prosedürleri ve uygulamaları.",
+  "topics": [
+    { "id": "normal", "title": "Normal", "type": "lesson", "description": "" },
+    { "id": "evacuation", "title": "Evacuation", "type": "lesson", "description": "" },
+    { "id": "post-decompression", "title": "Post Decompression Duties", "type": "lesson", "description": "" },
+    { "id": "quiz", "title": "Quiz", "type": "lesson", "description": "" }
+  ]
+}
+

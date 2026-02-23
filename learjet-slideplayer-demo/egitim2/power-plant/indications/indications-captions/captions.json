@@ -1,0 +1,98 @@
+[
+  {
+    "id": "s01",
+    "title": "Engine indications are displayed on EICAS.",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Engine indications are displayed on EICAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Engine speed is shown as a percentage of the normal maximum",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Engine speed is shown as a percentage of the normal maximum",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Engine temperature, ITT, or Interstage Turbine Temperature i…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Engine temperature, ITT, or Interstage Turbine Temperature is also shown on a representative instrument with a moving pointer. The acutal temperature is shown in digital form within the instrument.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "N2 indication is shown in digital form, also as a percentage…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "N2 indication is shown in digital form, also as a percentage of the normal maximum",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Oil Pressure is shown in digital form in PSI.",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Oil Pressure is shown in digital form in PSI.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Oil Temperature is shown in digital form in degrees C.",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Oil Temperature is shown in digital form in degrees C.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Fuel Flow is shown in digital form in kilograms per hour.",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Fuel Flow is shown in digital form in kilograms per hour.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Engine indications are also available on the RMUs. RMU Engin…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Engine indications are also available on the RMUs. RMU Engine Page one displays N1 ITT, and oil pressure. The N1 presentation is in the form of a vertial tape with a moving pointer as well as a digital readout.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Engine page two displays both N1 and N2 oil temperature and …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Engine page two displays both N1 and N2 oil temperature and fuel flow.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Digital readouts are normally in white. Some readouts change…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Digital readouts are normally in white. Some readouts change to amber or red if the reading reaches abnormal levels.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Eicas may also display words in the areas shown shaded. Thes…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Eicas may also display words in the areas shown shaded. These displays are referred to as annunciators.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Annunciators may be white, green, amber or red. Some amber a…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Annunciators may be white, green, amber or red. Some amber annunciators are connected to master caution. Red annunciators are connected to master warning.",
+    "caption_tr": ""
+  }
+]

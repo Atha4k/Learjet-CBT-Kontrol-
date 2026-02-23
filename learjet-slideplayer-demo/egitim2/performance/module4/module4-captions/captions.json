@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s01",
+    "title": "The oxygen system on the will support a crew of two, one obs…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The oxygen system on the will support a crew of two, one observer and up to six passengers. The system complies with the applicable ANOs and CAAS regulations as well as FAA part 25 and ea 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The oxygen requirement satisfies the worst case flight profi…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The oxygen requirement satisfies the worst case flight profile as shown above. This includes descent to FL from maintain altitude at FL for a time, then descend to ft altitude to set up for approach and landing. During this time oxygen must be available to two crew members, one observer and six passengers. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The oxygen system is equipped with two high pressure cu ft b…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The oxygen system is equipped with two high pressure cu ft bottles located in the cabin, behind a cabinet next to the observer station. Each bottle is pressurized to psi and regulated to 60 to 68 psi. Students are advised to view the topic on Oxygen System so as to be conversant on this subject. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Oxygen quantity is displayed on SUMRY and ECS pages. The dig…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Oxygen quantity is displayed on SUMRY and ECS pages. The digital display is in liters. Cre mm 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Emergency Checklist for crew to assess whether the oxygen qu…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Emergency Checklist for crew to assess whether the oxygen quantity is sufficient for the flight if its reading falls below liters. The chartis used taking into consideration the Minimum En-route Altitude (MEA) which the aircraft must level-off if depressurization occurs at the critical point. EE 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "If the oxygen content is below liter, the crew must use the …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "If the oxygen content is below liter, the crew must use the formula (shown above) to determine if the amount of oxygen is sufficient for dispatch. a 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "In working out the oxygen requirement, we shall assume that …",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "In working out the oxygen requirement, we shall assume that following depressurization, the following steps are taken: - Crew oxygen masks-Don - Descend -c-emmmeeeeeena-10,000 ft but not below minimum safe altitude. ee en 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Under this scenario, we shall use the bottom half of the Oxy…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Under this scenario, we shall use the bottom half of the Oxygen Duration table to determine oxygen quantity. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Let's suppose oxygen quantity of liters is registered on the…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Let's suppose oxygen quantity of liters is registered on the EICAS before the commencement of the flight. Let's also suppose there are 3 crew:- 1 pilot, 1 copilot and 1 observer. No passengers are considered. Using table shown on the graphics, with 3 crew members onboard, the oxygen quantity, based on liter, would be able to last for hours at ft. J 1 _",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Since the oxygen quantity is less than liters, we would have…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Since the oxygen quantity is less than liters, we would have to use the above formula and substitute the values as shown. The result obtained is 2 hrs 18 minutes. For dispatch purposes, crew would ensure that flight duration for that day is less than 2 hrs 18 mins if oxygen requirement is to be met. ae a 1 _",
+    "caption_tr": ""
+  }
+]

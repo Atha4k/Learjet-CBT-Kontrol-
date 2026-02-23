@@ -1,0 +1,11 @@
+{
+  "title": "Normal",
+  "pages": 14,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "normal-slides",
+  "audioDir": "normal-audio",
+  "captionsManifest": "normal-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

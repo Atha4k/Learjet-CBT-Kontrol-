@@ -1,0 +1,146 @@
+[
+  {
+    "id": "s01",
+    "title": "The primary or main route of evacuation is via the upper por…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The primary or main route of evacuation is via the upper portion of the Cabin Entry Door. A secondary or alternate route is through the emergency exit hatch.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Having decided on an emergency landing which could require a…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Having decided on an emergency landing which could require an evacuation, the commander will communicate his intention to all crew and passengers if any.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Check that all loose items are stowed away.",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Check that all loose items are stowed away.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Prepare to remove the First Aid kit if required.",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Prepare to remove the First Aid kit if required.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "If passengers are carried, relocate passengers closer to exi…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "If passengers are carried, relocate passengers closer to exits if neccessary.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Point out the exits and brief them on the opening procedure.",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Point out the exits and brief them on the opening procedure.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Check that passenger seats are locked facing forward, seat b…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Check that passenger seats are locked facing forward, seat backs are upright and that all passengers have their seat belts fastened.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Show passengers the brace position.",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Show passengers the brace position.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The person assigned to do the cabin check is to advise the c…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The person assigned to do the cabin check is to advise the commander when the cabin checks are completed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "The commander shall issue the brace command at feet before t…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "The commander shall issue the brace command at feet before touchdown. Brace Brace",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Open exits and evacuate.",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Open exits and evacuate.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "If passengers are carried, open exits and supervise evacuati…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "If passengers are carried, open exits and supervise evacuation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Check that the cabin is clear, remove First Aid kit and torc…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Check that the cabin is clear, remove First Aid kit and torchlights if required and evacuate.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Assemble passengers away from the aircraft.",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Assemble passengers away from the aircraft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "In the event of a ditching, remove the raft and launch from …",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "In the event of a ditching, remove the raft and launch from a suitable exit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Check that the cabin is clear, remove First Aid kit and torc…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Check that the cabin is clear, remove First Aid kit and torchlights if required.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "If passengers are carried, supervise boarding of the raft af…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "If passengers are carried, supervise boarding of the raft after launching.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "Evacuate and board the raft",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "Evacuate and board the raft",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s01",
+    "title": "This sub-module gives a summary of the operation of the Emer…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "This sub-module gives a summary of the operation of the Emergency Exits. Detailed coverage of the Exits is found in the module on Airplane GeneralDoors Exits.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The upper door of the crew entry door is classified as an em…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The upper door of the crew entry door is classified as an emergency exit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "To open the door in an emergency, rotate the upper door hand…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "To open the door in an emergency, rotate the upper door handle anti-clockwise.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Push the door upward and outward and evacuate.",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Push the door upward and outward and evacuate.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The escape hatch in the rear of the passenger cabin is class…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The escape hatch in the rear of the passenger cabin is classified as an emergency exit",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "To open it, remove the handle cover by pulling it off.",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "To open it, remove the handle cover by pulling it off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "Hold the handle and pull it inward towards you.",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Hold the handle and pull it inward towards you.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Hold the handle and pull it inward towards you.",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Hold the handle and pull it inward towards you.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Support the lower edge of the hatch as the upper part separa…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Support the lower edge of the hatch as the upper part separates from the structure. Lift the hatch off from the opening and pass it out of the exit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "When exiting from the escape hatch, note that the wing leadi…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "When exiting from the escape hatch, note that the wing leading edge is not directly in line with the hatch opening.",
+    "caption_tr": ""
+  }
+]

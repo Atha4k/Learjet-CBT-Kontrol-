@@ -1,0 +1,11 @@
+{
+  "title": "Loose Emergency",
+  "pages": 55,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "loose-emergency-slides",
+  "audioDir": "loose-emergency-audio",
+  "captionsManifest": "loose-emergency-caption/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

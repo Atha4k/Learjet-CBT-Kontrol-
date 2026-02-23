@@ -1,0 +1,11 @@
+{
+  "title": "Fuel System Control",
+  "pages": 24,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fuel-system-control-slides",
+  "audioDir": "fuel-system-control-audio",
+  "captionsManifest": "fuel-system-control-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

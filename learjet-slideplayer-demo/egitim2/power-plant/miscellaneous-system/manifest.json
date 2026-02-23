@@ -1,0 +1,11 @@
+{
+  "title": "Miscellaneous System",
+  "pages": 14,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "miscellaneous-system-slides",
+  "audioDir": "miscellaneous-system-audio",
+  "captionsManifest": "miscellaneous-system-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Emergency Exit",
+  "pages": 10,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "emergency-exit-slides",
+  "audioDir": "emergency-exit-audio",
+  "captionsManifest": "emergency-exit-caption/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

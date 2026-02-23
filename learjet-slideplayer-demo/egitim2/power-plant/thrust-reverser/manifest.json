@@ -1,0 +1,11 @@
+{
+  "title": "Thrust Reverser",
+  "pages": 16,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "thrust-reverser-slides",
+  "audioDir": "thrust-reverser-audio",
+  "captionsManifest": "thrust-reverser-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

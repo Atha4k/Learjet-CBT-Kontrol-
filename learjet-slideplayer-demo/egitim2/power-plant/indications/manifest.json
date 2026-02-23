@@ -1,0 +1,11 @@
+{
+  "title": "Indications",
+  "pages": 12,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "indications-slides",
+  "audioDir": "indications-audio",
+  "captionsManifest": "indications-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -672,6 +672,151 @@
       "pkg": "egitim2/fuel/tank-venting"
     }
   ]
+},
+"power-plant": {
+  "id": "power-plant",
+  "title": "Power Plant",
+  "lessons": [
+    {
+      "id": "automatic-performance",
+      "title": "Automatic Performance",
+      "pkg": "egitim2/power-plant/automatic-performance"
+    },
+    {
+      "id": "fuel-system-control",
+      "title": "Fuel System Control",
+      "pkg": "egitim2/power-plant/fuel-system-control"
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim2/power-plant/general"
+    },
+    {
+      "id": "indications",
+      "title": "Indications",
+      "pkg": "egitim2/power-plant/indications"
+    },
+    {
+      "id": "miscellaneous-system",
+      "title": "Miscellaneous System",
+      "pkg": "egitim2/power-plant/miscellaneous-system"
+    },
+    {
+      "id": "oil-system",
+      "title": "Oil System",
+      "pkg": "egitim2/power-plant/oil-system"
+    },
+    {
+      "id": "starting-ignition",
+      "title": "Starting Ignition",
+      "pkg": "egitim2/power-plant/starting-ignition"
+    },
+    {
+      "id": "thrust-reverser",
+      "title": "Thrust Reverser",
+      "pkg": "egitim2/power-plant/thrust-reverser"
+    }
+  ]
+},
+"sep-equipment": {
+  "id": "sep-equipment",
+  "title": "SEP Equipment",
+  "lessons": [
+    {
+      "id": "emergency-exit",
+      "title": "Emergency Exit",
+      "pkg": "egitim2/sep-equipment/emergency-exit"
+    },
+    {
+      "id": "fixed-emergency",
+      "title": "Fixed Emergency",
+      "pkg": "egitim2/sep-equipment/fixed-emergency"
+    },
+    {
+      "id": "loose-emergency",
+      "title": "Loose Emergency",
+      "pkg": "egitim2/sep-equipment/loose-emergency"
+    }
+  ]
+},
+"sep-procedures": {
+  "id": "sep-procedures",
+  "title": "SEP Procedures",
+  "lessons": [
+    {
+      "id": "evacuation",
+      "title": "Evacuation",
+      "pkg": "egitim2/sep-procedures/evacuation"
+    },
+    {
+      "id": "normal",
+      "title": "Normal",
+      "pkg": "egitim2/sep-procedures/normal"
+    },
+    {
+      "id": "post-decompression",
+      "title": "Post Decompression",
+      "pkg": "egitim2/sep-procedures/post-decompression"
+    }
+  ]
+},
+"ground-handling": {
+  "id": "ground-handling",
+  "title": "Ground Handling",
+  "lessons": [
+    {
+      "id": "fuel",
+      "title": "Fuel",
+      "pkg": "egitim2/ground-handling/fuel"
+    },
+    {
+      "id": "general",
+      "title": "General",
+      "pkg": "egitim2/ground-handling/general"
+    },
+    {
+      "id": "landing-gear",
+      "title": "Landing Gear",
+      "pkg": "egitim2/ground-handling/landing-gear"
+    },
+    {
+      "id": "miscellaneous-system",
+      "title": "Miscellaneous System",
+      "pkg": "egitim2/ground-handling/miscellaneous-system"
+    },
+    {
+      "id": "power-plant",
+      "title": "Power Plant",
+      "pkg": "egitim2/ground-handling/power-plant"
+    }
+  ]
+},
+"performance": {
+  "id": "performance",
+  "title": "Performance",
+  "lessons": [
+    {
+      "id": "module1",
+      "title": "Module 1",
+      "pkg": "egitim2/performance/module1"
+    },
+    {
+      "id": "module2",
+      "title": "Module 2",
+      "pkg": "egitim2/performance/module2"
+    },
+    {
+      "id": "module3",
+      "title": "Module 3",
+      "pkg": "egitim2/performance/module3"
+    },
+    {
+      "id": "module4",
+      "title": "Module 4",
+      "pkg": "egitim2/performance/module4"
+    }
+  ]
 }
 }
 

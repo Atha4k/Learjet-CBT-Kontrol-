@@ -1,0 +1,11 @@
+{
+  "title": "Starting Ignition",
+  "pages": 15,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "starting-ignition-slides",
+  "audioDir": "starting-ignition-audio",
+  "captionsManifest": "starting-ignition-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

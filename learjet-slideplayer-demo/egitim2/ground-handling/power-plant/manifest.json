@@ -1,0 +1,11 @@
+{
+  "title": "Power Plant",
+  "pages": 8,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "power-plant-slides",
+  "audioDir": "power-plant-audio",
+  "captionsManifest": "power-plant-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

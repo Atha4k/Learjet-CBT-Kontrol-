@@ -1,0 +1,11 @@
+{
+  "title": "Module 1",
+  "pages": 111,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "module1-slides",
+  "audioDir": "module1-audio",
+  "captionsManifest": "module1-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

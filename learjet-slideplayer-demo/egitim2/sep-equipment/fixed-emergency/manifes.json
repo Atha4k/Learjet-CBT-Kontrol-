@@ -1,0 +1,11 @@
+{
+  "title": "Fixed Emergency",
+  "pages": 18,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "fixed-emergency-slides",
+  "audioDir": "fixed-emergency-audio",
+  "captionsManifest": "fixed-emergency-caption/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "s01",
+    "title": "The Loose Emergency Equipment module will describe the locat…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The Loose Emergency Equipment module will describe the locations of loose emergency equipment used for fire fighting and life saving and also the operation of such equipment which is specific to the Operation of Loose emergency equipment which is common to other aircraft operated by SIA is not covered in the course.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Each crew member has a Halon fire extinguisher located under…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Each crew member has a Halon fire extinguisher located under his seat, accessible from the front of his seat.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Another Halon fire extinguisher is located at the front of t…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Another Halon fire extinguisher is located at the front of the aft cabin partition, right hand side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Smoke goggles for each crew member are located in recesses a…",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Smoke goggles for each crew member are located in recesses at the cockpit sidewall for the pilots and at the top of the observer's cabinet for the observer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "An oxycrew or smokehood is located behind the control pedest…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "An oxycrew or smokehood is located behind the control pedestal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "A crash axe is located on the partition behind the co-pilot'…",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "A crash axe is located on the partition behind the co-pilot's seat.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "A pair of heat-resistant gloves is kept inside the lower com…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "A pair of heat-resistant gloves is kept inside the lower compartment of the observer's cabinet.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "All the fire fighting equipment mentioned above is standard …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "All the fire fighting equipment mentioned above is standard loose equipment except the smokehood or PBE. Operation and use of standard emergency equipment is described in a separate Basic SEP lesson.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "The following will describe donning and removal of the PBE. …",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "The following will describe donning and removal of the PBE. Although this type of PBE is specific to the aircraft, basic precautions to be observed are similar to those applicable to other types of PBEs which have been described in the SEP BASIC lesson.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Remove the PBE box from the container located behind the con…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Remove the PBE box from the container located behind the control pedestal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "Take out the sealed bag from the box. Tear off the red pull-…",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "Take out the sealed bag from the box. Tear off the red pull-strip to release the mask from the sealed bag.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "Remove the mask from the bag. Pull the PULL ring to start ox…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Remove the mask from the bag. Pull the PULL ring to start oxygen flow. Oxygen flow is audible. OXYGEN DURATION 15 MINUTES",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "Grasp hole in neck seal with thumbs. Bend forward, insert ch…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "Grasp hole in neck seal with thumbs. Bend forward, insert chin into hole of neck seal and pull hood across the face and over the head.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "Pull hood down. Ensure that headband inside hood firmly enga…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "Pull hood down. Ensure that headband inside hood firmly engages forehead. Use fingers to check that neck seal makes firm contact around the neck and that hair and clothing are clear of seal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "To remove the PBE, grasp the back upper edge of the hood and…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "To remove the PBE, grasp the back upper edge of the hood and pull up over the head.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "Three torchlights are located on the stub partition behind t…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "Three torchlights are located on the stub partition behind the pilots seat.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s17",
+    "title": "Each pilot has a life vest which is Icoated in a pocket on t…",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Each pilot has a life vest which is Icoated in a pocket on the cockpit sidewall.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s18",
+    "title": "The observer's life vest is located in a pocket behind the o…",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The observer's life vest is located in a pocket behind the observer's seat back.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s19",
+    "title": "Each passenger seat has a life vest stowed in a compartment …",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Each passenger seat has a life vest stowed in a compartment under the seat.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s20",
+    "title": "A portable oxygen bottle with mask is located on the rear wa…",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "A portable oxygen bottle with mask is located on the rear wall of the rear compartment.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s21",
+    "title": "First Aid kit is located on the rear wall of the aft compart…",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "First Aid kit is located on the rear wall of the aft compartment of the cabin.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s22",
+    "title": "Two liferafts are located on the luggage platform in the rea…",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Two liferafts are located on the luggage platform in the rear compartment. Each liferaft has a capacity of nine persons.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s23",
+    "title": "The following describes the removal and use of the liferaft …",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "The following describes the removal and use of the liferaft which is specific to the aircraft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s24",
+    "title": "First, remove the cargo net by undoing the securing clips. P…",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "First, remove the cargo net by undoing the securing clips. Press on the clip and loosen the strap. Unhook the strap from the partition.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "Next remove the straps holding the liferaft. The strap buckl…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Next remove the straps holding the liferaft. The strap buckle is similar to a seat belt buckle. Remove the raft by pulling it off the platform. It weighs about 23 kilograms.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "Underneath this flap are two lanyards. One is connected to a…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "Underneath this flap are two lanyards. One is connected to a ring. The other terminates in a loop. Both may be used to discharge a gas cylinder and inflate the raft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "The lanyard with the ring is directly connected to the gas c…",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "The lanyard with the ring is directly connected to the gas cylinder. Caution must be observed when handling the raft pack as any accidental pull on the ring may inflate the raft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "The lanyard with the looped end is also connected to the gas…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The lanyard with the looped end is also connected to the gas cylinder but it is 22 meters long.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "The raft may be launched from either emergency exit. The 22 …",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "The raft may be launched from either emergency exit. The 22 meter line should first be suitably secured to the aircraft before the liferaft pack is launched from the exit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "Take up the slack from the lanyard and then give it a jerk t…",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "Take up the slack from the lanyard and then give it a jerk to discharge the CO2 cylinder and inflate the liferaft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "Once itis inflated, use the lanyard to pull the raft close s…",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "Once itis inflated, use the lanyard to pull the raft close so that it can be boarded.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "When all crew have boarded, release the lanyard from the air…",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "When all crew have boarded, release the lanyard from the aircraft. A knife that is kept on the liferaft may be used to cut the lanyard if required.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "Slide 33",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "Righting handles are fitted on the underside of the raft. Th…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "Righting handles are fitted on the underside of the raft. These are used in case the raft is upside down when inflated.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Boarding straps are located at one place to allow for boardi…",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "Boarding straps are located at one place to allow for boarding of the raft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "This light turns on when it's battery is immersed in water.",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "This light turns on when it's battery is immersed in water.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "A grasp line runs along the circumference of the raft for pe…",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "A grasp line runs along the circumference of the raft for people to hold on to if they are in the water.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "A heaving line with a grasp ring may be thrown to a person i…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "A heaving line with a grasp ring may be thrown to a person in the water if he has drifted out of reach of the raft occupants.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "Sea anchors tied to the raft help to stabilise itin rough se…",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "Sea anchors tied to the raft help to stabilise itin rough seas.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s40",
+    "title": "A bailing bucket is provided to bail out water which may hav…",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "A bailing bucket is provided to bail out water which may have collected inside the raft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s41",
+    "title": "Near the handpump is a manual for the raft.",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "Near the handpump is a manual for the raft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s42",
+    "title": "Manual inflation valves are located around the raft for this…",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "Manual inflation valves are located around the raft for this purpose.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s43",
+    "title": "The center of the raft has a fitting for the canopy mast.",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "The center of the raft has a fitting for the canopy mast.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s44",
+    "title": "A web-cutting knife is located near the raft attachment line…",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "A web-cutting knife is located near the raft attachment line.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s45",
+    "title": "Canopy supports fit into receptacles in the raft.",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "Canopy supports fit into receptacles in the raft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s46",
+    "title": "The canopy has a radar reflective top and can fully cover th…",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "The canopy has a radar reflective top and can fully cover the raft once the entrance flap is in place over the entrance.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s47",
+    "title": "Another case contains equipment for signalling, navigation, …",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "Another case contains equipment for signalling, navigation, medical and survival needs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s48",
+    "title": "For signalling, there is a signal mirror, Dye marker, Flare …",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "For signalling, there is a signal mirror, Dye marker, Flare kit, Waterproof flashlight, and whistle.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s49",
+    "title": "For navigation, there is a compass.",
+    "imgSrc": "slides/s49.png",
+    "audioSrc": "audio/s49.mp3",
+    "caption_en": "For navigation, there is a compass.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s50",
+    "title": "For survival, there is a survival manual, a repair kit for t…",
+    "imgSrc": "slides/s50.png",
+    "audioSrc": "audio/s50.mp3",
+    "caption_en": "For survival, there is a survival manual, a repair kit for the raft, Utility knife, Water storage bag and cup kit, Water packages, Desalting kit, Ration kit and Fishing kit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s51",
+    "title": "A first aid and sunburn ointment is also provided.",
+    "imgSrc": "slides/s51.png",
+    "audioSrc": "audio/s51.mp3",
+    "caption_en": "A first aid and sunburn ointment is also provided.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s52",
+    "title": "An Emergency Locator Transmitter or ELT is alo packed in the…",
+    "imgSrc": "slides/s52.png",
+    "audioSrc": "audio/s52.mp3",
+    "caption_en": "An Emergency Locator Transmitter or ELT is alo packed in the raft The antenna for this ELT is normally folded and taped to the ELT.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s53",
+    "title": "Once the ELT is immersed in water, the tape will dissolve an…",
+    "imgSrc": "slides/s53.png",
+    "audioSrc": "audio/s53.mp3",
+    "caption_en": "Once the ELT is immersed in water, the tape will dissolve and allow the antenna to erect Immersion in water will also automatically turn onthe ELT.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s54",
+    "title": "The ELT also has an ON-OFF switch and may be switched on at …",
+    "imgSrc": "slides/s54.png",
+    "audioSrc": "audio/s54.mp3",
+    "caption_en": "The ELT also has an ON-OFF switch and may be switched on at any time if required.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s55",
+    "title": "When turned on, it sends out signals on MHz and MHz. The sig…",
+    "imgSrc": "slides/s55.png",
+    "audioSrc": "audio/s55.mp3",
+    "caption_en": "When turned on, it sends out signals on MHz and MHz. The signal range is about miles and the ELT battery can last for up to hours.",
+    "caption_tr": ""
+  }
+]

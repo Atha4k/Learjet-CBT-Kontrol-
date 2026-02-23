@@ -1,0 +1,82 @@
+[
+  {
+    "id": "s01",
+    "title": "The APR system is designed to automatically provide an incre…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The APR system is designed to automatically provide an increase in engine thrust in the event of loss of thrust on one engine during take-off.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "The system is normally armed or disarmed by a switch-indicat…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The system is normally armed or disarmed by a switch-indicator located on the engine control panel of the control pedestal. When the switch-indicator is not operated, the system is disarmed and the switch-indicator will be dark.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Pressing the switch-indicator arms the APR system and the wo…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Pressing the switch-indicator arms the APR system and the word ARM illuminates on the switch. At the same time, a white APR annunciator will be displayed on EICAS, above and between the two N1 indicators.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Left or Right APR Fault message to appear on CAS.",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Left or Right APR Fault message to appear on CAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "The APR circuit will is set for operation when the thrust le…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "The APR circuit will is set for operation when the thrust levers are moved to the Takeoff detent for takeoff. At this point, the green TO annunciators adjacent to the N1 indicators will be displayed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "Should an engine fail, and the difference in engine exceeds …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Should an engine fail, and the difference in engine exceeds fifteen percent the APR system will automatically trigger from signals sent by the two DEECs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The Fuel Control Units of both engines will receive a signal…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The Fuel Control Units of both engines will receive a signal to increase power and the engine which is able to respond will have an increase in thrust of one hundred fifty pounds. The white APR annunciator will be replaced by a green APR ON annunciator.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "The APR system may also be manually selected by setting the …",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The APR system may also be manually selected by setting the thrust levers at the APR detent. In this case the green APR ON annunciator will also be displayed between the N1 indicators. Adjacent to the N1 indicators, green APR indicators will be displayed to reflect the thrust lever position. Moving the thrust levers away from the APR position will cancel APR operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "Whenever the APR system is used, this must be entered in the…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Whenever the APR system is used, this must be entered in the aircraft log. Frequent use of APR will result in premature engine removal.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "Whenever the APR system is used, this must be entered in the…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Whenever the APR system is used, this must be entered in the aircraft log. Frequent use of APR will result in premature engine removal. Current procedures do not call for arming the APR system for takeoff. Because there is little thrust lever movement between the Takeoff and APR detents, care must be taken not to inadvertently turn the system on by incursion into the APR detent.",
+    "caption_tr": ""
+  }
+]

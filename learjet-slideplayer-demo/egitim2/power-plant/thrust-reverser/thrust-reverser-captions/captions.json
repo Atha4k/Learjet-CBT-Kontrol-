@@ -1,0 +1,130 @@
+[
+  {
+    "id": "s01",
+    "title": "The thrust Reverser is a clamshell-type thrust reverser. Whe…",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "The thrust Reverser is a clamshell-type thrust reverser. When selected, the upper and lower halves of the reverser clamshell rotate back to block and deflect the engine exhaust. ea 1 o aa PR dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s02",
+    "title": "Reverser doors on each engine are operated by two stowdeploy…",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "Reverser doors on each engine are operated by two stowdeploy hydraulic actuators. Each reverser door has two pins. In the stowed position, spring-loaded mechanical latches on the engine hook over these pins, thus locking the doors in the stowed position. To unlock the latches, two unlatch hydraulic actuators are used to rotate them free against spring pressure.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "The thrust reverser on each engine is controlled by Reverse …",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "The thrust reverser on each engine is controlled by Reverse thrust levers which are mounted on and pivot on the forward thrust lever. To select reverse the reverse thrust lever is lifted from STOW to IDLE. Once the reverser has deployed, reverse thrust may be increased by rotating the lever beyond IDLE to the FULL REVERSE position. ee 1 o aa PR dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s04",
+    "title": "Mechanical interlocks prevent the following. Reverse thrust …",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "Mechanical interlocks prevent the following. Reverse thrust levers cannot be operated if the forward thrust levers are not at idle position. Cre",
+    "caption_tr": ""
+  },
+  {
+    "id": "s05",
+    "title": "Commands for thrust reverse operation - deploy or stow - are…",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Commands for thrust reverse operation - deploy or stow - are provided by sensors monitoring the position of the forward and reverse thrust levers and also by sensors monitoring whether the airplane is on ground in flight.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s06",
+    "title": "These input signals are fed to electrical circuits inside a …",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "These input signals are fed to electrical circuits inside a thrust reverser control unit. The control unit sends signals to the thrust reverser control valve so that the hydraulic actuators will receive hydraulic pressure to deply or stow the reverser. PE 1 o aa PR dy 4 1 I.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s07",
+    "title": "The reverser system uses hydraulic pressure from the Main Hy…",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "The reverser system uses hydraulic pressure from the Main Hydraulic system only. Main system pressure is available up to Thrust Reverser Isolation valves, one for each engine.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s08",
+    "title": "Whenever the airplane is in flight, signals from the air-gro…",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "Whenever the airplane is in flight, signals from the air-ground sensing system will keep the Isolation valves closed to prevent reverser operation.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s09",
+    "title": "On ground, anytime the thrust lever is retarded to Idle posi…",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "On ground, anytime the thrust lever is retarded to Idle position, the Isolation valve will open. Hydraulic pressure will be available at the control valve. The reverser system is now armed. A white REV annunciator will be displayed above the N1 indicator to indicate that the reverser system is armed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s10",
+    "title": "With the system armed, the reverser system operates if the r…",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "With the system armed, the reverser system operates if the reverse thrust lever is lifted from stow to the reverse idle position. This is the maximum that the reverse thrust lever may be moved initially as a locking mechanism limits this travel.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s11",
+    "title": "The reverser doors rotate to the full deployed position and …",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "The reverser doors rotate to the full deployed position and the annunciator changes to green DEPLOY. Once fully deployed, the reverse thrust lever IDLE position lock is released and up to full reverse may be selected if so desired.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s12",
+    "title": "When the reverse thrust lever is moved back to the reverse s…",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "When the reverse thrust lever is moved back to the reverse stow position, the operating sequence and indication is reversed. Once the reverse is stowed, the control valve removes all pressure from the hydraulic actuators.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s13",
+    "title": "In the normal deployistow cycle the amber UNLOCK annunciator…",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "In the normal deployistow cycle the amber UNLOCK annunciator does not trigger master caution. However, if the reverser is not fully deployed or stowed within three seconds master caution will be triggered.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s14",
+    "title": "An amber REVERSE annunciator will trigger master caution. It…",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "An amber REVERSE annunciator will trigger master caution. It indicates that the reverse system is armed without an arm command. The reverser system may have become armed in flight. Or it has failed to disarm on ground. In this case the white reverse annunciator would still be displayed as the thrust lever is advanced. a ane",
+    "caption_tr": ""
+  },
+  {
+    "id": "s15",
+    "title": "This triggers master warning and is accompanied by a voice w…",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "This triggers master warning and is accompanied by a voice warning, left or right reverser unsafe. A red left or right reverser unsafe light also illuminates on the crew warning panel.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s16",
+    "title": "This triggers master warning and is accomapnied by a voice w…",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "This triggers master warning and is accomapnied by a voice warning, left or right reverser unsafe. A red left or right reverser unsafe light also illuminates on the crew warning panel.",
+    "caption_tr": ""
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "title": "Automatic Performance",
+  "pages": 10,
+  "pad": 2,
+  "namePrefix": "s",
+  "slidesDir": "automatic-performance-slides",
+  "audioDir": "automatic-performance-audio",
+  "captionsManifest": "automatic-performance-captions/captions.json",
+  "imgExt": "png",
+  "audioExt": "mp3"
+}

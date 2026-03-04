@@ -1,314 +1,182 @@
-[
-  {
-    "id": "s01",
-    "title": "Two display controllers are mounted in the glareshield, one …",
-    "imgSrc": "slides/s01.png",
-    "audioSrc": "audio/s01.mp3",
-    "caption_en": "Two display controllers are mounted in the glareshield, one for each crew.",
-    "caption_tr": ""
+{
+  "s01": {
+    "title": "Learjet 45 Overview",
+    "title_tr": "Learjet 45 Genel Bakış",
+    "en": "The LJ-45 is a low-wing, twin-engine business jet.",
+    "tr": "Learjet 45, alçak kanatlı, çift motorlu bir iş jetidir."
   },
-  {
-    "id": "s02",
-    "title": "The InhPa button toggles between setting the altimeter barom…",
-    "imgSrc": "slides/s02.png",
-    "audioSrc": "audio/s02.mp3",
-    "caption_en": "The InhPa button toggles between setting the altimeter barometric correction in inches of mercury (inHg) or hectoPascals (HPa). Power-up default is inHg.",
-    "caption_tr": ""
+  "s02": {
+    "title": "Fuselage Sections",
+    "title_tr": "Gövde Bölümleri",
+    "en": "The fuselage is made up of four main sections.",
+    "tr": "Uçak gövdesi dört ana bölümden oluşur."
   },
-  {
-    "id": "s03",
-    "title": "The CUE button toggles the aircraft symbol between single cu…",
-    "imgSrc": "slides/s03.png",
-    "audioSrc": "audio/s03.mp3",
-    "caption_en": "The CUE button toggles the aircraft symbol between single cue and cross-pointer cue. Pressing either CUE button changes the cues on both PFDs to a common airplane symbol. Power-up default is single cue airplane symbol.",
-    "caption_tr": ""
+  "s03": {
+    "title": "Nose Section Layout",
+    "title_tr": "Burun Bölümü Düzeni",
+    "en": "The front and rear pressure bulkheads make up the limit of the pressurized section, which contains the cockpit and passenger compartments.",
+    "tr": "Ön ve arka basınç perdeleri, kokpit ve yolcu bölmelerini içeren basınçlı bölümün sınırlarını oluşturur."
   },
-  {
-    "id": "s04",
-    "title": "This button selects the flight path angle (FPA) symbol on th…",
-    "imgSrc": "slides/s04.png",
-    "audioSrc": "audio/s04.mp3",
-    "caption_en": "This button selects the flight path angle (FPA) symbol on the ADI. Power-up default option is FPA off.",
-    "caption_tr": ""
+  "s04": {
+    "title": "Fuel Section & MLG Bay",
+    "title_tr": "Yakıt Bölümü ve Ana İniş Takımı Yuvası",
+    "en": "The fuel section is located behind the rear pressure bulkhead. It consists of a fuselage fuel tank and the main landing gear bay.",
+    "tr": "Yakıt bölümü arka basınç perdesinin arkasındadır. Gövde yakıt tankı ve ana iniş takımı yuvasından oluşur."
   },
-  {
-    "id": "s05",
-    "title": "Power-up default is off.",
-    "imgSrc": "slides/s05.png",
-    "audioSrc": "audio/s05.mp3",
-    "caption_en": "Power-up default is off.",
-    "caption_tr": ""
+  "s05": {
+    "title": "Tailcone Compartments",
+    "title_tr": "Kuyruk Konisi Bölmeleri",
+    "en": "Behind this is the tailcone section, which includes a baggage compartment, an APU compartment and an equipment bay.",
+    "tr": "Bunun arkasında bagaj bölmesi, APU bölmesi ve bir ekipman bölmesini içeren kuyruk konisi bölümü bulunur."
   },
-  {
-    "id": "s06",
-    "title": "Full compass rose is the power-up default display on the Fir…",
-    "imgSrc": "slides/s06.png",
-    "audioSrc": "audio/s06.mp3",
-    "caption_en": "Full compass rose is the power-up default display on the First push of the HSI button changes display to partial compass arc. Second push causes to go into map display if the navigation source is Third push changes compass to full again.",
-    "caption_tr": ""
+  "s06": {
+    "title": "Main Entry Door",
+    "title_tr": "Ana Giriş Kapısı",
+    "en": "Entry to the aircraft is through the main entry door on the forward left side of the fuselage. It consists of an upper and lower door and only the upper door is classified as an emergency exit.",
+    "tr": "Uçağa giriş, gövdenin sol ön tarafındaki ana giriş kapısından yapılır. Üst ve alt kapıdan oluşur; yalnızca üst kapı acil çıkış olarak sınıflandırılır."
   },
-  {
-    "id": "s07",
-    "title": "Please take note that map display cannot be selected on the …",
-    "imgSrc": "slides/s07.png",
-    "audioSrc": "audio/s07.mp3",
-    "caption_en": "Please take note that map display cannot be selected on the if which is already displaying map, is on the same side. For this reason, on the co-pilot's side, map display is not available because is normally displayed on DU 3.",
-    "caption_tr": ""
+  "s07": {
+    "title": "Emergency Escape Hatch",
+    "title_tr": "Acil Kaçış Kapağı",
+    "en": "An emergency escape hatch is located on the rear right side of the passenger cabin and can be removed in an emergency.",
+    "tr": "Yolcu kabininin sağ arka tarafında acil durumlarda çıkarılabilen bir acil kaçış kapağı bulunur."
   },
-  {
-    "id": "s08",
-    "title": "Before we proceed to talk about NAV button, let us focus our…",
-    "imgSrc": "slides/s08.png",
-    "audioSrc": "audio/s08.mp3",
-    "caption_en": "Before we proceed to talk about NAV button, let us focus our attention on a radio component, the Integrated Navigation Unit (INU). There are two INUs, INU 1 and INU 2. Residing inside each INU are the VOR, localizer, glideslope and marker beacon receiver module, automatic directional finder (ADF) and distance measurement equipment (DME).",
-    "caption_tr": ""
+  "s08": {
+    "title": "Baggage & Tailcone Access",
+    "title_tr": "Bagaj ve Kuyruk Konisine Erişim",
+    "en": "The baggage compartment is accessed through a door on the left side of the tailcone. The tailcone compartment is accessed through a door on the right side. Both compartments are unpressurized.",
+    "tr": "Bagaj bölmesine kuyruk konisinin sol tarafındaki kapıdan erişilir. Kuyruk konisi bölmesine sağ taraftaki kapıdan erişilir. Her iki bölüm de basınçlandırılmamıştır."
   },
-  {
-    "id": "s09",
-    "title": "On power up, the navigation source displayed on the is alway…",
-    "imgSrc": "slides/s09.png",
-    "audioSrc": "audio/s09.mp3",
-    "caption_en": "On power up, the navigation source displayed on the is always from the on-side NAV receiver. Therefore, the navigation source annunciated on the pilot's is VORLOCIILS 1, while the co-pilot's navigation source is VORLOCIILS 2. When independent navigation sources are used, the navigation source, DME distance, desired course, course pointer and deviation bar are green in colour. Now touch the NAV button on the pilot's display controller",
-    "caption_tr": ""
+  "s09": {
+    "title": "Pilot Seats Location",
+    "title_tr": "Pilot Koltuklarının Konumu",
+    "en": "The two pilot seats are located in front of the entry door.",
+    "tr": "İki pilot koltuğu, giriş kapısının önünde bulunur."
   },
-  {
-    "id": "s10",
-    "title": "Pushing pilot's NAV button changes pilot navigation source f…",
-    "imgSrc": "slides/s10.png",
-    "audioSrc": "audio/s10.mp3",
-    "caption_en": "Pushing pilot's NAV button changes pilot navigation source from VOR 1 to VOR 2. Both PFDs are now displaying navigation data from one common NAV receiver and therefore, the navigation information displayed on both sides are amber.",
-    "caption_tr": ""
+  "s10": {
+    "title": "Passenger Seats & Escape Hatch",
+    "title_tr": "Yolcu Koltukları ve Kaçış Kapağı",
+    "en": "Eight passenger seats are installed for air taxi operations, 1 or 2 stretchs and 4 or 6 passenger seats are installed for air ambulance operations ",
+    "tr": "Hava taksi operasyonları için sekiz yolcu koltuğu monte edilmiştir. Hava ambulans operasyonları için ise 1 veya 2 sedye ve 4 veya 6 yolcu koltuğu monte edilmiştir."
   },
-  {
-    "id": "s11",
-    "title": "Similarly, if NAV 1 is selected as the navigation source on …",
-    "imgSrc": "slides/s11.png",
-    "audioSrc": "audio/s11.mp3",
-    "caption_en": "Similarly, if NAV 1 is selected as the navigation source on both PFDs, data displayed will also be amber. This flexibility of cross-selection allows crew to rely on the cross-side NAV receiver when his own receiver serviceability is suspected.",
-    "caption_tr": ""
+  "s11": {
+    "title": "Lavatory & Aft Baggage",
+    "title_tr": "Tuvalet ve Arka Bagaj",
+    "en": "Behind the passenger area is a lavatory and an aft baggage compartment, which can be enclosed with sliding doors.",
+    "tr": "Yolcu bölümünün arkasında bir tuvalet ve sürgülü kapılarla kapatılabilen bir arka bagaj bölmesi bulunur."
   },
-  {
-    "id": "s12",
-    "title": "If a cross selection is made as shown above, the colour of n…",
-    "imgSrc": "slides/s12.png",
-    "audioSrc": "audio/s12.mp3",
-    "caption_en": "If a cross selection is made as shown above, the colour of navigation information changes back to green since both sides are using independent navigation sources.",
-    "caption_tr": ""
+  "s12": {
+    "title": "Seat Adjustments (Crew)",
+    "title_tr": "Koltuk Ayarları (Mürettebat)",
+    "en": "Pilot seats are identical and all seats are mechanical.",
+    "tr": "Pilot ve gözlemci koltukları aynıdır ve tüm ayarlar mekaniktir."
   },
-  {
-    "id": "s13",
-    "title": "There is only one installed on the aircraft Therefore, when …",
-    "imgSrc": "slides/s13.png",
-    "audioSrc": "audio/s13.mp3",
-    "caption_en": "There is only one installed on the aircraft Therefore, when is selected on both sides as the navigation source, the navigation data displayed on the PFDs are amber.",
-    "caption_tr": ""
+  "s13": {
+    "title": "Vertical Seat Adjustment",
+    "title_tr": "Dikey Koltuk Ayarı",
+    "en": "Lift the lever to unlock the seat and move it vertically.",
+    "tr": "Kolu yukarı kaldırarak koltuğun kilidini açın ve dikey olarak ayarlayın."
   },
-  {
-    "id": "s14",
-    "title": "But if navigation source is selected on one side and the opp…",
-    "imgSrc": "slides/s14.png",
-    "audioSrc": "audio/s14.mp3",
-    "caption_en": "But if navigation source is selected on one side and the opposite side is on radio navigation, the data displayed are white. The radio navigation data remain in green.",
-    "caption_tr": ""
+  "s14": {
+    "title": "Backrest Angle",
+    "title_tr": "Sırtlık Açısı",
+    "en": "The backrest angle is adjusted using a lever on the side of the seat.",
+    "tr": "Sırtlık açısı, koltuğun yanındaki bir kol yardımıyla ayarlanır."
   },
-  {
-    "id": "s15",
-    "title": "The display controller contains two rotary bearing source se…",
-    "imgSrc": "slides/s15.png",
-    "audioSrc": "audio/s15.mp3",
-    "caption_en": "The display controller contains two rotary bearing source selector knobs which have OFF, NAV, ADF and positions. The left and right knobs are labelled O and respectively.",
-    "caption_tr": ""
+  "s15": {
+    "title": "Armrest Adjustment",
+    "title_tr": "Kolçak Ayarı",
+    "en": "The armrest angle is adjusted with a wheel under each armrest. To stow it, raise it vertically and push it toward the seat back.",
+    "tr": "Kolçak açısı, altındaki ayar tekeri ile ayarlanır. Toplamak için dik konuma kaldırın ve sırtlığa doğru itin."
   },
-  {
-    "id": "s16",
-    "title": "Except for which is common to both left and right bearing kn…",
-    "imgSrc": "slides/s16.png",
-    "audioSrc": "audio/s16.mp3",
-    "caption_en": "Except for which is common to both left and right bearing knobs, left bearing selector receives VOR and ADF signals from INU 1; and right bearing selector receives VOR and ADF signals from INU 2.",
-    "caption_tr": ""
+  "s16": {
+    "title": "Headrest Adjustment",
+    "title_tr": "Başlık Ayarı",
+    "en": "The headrest is adjustable in both height and angle by manually repositioning it.",
+    "tr": "Başlık hem yükseklik hem de açı olarak elle yeniden konumlandırılarak ayarlanabilir."
   },
-  {
-    "id": "s17",
-    "title": "When the left bearing selector is moved from its OFF positio…",
-    "imgSrc": "slides/s17.png",
-    "audioSrc": "audio/s17.mp3",
-    "caption_en": "When the left bearing selector is moved from its OFF position, a cyan single pointer with circular head appears on the corresponding In the case of right bearing selector, it is a white double-line with diamond head pointer. Single pointer is also known as bearing pointer 1 and double pointer, bearing pointer 2.",
-    "caption_tr": ""
+  "s17": {
+    "title": "Lumbar Support & Harness Lock",
+    "title_tr": "Bel Desteği ve Emniyet Kemeri Kilidi",
+    "en": "A wheel on the side of the seat allows lumbar adjustment. A lever on the seat back locks or unlocks the safety harness.",
+    "tr": "Koltuk yanındaki teker bel desteğini ayarlar. Sırtlıktaki kol, emniyet kemerini kilitlemek veya açmak için kullanılır."
   },
-  {
-    "id": "s18",
-    "title": "The display of the bearing pointers is accompanied by bearin…",
-    "imgSrc": "slides/s18.png",
-    "audioSrc": "audio/s18.mp3",
-    "caption_en": "The display of the bearing pointers is accompanied by bearing source annunciations which appear in the same colour as the pointers and at bottom left corner of In the NAV positon, the annunciation is VOR. In ADF or postion, itis ADFIFMS. Annunciation is followed by 1 when left bearing selector is used; 2 refers to right bearing selector. annunciaiton is not followed by a number since there is one",
-    "caption_tr": ""
+  "s18": {
+    "title": "Lavatory Limitations",
+    "title_tr": "Tuvalet Kısıtlamaları",
+    "en": "The lavatory is located on the right side of the aft compartment.",
+    "tr": "Tuvalet arka bölümün sağ tarafındadır."
   },
-  {
-    "id": "s19",
-    "title": "Having selected VOR frequencies into the NAV receivers and p…",
-    "imgSrc": "slides/s19.png",
-    "audioSrc": "audio/s19.mp3",
-    "caption_en": "Having selected VOR frequencies into the NAV receivers and provided signals are received, bearing pointers will appear when the selectors are in NAV positions. In the full compass rose, bearing pointers are in full view. In the ARC, bearing pointers appear in partial with the head or tail in view. They may also be hidden away if the pointers are out of the compass arc.",
-    "caption_tr": ""
+  "s19": {
+    "title": "Aft Luggage Platform",
+    "title_tr": "Arka Bagaj Platformu",
+    "en": "On the left side of the aft compartment is a luggage platform. A baggage net may be installed to prevent bags from sliding.",
+    "tr": "Arka bölümün sol tarafında bir bagaj platformu bulunur. Çantaların kaymasını önlemek için bagaj ağı takılabilir."
   },
-  {
-    "id": "s20",
-    "title": "In map format, instead of pointers, navaid symbols appear on…",
-    "imgSrc": "slides/s20.png",
-    "audioSrc": "audio/s20.mp3",
-    "caption_en": "In map format, instead of pointers, navaid symbols appear on the with bearings and distances correctly presented in relation to the aircraft. This is shown on the picture above.",
-    "caption_tr": ""
+  "s20": {
+    "title": "Lavatory System Components",
+    "title_tr": "Tuvalet Sistemi Bileşenleri",
+    "en": "The lavatory system consists mainly of a waste reservoir, a flushing reservoir, and associated pumps and valves.",
+    "tr": "Tuvalet sistemi temel olarak bir atık tankı, bir yıkama tankı ve ilgili pompa ve valflerden oluşur."
   },
-  {
-    "id": "s21",
-    "title": "In the ADF positions, bearing pointers point to the stations…",
-    "imgSrc": "slides/s21.png",
-    "audioSrc": "audio/s21.mp3",
-    "caption_en": "In the ADF positions, bearing pointers point to the stations to provide relative bearings. In MAP display, ADF symbols are shown instead.",
-    "caption_tr": ""
+  "s21": {
+    "title": "Flush Pump Operation",
+    "title_tr": "Deşarj Pompası Çalışması",
+    "en": "When the flush switch is activated, the flush pump runs for a preset time, spraying water from the flush reservoir into the bowl before it flows to the waste reservoir.",
+    "tr": "Deşarj düğmesi çalıştırıldığında, pompa belirli bir süre çalışır, suyu yıkama tankından klozete püskürtür ve ardından atık tankına yönlendirir."
   },
-  {
-    "id": "s22",
-    "title": "In position, bearing pointers point to the active waypoint a…",
-    "imgSrc": "slides/s22.png",
-    "audioSrc": "audio/s22.mp3",
-    "caption_en": "In position, bearing pointers point to the active waypoint and both pointers will coincide.",
-    "caption_tr": ""
+  "s22": {
+    "title": "External Servicing Panel",
+    "title_tr": "Dış Servis Paneli",
+    "en": "The lavatory system is serviced through an external panel on the right side below the wing leading edge.",
+    "tr": "Tuvalet sistemi, sağ tarafta kanat hücum kenarının altında bulunan dış servis panelinden servis edilir."
   },
-  {
-    "id": "s23",
-    "title": "Two concentric knobs are used to adjust brightness of displa…",
-    "imgSrc": "slides/s23.png",
-    "audioSrc": "audio/s23.mp3",
-    "caption_en": "Two concentric knobs are used to adjust brightness of display units (DU). Outer knob adjusts brightness of the corresponding outboard DU. Inner knob adjusts the inboard DU on the same side.",
-    "caption_tr": ""
+  "s23": {
+    "title": "Instrument Panel Layout",
+    "title_tr": "Göstergeler Paneli Düzeni",
+    "en": "This illustration shows the layout of the instrument panel.",
+    "tr": "Bu görsel, gösterge panelinin düzenini göstermektedir."
   },
-  {
-    "id": "s24",
-    "title": "The inner knob also activates Electronic Display System (EDS…",
-    "imgSrc": "slides/s24.png",
-    "audioSrc": "audio/s24.mp3",
-    "caption_en": "The inner knob also activates Electronic Display System (EDS) test function on the corresponding DUs when the knob is pushed and held for 5 to 6 seconds. Except for radio altimeter test, EDS test is only functional on the ground.",
-    "caption_tr": ""
+  "s24": {
+    "title": "Glare Shield & EFIS Controls",
+    "title_tr": "Güneşlik ve EFIS Kontrolleri",
+    "en": "Outboard of these are the master warning/caution lights.",
+    "tr": "Bunların dış tarafında ana ikaz (master warning) ve ana uyarı (master caution) ışıkları bulunmaktadır."
   },
-  {
-    "id": "s25",
-    "title": "The picture shows in the test mode when the corresponding te…",
-    "imgSrc": "slides/s25.png",
-    "audioSrc": "audio/s25.mp3",
-    "caption_en": "The picture shows in the test mode when the corresponding test button is pushed.",
-    "caption_tr": ""
+  "s25": {
+    "title": "Display Units & ECAS",
+    "title_tr": "Ekran Üniteleri ve ECAS",
+    "en": "The main panel features four display units. DU1 and DU4 are the Primary Flight Displays. DU2 is the Engine Indicating and Crew Alerting System (EICAS). DU3 is the Multi-Function Display.",
+    "tr": "Ana panelde dört ekran ünitesi bulunur. DU1 ve DU4 birincil uçuş göstergeleridir. DU2, Motor Gösterge ve Uyarı Sistemidir (EICAS). DU3 çok işlevli ekrandır."
   },
-  {
-    "id": "s26",
-    "title": "This picture shows EICAS and in the test mode.",
-    "imgSrc": "slides/s26.png",
-    "audioSrc": "audio/s26.mp3",
-    "caption_en": "This picture shows EICAS and in the test mode.",
-    "caption_tr": ""
+  "s26": {
+    "title": "Standby Instruments",
+    "title_tr": "Yedek Göstergeler",
+    "en": "At the center of the panel are three independent standby instruments showing airspeed, attitude, and altitude.",
+    "tr": "Panelin ortasında hava hızı, duruş açısı ve irtifayı gösteren üç bağımsız yedek gösterge bulunur."
   },
-  {
-    "id": "s27",
-    "title": "When the EICAS is subjected to EDS test, the backup engine p…",
-    "imgSrc": "slides/s27.png",
-    "audioSrc": "audio/s27.mp3",
-    "caption_en": "When the EICAS is subjected to EDS test, the backup engine page 1 automatically pops up on RMU 1.",
-    "caption_tr": ""
+  "s27": {
+    "title": "CWP & RMU Overview",
+    "title_tr": "CWP ve RMU Genel Bakış",
+    "en": "Below the standby instruments is the Crew Warning Panel with warning lights. Beneath it are two Radio Management Units used for communication control.",
+    "tr": "Yedek göstergelerin altında uyarı ışıklarını içeren Mürettebat Uyarı Paneli bulunur. Onun altında iletişim sistemlerinin kontrolü için kullanılan iki adet Radyo Yönetim Ünitesi (RMU) vardır."
   },
-  {
-    "id": "s28",
-    "title": "If the pilot's display controller fails, it will also render…",
-    "imgSrc": "slides/s28.png",
-    "audioSrc": "audio/s28.mp3",
-    "caption_en": "If the pilot's display controller fails, it will also render the EICAS bezel controller inoperative and the MENU INOP is displayed above the controller.",
-    "caption_tr": ""
+  "s28": {
+    "title": "Systems Control Row",
+    "title_tr": "Sistem Kontrol Sırası",
+    "en": "The lower edge of the main panel contains controls for various aircraft systems.",
+    "tr": "Ana panelin alt kısmında çeşitli uçak sistemleri için kontrol düğmeleri bulunur."
   },
-  {
-    "id": "s29",
-    "title": "On the the following selections are automatically displayed:",
-    "imgSrc": "slides/s29.png",
-    "audioSrc": "audio/s29.mp3",
-    "caption_en": "On the the following selections are automatically displayed:",
-    "caption_tr": ""
+  "s29": {
+    "title": "Pedestal & Systems Controls",
+    "title_tr": "Pedestal ve Sistem Kontrolleri",
+    "en": "The top of the pedestal contains thrust levers and other aircraft system controls. Circuit breakers are located on the pilot sidewalls.",
+    "tr": "Pedestalın üst kısmı motor güç kolları ve diğer sistem kontrollerini barındırır. Devre kesiciler pilot yan panellerinde bulunur."
   },
-  {
-    "id": "s30",
-    "title": "Slide 30",
-    "imgSrc": "slides/s30.png",
-    "audioSrc": "audio/s30.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s31",
-    "title": "Slide 31",
-    "imgSrc": "slides/s31.png",
-    "audioSrc": "audio/s31.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s32",
-    "title": "Slide 32",
-    "imgSrc": "slides/s32.png",
-    "audioSrc": "audio/s32.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s33",
-    "title": "Slide 33",
-    "imgSrc": "slides/s33.png",
-    "audioSrc": "audio/s33.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s34",
-    "title": "Slide 34",
-    "imgSrc": "slides/s34.png",
-    "audioSrc": "audio/s34.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s35",
-    "title": "Slide 35",
-    "imgSrc": "slides/s35.png",
-    "audioSrc": "audio/s35.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s36",
-    "title": "Slide 36",
-    "imgSrc": "slides/s36.png",
-    "audioSrc": "audio/s36.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s37",
-    "title": "Slide 37",
-    "imgSrc": "slides/s37.png",
-    "audioSrc": "audio/s37.mp3",
-    "caption_en": "",
-    "caption_tr": ""
-  },
-  {
-    "id": "s38",
-    "title": "If the co-pilot's display controller fails, the bezel contro…",
-    "imgSrc": "slides/s38.png",
-    "audioSrc": "audio/s38.mp3",
-    "caption_en": "If the co-pilot's display controller fails, the bezel controller is inoperative and the MENU INOP is displayed above the controller.",
-    "caption_tr": ""
-  },
-  {
-    "id": "s39",
-    "title": "Except for the navigation source and bearing pointer that ar…",
-    "imgSrc": "slides/s39.png",
-    "audioSrc": "audio/s39.mp3",
-    "caption_en": "Except for the navigation source and bearing pointer that are referenced to VOR 2, the rest of the automatic selections are the same as that of pilot's display controller failure.",
-    "caption_tr": ""
+  "s30": {
+    "title": "Lesson Complete",
+    "title_tr": "Ders Sonu",
+    "en": "This completes the lesson on Airplane General.",
+    "tr": "Airplane General dersi burada tamamlanmıştır."
   }
-]
+}

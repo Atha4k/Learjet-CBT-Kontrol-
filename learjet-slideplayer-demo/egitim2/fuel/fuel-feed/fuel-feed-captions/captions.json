@@ -1,84 +1,101 @@
 [
   {
     "id": "s01",
-    "title": "Main Jet Pump normally supplies fuel to the engine. The Main…",
+    "title": "Main Jet Pump",
+    "title_tr": "Ana Jet Pompası",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "Main Jet Pump normally supplies fuel to the engine. The Main Jet Pump functions by high-pressure fuel from the motive flow pump. This in turn is engine-driven thru the accessory gearbox. As the Main Jet Pump can only function when the engine is running, another pressure source is required to provide fuel pressure for starting an engine. J A a ml sm aa el mn wri",
-    "caption_tr": ""
+    "caption_en": "Main Jet Pump normally supplies fuel to the engine. The Main Jet Pump functions by high-pressure fuel from the motive flow pump. This in turn is engine-driven thru the accessory gearbox. As the Main Jet Pump can only function when the engine is running, another pressure source is required to provide fuel pressure for starting an engine.",
+    "caption_tr": "Ana Jet Pompası normalde motora yakıt sağlar. Ana Jet Pompası, motive flow pompasından gelen yüksek basınçlı yakıt ile çalışır. Bu pompa ise aksesuar dişli kutusu aracılığıyla motor tarafından tahrik edilir. Ana Jet Pompası yalnızca motor çalışırken çalışabildiği için, motoru çalıştırmak amacıyla yakıt basıncı sağlamak için başka bir basınç kaynağı gereklidir."
   },
   {
     "id": "s02",
-    "title": "This other pressure source is the Standby pump. This may be …",
+    "title": "Standby Pump",
+    "title_tr": "Yedek Pompa",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "This other pressure source is the Standby pump. This may be started at any time by selecting its switchindicator. post A a ml sm am el mn wri",
-    "caption_tr": ""
+    "caption_en": "This other pressure source is the Standby pump. This may be started at any time by selecting its switchindicator.",
+    "caption_tr": "Bu diğer basınç kaynağı Standby pompasıdır. Bu pompa, switch/indicator seçilerek herhangi bir zamanda çalıştırılabilir."
   },
   {
     "id": "s03",
-    "title": "For normal starts - called autostarts - the Standby pump wil…",
+    "title": "Autostart Sequence",
+    "title_tr": "Otomatik Başlatma",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "For normal starts - called autostarts - the Standby pump will operate automatically. All that is required is to select ON the Start switch/indicator. Select the Left Start switch/indicator. The Start switch illuminates to ON to indicate that the autostart sequence has been initiated. The Standby pump switch illuminates to ON and the white Standby Pump On message confirms that the Left Standby pump has started."
+    "caption_en": "For normal starts - called autostarts - the Standby pump will operate automatically. All that is required is to select ON the Start switch/indicator. Select the Left Start switch/indicator. The Start switch illuminates to ON to indicate that the autostart sequence has been initiated. The Standby pump switch illuminates to ON and the white Standby Pump On message confirms that the Left Standby pump has started.",
+    "caption_tr": "Normal başlatmalar için — autostart olarak adlandırılır — Standby pompası otomatik olarak çalışır. Yapılması gereken tek şey Start switch/indicator’ı ON konumuna seçmektir. Sol Start switch/indicator seçilir. Autostart sürecinin başladığını göstermek için Start switch ON olarak aydınlanır. Standby pump switch de ON olarak aydınlanır ve beyaz Standby Pump On mesajı sol Standby pompasının çalıştığını doğrular."
   },
   {
     "id": "s04",
-    "title": "Once the engine has started and attained starter cutout spee…",
+    "title": "Pump Transition",
+    "title_tr": "Pompa Geçişi",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "Once the engine has started and attained starter cutout speed, the Standby pump automatically stops. The Main Jet pump now takes over to supply fuel to the engine fuel pump. Jere IN am el mn wri",
-    "caption_tr": ""
+    "caption_en": "Once the engine has started and attained starter cutout speed, the Standby pump automatically stops. The Main Jet pump now takes over to supply fuel to the engine fuel pump.",
+    "caption_tr": "Motor çalıştıktan ve starter cutout hızına ulaştıktan sonra Standby pompası otomatik olarak durur. Bundan sonra Ana Jet Pompası devreye girerek motor yakıt pompasına yakıt sağlar."
   },
   {
     "id": "s05",
-    "title": "Motive flow pressure also powers the Scavenge pumps in the s…",
+    "title": "Scavenge Pumps",
+    "title_tr": "Toplama Pompaları",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "Motive flow pressure also powers the Scavenge pumps in the system.These pumps transfer fuel from the outboard bays of the wing tank to the collector tank. This is to ensure that there is always fuel at the inlet of the Main Jet pump. ER IN am el mn wri",
-    "caption_tr": ""
+    "caption_en": "Motive flow pressure also powers the Scavenge pumps in the system.These pumps transfer fuel from the outboard bays of the wing tank to the collector tank. This is to ensure that there is always fuel at the inlet of the Main Jet pump.",
+    "caption_tr": "Motive flow basıncı sistemdeki Scavenge pompalarını da çalıştırır. Bu pompalar kanat tankının dış bölmelerindeki yakıtı collector tankına aktarır. Bunun amacı Ana Jet Pompası girişinde her zaman yakıt bulunmasını sağlamaktır."
   },
   {
     "id": "s06",
-    "title": "An advisory message, FUEL BAY LOW, is displayed when the qua…",
+    "title": "Fuel Bay Low",
+    "title_tr": "Düşük Yakıt Seviyesi",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "A float switch inside the collector tank provides indication should the fuel level in the collector tank fall to a level where, with aircraft maneuvers, the pump inlet may be uncovered. An advisory message, FUEL BAY LOW, is displayed when the quantity in the collector tank reaches this level. A possible reason for this is insufficient pressure from the motive flow pump to operate the scavenge pumps properly."
+    "caption_en": "A float switch inside the collector tank provides indication should the fuel level in the collector tank fall to a level where, with aircraft maneuvers, the pump inlet may be uncovered. An advisory message, FUEL BAY LOW, is displayed when the quantity in the collector tank reaches this level. A possible reason for this is insufficient pressure from the motive flow pump to operate the scavenge pumps properly.",
+    "caption_tr": "Collector tank içindeki bir float switch, yakıt seviyesinin uçak manevraları sırasında pompa girişinin açığa çıkabileceği bir seviyeye düşmesi durumunda uyarı verir. Collector tanktaki yakıt miktarı bu seviyeye ulaştığında FUEL BAY LOW mesajı görüntülenir. Bunun olası sebeplerinden biri, scavenge pompalarını düzgün çalıştırmak için motive flow pompasından yeterli basınç gelmemesidir."
   },
   {
     "id": "s07",
-    "title": "Fuel from the Main Jet pump goes through a normally open Fir…",
+    "title": "Firewall Valve",
+    "title_tr": "Firewall Vanası",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "Fuel from the Main Jet pump goes through a normally open Firewall Shutoff Valve. This valve only closes if the Engine Fire switch is operated. Select the Engine Fire switch to close the valve. The Engine Fire switch will illuminate CLOSED when selected, and an advisory message, Firewall Shutoff Valve Closed will be displayed on CAS."
+    "caption_en": "Fuel from the Main Jet pump goes through a normally open Firewall Shutoff Valve. This valve only closes if the Engine Fire switch is operated. Select the Engine Fire switch to close the valve. The Engine Fire switch will illuminate CLOSED when selected, and an advisory message, Firewall Shutoff Valve Closed will be displayed on CAS.",
+    "caption_tr": "Ana Jet Pompasından gelen yakıt normalde açık olan Firewall Shutoff Valve içinden geçer. Bu vana yalnızca Engine Fire switch çalıştırıldığında kapanır. Vanayı kapatmak için Engine Fire switch seçilir. Seçildiğinde Engine Fire switch CLOSED olarak aydınlanır ve CAS üzerinde Firewall Shutoff Valve Closed mesajı görüntülenir."
   },
   {
     "id": "s08",
-    "title": "Fuel from the Main Jet pump goes through a normally open Fir…",
+    "title": "Valve Fault",
+    "title_tr": "Vana Arızası",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "If the valve fails to close it will trigger Master Caution and the amber Firewall Shutoff Valve Fault message will be displayed instead. Note that the Engine Fire switch still illuminates CLOSED."
+    "caption_en": "If the valve fails to close it will trigger Master Caution and the amber Firewall Shutoff Valve Fault message will be displayed instead. Note that the Engine Fire switch still illuminates CLOSED.",
+    "caption_tr": "Eğer vana kapanamazsa Master Caution uyarısı tetiklenir ve bunun yerine amber renkli Firewall Shutoff Valve Fault mesajı görüntülenir. Engine Fire switch yine de CLOSED olarak aydınlanır."
   },
   {
     "id": "s09",
-    "title": "Master Caution and the amber Firewall Shutoff Valve Fauit me…",
+    "title": "Fuel Filter",
+    "title_tr": "Yakıt Filtresi",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "Beyond the Firewall Shutoff Valve is a fuel filter. This is referred to as the Airframe fuel filter. If the filter is dirty, fuel may bypass the filter element. In flight, a white FUEL FILTER message will be displayed. This changes to amber with the airplane on ground."
+    "caption_en": "Beyond the Firewall Shutoff Valve is a fuel filter. This is referred to as the Airframe fuel filter. If the filter is dirty, fuel may bypass the filter element. In flight, a white FUEL FILTER message will be displayed. This changes to amber with the airplane on ground.",
+    "caption_tr": "Firewall Shutoff Valve’den sonra bir yakıt filtresi bulunur. Buna Airframe fuel filter denir. Filtre kirli ise yakıt filtre elemanını bypass edebilir. Uçuş sırasında beyaz FUEL FILTER mesajı görüntülenir. Uçak yerdeyken bu mesaj amber renge döner."
   },
   {
     "id": "s10",
-    "title": "Beyond the Firewall Shutoff Valve is a fuel filter. This is …",
+    "title": "Low Fuel Pressure",
+    "title_tr": "Düşük Yakıt Basıncı",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "A pressure sensor warns of low fuel pressure to the engine fuel pump. A low fuel pressure will trigger Master Warning, the red FUEL PRESSURE LOW light on the crew-warning panel will illuminate and a flashing red Low Fuel Pressure message will be displayed on CAS."
+    "caption_en": "A pressure sensor warns of low fuel pressure to the engine fuel pump. A low fuel pressure will trigger Master Warning, the red FUEL PRESSURE LOW light on the crew-warning panel will illuminate and a flashing red Low Fuel Pressure message will be displayed on CAS.",
+    "caption_tr": "Bir basınç sensörü motor yakıt pompasına giden yakıt basıncının düşük olduğunu algılar ve uyarı verir. Düşük yakıt basıncı Master Warning’i tetikler, crew-warning panelindeki kırmızı FUEL PRESSURE LOW ışığı yanar ve CAS üzerinde yanıp sönen kırmızı Low Fuel Pressure mesajı görüntülenir."
   },
   {
     "id": "s11",
-    "title": "Fuel is supplied to the A-P-U by the right Standby pump. Ref…",
+    "title": "APU Fuel Supply",
+    "title_tr": "APU Yakıt Beslemesi",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Fuel is supplied to the A-P-U by the right Standby pump. Refer to the module on the A-P-U for a detailed explanation of the A-P-U fuel system. me Zan IN aa el mn wri",
-    "caption_tr": ""
+    "caption_tr": "APU’ya yakıt sağ Standby pompası tarafından sağlanır. APU yakıt sistemi hakkında ayrıntılı açıklama için APU modülüne bakınız."
   }
-]
+]  

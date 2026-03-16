@@ -1,34 +1,38 @@
 [
   {
     "id": "s01",
-    "title": "A ram air inlet near the left engine pylon leading edge vent…",
+    "title": "Ram Air Vent",
+    "title_tr": "Ram Air Havalandırma",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "A ram air inlet near the left engine pylon leading edge vents the fuel tanks to ambient.",
-    "caption_tr": ""
+    "caption_tr": "Sol motor pylonunun ön kenarı yakınında bulunan bir ram air girişi, yakıt tanklarını dış ortam basıncına havalandırır."
   },
   {
     "id": "s02",
-    "title": "The connecting pipe from the ram air inlet leads to a surge …",
+    "title": "Surge Tank",
+    "title_tr": "Surge Tankı",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The connecting pipe from the ram air inlet leads to a surge tank at the top of the fuselage tank. The surge tank minimises the possibility of fuel escaping through to the ram air inlet with aircraft maneuvers.",
-    "caption_tr": ""
+    "caption_tr": "Ram air girişinden gelen bağlantı borusu, gövde yakıt tankının üst kısmındaki surge tankına gider. Surge tankı, uçak manevraları sırasında yakıtın ram air girişinden dışarı çıkma olasılığını en aza indirir."
   },
   {
     "id": "s03",
-    "title": "Vent lines, open at both ends, connect the fuselage tank to …",
+    "title": "Vent Lines",
+    "title_tr": "Havalandırma Hatları",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Vent lines, open at both ends, connect the fuselage tank to the wing tanks. One open end is located near the top front of the fuselage tank. The other open end is located near the wing tip end of the wing tank.",
-    "caption_tr": ""
+    "caption_tr": "Her iki ucu da açık olan havalandırma hatları, gövde tankını kanat tanklarına bağlar. Açık uçlardan biri gövde tankının üst ön kısmında bulunur. Diğer açık uç ise kanat tankının kanat ucu tarafında yer alır."
   },
   {
     "id": "s04",
-    "title": "A relief valve inside the fuselage tank protects the tank fr…",
+    "title": "Relief Valve",
+    "title_tr": "Basınç Tahliye Vanası",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "A relief valve inside the fuselage tank protects the tank from damage in the event of vent line obstruction. A high internal tank pressure will be relieved through the flame arrester to ambient. A low internal tank pressure is relieved by allowing ambient air through the flame arrester into the tank.",
-    "caption_tr": ""
+    "caption_tr": "Gövde yakıt tankının içindeki bir relief valve, havalandırma hattının tıkanması durumunda tankı hasardan korur. Tank içindeki yüksek basınç, flame arrester üzerinden dış ortama tahliye edilir. Düşük tank içi basıncı ise flame arrester üzerinden tanka dış ortam havasının girmesine izin verilerek dengelenir."
   }
 ]

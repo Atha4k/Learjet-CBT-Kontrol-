@@ -1,34 +1,38 @@
 [
   {
     "id": "s01",
-    "title": "The aircraft has three fuel tanks. A flexible fuselage fuel …",
+    "title": "Fuel Tanks",
+    "title_tr": "Yakıt Tankları",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The aircraft has three fuel tanks. A flexible fuselage fuel tank is located behind the rear pressure bulkhead. This holds 2708 lbs of usable fuel. Each wing has an integral tank. RRight wing tank holds 1676 lbs Left wing tank holds 1678 lbs of usable fuel. The total usable fuel is approximately 6062 lbs.",
-    "caption_tr": ""
+    "caption_tr": "Uçakta üç yakıt tankı bulunur. Esnek bir gövde yakıt tankı arka basınç bölmesinin arkasında yer alır. Bu tank 2708 lb kullanılabilir yakıt kapasitesine sahiptir. Her kanatta birer integral yakıt tankı bulunur. Sağ kanat tankı 1676 lb, sol kanat tankı ise 1678 lb kullanılabilir yakıt kapasitesine sahiptir. Toplam kullanılabilir yakıt yaklaşık 6062 lb’dir."
   },
   {
     "id": "s02",
-    "title": "In the wing tanks, internal web-type ribs, known as baffle p…",
+    "title": "Baffle Plates",
+    "title_tr": "Baffle Plakaları",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "In the wing tanks, internal web-type ribs, known as baffle plates, separate the tank into compartments. They serve to limit fuel surging in the tanks when the aircraft deviates from straight and level flight.",
-    "caption_tr": ""
+    "caption_tr": "Kanat tanklarında baffle plakaları olarak bilinen iç web tipi kaburgalar, tankı bölmelere ayırır. Bunların görevi, uçak düz ve dengeli uçuş durumundan sapıldığında tank içindeki yakıtın dalgalanmasını sınırlamaktır."
   },
   {
     "id": "s03",
-    "title": "This is normally the lowest part of the tank and fuel for th…",
+    "title": "Collector Tank",
+    "title_tr": "Toplama Tankı",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "This is normally the lowest part of the tank and fuel for the engine is supplied from the collector tank. Fuel is able to flow from the outer compartments toward the collector tank through one-way check valves at the bottom of the baffie plates. Openings at the top of the baffle plates allow fuel to flow either towards the inboard or outboard ends of the tank.",
-    "caption_tr": ""
+    "caption_tr": "Bu genellikle tankın en düşük kısmıdır ve motor için yakıt collector tanktan sağlanır. Yakıt, baffle plakalarının alt kısmındaki tek yönlü çek valfler aracılığıyla dış bölmelerden collector tanka doğru akabilir. Baffle plakalarının üst kısmındaki açıklıklar ise yakıtın tankın içe veya dışa doğru akmasına izin verir."
   },
   {
     "id": "s04",
-    "title": "Drains for the fuel system are shown here for information. T…",
+    "title": "Fuel Drains",
+    "title_tr": "Yakıt Tahliyeleri",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Drains for the fuel system are shown here for information. The wing sump drains are accessible without the need to open access panels.",
-    "caption_tr": ""
+    "caption_tr": "Yakıt sistemi için tahliye noktaları burada bilgilendirme amacıyla gösterilmiştir. Kanat sump tahliyelerine erişim panellerini açmaya gerek kalmadan ulaşılabilir."
   }
 ]

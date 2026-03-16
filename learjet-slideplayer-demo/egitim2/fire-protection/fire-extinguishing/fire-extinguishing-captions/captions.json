@@ -1,73 +1,83 @@
 [
   {
     "id": "s01",
-    "title": "Two fire extinguishing bottles are located inside the tailco…",
+    "title": "Fire Bottles",
+    "title_tr": "Yangın Söndürme Şişeleri",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "Two fire extinguishing bottles are located inside the tailcone compartment. Each fire bottle is protected by a pressure relief disc. An abnormally high internal pressure will cause the disc to rupture. regen _ a aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "Two fire extinguishing bottles are located inside the tailcone compartment. Each fire bottle is protected by a pressure relief disc. An abnormally high internal pressure will cause the disc to rupture.",
+    "caption_tr": "İki adet yangın söndürme şişesi tailcone bölümünde bulunur. Her yangın söndürme şişesi bir pressure relief disc ile korunur. Anormal derecede yüksek iç basınç oluşması durumunda bu disk patlar."
   },
   {
     "id": "s02",
-    "title": "The fire extinguishing agent will then escape through a ther…",
+    "title": "Discharge Line",
+    "title_tr": "Boşaltma Hattı",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The fire extinguishing agent will then escape through a thermal discharge line. The line leads to outside the aircraft on the right rear fuselage and is capped with a red plastic disc. This red disc will be forced out as the extinguishant escapes to ambient. poy _ a aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "The fire extinguishing agent will then escape through a thermal discharge line. The line leads to outside the aircraft on the right rear fuselage and is capped with a red plastic disc. This red disc will be forced out as the extinguishant escapes to ambient.",
+    "caption_tr": "Yangın söndürme maddesi daha sonra bir thermal discharge hattı üzerinden dışarı atılır. Bu hat uçağın sağ arka gövdesinden dışarı çıkar ve kırmızı plastik bir disk ile kapatılmıştır. Söndürme maddesi dış ortama boşalırken bu kırmızı disk yerinden çıkar."
   },
   {
     "id": "s03",
-    "title": "Recall that following a fire warning and after canceling mas…",
+    "title": "Fire Indications",
+    "title_tr": "Yangın Göstergeleri",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "Recall that following a fire warning and after canceling master warning, these will be the indications. poy _ EY Ses aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "Recall that following a fire warning and after canceling master warning, these will be the indications.",
+    "caption_tr": "Bir yangın uyarısı sonrasında ve master warning iptal edildikten sonra görülecek göstergeler bunlardır."
   },
   {
     "id": "s04",
-    "title": "The procedure following a fire warning is to retard the thru…",
+    "title": "Fire Procedure",
+    "title_tr": "Yangın Prosedürü",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "The procedure following a fire warning is to retard the thrust lever to IDLE, and if the fire indications persist, to CUTOFF. The next step is to select the Engine Fire switch. The FIRE PUSH light of the fire switch will stop flashing and remain on steady. The word CLOSED will illuminate on the fire switch. The extinguisher switches will be armed and the ARMED light of both extinguisher switches will illuminate. pr _ a aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "The procedure following a fire warning is to retard the thrust lever to IDLE, and if the fire indications persist, to CUTOFF. The next step is to select the Engine Fire switch. The FIRE PUSH light of the fire switch will stop flashing and remain on steady. The word CLOSED will illuminate on the fire switch. The extinguisher switches will be armed and the ARMED light of both extinguisher switches will illuminate.",
+    "caption_tr": "Yangın uyarısından sonra uygulanacak prosedür thrust lever’ı IDLE konumuna çekmektir ve eğer yangın göstergeleri devam ederse CUTOFF konumuna getirilir. Sonraki adım Engine Fire switch’i seçmektir. Fire switch üzerindeki FIRE PUSH ışığı yanıp sönmeyi durdurur ve sabit yanar. Fire switch üzerinde CLOSED yazısı aydınlanır. Söndürücü switchleri arm edilir ve her iki extinguisher switch üzerindeki ARMED ışıkları yanar."
   },
   {
     "id": "s05",
-    "title": "For the affected engine, the engine fire switch disconnects …",
+    "title": "System Shutdown",
+    "title_tr": "Sistem Kapatma",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "For the affected engine, the engine fire switch disconnects the generator. It also disconnects the alternator. This cuts off windshield heat on that side. Bleed air supply is also cut off at the E-C-S shutoff valve. Fuel supply is cutoff at the Firewall shutoff valve. Hydraulic fluid to the hydraulic pump is cutoff by the pump shutoff valve, and the Thrust Reverser hydraulic supply is cut off at the thrust reverser Isolation Valve. peony _ EY Ses aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "For the affected engine, the engine fire switch disconnects the generator. It also disconnects the alternator. This cuts off windshield heat on that side. Bleed air supply is also cut off at the E-C-S shutoff valve. Fuel supply is cutoff at the Firewall shutoff valve. Hydraulic fluid to the hydraulic pump is cutoff by the pump shutoff valve, and the Thrust Reverser hydraulic supply is cut off at the thrust reverser Isolation Valve.",
+    "caption_tr": "Etkilenen motor için engine fire switch jeneratörü devreden çıkarır. Aynı zamanda alternatörü de devreden çıkarır. Bu işlem o taraftaki windshield ısıtmasını keser. Bleed air beslemesi E-C-S shutoff valve üzerinden kesilir. Yakıt beslemesi Firewall shutoff valve tarafından kesilir. Hidrolik pompasına giden hidrolik sıvı pump shutoff valve ile kesilir ve thrust reverser hidrolik beslemesi thrust reverser isolation valve tarafından kesilir."
   },
   {
     "id": "s06",
-    "title": "Extinguisher number one is discharged by selecting the numbe…",
+    "title": "Discharge Bottle",
+    "title_tr": "Söndürücü Boşaltma",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "Extinguisher number one is discharged by selecting the number one extinguisher armed switch. The word ARMED goes off to indicate that the switch has been operated. pn _ EY Ses aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "Extinguisher number one is discharged by selecting the number one extinguisher armed switch. The word ARMED goes off to indicate that the switch has been operated.",
+    "caption_tr": "Bir numaralı yangın söndürücü, number one extinguisher armed switch seçilerek boşaltılır. ARMED yazısının sönmesi, switch’in çalıştırıldığını gösterir."
   },
   {
     "id": "s07",
-    "title": "The contents of one fire extinguisher bottle will be dischar…",
+    "title": "Extinguisher Discharge",
+    "title_tr": "Söndürücü Deşarjı",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "The contents of one fire extinguisher bottle will be discharged into the space between the engine outer case and the engine cowling. A yellow plastic disc on the outside of the fuselage will be dislodged. ramon _ EY Ses aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "The contents of one fire extinguisher bottle will be discharged into the space between the engine outer case and the engine cowling. A yellow plastic disc on the outside of the fuselage will be dislodged.",
+    "caption_tr": "Bir yangın söndürücü şişesinin içeriği motor dış gövdesi ile motor cowling’i arasındaki boşluğa boşaltılır. Gövdenin dışındaki sarı plastik disk yerinden çıkar."
   },
   {
     "id": "s08",
-    "title": "Ses aa por - EE Ea wri",
+    "title": "Fire Persists",
+    "title_tr": "Yangın Devam Ediyor",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "If the FIRE PUSH light and the word FIRE on the ITT indicator is still illuminated, it indicates that the fire has not been put out."
+    "caption_en": "If the FIRE PUSH light and the word FIRE on the ITT indicator is still illuminated, it indicates that the fire has not been put out.",
+    "caption_tr": "Eğer FIRE PUSH ışığı ve ITT göstergesindeki FIRE yazısı hâlâ yanıyorsa bu yangının henüz söndürülmediğini gösterir."
   },
   {
     "id": "s09",
-    "title": "Extinguisher number two should then be discharged. The ARMED…",
+    "title": "Second Bottle",
+    "title_tr": "İkinci Söndürücü",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "Extinguisher number two should then be discharged. The ARMED light on extinguisher number two switch will go off. The FIRE PUSH light - and the word FIRE on the I-T-T indicator will also go off if the fire has been extinguished. pron _ a aa por - EE Ea wri",
-    "caption_tr": ""
+    "caption_en": "Extinguisher number two should then be discharged. The ARMED light on extinguisher number two switch will go off. The FIRE PUSH light - and the word FIRE on the I-T-T indicator will also go off if the fire has been extinguished.",
+    "caption_tr": "Daha sonra ikinci yangın söndürücü boşaltılmalıdır. İkinci extinguisher switch üzerindeki ARMED ışığı söner. Eğer yangın söndürülmüşse FIRE PUSH ışığı ve I-T-T göstergesindeki FIRE yazısı da söner."
   }
 ]

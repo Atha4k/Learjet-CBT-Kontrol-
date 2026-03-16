@@ -1,50 +1,56 @@
 [
   {
     "id": "s01",
-    "title": "Quantity probes inside all three tanks and level sensors in …",
+    "title": "Fuel Quantity Sensors",
+    "title_tr": "Yakıt Miktarı Sensörleri",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Quantity probes inside all three tanks and level sensors in the wing tanks provide fuel quantity information to a fuel quantity signal conditioner or fuel computer.",
-    "caption_tr": ""
+    "caption_tr": "Üç tankın içindeki quantity probeleri ve kanat tanklarındaki seviye sensörleri, yakıt miktarı bilgisini fuel quantity signal conditioner’a veya fuel computer’a gönderir."
   },
   {
     "id": "s02",
-    "title": "The fuel computer produces fuel quantity readings in EICAS. …",
+    "title": "Fuel Computer Display",
+    "title_tr": "Yakıt Bilgisayarı Göstergesi",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The fuel computer produces fuel quantity readings in EICAS. These show the quantity in each tank as well as the total quantity on board. The Fuel Computer also produces fuel quantity readings in EICAS or on the Fuel page. In addition, the fuel page has a reading to show the total fuel used. A Fuel Used Reset button on the control pedestal is used to reset the fuel used figure.",
-    "caption_tr": ""
+    "caption_tr": "Fuel computer, EICAS üzerinde yakıt miktarı göstergelerini üretir. Bu göstergeler her tanktaki yakıt miktarını ve uçaktaki toplam yakıt miktarını gösterir. Fuel Computer ayrıca EICAS veya Fuel sayfasında yakıt miktarı bilgisi sağlar. Fuel sayfasında ayrıca kullanılan toplam yakıt miktarını gösteren bir değer bulunur. Control pedestal üzerindeki Fuel Used Reset butonu kullanılan yakıt değerini sıfırlamak için kullanılır."
   },
   {
     "id": "s03",
-    "title": "Engine Page one, fuel quantity in each wing is displayed. po…",
+    "title": "Wing Fuel Display",
+    "title_tr": "Kanat Yakıt Göstergesi",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Engine Page one, fuel quantity in each wing is displayed.",
-    "caption_tr": ""
+    "caption_tr": "Engine Page 1 üzerinde her kanattaki yakıt miktarı görüntülenir."
   },
   {
     "id": "s04",
-    "title": "if signal inputs are not reliable or not available, fuel qua…",
+    "title": "Invalid Signals",
+    "title_tr": "Geçersiz Sinyaller",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "if signal inputs are not reliable or not available, fuel quantity figures will be replaced by amber dashes.",
-    "caption_tr": ""
+    "caption_tr": "Eğer sinyal girişleri güvenilir değilse veya mevcut değilse, yakıt miktarı değerleri amber çizgiler ile değiştirilir."
   },
   {
     "id": "s05",
-    "title": "When fuel quantity figures are replaced by amber dashes, the…",
+    "title": "Fuel Quantity Fault",
+    "title_tr": "Yakıt Miktarı Arızası",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "When fuel quantity figures are replaced by amber dashes, the total fuel figure may not be reliable. The Fuel Computer also provides messages to CAS and a white Fuel Quantity Fault message may be displayed on CAS.",
-    "caption_tr": ""
+    "caption_tr": "Yakıt miktarı değerleri amber çizgiler ile değiştirildiğinde toplam yakıt değeri güvenilir olmayabilir. Fuel Computer ayrıca CAS’e mesaj gönderir ve CAS üzerinde beyaz Fuel Quantity Fault mesajı görüntülenebilir."
   },
   {
     "id": "s06",
-    "title": "The fuel sensors in each wing provide inputs to the Fuel Com…",
+    "title": "Low Fuel Warning",
+    "title_tr": "Düşük Yakıt Uyarısı",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The fuel sensors in each wing provide inputs to the Fuel Computer, which gives a warming if the fuel quantity in a wing is below 360 lbs. This indicates fuel quantity in the left wing is less than 360 lbs.",
-    "caption_tr": ""
+    "caption_tr": "Her kanattaki yakıt sensörleri Fuel Computer’a veri gönderir ve bir kanattaki yakıt miktarı 360 lb’nin altına düştüğünde uyarı verir. Bu durumda sol kanattaki yakıt miktarının 360 lb’den az olduğunu gösterir."
   }
 ]

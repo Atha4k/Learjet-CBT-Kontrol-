@@ -10,21 +10,21 @@
   },
   {
     "id": "s02",
-    "title": "Selecting L BATT Powers Left Buses",
-    "title_tr": "L BATT Seçilince Sol Baralar Enerjilenir",
+    "title": "Selecting LEFT BATTERY Powers Left Buses",
+    "title_tr": "LEFT BATTERY Seçilince Sol Baralar Enerjilenir",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "Depressing the left battery switch-indicator (L BATT) to ON closes the left battery, left essential, and left main contactors on the ground, thereby powering the respective buses. The electrical control panel is now powered and the OFF captions on the SIs illuminate as shown.",
-    "caption_tr": "Sol batarya anahtarını (L BATT) ON konumuna almak, yerdeyken sol batarya, sol essential ve sol main kontaktörlerini kapatır ve ilgili baraları enerjiler. Bu noktada elektrik kontrol paneli de beslenir ve gösterildiği gibi bazı SI’larda OFF yazıları yanar."
+    "caption_en": "Depressing the left battery switch-indicator to ON closes the left battery, left essential, and left main contactors on the ground, thereby powering the respective buses. The electrical control panel is now powered and the OFF captions on the SIs illuminate as shown.",
+    "caption_tr": "Sol batarya anahtarını ON konumuna almak, yerdeyken sol batarya, sol essential ve sol main kontaktörlerini kapatır ve ilgili baraları enerjiler. Bu noktada elektrik kontrol paneli de beslenir ve gösterildiği gibi bazı SI’larda OFF yazıları yanar."
   },
   {
     "id": "s03",
-    "title": "Selecting R BATT Powers Right Buses",
-    "title_tr": "R BATT Seçilince Sağ Baralar Enerjilenir",
+    "title": "Selecting RIGHT BATTEERY Powers Right Buses",
+    "title_tr": "RIGHT BATTERY Seçilince Sağ Baralar Enerjilenir",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "Similarly, depressing the R BATT SI closes the right battery, right essential, and right main contactors and powers the buses as shown.",
-    "caption_tr": "Benzer şekilde R BATT SI seçildiğinde sağ batarya, sağ essential ve sağ main kontaktörleri kapanır ve gösterildiği gibi sağ taraftaki baralar enerjilenir."
+    "caption_en": "Similarly, depressing the RIGHT BATTERY SI closes the right battery, right essential, and right main contactors and powers the buses as shown.",
+    "caption_tr": "Benzer şekilde RIGHT BATTERY SI seçildiğinde sağ batarya, sağ essential ve sağ main kontaktörleri kapanır ve gösterildiği gibi sağ taraftaki baralar enerjilenir."
   },
   {
     "id": "s04",
@@ -131,8 +131,8 @@
     "title_tr": "Master Anahtarı ON",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "The master switch is already in the ON position.",
-    "caption_tr": "Master anahtarı zaten ON konumundadır."
+    "caption_en": "APU may be started if its generator is to be used, assuming the APU master switch is already switched to ON.",
+    "caption_tr": "APU master switch zaten ON konumundaysa, jeneratörünü kullanmak için APU başlatılabilir."
   },
   {
     "id": "s16",
@@ -329,7 +329,7 @@
     "title_tr": "Batarya Startı: Bus-Tie Kapanır",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
-    "caption_en": "During a battery start, the bus-tie closes to allow both main batteries to energize the right starter.",
+    "caption_en": "During a battery start, the bus-tie closes to allow both main batteries to energise the right starter.",
     "caption_tr": "Batarya startında bus-tie kapanır; böylece iki ana batarya birlikte sağ starter’ı besleyebilir."
   },
   {

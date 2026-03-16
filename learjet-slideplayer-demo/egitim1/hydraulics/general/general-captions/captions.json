@@ -1,106 +1,119 @@
 [
   {
     "id": "s01",
-    "title": "On the Learjet there are 2 hydraulic systems - the Main and …",
+    "title": "Overview of the Learjet Hydraulic Systems",
+    "title_tr": "Learjet Hidrolik Sistemlerine Genel Bakış",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "On the Learjet there are 2 hydraulic systems - the Main and the Auxiliary hydraulic systems. The Main hydraulic system is supplied by the 2 engine driven pumps (EDP). The Auxiliary hydraulic system is supplied by an electrical pump (AUX pump).",
-    "caption_tr": ""
+    "caption_tr": "Learjet üzerinde iki hidrolik sistem bulunmaktadır: Ana (Main) ve Yardımcı (Auxiliary) hidrolik sistemler. Ana hidrolik sistem, iki adet motor tahrikli pompa (EDP) tarafından beslenir. Yardımcı hidrolik sistem ise elektrikle çalışan bir pompa (AUX pump) tarafından beslenir."
   },
   {
     "id": "s02",
-    "title": "Some aircraft systems require hydraulic pressure to operate.…",
+    "title": "Aircraft Systems Powered by Hydraulics",
+    "title_tr": "Hidrolik Sistemle Çalışan Uçak Sistemleri",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Some aircraft systems require hydraulic pressure to operate. The aircraft systems that are hydraulically powered are the landing gears, flaps, spoilers, brakes and thrust reversers. The hydraulic system components are located above the tailcone baggage compartment.",
-    "caption_tr": ""
+    "caption_tr": "Bazı uçak sistemlerinin çalışması için hidrolik basınç gereklidir. Hidrolik güçle çalışan sistemler iniş takımları, flaplar, spoilerlar, frenler ve thrust reverser’lardır. Hidrolik sistem bileşenleri kuyruk konisi bagaj bölmesinin üstünde yer alır."
   },
   {
     "id": "s03",
-    "title": "The above schematic is the synoptic page found on the EICAS …",
+    "title": "Hydraulic System Synoptic Page",
+    "title_tr": "Hidrolik Sistem Synoptic Sayfası",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "The above schematic is the synoptic page found on the EICAS We will be using this schematic to describe the hydraulic system and the hydraulic system pressure flow.",
-    "caption_tr": ""
+    "caption_en": "The above schematic is the synoptic page found on the EICAS/MFD We will be using this schematic to describe the hydraulic system and the hydraulic system pressure flow.",
+    "caption_tr": "Yukarıdaki şema EICAS/MFD üzerinde bulunan synoptic sayfasıdır. Hidrolik sistemi ve hidrolik sistem basınç akışını açıklamak için bu şemayı kullanacağız."
   },
   {
     "id": "s04",
-    "title": "Control Panel This is located at the forward center instrume…",
+    "title": "Hydraulic System Control Panel",
+    "title_tr": "Hidrolik Sistem Kontrol Paneli",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Control Panel This is located at the forward center instrument panel. The switches associated with the hydraulic system on this panel are the auxiliary hydraulics (AUX and the hydraulic cross-flow XFLOW ) switches.",
-    "caption_tr": ""
+    "caption_tr": "Kontrol paneli, ön merkez enstrüman panelinde bulunur. Bu panelde hidrolik sistemle ilgili olan anahtarlar yardımcı hidrolik (AUX) ve hidrolik cross-flow (XFLOW) anahtarlarıdır."
   },
   {
     "id": "s05",
-    "title": "The circuit breakers for the hydraulic systems are found und…",
+    "title": "Hydraulic System Circuit Breakers",
+    "title_tr": "Hidrolik Sistem Devre Kesicileri",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The circuit breakers for the hydraulic systems are found under the section on the circuit breaker panel.",
-    "caption_tr": ""
+    "caption_tr": "Hidrolik sistemlere ait devre kesiciler, circuit breaker panelindeki ilgili bölümde bulunur."
   },
   {
     "id": "s06",
-    "title": "Hydraulic Reservoir A hydraulic reservoir is located above t…",
+    "title": "Hydraulic Reservoir Location and Function",
+    "title_tr": "Hidrolik Rezervuarın Konumu ve Görevi",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "Hydraulic Reservoir A hydraulic reservoir is located above the tailcone baggage compartment. This reservoir is partitioned into 2 sections.",
-    "caption_tr": ""
+    "caption_en": "Hydraulic Reservoir A hydraulic reservoir is located above the tailcone baggage compartment. This reservoir is partitioned into 2 sections. the larger section (Main) supplies hydrolic fluid to the 2 engine driven pumps (EDP).",
+    "caption_tr": "Hidrolik rezervuar, kuyruk konisi bagaj bölmesinin üzerinde bulunur. Bu rezervuar iki bölmeye ayrılmıştır. Daha büyük olan bölüm (Main), iki motor tahrikli pompaya (EDP) hidrolik sıvı sağlar."
   },
   {
     "id": "s07",
-    "title": "The smaller section (Auxiliary) supplies fluid to the auxili…",
+    "title": "Auxiliary Reservoir Section",
+    "title_tr": "Yardımcı Rezervuar Bölümü",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The smaller section (Auxiliary) supplies fluid to the auxiliary or AUX pump. The reservoir is pressurised by air tapped from the pneumatic manifold.",
-    "caption_tr": ""
+    "caption_tr": "Daha küçük olan bölüm (Auxiliary), yardımcı pompa yani AUX pompasına hidrolik sıvı sağlar. Rezervuar, pnömatik manifolddan alınan hava ile basınçlandırılır."
   },
   {
     "id": "s08",
-    "title": "It measures the fluid level which is indicated as OVERFULL, …",
+    "title": "Hydraulic Reservoir Level Indication",
+    "title_tr": "Hidrolik Rezervuar Seviye Göstergesi",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "It measures the fluid level which is indicated as OVERFULL, FULL or ADD. The OVERFULL, FULL and ADD levels are indicated by lights on the ground service panel",
-    "caption_tr": ""
+    "caption_tr": "Hidrolik sıvı seviyesini ölçer ve bu seviye OVERFULL, FULL veya ADD olarak gösterilir. OVERFULL, FULL ve ADD seviyeleri ground service panel üzerindeki ışıklarla gösterilir."
   },
   {
     "id": "s09",
-    "title": "Ground Service Panel The is located on the right side of the…",
+    "title": "Ground Service Panel Location",
+    "title_tr": "Ground Service Panelinin Konumu",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Ground Service Panel The is located on the right side of the fuselage, aft of the wing trailing edge. This panel is used by the maintenance crew for system servicing and for monitoring hydraulic quantity status.",
-    "caption_tr": ""
+    "caption_tr": "Ground Service Panel, gövdenin sağ tarafında kanadın arka kenarının arkasında bulunur. Bu panel bakım ekibi tarafından sistem servisi ve hidrolik sıvı miktarının izlenmesi için kullanılır."
   },
   {
     "id": "s10",
-    "title": "The servicing panel is covered except for a viewing window w…",
+    "title": "Reservoir Level Indicator Lights",
+    "title_tr": "Rezervuar Seviye Gösterge Işıkları",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The servicing panel is covered except for a viewing window which shows the 3 RESERVOIR level lights. The lights correspond to ADD, FULL and OVERFULL. The reservoir level quantities which correspond to the lights are as shown.",
-    "caption_tr": ""
+    "caption_tr": "Servis paneli kapalıdır ancak üç adet rezervuar seviye ışığını gösteren bir görüntü penceresi vardır. Bu ışıklar ADD, FULL ve OVERFULL seviyelerine karşılık gelir. Bu ışıklara karşılık gelen rezervuar seviyeleri gösterildiği gibidir."
   },
   {
     "id": "s11",
-    "title": "The is shown with its cover removed. During their exterior c…",
+    "title": "Exterior Check of Reservoir Level",
+    "title_tr": "Rezervuar Seviyesinin Dış Kontrolü",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The is shown with its cover removed. During their exterior checks, crew are to ensure that only the FULL light is illuminated.",
-    "caption_tr": ""
+    "caption_tr": "Panel kapağı çıkarılmış halde gösterilmektedir. Dış kontroller sırasında ekip, yalnızca FULL ışığının yandığından emin olmalıdır."
   },
   {
     "id": "s12",
-    "title": "If the ADD light is illuminated, the fluid level is at the l…",
+    "title": "ADD Level Indication",
+    "title_tr": "ADD Seviye Göstergesi",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "If the ADD light is illuminated, the fluid level is at the low ADD level.",
-    "caption_tr": ""
+    "caption_tr": "ADD ışığı yanıyorsa, hidrolik sıvı seviyesi düşük ADD seviyesindedir."
   },
   {
     "id": "s13",
-    "title": "If the OVER full light is illuminated, this means that the r…",
+    "title": "OVERFULL Reservoir Indication",
+    "title_tr": "OVERFULL Rezervuar Göstergesi",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "If the OVER full light is illuminated, this means that the reservoir is over-serviced. Crew should inform the maintenance crew to drain off the excess fluid.",
-    "caption_tr": ""
+    "caption_tr": "OVERFULL ışığı yanıyorsa, rezervuarın fazla doldurulduğu anlamına gelir. Mürettebat, fazla sıvının boşaltılması için bakım ekibini bilgilendirmelidir."
   }
 ]

@@ -1,42 +1,47 @@
 [
   {
     "id": "s01",
-    "title": "The 2 engine driven pumps (EDP) supply the main hydraulic sy…",
+    "title": "Engine Driven Pumps Supplying the Main Hydraulic System",
+    "title_tr": "Ana Hidrolik Sistemi Besleyen Motor Tahrikli Pompalar",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The 2 engine driven pumps (EDP) supply the main hydraulic system.",
-    "caption_tr": ""
+    "caption_tr": "İki adet motor tahrikli pompa (EDP), ana hidrolik sistemi besler."
   },
   {
     "id": "s02",
-    "title": "For training purposes, the main hydraulic system flow is ill…",
+    "title": "Main Hydraulic System Flow Indication",
+    "title_tr": "Ana Hidrolik Sistem Akış Göstergesi",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "For training purposes, the main hydraulic system flow is illustrated in green. If the engines are not running, the 2 EDP symbols are amber. Once the engines are started and when the hydraulic pressure is above psi, they will turn cyan.",
-    "caption_tr": ""
+    "caption_tr": "Eğitim amacıyla ana hidrolik sistem akışı yeşil renkle gösterilmiştir. Motorlar çalışmıyorsa iki EDP sembolü amber renkte görünür. Motorlar çalıştırıldıktan ve hidrolik basınç belirli bir psi değerinin üzerine çıktığında bu semboller cyan renge döner."
   },
   {
     "id": "s03",
-    "title": "Normal system pressure is psi. The main system pressure surg…",
+    "title": "Normal Hydraulic Pressure and Surge Accumulator",
+    "title_tr": "Normal Hidrolik Basınç ve Surge Akümülatörü",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "Normal system pressure is psi. The main system pressure surges produced by the 2 EDPs are absorbed by the surge accumulator to prevent damage to the hydraulic components.",
-    "caption_tr": ""
+    "caption_en": "Normal system pressure is 3000 psi. The main system pressure surges produced by the 2 EDPs are absorbed by the surge accumulator to prevent damage to the hydraulic components.",
+    "caption_tr": "Normal sistem basıncı 3000 psi'dir. İki EDP tarafından üretilen ana sistem basınç dalgalanmaları, hidrolik bileşenlerin zarar görmesini önlemek için surge akümülatörü tarafından emilir."
   },
   {
     "id": "s04",
-    "title": "The main system pressurises the thrust reversers, spoilers a…",
+    "title": "Main Hydraulic System Powered Components",
+    "title_tr": "Ana Hidrolik Sistemle Çalışan Bileşenler",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The main system pressurises the thrust reversers, spoilers and spoilerons. The landing gears and flaps are normally pressurised by the main system. If the main system pressure is low, the gear and flap systems can be pressurised by the auxiliary system via the hydraulic cross-flow valve.",
-    "caption_tr": ""
+    "caption_tr": "Ana sistem thrust reverser’ları, spoiler’ları ve spoileron’ları basınçlandırır. İniş takımları ve flaplar normalde ana sistem tarafından basınçlandırılır. Eğer ana sistem basıncı düşükse, iniş takımı ve flap sistemleri hidrolik cross-flow valfi aracılığıyla yardımcı sistem tarafından basınçlandırılabilir."
   },
   {
     "id": "s05",
-    "title": "The normal brake system is also pressurised by the main syst…",
+    "title": "Main System Supply for the Normal Brake System",
+    "title_tr": "Normal Fren Sisteminin Ana Sistem Tarafından Beslenmesi",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The normal brake system is also pressurised by the main system via a shuttle valve. This shuttle valve allows the auxiliary system to pressurise the brakes if the main system pressure is low. Normal braking is referred to as braking using the brake pedals.",
-    "caption_tr": ""
+    "caption_tr": "Normal fren sistemi de shuttle valfi aracılığıyla ana sistem tarafından basınçlandırılır. Eğer ana sistem basıncı düşükse bu shuttle valfi yardımcı sistemin frenleri basınçlandırmasına izin verir. Normal frenleme, fren pedalları kullanılarak yapılan frenlemedir."
   }
 ]

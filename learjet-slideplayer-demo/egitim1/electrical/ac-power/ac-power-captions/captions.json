@@ -14,8 +14,8 @@
     "title_tr": "Alternatörün Konumu ve Çıkışı",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The alternator is located in each engine and is mounted next to the starter-generator. It operates over the normal engine speed range and supplies up to 5 kVA single-phase AC power with variable frequency.",
-    "caption_tr": "Alternatör her motorda starter-jeneratörün yanında bulunur. Normal motor devir aralığında çalışır ve değişken frekansta maksimum 5 kVA tek fazlı AC güç sağlar."
+    "caption_en": "The alternator is located in each engine and is mounted next to the starter-generator. It operates from 6000-12000 rpm and supply to 200 volts at a maximum of 5KVA single phase output. The frequency varies between 200-400 Hz.",
+    "caption_tr": " Alternatör her motorda bulunur ve starter-generator’un yanında monte edilmiştir. 6000–12000 rpm arasında çalışır ve maksimum 5 KVA tek fazlı 200 volt çıkış sağlar. Frekans 200–400 Hz arasında değişir."
   },
   {
     "id": "s03",

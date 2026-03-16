@@ -52,8 +52,7 @@
     "title": "Select the master warning light to cancel the warning. ramon…",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "Select the master warning light to cancel the warning. ramon _ EY Ses aa a Me me wri",
-    "caption_tr": ""
+    "caption_en": "Select the master warning light to cancel the warning. Master warning lights extinguish, and the voice warning is cancelled. Note that the indications in the I-T-T indicator stop flashing but the Engine Fire switch remains flashing. Canceling master warning has no effect on the RMU indication. If the R-M-U was selected to monitor the engine, the word FIRE will remain on steady within the indicator, or the R-M-U, and the FIRE PUSH light on the engine fire switch will remain on flashing. pron _ a aa a Me me wri"
   },
   {
     "id": "s08",

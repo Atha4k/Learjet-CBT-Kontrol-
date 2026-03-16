@@ -23,7 +23,7 @@
     "title_tr": "Kokpit Anahtar Fonksiyonu",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "The COCKPIT switch controls the pilot’s overhead light provided the entry door is open and the pilot’s OVRHD rotary knob is in the OFF position.",
+    "caption_en": "The COCKPIT switch controls the pilot’s overhead light provided the entry door is open and the pilot’s OVERHEAD rotary knob is in the OFF position.",
     "caption_tr": "COCKPIT anahtarı, giriş kapısı açık ve pilotun OVRHD döner düğmesi OFF konumundayken pilot üst aydınlatmasını kontrol eder."
   },
   {
@@ -104,8 +104,8 @@
     "title_tr": "Emniyet Kemeri ve Sigara İçilmez İkazları",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "NO SMOKING and FASTEN SEAT BELT signs are controlled by a three-position switch on the cockpit LIGHTS panel.",
-    "caption_tr": "NO SMOKING ve FASTEN SEAT BELT ikazları, kokpitteki LIGHTS panelinde bulunan üç konumlu anahtar ile kontrol edilir."
+    "caption_en": "Control of the NO SMOKING/FASTEN SEAT BELT sign is through a switch located on the LIGHTS control panel in the cockpit. The switch has three positions: OFF-BELTS--NO SMOKING/BELTS.",
+    "caption_tr": "NO SMOKING / FASTEN SEAT BELT işaretlerinin kontrolü, kokpitte bulunan LIGHTS kontrol panelindeki bir anahtar aracılığıyla yapılır. Anahtarın üç konumu vardır: OFF – BELTS – NO SMOKING/BELTS."
   },
   {
     "id": "s13",

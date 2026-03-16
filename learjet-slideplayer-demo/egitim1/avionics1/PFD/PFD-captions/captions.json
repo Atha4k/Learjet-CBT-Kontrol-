@@ -23,7 +23,7 @@
     "title_tr": "Hava Hızı Göstergesi",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "One of the display groups on the PFD is the airspeed display.",
+    "caption_en": "PFD screen is devided into the following groups: airspeed display, autopilot and flight director mode annunciations, attitude director indicator display, attitude display, horizontal situation indicator, vertical speed display.",
     "caption_tr": "PFD üzerindeki görüntü gruplarından biri hava hızı göstergesidir."
   },
   {
@@ -41,7 +41,7 @@
     "title_tr": "ADI Ekranı",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "The PFD also includes the Attitude Director Indicator (ADI) display along with airspeed and mode annunciations.",
+    "caption_en": "The PFD also includes the Attitude Director Indicator (ADI) display.",
     "caption_tr": "PFD; hava hızı ve mod duyurularına ek olarak Tutum Direktörü Göstergesi (ADI) ekranını da içerir."
   },
   {
@@ -104,7 +104,7 @@
     "title_tr": "Roll Ölçeği",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "The ADI sphere includes the roll attitude scale and roll pointer in addition to pitch information.",
+    "caption_en": "The ADI sphere includes the roll attitude scale and roll pointer.",
     "caption_tr": "ADI küresi, pitch bilgilerine ek olarak roll tutum ölçeği ve roll işaretçisini içerir."
   },
   {

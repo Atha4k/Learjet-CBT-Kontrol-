@@ -14,5 +14,13 @@
     "audioSrc": "audio/s02.mp3",
     "caption_en": "While overspeed protection is active, the selected FD modes are unaffected and the MAX annunciation is displayed in amber on the left side of ADI.",
     "caption_tr": ""
+  },
+  {
+    "id": "s03",
+    "title": "Once the predicted overspeed condition is corrected…",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "Once the predicted overspeed condition is corrected, the FD reverts to the mode selected prior to activation of the MAX SPD annunciation.",
+    "caption_tr": ""
   }
 ]

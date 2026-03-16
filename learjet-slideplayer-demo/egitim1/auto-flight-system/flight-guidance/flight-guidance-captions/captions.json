@@ -4,7 +4,7 @@
     "title": "Depressing the knob will synchronize the bug on PFDs and to …",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "Depressing the knob will synchronize the bug on PFDs and to the aircraft heading. Touch the knob to simulate that.",
+    "caption_en": "Depressing the knob will synchronize the bug on PFDs and to the aircraft heading.",
     "caption_tr": ""
   },
   {
@@ -12,7 +12,7 @@
     "title": "Let's examine the various features on the",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "Let's examine the various features on the",
+    "caption_en": "Let's examine the various features on the flight guidance controller.",
     "caption_tr": ""
   },
   {
@@ -44,7 +44,7 @@
     "title": "Suppose the airplane is at the position as shown. It is trac…",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "Suppose the airplane is at the position as shown. It is tracking to intercept on the course of radial of a VOR station. Now touch the 1 button to simulate pushing.",
+    "caption_en": "Suppose the airplane is at the position as shown. It is tracking to intercept on the course of 090 of a VOR station.",
     "caption_tr": ""
   },
   {
@@ -76,7 +76,7 @@
     "title": "Depressing the knob will synchronize the bug on PFDs and to …",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "Depressing the knob will synchronize the bug on PFDs and to the aircraft heading. Touch the knob to simulate that.",
+    "caption_en": "Depressing the heading knob will synchronize the heading bug on PFDs and to the aircraft heading.",
     "caption_tr": ""
   },
   {
@@ -100,7 +100,7 @@
     "title": "The roll mode consist of the following buttons: NAV, APP, an…",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
-    "caption_en": "The roll mode consist of the following buttons: NAV, APP, and",
+    "caption_en": "The roll mode consist of the following buttons: heading NAV, APPROACH, and BANK.",
     "caption_tr": ""
   },
   {
@@ -116,7 +116,7 @@
     "title": "The pitch mode consist of the following buttons: ALT, and, A…",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "The pitch mode consist of the following buttons: ALT, and, ASEL.",
+    "caption_en": "The pitch mode consist of the following buttons: SPEED, FLIGHT LEVEL CHANGE, VERTİCAL SPEED,VNAV, ALLTİTUDE HOLD and ALLTİTUDE SELECT.",
     "caption_tr": ""
   },
   {

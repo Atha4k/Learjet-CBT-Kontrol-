@@ -113,8 +113,8 @@
     "title_tr": "Motor Çalıştırma Sırasında Elektriksel Koruma",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
-    "caption_en": "Before engine start, avionics buses are temporarily depowered and emergency battery supplies essential systems to prevent voltage spikes.",
-    "caption_tr": "Motor çalıştırma öncesinde voltaj dalgalanmalarını önlemek için avionics buslar geçici olarak enerjisiz bırakılır ve essential sistemler acil batarya ile beslenir."
+    "caption_en": "To prevent voltage spiking caused by the right engine starter drawing large amounts of current from the GPU, the following changes occur to the electrical circuit prior to starter engagement. 1) If the AV MSTR S/ls are selected ON, the main avionics contactors will open to depower the main avionics buses. 2) Lisolation contactors close, and L and R essential contactors open. The result is that the emergency battery provides power to essential and essential avionics buses through the emergency battery bus.",
+    "caption_tr": "Sağ motor starter’ının GPU’dan yüksek akım çekip voltaj dalgalanmasına neden olmasını önlemek için, starter devreye girmeden önce elektrik sisteminde bazı değişiklikler yapılır. AV MSTR switchleri ON ise, ana avionics kontaktörleri açılır ve ana avionics bus’larının gücü kesilir. L isolation kontaktörleri kapanır, L ve R essential kontaktörleri açılır."
   },
   {
     "id": "s14",
@@ -122,8 +122,8 @@
     "title_tr": "Voltaj Dalgalanması Koruması",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
-    "caption_en": "This electrical protection ensures continuous power to sensitive equipment and prevents damage from voltage spikes.",
-    "caption_tr": "Bu elektriksel koruma, hassas ekipmanlara sürekli güç sağlar ve voltaj dalgalanmalarından kaynaklanabilecek hasarları önler."
+    "caption_en": "These changes in the electrical circuit ensure power is always available to voltage sensitive equipment during engine start. It eliminates voltage spiking which can be damaging to the equipment if this is allowed to occur. This protective feature, however, does not apply to wind-milling start, as starter is not used to turn the engine.",
+    "caption_tr": "Elektrik devresindeki bu değişiklikler, motor çalıştırma sırasında voltaja hassas ekipmanlara her zaman güç sağlanmasını garanti eder. Böylece ekipmana zarar verebilecek voltaj dalgalanmaları (spikes) önlenir. Ancak bu koruma wind-milling start için geçerli değildir, çünkü bu durumda motoru döndürmek için starter kullanılmaz. "
   },
   {
     "id": "s15",
@@ -158,8 +158,8 @@
     "title_tr": "Çift Jeneratör Arızası",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "When both generators fail, main and avionics buses are shed in addition to non-essential buses. Some buses may still be recoverable.",
-    "caption_tr": "Her iki jeneratör de arızalandığında non-essential buslara ek olarak main ve avionics buslar da devreden çıkarılır; bazı buslar tekrar kazanılabilir."
+    "caption_en": "When both generators fail, in addition to the non-essential buses being shed, the main and main avionics buses are also shed. Under this condition, the non-essential buses cannot be restored although it is possible to recover main and main avionica buses.",
+    "caption_tr": "Her iki generator da arızalandığında, non-essential bus’lara ek olarak main ve main avionics bus’ları da devreden çıkarılır (shed edilir). Bu durumda non-essential bus’lar geri getirilemez, ancak main ve main avionics bus’larının tekrar çalıştırılması mümkündür."
   },
   {
     "id": "s19",

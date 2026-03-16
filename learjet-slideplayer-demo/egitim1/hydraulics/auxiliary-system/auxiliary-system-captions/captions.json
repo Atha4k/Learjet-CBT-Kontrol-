@@ -1,114 +1,128 @@
 [
   {
     "id": "s01",
-    "title": "For training purposes, the auxiliary hydraulic flow is illus…",
+    "title": "Auxiliary Hydraulic Flow Overview",
+    "title_tr": "Yardımcı Hidrolik Akış Genel Bakış",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "For training purposes, the auxiliary hydraulic flow is illustrated in pink. Fluid from the auxiliary reservoir section flows to the auxiliary hydraulic pump (AUX Pump). This is an electrically driven pump.",
-    "caption_tr": ""
+    "caption_tr": "Eğitim amaçlı olarak yardımcı hidrolik akışı pembe renkle gösterilmiştir. Yardımcı rezervuar bölümünden gelen sıvı, yardımcı hidrolik pompaya (AUX Pump) akar. Bu pompa elektrikle çalışan bir pompadır."
   },
   {
     "id": "s02",
-    "title": "The AUX pump is located in the tailcone section, above the b…",
+    "title": "Location and Performance of the AUX Pump",
+    "title_tr": "AUX Pompasının Konumu ve Performansı",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The AUX pump is located in the tailcone section, above the baggage compartment. itis powered by the DC Left ESS bus and produces psi at 1 gallon per minute. If the pump runs continuously for more than twenty minutes, its output automatically decreases to gpm at psi to prevent pump overheating.",
-    "caption_tr": ""
+    "caption_en": "The AUX pump is located in the tailcone section, above the baggage compartment. It is powered by the 28V DC Left ESSENTIAL bus and produces 3000 psi at 1 gallon per minute. If the pump runs continuously for more than twenty minutes, its output automatically decreases to 0.75 gpm at 2850 psi to prevent pump overheating.",
+    "caption_tr": "AUX pompası, kuyruk konisi bölümünde bagaj bölmesinin üstünde yer alır. 28V DC Left ESSENTIAL bus tarafından beslenir ve dakikada 1 galon akışla 3000 psi basınç üretir. Pompa yirmi dakikadan fazla sürekli çalışırsa, aşırı ısınmayı önlemek için çıkışı otomatik olarak 2850 psi basınçta 0.75 gpm’ye düşer."
   },
   {
     "id": "s03",
-    "title": "The AUX pump can be activated manually or automatically. To …",
+    "title": "Manual Operation of the AUX Pump",
+    "title_tr": "AUX Pompasının Manuel Çalıştırılması",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "The AUX pump can be activated manually or automatically. To manually start the pump, press the AUX switch.",
-    "caption_tr": ""
+    "caption_en": "The AUX pump can be activated manually or automatically. To manually start the pump, press the AUX HYD switch. An ON light on the switch illuminates and the pump runs. Pressing the switch again stops the pump and the ON light extinguishes.",
+    "caption_tr": "AUX pompası manuel veya otomatik olarak devreye alınabilir. Pompayı manuel olarak çalıştırmak için AUX HYD anahtarına basın. Anahtar üzerindeki ON ışığı yanar ve pompa çalışır. Anahtara tekrar basıldığında pompa durur ve ON ışığı söner."
   },
   {
     "id": "s04",
-    "title": "The Automatic activation is as follows: - - The pump is norm…",
+    "title": "Automatic Activation Before and After Takeoff",
+    "title_tr": "Kalkış Öncesi ve Sonrası Otomatik Aktivasyon",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "The Automatic activation is as follows: - - The pump is normally off when the aircraft is first powered up. - Prior to takeoff, it is manually switched on as a back up to the normal brakes.",
-    "caption_tr": ""
+    "caption_en": "The Automatic activation is as follows: - • The pump is normally off when the aircraft is first powered up. • Prior to takeoff, it is manually switched on as a back up to the normal brakes. • After takeoff, placing the gear control switch UP stops the pump operation.",
+    "caption_tr": "Otomatik aktivasyon şu şekilde gerçekleşir: • Uçağa ilk enerji verildiğinde pompa normalde kapalıdır. • Kalkıştan önce normal frenlere yedek olarak manuel şekilde açılır. • Kalkıştan sonra iniş takımı kontrol anahtarı UP konumuna getirildiğinde pompa çalışması durur."
   },
   {
     "id": "s05",
-    "title": "In cruise, the pump can be manually activated anytime if des…",
+    "title": "Pump Operation During Cruise and Shutdown",
+    "title_tr": "Seyir ve Kapatma Sırasında Pompa Çalışması",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "In cruise, the pump can be manually activated anytime if desired. - Placing the gear control switch to Down automatically starts the pump again. - At shutdown, the pump stops if it is manually switched off or when electrical power is removed.",
-    "caption_tr": ""
+    "caption_tr": "Seyir sırasında pompa istenildiği zaman manuel olarak çalıştırılabilir. İniş takımı kontrol anahtarının Down konumuna getirilmesi pompayı otomatik olarak tekrar çalıştırır. Uçak kapatıldığında pompa manuel olarak kapatılırsa veya elektrik gücü kesildiğinde durur."
   },
   {
     "id": "s06",
-    "title": "The auxiliary hydraulic system provides a backup for the nor…",
+    "title": "Backup Function for the Normal Brakes",
+    "title_tr": "Normal Frenler İçin Yedek Sistem",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "The auxiliary hydraulic system provides a backup for the normal brakes. If the main hydraulic system pressure is low, the auxiliary hydraulic system automatically takes over via the shuttle valve.",
-    "caption_tr": ""
+    "caption_en": "The auxiliary hydraulic system provides a backup for the normal brakes. If the main hydraulic system pressure is low, the auxiliary hydraulic system automatically takes over via the shuttle valve. Normal brakes is when braking is accomplished via the brake padels.",
+    "caption_tr": "Yardımcı hidrolik sistem, normal frenler için bir yedek sağlar. Ana hidrolik sistem basıncı düşükse, yardımcı hidrolik sistem shuttle valfi aracılığıyla otomatik olarak devreye girer. Normal frenleme, fren pedalları kullanılarak yapılan frenlemedir."
   },
   {
     "id": "s07",
-    "title": "The auxiliary hydraulic system also charges the brake accumu…",
+    "title": "Brake Accumulator Charging",
+    "title_tr": "Fren Akümülatörünün Şarj Edilmesi",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "The auxiliary hydraulic system also charges the brake accumulator.",
-    "caption_tr": ""
+    "caption_en": "The auxiliary hydraulic system also charges the brake accumulator. The brake accumulator's function is to provide hydraulic pressure for emergency brake and parking brake operations. A fully charged accumulator provides at least 6 emergency brake applications and holds the parking brake pressure for 48 hours.",
+    "caption_tr": "Yardımcı hidrolik sistem ayrıca fren akümülatörünü de şarj eder. Fren akümülatörünün görevi acil fren ve park freni operasyonları için hidrolik basınç sağlamaktır. Tam şarjlı bir akümülatör en az 6 acil fren uygulaması sağlar ve park freni basıncını 48 saat boyunca tutar."
   },
   {
     "id": "s08",
-    "title": "The emergency brake and parking brake operations will be cov…",
+    "title": "Emergency and Parking Brake Operations",
+    "title_tr": "Acil Fren ve Park Freni Operasyonları",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The emergency brake and parking brake operations will be covered in the Landing Gear section.",
-    "caption_tr": ""
+    "caption_tr": "Acil fren ve park freni operasyonları iniş takımı bölümünde ele alınacaktır."
   },
   {
     "id": "s09",
-    "title": "The auxiliary hydraulic system can be used to operate the th…",
+    "title": "Ground Maintenance Hydraulic Operation",
+    "title_tr": "Yer Bakımı İçin Hidrolik Sistem Kullanımı",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The auxiliary hydraulic system can be used to operate the thrust reversers, spoilers, landing gears and flaps during ground maintenance. This is done by opening the Ground Service Valve located on the This enables these systems to be tested without starting the engines.",
-    "caption_tr": ""
+    "caption_tr": "Yardımcı hidrolik sistem, yer bakım işlemleri sırasında thrust reverser’ları, spoiler’ları, iniş takımlarını ve flapları çalıştırmak için kullanılabilir. Bu işlem Ground Service Valve açılarak yapılır. Bu sayede motorları çalıştırmadan bu sistemlerin test edilmesi mümkün olur."
   },
   {
     "id": "s10",
-    "title": "The auxiliary system is also used as a back up to the landin…",
+    "title": "Backup for Landing Gear and Flap Operations",
+    "title_tr": "İniş Takımı ve Flap Operasyonları İçin Yedek Sistem",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The auxiliary system is also used as a back up to the landing gear and flap operations via the hydraulic cross flow valve X FLOW). We will use this method if the main hydraulic system pressure is too low to operate the flaps and gears.",
-    "caption_tr": ""
+    "caption_tr": "Yardımcı sistem ayrıca hidrolik cross flow valfi (X FLOW) aracılığıyla iniş takımı ve flap operasyonları için yedek olarak kullanılır. Ana hidrolik sistem basıncı flap ve iniş takımlarını çalıştırmak için çok düşük olduğunda bu yöntem kullanılır."
   },
   {
     "id": "s11",
-    "title": "Hydraulic Cross Flow Valve To open the valve, push the XFLOW…",
+    "title": "Hydraulic Cross Flow Valve Operation",
+    "title_tr": "Hidrolik Cross Flow Valfi Çalışması",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Hydraulic Cross Flow Valve To open the valve, push the XFLOW switch. An ON light on the switch illuminates together with an advisory CAS message XFLOW ON.",
-    "caption_tr": ""
+    "caption_tr": "Hidrolik Cross Flow Valfi: Valfi açmak için XFLOW anahtarına basın. Anahtar üzerindeki ON ışığı yanar ve aynı zamanda CAS ekranında XFLOW ON uyarı mesajı görüntülenir."
   },
   {
     "id": "s12",
-    "title": "The XFLOW valve automatically closes if the auxiliary reserv…",
+    "title": "Automatic Closure of the XFLOW Valve",
+    "title_tr": "XFLOW Valfinin Otomatik Kapanması",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The XFLOW valve automatically closes if the auxiliary reservoir quantity depletes to a low level during a hydraulic cross-flow operation. This is to conserve the remaining auxiliary fluid for the emergency brake system. When this occurs, both the ON light and the CAS message will extinguish.",
-    "caption_tr": ""
+    "caption_tr": "Hidrolik cross-flow işlemi sırasında yardımcı rezervuar seviyesi düşük bir seviyeye düşerse XFLOW valfi otomatik olarak kapanır. Bu işlem, kalan yardımcı hidrolik sıvısını acil fren sistemi için korumak amacıyla yapılır. Bu durumda hem ON ışığı hem de CAS mesajı söner."
   },
   {
     "id": "s13",
-    "title": "We will now demonstrate the automatic auxiliary pump operati…",
+    "title": "Automatic AUX Pump Operation During Gear Retraction",
+    "title_tr": "İniş Takımı Toplama Sırasında AUX Pompasının Otomatik Çalışması",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "We will now demonstrate the automatic auxiliary pump operation during a gear retraction.",
-    "caption_tr": ""
+    "caption_tr": "Şimdi iniş takımı toplama sırasında yardımcı pompanın otomatik çalışmasını göstereceğiz."
   },
   {
     "id": "s14",
-    "title": "We will now demonstrate the automatic auxiliary pump operati…",
+    "title": "Automatic AUX Pump Operation During Gear Extension",
+    "title_tr": "İniş Takımı Açma Sırasında AUX Pompasının Otomatik Çalışması",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "We will now demonstrate the automatic auxiliary pump operation during a gear extension.",
-    "caption_tr": ""
+    "caption_tr": "Şimdi iniş takımı açma sırasında yardımcı pompanın otomatik çalışmasını göstereceğiz."
   }
 ]

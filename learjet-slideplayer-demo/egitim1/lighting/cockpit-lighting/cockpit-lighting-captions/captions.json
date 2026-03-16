@@ -23,7 +23,7 @@
     "title_tr": "Mürettebat Tavan Lambaları",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "The crew overhead lights are controlled by their respective OVRHD control knobs. These overhead lights are powered by the right main bus.",
+    "caption_en": "The crew overhead lights are controlled by their respective OVERHEAD control knobs. These overhead lights are powered by the right main bus.",
     "caption_tr": "Mürettebat tavan lambaları kendi OVRHD kontrol düğmeleri ile kumanda edilir. Bu lambalar sağ ana baradan beslenir."
   },
   {
@@ -50,7 +50,7 @@
     "title_tr": "Giriş Panelinden Tavan Lambası Çalışması",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "For the overhead light to operate using the COCKPIT switch on the Entryway Control Panel, two conditions must be met: the entry door must be unlatched and the pilot’s OVRHD knob must be in the OFF position. In this case, power is supplied from the right hot bus.",
+    "caption_en": "For the overhead light to operate using the COCKPIT switch on the Entryway Control Panel, two conditions must be met: the entry door must be unlatched and the pilot’s OVERHEAD knob must be in the OFF position. In this case, power is supplied from the right hot bus.",
     "caption_tr": "Giriş Kontrol Panelindeki COCKPIT anahtarıyla tavan lambasının çalışabilmesi için giriş kapısı kilitsiz olmalı ve pilotun OVRHD düğmesi OFF konumunda olmalıdır. Bu durumda güç sağ hot baradan alınır."
   },
   {
@@ -68,7 +68,7 @@
     "title_tr": "Gösterge Paneli Aydınlatması",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "The pilot’s and co-pilot’s instrument panel lighting is controlled using the INSTR rheostat. The panels are grouped as illustrated and receive power from their respective main buses.",
+    "caption_en": "The pilot’s and co-pilot’s instrument panel lighting is controlled using the INSTRUMENT rheostat. The panels are grouped as illustrated and receive power from their respective main buses.",
     "caption_tr": "Pilot ve yardımcı pilot gösterge paneli aydınlatması INSTR reostası ile kontrol edilir. Paneller gösterildiği şekilde gruplandırılmıştır ve kendi ana baralarından beslenir."
   },
   {
@@ -149,7 +149,7 @@
     "title_tr": "Güç Beslemesindeki İstisnalar",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
-    "caption_en": "Exceptions include the RAD HOT BUS switch-indicator, which is powered by the right hot bus, and the MASTER WARN/CAUT and FIRE PUSH switches, which are powered through the crew warning panel.",
+    "caption_en": "Exceptions include the RADIO HOT BUS switch-indicator, which is powered by the right hot bus, and the MASTER WARNING/CAUTION and FIRE PUSH switches, which are powered through the crew warning panel.",
     "caption_tr": "RAD HOT BUS anahtarı sağ hot baradan beslenir. MASTER WARN/CAUT ve FIRE PUSH anahtarları ise mürettebat uyarı paneli üzerinden beslenir."
   },
   {
@@ -167,7 +167,7 @@
     "title_tr": "Anahtar-Gösterge Lamba Testi",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
-    "caption_en": "The switch-indicator lamp test is initiated by selecting the system test knob and pressing the PRESS-TO-TEST button on the center pedestal.",
+    "caption_en": "The switch-indicator light test is initiated by selecting the system test knob and pressing the PRESS-TO-TEST button on the center pedestal.",
     "caption_tr": "Anahtar-gösterge lamba testi, orta konsoldaki sistem test düğmesi seçilerek ve PRESS-TO-TEST tuşuna basılarak başlatılır."
   },
   {
@@ -176,7 +176,7 @@
     "title_tr": "Tüm Göstergelerin Testi",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
-    "caption_en": "Pressing the test button illuminates all switch-indicators, including the RAD HOT BUS indicator, as well as all crew warning panel lights, MASTER WARN/CAUT and FIRE PUSH indicators.",
+    "caption_en": "Pressing the test button illuminates all switch-indicators, including the RADIO HOT BUS indicator, as well as all crew warning panel lights, MASTER WARNING/CAUTION and FIRE PUSH indicators.",
     "caption_tr": "Test tuşuna basıldığında RAD HOT BUS dahil tüm anahtar-göstergeler, mürettebat uyarı paneli ışıkları, MASTER WARN/CAUT ve FIRE PUSH göstergeleri yanar."
   }
 ]

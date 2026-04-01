@@ -41,8 +41,8 @@
     "title_tr": "Varsayılan Kapalı",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "This function is set to OFF by default at power-up.",
-    "caption_tr": "Bu fonksiyon sistem açılışında varsayılan olarak kapalıdır."
+    "caption_en": "WX button allows crew to select or deselect weather radar display on the PFD when compass format is partial compass arc or map. Power-up default is off.",
+    "caption_tr": "WX tuşu, pusula formatı kısmi pusula yayı veya harita olduğunda mürettebata hava radarı ekranını seçme veya kaldırma imkanı sunar. Sistem açılışında varsayılan ayar kapalıdır."
   },
   {
     "id": "s06",
@@ -59,8 +59,8 @@
     "title_tr": "Harita Kısıtı",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "Map display cannot be selected on one side if it is already displayed on the opposite side.",
-    "caption_tr": "Harita ekranı, karşı tarafta zaten gösteriliyorsa aynı tarafta seçilemez."
+    "caption_en": "Please take note that map display cannot be selected on the PFD if MFD, which is already displaying map, is on the same side. For this reasgn, on the co-pilot's side, map display is not available because MFD is normally displayed on DU 3.",
+    "caption_tr": "Lütfen dikkat edin, eğer aynı tarafta zaten harita gösteren bir MFD varsa, PFD’de harita görüntüsü seçilemez. Bu nedenle, yardımcı pilot tarafında, MFD normalde DU 3’te gösterildiği için harita görüntüsü kullanılamaz."
   },
   {
     "id": "s08",
@@ -68,8 +68,8 @@
     "title_tr": "INU Genel Bakış",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "Each Integrated Navigation Unit (INU) contains VOR, localizer, glideslope, marker beacon, ADF and DME receiver modules.",
-    "caption_tr": "Her Entegre Navigasyon Ünitesi (INU); VOR, localizer, glideslope, marker beacon, ADF ve DME alıcı modüllerini içerir."
+    "caption_en": "Before we proceed to talk about NAV button, let us focus our attention on a radio component, the Integrated Navigation Unit (INU). There are two INUs, INU 1 and INU 2. Residing inside each INU are the VOR, localizer, glideslope and marker beacon receiver module, automatic directional finder (ADF) and distance measurement equipment (DME). ",
+    "caption_tr": "NAV butonundan bahsetmeden önce, dikkatimizi bir radyo bileşeni olan Entegre Navigasyon Ünitesi (INU) üzerine odaklayalım. İki adet INU bulunmaktadır: INU 1 ve INU 2. Her bir INU’nun içinde; VOR, localizer, glideslope ve marker beacon alıcı modülü, otomatik yön bulucu (ADF) ve mesafe ölçüm ekipmanı (DME) yer alır."
   },
   {
     "id": "s09",
@@ -77,8 +77,8 @@
     "title_tr": "NAV Kaynağı",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "At power-up, each PFD uses its on-side navigation receiver. Independent navigation sources are displayed in green.",
-    "caption_tr": "Sistem açılışında her PFD kendi tarafındaki navigasyon alıcısını kullanır. Bağımsız kaynaklar yeşil renkte gösterilir."
+    "caption_en": "On power up, the navigation source displayed on the PFD is always from the on-side NAV receiver. Therefore, the navigation source annunciated on the pilot's is VOR/LOC/ILS 1, while the co-pilot's navigation source is VOR/LOC/ILS 2. When independent navigation sources are used, the navigation source, DME distance, desired course, course pointer and deviation bar are green in colour. ",
+    "caption_tr": "Sistem açıldığında, PFD üzerinde gösterilen navigasyon kaynağı her zaman ilgili taraftaki (on-side) NAV alıcısından gelir. Buna göre pilotun navigasyon kaynağı VOR/LOC/ILS 1, yardımcı pilotun (co-pilot) navigasyon kaynağı ise VOR/LOC/ILS 2 olarak gösterilir. Bağımsız navigasyon kaynakları kullanıldığında; navigasyon kaynağı, DME mesafesi, istenen rota (desired course), rota göstergesi (course pointer) ve sapma çubuğu (deviation bar) yeşil renkte görüntülenir."
   },
   {
     "id": "s10",
@@ -86,8 +86,8 @@
     "title_tr": "Çapraz Seçim",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "Selecting the same navigation source on both PFDs results in amber-colored navigation data.",
-    "caption_tr": "Her iki PFD’de aynı navigasyon kaynağı seçildiğinde bilgiler amber renkte gösterilir."
+    "caption_en": "Pushing pilot's NAV button changes pilot navigation source from VOR 1 to VOR 2. Both PFDs are now displaying navigation data from one common NAV receiver and therefore, the navigation information displayed on both aides are amber.",
+    "caption_tr": "Pilotun NAV butonuna basmak, pilotun navigasyon kaynağını VOR 1’den VOR 2’ye değiştirir. Her iki PFD artık tek bir ortak NAV alıcısından gelen navigasyon verilerini gösterdiği için, her iki yardımcıda da navigasyon bilgileri amber renkte görüntülenir."
   },
   {
     "id": "s11",
@@ -95,8 +95,8 @@
     "title_tr": "NAV Esnekliği",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
-    "caption_en": "Cross-selection allows one crew member to rely on the opposite navigation receiver if required.",
-    "caption_tr": "Çapraz seçim, gerektiğinde karşı tarafın navigasyon alıcısına güvenilmesini sağlar."
+    "caption_en": "Pushing pilot's NAV button changes pilot navigation source from VOR 1 to VOR 2. Both PFDs are now displaying navigation data from one common NAV receiver and therefore, the navigation information displayed on both aides are amber.",
+    "caption_tr": "Pilotun NAV butonuna basmak, pilotun navigasyon kaynağını VOR 1’den VOR 2’ye değiştirir. Her iki PFD artık tek bir ortak NAV alıcısından gelen navigasyon verilerini gösterdiği için, her iki yardımcıda da navigasyon bilgileri amber renkte görüntülenir."
   },
   {
     "id": "s12",

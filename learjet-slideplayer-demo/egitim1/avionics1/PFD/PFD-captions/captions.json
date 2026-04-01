@@ -77,8 +77,8 @@
     "title_tr": "ADI Küresi",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "ADI symbols use a truncated sphere format to present standard attitude information, including sky and ground shading.",
-    "caption_tr": "ADI sembolleri, gökyüzü ve yer gölgelendirmesini içeren kesik küre formatında standart tutum bilgisini gösterir."
+    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- sky/ground shading, •⁠  ⁠aircraft symbol, •⁠  ⁠pitch scale, and •⁠  ⁠roll attitude scale and pointer.",
+    "caption_tr": "ADI sembolleri, standart tutum (attitude) bilgisini göstermek için kesik küre (truncated sphere) formatını kullanır. Küre içinde şunlar bulunur: -- gökyüzü/yer (sky/ground) gölgelendirmesi, -- uçak sembolü, -- pitch (yunuslama) ölçeği ve -- roll (yatış) tutum ölçeği ve göstergesi."
   },
   {
     "id": "s10",
@@ -104,8 +104,8 @@
     "title_tr": "Roll Ölçeği",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "The ADI sphere includes the roll attitude scale and roll pointer.",
-    "caption_tr": "ADI küresi, pitch bilgilerine ek olarak roll tutum ölçeği ve roll işaretçisini içerir."
+    "caption_en": "The attitude display receives inputs from the AHRS for roll and pitch informtion.",
+    "caption_tr": "Tutum göstergesi (attitude display), roll (yatış) ve pitch (yunuslama) bilgisi için AHRS’ten veri alır."
   },
   {
     "id": "s13",

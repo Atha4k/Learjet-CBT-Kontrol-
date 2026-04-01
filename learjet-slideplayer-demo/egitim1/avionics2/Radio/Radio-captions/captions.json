@@ -33,10 +33,10 @@
   },
   {
     "id": "s05",
-    "title": "The display range is to ft. Above ft, the display is blank.",
+    "title": "The display range is -20 to 2550ft. Above 2550ft, the display is blank.",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "The display range is to ft. Above ft, the display is blank.",
+    "caption_en": "The display range is -20 to 2550ft. Above 2550ft, the display is blank.",
     "caption_tr": ""
   },
   {
@@ -44,7 +44,7 @@
     "title": "The display resolution is 5 ft from to ft and 10 ft if altit…",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "The display resolution is 5 ft from to ft and 10 ft if altitude is greater than ft. Low altitude awarness is supplied for display on the barometric altitude tape. The presentation of low altitude awareness is used as an indication of the ground with respect to the current barometric altitude.",
+    "caption_en": "The display resolution is 5 ft from -20 to 200ft and 10 ft if altitude is greater than 200ft. Low altitude awarness is supplied for display on the barometric altitude tape. The presentation of low altitude awareness is used as an indication of the ground with respect to the current barometric altitude.",
     "caption_tr": ""
   },
   {
@@ -76,7 +76,7 @@
     "title": "If the aircraft is on the ground, pushing the button will pe…",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "If the aircraft is on the ground, pushing the button will perform not only the radio altimeter test, it will also performs the electronic display system (EDS) test function. This was discussed in display controller topic. Touch the button to simulate test on ground.",
+    "caption_en": "If the aircraft is on the ground, pushing the button will perform not only the radio altimeter test, it will also performs the electronic display system (EDS) test function. This was discussed in display controller topic. ",
     "caption_tr": ""
   },
   {
@@ -84,7 +84,7 @@
     "title": "When tested, the radio altimeter digital readout displays se…",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
-    "caption_en": "When tested, the radio altimeter digital readout displays self-test value of ft.",
+    "caption_en": "When tested, the radio altimeter digital readout displays self-test value of 100+-10ft.",
     "caption_tr": ""
   },
   {

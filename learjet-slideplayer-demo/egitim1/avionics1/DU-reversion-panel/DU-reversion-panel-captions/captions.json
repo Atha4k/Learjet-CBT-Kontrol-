@@ -140,7 +140,7 @@
     "title_tr": "DU Aşırı Isınma",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
-    "caption_en": "If DU internal subassembly temperature reaches approximately the overheat threshold, the CAS displays an amber DU 1, 2, 3, or 4 OVHT message.",
+    "caption_en": "If DU internal subassembly temperature reaches approximately 120 celsius, the CAS displays an amber DU 1, 2, 3, or 4 OVHT message.",
     "caption_tr": "DU iç alt birim sıcaklığı yaklaşık aşırı ısınma eşiğine ulaştığında, CAS üzerinde amber DU 1/2/3/4 OVHT mesajı görüntülenir."
   },
   {

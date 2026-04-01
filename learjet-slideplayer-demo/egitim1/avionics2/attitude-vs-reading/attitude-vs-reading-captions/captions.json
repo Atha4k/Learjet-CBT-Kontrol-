@@ -44,7 +44,7 @@
     "title": "The central processor unit within the AHRU receives all of t…",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "The central processor unit within the AHRU receives all of the sensor inputs and performs the mathematical computations required to calculate aircraft attitude, heading, velociity, linear accelerations, angular rate of change and operating mode status. AHRS does not compute latitude and longitude position",
+    "caption_en": "The central processor unit within the AHRU receives all of the sensor inputs and performs the mathematical computations required to calculate aircraft attitude, heading, velociity, linear accelerations, angular rate of change and operating mode status. AHRS does not compute latitude and longitude position information",
     "caption_tr": ""
   },
   {
@@ -92,7 +92,7 @@
     "title": "While initialisation is taking place, the ADI sphere is comp…",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "While initialisation is taking place, the ADI sphere is completely blue and the HSI begins with degrees under the lubber line. The compass card clicks towards 0 degree at one degree per second. Watch.",
+    "caption_en": "While initialisation is taking place, the ADI sphere is completely blue and the HSI begins with degrees under the lubber line. The compass card clicks towards 0 degree at one degree per second.",
     "caption_tr": ""
   },
   {
@@ -252,7 +252,7 @@
     "title": "By selecting the AHRS reversion switch to the operative AHRS…",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
-    "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's Touch AHRS reversion switch to simulate positioning",
+    "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's PFD ",
     "caption_tr": ""
   },
   {
@@ -260,7 +260,7 @@
     "title": "By selecting the AHRS reversion switch to the operative AHRS…",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
-    "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's Touch AHRS reversion switch to simulate positioning",
+    "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's PFD",
     "caption_tr": ""
   },
   {
@@ -268,7 +268,7 @@
     "title": "Since AHRS 2 is providing attitude and heading references to…",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
-    "caption_en": "Since AHRS 2 is providing attitude and heading references to all, ATT 2 and MAG 2 are annunciated on the PFDs and",
+    "caption_en": "Since AHRS 2 is providing attitude and heading references to all, ATT 2 and MAG 2 are annunciated on the PFDs and MFD",
     "caption_tr": ""
   },
   {
@@ -324,7 +324,7 @@
     "title": "The AHRU receives flux valve input via AHRS HEADING FREE swi…",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
-    "caption_en": "The AHRU receives flux valve input via AHRS HEADING FREE switch which is located toward the outboard end of the pilot's and co-pilots lower switch panels. These are latching type switches which are dark when slave is selected and contain a FREE annunciator that illuminates when free or directional gyro mode is selected. Touch the left HEADING FREE switch.",
+    "caption_en": "The AHRU receives flux valve input via AHRS HEADING FREE switch which is located toward the outboard end of the pilot's and co-pilots lower switch panels. These are latching type switches which are dark when slave is selected and contain a FREE annunciator that illuminates when free or directional gyro mode is selected.",
     "caption_tr": ""
   },
   {
@@ -340,7 +340,7 @@
     "title": "Likewise, depressing the right HEADING FREE switch also disc…",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
-    "caption_en": "Likewise, depressing the right HEADING FREE switch also disconnects AHRS 2 from its flux valve. Without the flux valve input, AHRS 2 will operate in DG (FREE) mode and DG 2 will annunciate on co-pilot's and",
+    "caption_en": "Likewise, depressing the right HEADING FREE switch also disconnects AHRS 2 from its flux valve. Without the flux valve input, AHRS 2 will operate in DG (FREE) mode and DG 2 will annunciate on co-pilot's PFD and MFD",
     "caption_tr": ""
   },
   {
@@ -364,7 +364,7 @@
     "title": "When the DG mode is selected, the slewing switch becomes fun…",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
-    "caption_en": "When the DG mode is selected, the slewing switch becomes functional. Toggling the switch to R slews the corresponding compass card anti-clockwise. Toggling it to L slews the compass card clockwise. Watch",
+    "caption_en": "When the DG mode is selected, the slewing switch becomes functional. Toggling the switch to R slews the corresponding compass card anti-clockwise. Toggling it to L slews the compass card clockwise.",
     "caption_tr": ""
   },
   {

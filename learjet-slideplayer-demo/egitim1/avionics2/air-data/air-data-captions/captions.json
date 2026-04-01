@@ -124,7 +124,7 @@
     "title": "To rectify this abnormality, ADC reversion selector is posit…",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
-    "caption_en": "To rectify this abnormality, ADC reversion selector is positioned to 2. Touch ADC selector to simulate that.",
+    "caption_en": "To rectify this abnormality, ADC reversion selector is positioned to 2.",
     "caption_tr": ""
   },
   {
@@ -180,7 +180,7 @@
     "title": "On the TAS and Celsius SAT are displayed.",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
-    "caption_en": "On the TAS and Celsius SAT are displayed.",
+    "caption_en": "On the TAS and -45 Celsius SAT are displayed.",
     "caption_tr": ""
   }
 ]

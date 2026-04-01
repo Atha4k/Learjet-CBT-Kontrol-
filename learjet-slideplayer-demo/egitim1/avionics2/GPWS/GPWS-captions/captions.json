@@ -4,7 +4,7 @@
     "title": "The Ground Proximity WarningWindshear systems provides the f…",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "The Ground Proximity WarningWindshear systems provides the flight crew with aural and visual warnings of potentially dangerous flight path relative to ground and of windshear conditions. The system is operable between 30 to ft radio altitude.",
+    "caption_en": "The Ground Proximity WarningWindshear systems provides the flight crew with aural and visual warnings of potentially dangerous flight path relative to ground and of windshear conditions. The system is operable between 30 to 2450ft radio altitude.",
     "caption_tr": ""
   },
   {
@@ -116,7 +116,7 @@
     "title": "The PULL UP annunciators will remain on until one of the fol…",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "The PULL UP annunciators will remain on until one of the following conditions is achieved: 1) ft of pressure altitude is gained.",
+    "caption_en": "The PULL UP annunciators will remain on until one of the following conditions is achieved: 1) 300ft of pressure altitude is gained.",
     "caption_tr": ""
   },
   {
@@ -140,7 +140,7 @@
     "title": "Mode 2B provides a desensitized alerting envelope to permit …",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "Mode 2B provides a desensitized alerting envelope to permit normal landing approach maneouvres close to terrain without unwanted alerts. Mode 2B is automatically selected with flaps in landing configuration or when making an ILS approach with glideslope and localizer deviation less than 2 dots.",
+    "caption_en": "Mode 2B provides a desensitized alerting envelope to permit normal landing approach maneouvres close to terrain without unwanted alerts. Mode 2B is automatically selected with flaps in landing configuration or when making an ILS approach with glideslope and localizer deviation less than +-2 dots.",
     "caption_tr": ""
   },
   {
@@ -172,7 +172,7 @@
     "title": "Mode 3 warning is given for significant altitude loss after …",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
-    "caption_en": "Mode 3 warning is given for significant altitude loss after a takeoff. It is active once the aircraft reaches 30 ft RA and it provides warnings until the aircraft exceeds ft RA.",
+    "caption_en": "Mode 3 warning is given for significant altitude loss after a takeoff. It is active once the aircraft reaches 30 ft RA and it provides warnings until the aircraft exceeds 1500ft RA.",
     "caption_tr": ""
   },
   {
@@ -180,7 +180,7 @@
     "title": "This mode is also active if a go-around is initiated from be…",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
-    "caption_en": "This mode is also active if a go-around is initiated from below ft RA with gear and flaps in the landing configuration. Raising the gear andor flaps signals the system that go-around has been initiated.",
+    "caption_en": "This mode is also active if a go-around is initiated from below 2450ft RA with gear and flaps in the landing configuration. Raising the gear andor flaps signals the system that go-around has been initiated.",
     "caption_tr": ""
   },
   {
@@ -196,7 +196,7 @@
     "title": "Mode 4 warning is given for insufficient terrain clearance w…",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
-    "caption_en": "Mode 4 warning is given for insufficient terrain clearance with respect to aircraft configuration and airspeed. These warnings are given even with low closure rates. Three types of warnings are given under this mode: 4A, 4B and",
+    "caption_en": "Mode 4 warning is given for insufficient terrain clearance with respect to aircraft configuration and airspeed. These warnings are given even with low closure rates. Three types of warnings are given under this mode: 4A, 4B and 4C",
     "caption_tr": ""
   },
   {
@@ -212,7 +212,7 @@
     "title": "If the aircraft penetrates ft RA with a speed above kts, the…",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
-    "caption_en": "If the aircraft penetrates ft RA with a speed above kts, the PULL UP annunciators illuminate and the TOO LOW TERRAIN will sound.",
+    "caption_en": "If the aircraft penetrates 500 ft RA with a speed above kts, the PULL UP annunciators illuminate and the TOO LOW TERRAIN will sound.",
     "caption_tr": ""
   },
   {
@@ -220,7 +220,7 @@
     "title": "If the speed is slowed down to below kts with gear still up,…",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
-    "caption_en": "If the speed is slowed down to below kts with gear still up, the aural warning will change to \"TOO LOW GEAR'.",
+    "caption_en": "If the speed is slowed down to below 190 kts with gear still up, the aural warning will change to \"TOO LOW GEAR'.",
     "caption_tr": ""
   },
   {
@@ -236,7 +236,7 @@
     "title": "If the speed of the aircraft slows down to below kts with th…",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
-    "caption_en": "If the speed of the aircraft slows down to below kts with the flaps still not in landing configuration, then the aural warning will change to \"TOO LOW FLAP\".",
+    "caption_en": "If the speed of the aircraft slows down to below 160 kts with the flaps still not in landing configuration, then the aural warning will change to \"TOO LOW FLAP\".",
     "caption_tr": ""
   },
   {
@@ -244,7 +244,7 @@
     "title": "Mode 4C alerts the crew when the terrain is rising more stee…",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
-    "caption_en": "Mode 4C alerts the crew when the terrain is rising more steeply than the aircraft is climbing. It is based on the minimum terrain clearance, or floor, that increases with radio altitude that has occurred during takeoff. It is active from ft RA and provide warning until aircraft exceeds ft RA. This mode is also active if go-around is initiated from below ft RA.",
+    "caption_en": "Mode 4C alerts the crew when the terrain is rising more steeply than the aircraft is climbing. It is based on the minimum terrain clearance, or floor, that increases with radio altitude that has occurred during takeoff. It is active from 100 ft RA and provide warning until aircraft exceeds 2450 ft RA. This mode is also active if go-around is initiated from below 245 f RA.",
     "caption_tr": ""
   },
   {
@@ -260,7 +260,7 @@
     "title": "Mode 5 is armed when the landing lever is down, glideslope i…",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
-    "caption_en": "Mode 5 is armed when the landing lever is down, glideslope is within 2 dots of nominal, and RA is 30 ft to ft. The alert occurs at two audio levels; soft and hard alert areas.",
+    "caption_en": "Mode 5 is armed when the landing lever is down, glideslope is within 2 dots of nominal, and RA is 30 ft to 1000ft. The alert occurs at two audio levels; soft and hard alert areas.",
     "caption_tr": ""
   },
   {
@@ -276,7 +276,7 @@
     "title": "When the glideslope deviation reaches dot fiy-up, the BELOW …",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
-    "caption_en": "When the glideslope deviation reaches dot fiy-up, the BELOW G annunciators will illuminate and the softer 'GLIDESLOPE' voice (at half the volume level) alert will be given. The GLIDESLOPE' voice alert in the 'soft area will be given once and repeated only if the conditon worsens.",
+    "caption_en": "When the glideslope deviation reaches 1.3 dot fiy-up, the BELOW G annunciators will illuminate and the softer 'GLIDESLOPE' voice (at half the volume level) alert will be given. The GLIDESLOPE' voice alert in the 'soft area will be given once and repeated only if the conditon worsens.",
     "caption_tr": ""
   },
   {
@@ -284,7 +284,7 @@
     "title": "Below ft RA and deviation of dots fly-up or more, the louder…",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
-    "caption_en": "Below ft RA and deviation of dots fly-up or more, the louder GLIDESLOPE' voice alert is given. A '\"GLIDESLOPE' alert in the louder area will be repeated at an increased rate.",
+    "caption_en": "Below 300 ft RA and deviation of 2 dots fly-up or more, the louder GLIDESLOPE' voice alert is given. A '\"GLIDESLOPE' alert in the louder area will be repeated at an increased rate.",
     "caption_tr": ""
   },
   {
@@ -292,7 +292,7 @@
     "title": "Mode 7 windshear warnings and cautions are provided between …",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
-    "caption_en": "Mode 7 windshear warnings and cautions are provided between 30 and ft AGL initial takeoff and between and 10 ft AGL during the final approach phases of flight when the level of windshear exceeds predetermined threshold values.",
+    "caption_en": "Mode 7 windshear warnings and cautions are provided between 30 and 1500 ft AGL initial takeoff and between 1500  and 10 ft AGL during the final approach phases of flight when the level of windshear exceeds predetermined threshold values.",
     "caption_tr": ""
   },
   {
@@ -380,7 +380,7 @@
     "title": "Amber annunciators illuminate on pilot and co-pilot instrume…",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
-    "caption_en": "Amber annunciators illuminate on pilot and co-pilot instrument panels for approximately seconds.",
+    "caption_en": "Amber annunciators illuminate on pilot and co-pilot instrument panels for approximately 0.75 seconds.",
     "caption_tr": ""
   },
   {

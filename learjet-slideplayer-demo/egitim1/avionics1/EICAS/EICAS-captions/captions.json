@@ -32,8 +32,8 @@
     "title_tr": "CAS Üretimi",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "The computer is also responsible for generating and displaying Crew Alerting System (CAS) messages.",
-    "caption_tr": "Bilgisayar ayrıca Mürettebat Uyarı Sistemi (CAS) mesajlarının oluşturulmasından ve görüntülenmesinden sorumludur."
+    "caption_en": "EICAS display is normally supplied by symbol generator in the IC-600 1 computer. The computer is also responsible for posting CAS messages.",
+    "caption_tr": "EICAS göstergesi normalde IC-600 1 bilgisayarındaki sembol üreticisi tarafından beslenir. Bu bilgisayar aynı zamanda CAS mesajlarının görüntülenmesinden de sorumludur."
   },
   {
     "id": "s05",
@@ -77,8 +77,8 @@
     "title_tr": "Birincil Göstergeler",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "Primary engine indications include fan speed, interstage turbine temperature (ITT), oil pressure and temperature, and fuel flow.",
-    "caption_tr": "Birincil motor göstergeleri; fan hızı, ara kademe türbin sıcaklığı (ITT), yağ basıncı ve sıcaklığı ile yakıt akışını içerir."
+    "caption_en": "The primary engine indications consist of fan speed (N1), interstage turbine temperature (ITT), turbine speed (N2), oil pressure and temperature, and fuel flow. The legends N1, ITT, N2, OIL PSI, OIL C and FF LBH are displayed at the centre to divide left engine data from the right engine data..",
+    "caption_tr": "Birincil motor göstergeleri; fan hızı (N1), kademeler arası türbin sıcaklığı (ITT), türbin hızı (N2), yağ basıncı ve sıcaklığı ile yakıt akışından oluşur. N1, ITT, N2, OIL PSI, OIL C ve FF LBH etiketleri, sol motor verilerini sağ motor verilerinden ayırmak için merkezde gösterilir."
   },
   {
     "id": "s10",
@@ -122,8 +122,8 @@
     "title_tr": "Yakıt Miktarı",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
-    "caption_en": "Fuel quantities for the left wing, fuselage, and right wing are displayed continuously in kilograms.",
-    "caption_tr": "Sol kanat, gövde ve sağ kanat yakıt miktarları kilogram cinsinden sürekli olarak görüntülenir."
+    "caption_en": "Fuel quantities for the left wing, fuselage, and right wing are displayed continuously in pounds.",
+    "caption_tr": "Sol kanat, gövde ve sağ kanat yakıt miktarları pounds cinsinden sürekli olarak görüntülenir."
   },
   {
     "id": "s15",
@@ -212,8 +212,8 @@
     "title_tr": "Ana Uyarı",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
-    "caption_en": "Pressing the master warning button stops the associated flashing annunciation.",
-    "caption_tr": "Ana uyarı butonuna basıldığında, ilgili yanıp sönen uyarı durur."
+    "caption_en": "FIRE annunciation which flashes in red when engine fire warning is triggered. Upon detection of the master warning button being pushed, the annunciation stops flashing.",
+    "caption_tr": "Motor yangını uyarısı tetiklendiğinde kırmızı renkte yanıp sönen FIRE ikazı görüntülenir. Master warning (ana uyarı) butonuna basıldığının algılanmasıyla birlikte bu ikaz yanıp sönmeyi durdurur."
   },
   {
     "id": "s26",
@@ -239,8 +239,8 @@
     "title_tr": "CAS İzleme",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
-    "caption_en": "The IC-600 computer continuously monitors aircraft systems and displays messages on the Crew Alerting System (CAS).",
-    "caption_tr": "IC-600 bilgisayarı uçak sistemlerini sürekli izler ve Mürettebat Uyarı Sistemi (CAS) üzerinde mesajlar görüntüler."
+    "caption_en": "The IC-600 1 computer monitors the status of the various aircraft and avionic systems on a continuous basis and alerts the crew by displaying messages on the crew alerting system (CAS).",
+    "caption_tr": "IC-600 1 bilgisayarı, çeşitli uçak ve aviyonik sistemlerin durumunu sürekli olarak izler ve mürettebatı, mürettebat uyarı sistemi (CAS) üzerinde mesajlar görüntüleyerek uyarır."
   },
   {
     "id": "s29",
@@ -248,8 +248,8 @@
     "title_tr": "CAS Öncelikleri",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
-    "caption_en": "CAS messages are color-coded by priority: red for warnings, amber for cautions, and white for advisories.",
-    "caption_tr": "CAS mesajları önceliğe göre renklendirilir: uyarılar kırmızı, ikazlar amber, bilgilendirmeler beyazdır."
+    "caption_en": "Messages are prioritized and colour coded for display. Red messages are warning messages. They are placed on top of the stack. White messages are advisoy. They occupy the lowest stack. Amber messages are caution messages. They appear in the middle of the stack. These messages are concluded by a cyan word 'END'. ",
+    "caption_tr": "Mesajlar, görüntülenmek üzere önceliklendirilir ve renklere göre kodlanır. Kırmızı mesajlar uyarı (warning) mesajlarıdır ve listenin en üstünde yer alır. Beyaz mesajlar tavsiye (advisory) mesajlarıdır ve listenin en altında bulunur Amber (kehribar/sarı) mesajlar ikaz (caution) mesajlarıdır ve listenin ortasında yer alır. Bu mesajlar, camgöbeği (cyan) renkteki “END” kelimesi ile sonlandırılır."
   },
   {
     "id": "s30",
@@ -257,8 +257,8 @@
     "title_tr": "Gizli Mesajlar",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
-    "caption_en": "When more than 14 messages exist, a MESSAGE annunciation with up and down arrows indicates hidden messages.",
-    "caption_tr": "14’ten fazla mesaj olduğunda, yukarı/aşağı oklar içeren MESSAGE göstergesi gizli mesajlar olduğunu belirtir."
+    "caption_en": "CAS window can display up to 14 messages at any one time. If there are more than 14 messages, there will be an amber 'MESSAGE' with UP and DOWN arrows on its left and right respectively. A number exists beside the arrow to indicate the number of messages that are hidden from the window. In the above example, 21 means 2 messages are hidden above the window. Similarly, 31 indicates 3 messages are hidden below.",
+    "caption_tr": "CAS penceresi aynı anda en fazla 14 mesaj görüntüleyebilir. Eğer 14’ten fazla mesaj varsa, yanında solunda ve sağında sırasıyla yukarı ve aşağı oklar bulunan amber (sarı) renkte bir “MESSAGE” uyarısı görüntülenir. Okların yanında, pencerede görünmeyen mesaj sayısını gösteren bir sayı bulunur. Yukarıdaki örnekte, 21 ifadesi pencerenin üstünde gizli 2 mesaj olduğunu gösterir. Benzer şekilde, 31 ifadesi pencerenin altında gizli 3 mesaj olduğunu belirtir."
   },
   {
     "id": "s31",
@@ -266,7 +266,7 @@
     "title_tr": "Mesaj Kaydırma",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
-    "caption_en": "Hidden CAS messages can be scrolled into view using the CAS rotary knob on the EICAS bezel controller.",
+    "caption_en": "Amber MESSAGE is also seen when CAS messages are hidden deliberately by scrolling them away using the CAS rotary knob on the EICAS bezel controller. By the same token any messages which are hidden due to the number of messages exceeding 14, they can be brought into view by scrolling them using the CAS rotary knob. ",
     "caption_tr": "Gizli CAS mesajları, EICAS bezel kontrol ünitesindeki CAS döner düğmesiyle ekrana kaydırılarak görüntülenebilir."
   }
 ]

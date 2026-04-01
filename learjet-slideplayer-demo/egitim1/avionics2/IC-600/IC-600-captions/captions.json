@@ -194,8 +194,8 @@
     "title_tr": "DAU Motor Verisi",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
-    "caption_en": "It also taps information from the engine to provide IC-600 computer with engine parameters for display.",
-    "caption_tr": "Ayrıca motordan bilgi alarak IC-600’e, ekranda gösterilecek motor parametrelerini sağlar."
+    "caption_en": "DAU receives information from various aircraft systems such as electrical, hydraulic, environmental control, flight control and fuel. It also taps information from the engine to provide IC-600 computer with engine parameters for display.",
+    "caption_tr": "DAU, elektriksel, hidrolik, çevre kontrol, uçuş kontrol ve yakıt sistemlerinden bilgi alır. Ayrıca motordan bilgi alarak IC-600’e, ekranda gösterilecek motor parametrelerini sağlar."
   },
   {
     "id": "s23",
@@ -248,8 +248,8 @@
     "title_tr": "Normal ICSG Çalışması",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
-    "caption_en": "With the selector in the NORM position, SG 1 provides information to DUs 1 and 2 to display and EICAS respectively. Similarly, SG 2 provides data to DUs 3 and 4 to display and",
-    "caption_tr": "Seçici NORM konumundayken SG 1; DU 1 ve DU 2’ye sırasıyla (PFD) ve EICAS için bilgi sağlar. Benzer şekilde SG 2; DU 3 ve DU 4’e ilgili ekranları sürmek için veri sağlar."
+    "caption_en": "With the selector in the NORM position, SG 1 provides information to DUs 1 and 2 to display PFD and EICAS respectively. Similarly, SG 2 provides data to DUs 3 and 4 to display MFD and PFD.",
+    "caption_tr": "Seçici NORM konumundayken, SG 1, DUs 1 ve 2’ye sırasıyla PFD ve EICAS görüntülemesi için bilgi sağlar. Benzer şekilde, SG 2, DUs 3 ve 4’e sırasıyla MFD ve PFD görüntülemesi için veri sağlar."
   },
   {
     "id": "s29",
@@ -266,7 +266,7 @@
     "title_tr": "IC Fan Arızası Göstergesi",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
-    "caption_en": "Failure of the fan is indicated by white message 'IC 1 or 2 FAN FAIL on the crew alerting system (CAS). If the temperature of the computer continues to rise and if it exceeds the following warnings will be issued:",
+    "caption_en": "Failure of the fan is indicated by white message 'IC 1 or 2 FAN FAIL on the crew alerting system (CAS). If the temperature of the computer continues to rise and if it exceeds 110 degrees Celsius, the following warnings will be issued:",
     "caption_tr": "Fan arızası, ekip uyarı sistemi (CAS) üzerinde beyaz 'IC 1 or 2 FAN FAIL' mesajı ile gösterilir. Bilgisayar sıcaklığı yükselmeye devam eder ve belirli bir değeri aşarsa aşağıdaki uyarılar verilir:"
   },
   {
@@ -302,8 +302,8 @@
     "title_tr": "Bilgisayar Kapanmasının Etkileri",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
-    "caption_en": "If the temperature continues to increase to above the computer will shutdown. With the computer inoperative, the affected DUs may become blank with red crosses over them. If the failure involves IC-600 1, backup engine page 1 will be automatically selected on the RMU 1.",
-    "caption_tr": "Sıcaklık artmaya devam eder ve belirli bir değerin üzerine çıkarsa bilgisayar kapanır. Bilgisayar devre dışı kalınca etkilenen DU’lar kırmızı çarpılarla blank (boş) olabilir. Arıza IC-600 1’i içeriyorsa, RMU 1 üzerinde Backup Engine Page 1 otomatik seçilir."
+    "caption_en": "If the temperature continues to increase to above 140 degrees Celsius, the computer will shutdown. With the computer inoperative, the affected DUs may become blank with red crosses over them. If the failure involves IC-600 1, backup engine page 1 will be automatically selected on the RMU 1.",
+    "caption_tr": "Sıcaklık artmaya devam eder ve 140 derece Celsius'un üzerine çıkarsa bilgisayar kapanır. Bilgisayar devre dışı kalınca etkilenen DU’lar kırmızı çarpılarla blank (boş) olabilir. Arıza IC-600 1’i içeriyorsa, RMU 1 üzerinde Backup Engine Page 1 otomatik seçilir."
   },
   {
     "id": "s35",
@@ -320,8 +320,8 @@
     "title_tr": "Arıza Belirtileri",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
-    "caption_en": "Us, 2 large red cross on one or both DUs, or 3) erroneous or erratic display of data on either or both DUs.",
-    "caption_tr": "Belirtiler: 1) (metin eksik), 2) bir veya iki DU üzerinde büyük kırmızı çarpı, veya 3) bir veya iki DU’da hatalı / dengesiz (erratic) veri gösterimi."
+    "caption_en": "A failure of a symbol generator or the computer is identified by any of the following: 1) blanking of the on-side DUs, 2) large red cross on one or both DUs, or 3) erroneous or erratic display of data on either or both DUs.",
+    "caption_tr": "Sembol üreteci veya bilgisayar arızası aşağıdaki belirtilerden herhangi biriyle tanımlanır: 1) ilgili DU’ların blank olması, 2) bir veya her iki DU’da büyük kırmızı çarpı, veya 3) bir veya her iki DU’da verilerin hatalı veya düzensiz gösterilmesi."
   },
   {
     "id": "s37",
@@ -329,7 +329,7 @@
     "title_tr": "ICSG Reversion İşlemi",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
-    "caption_en": "To rectify the situation if any of these symptoms is observed, an ICSG reversion is carried out. This is done by moving the ICISG reversion selector to the operative computer. In the example above, SG 1 has failed. Touch ICSG selector to simulate positioning",
+    "caption_en": "To rectify the situation if any of these symptoms is observed, an ICSG reversion is carried out. This is done by moving the ICISG reversion selector to the operative computer. In the example above, SG 1 has failed.",
     "caption_tr": "Bu belirtilerden herhangi biri görülürse durumu düzeltmek için ICSG reversion yapılır. Bu, IC/SG reversion seçiciyi çalışan (operative) bilgisayara alarak gerçekleştirilir. Yukarıdaki örnekte SG 1 arızalanmıştır. Konumlandırmayı simüle etmek için ICSG seçicisine dokun."
   },
   {
@@ -338,7 +338,7 @@
     "title_tr": "ICSG 2 Konumu Sonuçları",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
-    "caption_en": "When the selector is moved to position 2, the following occur: - All DUs are driven by SG 2 is lost and both inboard DUs will display EICAS, -ADC 2 and AHRS 2 are supplying data to all DUs through IC-600",
+    "caption_en": "When the selector is moved to position 2, the following occur: - All DUs are driven by SG 2 is lost and both inboard DUs will display EICAS, -ADC 2 and AHRS 2 are supplying data to all DUs through IC-600 2",
     "caption_tr": "Seçici 2 konumuna alındığında şu durumlar oluşur: - Tüm DU’lar SG 2 tarafından sürülür; (metinde eksik kısım var) ve her iki iç DU EICAS gösterir, - ADC 2 ve AHRS 2, IC-600 üzerinden tüm DU’lara veri sağlar."
   },
   {

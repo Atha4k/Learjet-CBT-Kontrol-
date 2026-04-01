@@ -60,7 +60,7 @@
     "title": "The receiver and processing system processes and convert thi…",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "The receiver and processing system processes and convert this signal to video data. The video data is then transmitted directly to PFDs and instead of being channelled to symbol generators. This is due to RTA ability to convert signals straight to video",
+    "caption_en": "The receiver and processing system processes and convert this signal to video data. The video data is then transmitted directly to PFDs and instead of being channelled to symbol generators. This is due to RTA ability to convert signals straight to video information.",
     "caption_tr": ""
   },
   {
@@ -92,7 +92,7 @@
     "title": "The table above consists of all the weather radar mode annun…",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "The table above consists of all the weather radar mode annunciations on and",
+    "caption_en": "The table above consists of all the weather radar mode annunciations on PFD and MFD",
     "caption_tr": ""
   },
   {
@@ -108,7 +108,7 @@
     "title": "When (standby) is selected, the RTA is powered up but it doe…",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
-    "caption_en": "When (standby) is selected, the RTA is powered up but it does not radiate any RF energy and antenna does not scan. The system performs a magnetron warm up for about 45 seconds. During this time, WAIT is annuncicted on the and in cyan.",
+    "caption_en": "When (standby) is selected, the RTA is powered up but it does not radiate any RF energy and antenna does not scan. The system performs a magnetron warm up for about 45 seconds. During this time, WAIT is annuncicted on the PFD and MFD in cyan.",
     "caption_tr": ""
   },
   {
@@ -132,7 +132,7 @@
     "title": "In the WX position, the receiver and transmitter become acti…",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
-    "caption_en": "In the WX position, the receiver and transmitter become active at the selected range and tilt, and the antenna sweeps deg in front of the",
+    "caption_en": "In the WX position, the receiver and transmitter become active at the selected range and tilt, and the antenna sweeps 120 deg in front of the",
     "caption_tr": ""
   },
   {
@@ -140,7 +140,7 @@
     "title": "If WX is selected for display prior to the expiration of the…",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "If WX is selected for display prior to the expiration of the initial RTA warm up period (approximately 45 seconds), WAIT is displayed flashing in cyan. Upon completion of the warm up period, the system will automatically switch to WX mode. Watch",
+    "caption_en": "If WX is selected for display prior to the expiration of the initial RTA warm up period (approximately 45 seconds), WAIT is displayed flashing in cyan. Upon completion of the warm up period, the system will automatically switch to WX mode.",
     "caption_tr": ""
   },
   {
@@ -188,7 +188,7 @@
     "title": "On ground, if weather radar is transmitting and WX is not se…",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
-    "caption_en": "On ground, if weather radar is transmitting and WX is not selected on the TX will be annunciated in amber. TX is not annunciated on In the air, the same condition results in cyan",
+    "caption_en": "On ground, if weather radar is transmitting and WX is not selected on the TX will be annunciated in amber. TX is not annunciated on In the air, the same condition results in cyan TX.",
     "caption_tr": ""
   },
   {
@@ -196,7 +196,7 @@
     "title": "The GMAP operation is selected by setting the mode control t…",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
-    "caption_en": "The GMAP operation is selected by setting the mode control to GMAP. The tilt control is turned down until the desired amount of terrain is displayed. The degree of down-tilt will depend upon the aircraft altitude and the selected range. In this mode, GMAP is annunciated on the and",
+    "caption_en": "The GMAP operation is selected by setting the mode control to GMAP. The tilt control is turned down until the desired amount of terrain is displayed. The degree of down-tilt will depend upon the aircraft altitude and the selected range. In this mode, GMAP is annunciated on the PFD and MFD.",
     "caption_tr": ""
   },
   {
@@ -228,7 +228,7 @@
     "title": "In the radar is put into the standby mode and legend is annu…",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
-    "caption_en": "In the radar is put into the standby mode and legend is annunciated.",
+    "caption_en": "In the radar is put into the standby mode and FPLN legend is annunciated.",
     "caption_tr": ""
   },
   {
@@ -236,7 +236,7 @@
     "title": "No weather targets are displayed on the screen.",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
-    "caption_en": "No weather targets are displayed on the screen.",
+    "caption_en": "FP mode places the radar in the flight plan mode permetting singular display of navigation data on PFD and MFD .No weather targets are displayed on the screen.",
     "caption_tr": ""
   },
   {
@@ -244,7 +244,7 @@
     "title": "The position is used to selected a special test pattern to a…",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
-    "caption_en": "The position is used to selected a special test pattern to allow verification of system operation; NM range is automatically selected; TEST is annunciated. In this mode transmitter is on and radiating X-band microwave energy.",
+    "caption_en": "The position is used to selected a special test pattern to allow verification of system operation;100 NM range is automatically selected; TEST is annunciated. In this mode transmitter is on and radiating X-band microwave energy.",
     "caption_tr": ""
   },
   {
@@ -276,7 +276,7 @@
     "title": "In the OFF position and if MAP is selected on the the range …",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
-    "caption_en": "In the OFF position and if MAP is selected on the the range displayed is defaulted",
+    "caption_en": "In the OFF position and if MAP is selected on the the range displayed is defaulted to 100 NM.",
     "caption_tr": ""
   },
   {
@@ -284,7 +284,7 @@
     "title": "Likewise, selecting WX on the with radar selector in the OFF…",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
-    "caption_en": "Likewise, selecting WX on the with radar selector in the OFF position will have the range fix",
+    "caption_en": "Likewise, selecting WX on the with radar selector in the OFF position will have the range fix at 100NM",
     "caption_tr": ""
   },
   {
@@ -292,7 +292,7 @@
     "title": "But when radar selector is out of OFF position in this case)…",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
-    "caption_en": "But when radar selector is out of OFF position in this case), range on both MAP and can be changed by the range buttons on the weather controller. Ranges selectable by the weather radar range buttons are 5, and NM (shown on half range ring as and NM respectively)",
+    "caption_en": "But when radar selector is out of OFF position in this case), range on both MAP and can be changed by the range buttons on the weather controller. Ranges selectable by the weather radar range buttons are 5,10,25,50,100 and 150 NM (shown on half range ring as and NM respectively)",
     "caption_tr": ""
   },
   {
@@ -340,7 +340,7 @@
     "title": "The tilt rotary control knob is used to select tilt angle of…",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
-    "caption_en": "The tilt rotary control knob is used to select tilt angle of the antenna beam in relation to the horizon. Clockwise rotation tilts the beam upward from 0 to and counter-clockwise rotation tilts the beam downward from",
+    "caption_en": "The tilt rotary control knob is used to select tilt angle of the antenna beam in relation to the horizon. Clockwise rotation tilts the beam upward from 0 to 15 and counter-clockwise rotation tilts the beam downward from 0 to -15",
     "caption_tr": ""
   },
   {
@@ -348,7 +348,7 @@
     "title": "The range between 5 and is expanded for ease of setability.",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
-    "caption_en": "The range between 5 and is expanded for ease of setability.",
+    "caption_en": "The range between -5 and 5 is expanded for ease of setability.",
     "caption_tr": ""
   },
   {
@@ -380,7 +380,7 @@
     "title": "When is selected, its function will override variable gain, …",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
-    "caption_en": "When is selected, its function will override variable gain, if selected, and forces the system into preset gain. The receiver gain is automatically adjusted according to received signal strength.",
+    "caption_en": "When RCT is selected, its function will override variable gain, if selected, and forces the system into preset gain. The receiver gain is automatically adjusted according to received signal strength.",
     "caption_tr": ""
   },
   {
@@ -428,7 +428,7 @@
     "title": "In the on position, there is no annunciation. If the AHRS 1 …",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
-    "caption_en": "In the on position, there is no annunciation. If the AHRS 1 is inoperative or if the STAB is selected off, an amber STAB will be annunciated on the STAB is not annunciated",
+    "caption_en": "STAB is normally selected to enable AHRS 1 to provide attitude stabilization signal to the weather radar antenna. In the on position, there is no annunciation. If the AHRS 1 is inoperative or if the STAB is selected off, an amber STAB will be annunciated on the MFD. STAB is not annunciated on PFD.",
     "caption_tr": ""
   },
   {
@@ -444,7 +444,7 @@
     "title": "If variable gain is selected and is subsequently selected, w…",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
-    "caption_en": "If variable gain is selected and is subsequently selected, will replace VAR and force the gain into preset mode. Touch the button",
+    "caption_en": "If variable gain is selected and TGT is subsequently selected, will replace VAR and force the gain into preset mode.",
     "caption_tr": ""
   },
   {
@@ -452,7 +452,7 @@
     "title": "Target alert function is disabled when: 1) GMAP is selected,…",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
-    "caption_en": "Target alert function is disabled when: 1) GMAP is selected, or 2) FP mode is selected and the range selected is more than",
+    "caption_en": "Target alert function is disabled when: 1) GMAP is selected, or 2) FP mode is selected and the range selected is more than 300 NM",
     "caption_tr": ""
   },
   {
@@ -460,7 +460,7 @@
     "title": "Target alert monitors for red level 3 or greater returns BEY…",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
-    "caption_en": "Target alert monitors for red level 3 or greater returns BEYOND the selected range, up to 50 and degrees on each side of the airplane heading. Within the selected range, target alert is inactive.",
+    "caption_en": "Target alert monitors for red level 3 or greater returns BEYOND the selected range, up to 50 and 7.5 degrees on each side of the airplane heading. Within the selected range, target alert is inactive.",
     "caption_tr": ""
   },
   {
@@ -468,7 +468,7 @@
     "title": "If a level three target is detected within the defined range…",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
-    "caption_en": "If a level three target is detected within the defined range, and if it is within a horinzontal angle of deg. from the nose of the aircraft, the target alert warning is triggered. In this situation, the white annunciations on the and will turn amber.",
+    "caption_en": "If a level three target is detected within the defined range, and if it is within a horinzontal angle of +-7.5 deg. from the nose of the aircraft, the target alert warning is triggered. In this situation, the white TGT annunciations on the PFD and MFD will turn amber.",
     "caption_tr": ""
   },
   {
@@ -484,7 +484,7 @@
     "title": "Target alert is functional (if selected) even when radar is …",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
-    "caption_en": "Target alert is functional (if selected) even when radar is not selected for display",
+    "caption_en": "Target alert is functional (if selected) even when radar is not selected for display on PFD and MFD.",
     "caption_tr": ""
   },
   {
@@ -492,7 +492,7 @@
     "title": "The SECT pushbutton is used to select either the normal 14 l…",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
-    "caption_en": "The SECT pushbutton is used to select either the normal 14 looks per minute deg scan or the faster update 28 looks per minute 60 deg scan.",
+    "caption_en": "The SECT pushbutton is used to select either the normal 14 looks per minute 120 deg scan or the faster update 28 looks per minute 60 deg scan.",
     "caption_tr": ""
   }
 ]

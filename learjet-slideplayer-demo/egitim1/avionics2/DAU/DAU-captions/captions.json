@@ -68,7 +68,7 @@
     "title": "The DAUs interface with the DAU reversion switch which deter…",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "The DAUs interface with the DAU reversion switch which determines the channels that are to be used by the IC-600 computers. The switch has 3 positions: A, DAU NORM, and B. With the switch in DAU NORM position, both IC-600 computers use channel A from DAU 1 and channel B from DAU 2 for engine and systems display. Now, touch DAU reversion switch to simulate changing position",
+    "caption_en": "The DAUs interface with the DAU reversion switch which determines the channels that are to be used by the IC-600 computers. The switch has 3 positions: A, DAU NORM, and B. With the switch in DAU NORM position, both IC-600 computers use channel A from DAU 1 and channel B from DAU 2 for engine and systems display.",
     "caption_tr": ""
   },
   {
@@ -116,7 +116,7 @@
     "title": "If DAU 1A fails, amber message DAU 1A FAIL' is posted on the…",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "If DAU 1A fails, amber message DAU 1A FAIL' is posted on the CAS. The left engine indications become invalid on the EICAS. In accordance with checklist, the DAU reversion selector is required to be positioned to B. Touch the DAU selector to simulate moving to B.",
+    "caption_en": "If DAU 1A fails, amber message DAU 1A FAIL' is posted on the CAS. The left engine indications become invalid on the EICAS. In accordance with checklist, the DAU reversion selector is required to be positioned to B.",
     "caption_tr": ""
   },
   {
@@ -140,7 +140,7 @@
     "title": "Similarly, failure of DAU 2B requires reversion selector to …",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "Similarly, failure of DAU 2B requires reversion selector to be switched to A position inorder to regain right side of engine parameters on the EICAS. Touch the DAU reversion selector to position",
+    "caption_en": "Similarly, failure of DAU 2B requires reversion selector to be switched to A position inorder to regain right side of engine parameters on the EICAS.",
     "caption_tr": ""
   },
   {

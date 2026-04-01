@@ -5,8 +5,8 @@
     "title_tr": "Bezel Kontrolleri",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "The bezel controllers are mounted below DUs 1 and 4. The slipskid indicators, previously located at the center of the bezel controllers, are now repositioned above the respective PFDs.",
-    "caption_tr": "Bezel kontrol üniteleri DU 1 ve DU 4’ün altında yer alır. Daha önce bezel kontrol merkezinde bulunan slip/skid göstergeleri artık ilgili PFD’lerin üzerinde konumlandırılmıştır."
+    "caption_en": "MFD main menu is the power-up default menu. This menu is also displayed upon returning from any submenu. Main menu consists of: system (SYS), multi-function display (MFD), checklist (CKLST), weather (WX), MAP/PLAN, and MAP/PLAN range.",
+    "caption_tr": "MFD ana menüsü, sistem açıldığında varsayılan olarak görüntülenen menüdür. Bu menü, herhangi bir alt menüden geri dönüldüğünde de tekrar gösterilir. Ana menü şunlardan oluşur: -- system (SYS), -- multi-function display (MFD), -- checklist (CKLST), -- weather (WX), -- MAP/PLAN ve -- MAP/PLAN range."
   },
   {
     "id": "s02",
@@ -14,8 +14,8 @@
     "title_tr": "Kontrol Fonksiyonları",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The controller provides selections for radio altitude (RA) minimum settings.",
-    "caption_tr": "Kontrol ünitesi radyo irtifa (RA) minimum ayarlarının seçilmesini sağlar."
+    "caption_en": "CKLST sections are not applicable on this menu. ",
+    "caption_tr": "CKLST bölümleri bu menüde görünmez."
   },
   {
     "id": "s03",
@@ -23,8 +23,8 @@
     "title_tr": "İrtifa Seçimi",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "The controller allows selection of radio altitude (RA) minimum, barometric altitude (BARO) minimum, and altitude reference modes.",
-    "caption_tr": "Kontrol ünitesi radyo irtifa (RA), barometrik irtifa (BARO) minimumları ve referans modlarının seçimini sağlar."
+    "caption_en": "The main menu can be broken further into several submenus as shown above.",
+    "caption_tr": "Ana menü, yukarıda gösterildiği gibi daha fazla alt menüye ayrılabilir."
   },
   {
     "id": "s04",

@@ -32,8 +32,8 @@
     "title_tr": "MAP Modu",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "MAP mode is the power-up default display. It uses a partial compass rose that spans an arc of degrees.",
-    "caption_tr": "MAP modu, sistem açıldığında varsayılan ekrandır. Belirli bir derece yayını kapsayan kısmi bir pusula gülü kullanır."
+    "caption_en": "MAP mode is the power-up default display. It uses a partial compass rose that spans an arc of 120 degrees.",
+    "caption_tr": "MAP modu, sistem açıldığında varsayılan ekrandır. 120 derece yayını kapsayan kısmi bir pusula gülü kullanır."
   },
   {
     "id": "s05",
@@ -41,8 +41,8 @@
     "title_tr": "Baş Okuması",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "Compass heading is supplemented by a white digital readout above the compass lubber line. It typically spans 000° to 359° with 1° resolution.",
-    "caption_tr": "Pusula başı, pusula referans çizgisinin (lubber line) üzerinde beyaz bir dijital okuma ile desteklenir. Genellikle 000°–359° aralığındadır ve 1° çözünürlüğe sahiptir."
+    "caption_en": "Compass heading is supplemented by a white digital readout above the compass lubber line. It typically spans 001° to 359° with 1° resolution.",
+    "caption_tr": "Pusula başı, pusula referans çizgisinin (lubber line) üzerinde beyaz bir dijital okuma ile desteklenir. Genellikle 001°–359° aralığındadır ve 1° çözünürlüğe sahiptir."
   },
   {
     "id": "s06",
@@ -68,8 +68,8 @@
     "title_tr": "Sapma İşaretçisi",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "The drift bug is explained in the next section.",
-    "caption_tr": "Sapma işaretçisi (drift bug) bir sonraki bölümde açıklanır."
+    "caption_en": "A cyan drift bug is supplied by FMS. The drift bug is explained in the PFD.",
+    "caption_tr": "Turkuaz (cyan) renkli drift bug, FMS tarafından sağlanır. Drift bug, PFD’de açıklanmıştır."
   },
   {
     "id": "s09",
@@ -77,8 +77,8 @@
     "title_tr": "AHRS Referansı",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "AHRS 2 provides heading reference to the display. If both pilots use independent AHRS sources, no MAG annunciation is shown on the display.",
-    "caption_tr": "AHRS 2, ekrana baş referansı sağlar. Her iki pilot da bağımsız AHRS kaynakları kullanıyorsa ekranda MAG duyurusu (annunciation) gösterilmez."
+    "caption_en": "AHRS 2 provides heading reference to the display. If both pilots use independent AHRS sources, no annunciation is shown on the display.",
+    "caption_tr": "AHRS 2, ekrana baş referansı sağlar. Her iki pilot da bağımsız AHRS kaynakları kullanıyorsa ekranda duyurusu (annunciation) gösterilmez."
   },
   {
     "id": "s10",
@@ -131,8 +131,8 @@
     "title_tr": "Dahil Noktalar",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "If additional points are displayed, they are included in the total waypoint count.",
-    "caption_tr": "Ek noktalar görüntüleniyorsa, toplam waypoint sayısına dahil edilir."
+    "caption_en": "MFD also displays calculated top-of-climb and top-of-descend points. If displayed, they will form part of the total waypoints.",
+    "caption_tr": "MFD ayrıca hesaplanan tırmanış tepesi (top-of-climb) ve alçalma başlangıcı (top-of-descent) noktalarını da gösterir. Gösterildiklerinde, toplam waypoint’lerin bir parçasını oluştururlar."
   },
   {
     "id": "s16",
@@ -140,8 +140,8 @@
     "title_tr": "Menzil Seçimi",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
-    "caption_en": "Range is selected using the MAP/PLAN range rotary knob on the bezel controller. The selected range is shown on the display.",
-    "caption_tr": "Menzil, bezel kontrol ünitesindeki MAP/PLAN menzil döner düğmesiyle seçilir. Seçilen menzil ekranda gösterilir."
+    "caption_en": "The range is selected by map/plan range (M/P RNG) rotary knob on the MFD bezel controller. Ranges selectable are 5, 10, 25, 50, 100, 200, 300 and 500 NM. The selected range shown above is 100 NM.",
+    "caption_tr": "Menzil, MFD bezel kontrolcüsü üzerindeki map/plan range (M/P RNG) döner düğmesi ile seçilir. Seçilebilir menziller: 5, 10, 25, 50, 100, 200, 300 ve 500 NM’dir. Yukarıda gösterilen seçili menzil 100 NM’dir."
   },
   {
     "id": "s17",
@@ -158,8 +158,8 @@
     "title_tr": "WX Sektörü",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "When WX is selected, two white lines appear on the range ring to indicate the limits of the weather radar scan sector. The MAP/PLAN (MP) menu above the rotary knob disappears.",
-    "caption_tr": "WX seçildiğinde, menzil halkası üzerinde iki beyaz çizgi görünür ve bunlar hava radar tarama sektörünün sınırlarını gösterir. Döner düğmenin üzerindeki MAP/PLAN (MP) menüsü kaybolur."
+    "caption_en": "When WX is selected, two white lines appear on the range ring. These two lines indicate the limits of weather radar scanning sector, which may be up to 150, depending on which is selected. At the same time, the M/P RNG menu above he rotary knob disappears.",
+    "caption_tr": "WX seçildiğinde, menzil halkası üzerinde iki adet beyaz çizgi görünür. Bu iki çizgi, seçime bağlı olarak 150 nmy olabilen hava radarı tarama sektörünün sınırlarını gösterir. Aynı zamanda, döner düğmenin üzerindeki M/P RNG menüsü kaybolur."
   },
   {
     "id": "s19",
@@ -284,8 +284,8 @@
     "title_tr": "Slayt 32",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "FMS navigation source.",
+    "caption_tr": "FMS navigasyon kaynağı."
   },
   {
     "id": "s33",
@@ -293,8 +293,8 @@
     "title_tr": "Slayt 33",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "Active waypoint identifier",
+    "caption_tr": "Aktif waypoint tanımlayıcı"
   },
   {
     "id": "s34",
@@ -302,8 +302,8 @@
     "title_tr": "Slayt 34",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "DDistance to active waypoint.",
+    "caption_tr": "Aktif waypoint’e mesafe."
   },
   {
     "id": "s35",
@@ -311,8 +311,8 @@
     "title_tr": "Slayt 35",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "Time to go to active waypoint",
+    "caption_tr": "Aktif waypoint’e gitme süresi"
   },
   {
     "id": "s36",
@@ -320,8 +320,8 @@
     "title_tr": "Slayt 36",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "TAS",
+    "caption_tr": "Gerçek hava hızı (TAS)"
   },
   {
     "id": "s37",
@@ -329,8 +329,8 @@
     "title_tr": "Slayt 37",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "Static air temperature in Celsius",
+    "caption_tr": "Durağan hava sıcaklığı (Celsius)"
   },
   {
     "id": "s38",
@@ -338,8 +338,8 @@
     "title_tr": "Slayt 38",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "Ground speed",
+    "caption_tr": "Yer sürati"
   },
   {
     "id": "s39",

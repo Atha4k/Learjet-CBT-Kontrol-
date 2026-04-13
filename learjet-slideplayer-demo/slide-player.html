@@ -19,10 +19,17 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
   pointer-events:none;
 }
 .main{display:grid;grid-template-columns:1fr 300px;gap:12px;padding:12px}
-.preview{border:2px solid var(--line);border-radius:14px;overflow:hidden;background:#0d1117;position:relative}
+.preview{border:2px solid var(--line);border-radius:14px;overflow:hidden;background:#0d1117;position:relative;cursor:zoom-in}
 #slideImg{width:100%;height:auto;max-height:var(--slideMaxH);object-fit:contain;display:block;background:#0b1a20}
 .logo{position:absolute;top:12px;right:12px;padding:4px}
 .logo img{width:48px;height:48px;object-fit:contain;display:block}
+.preview-hint{
+  position:absolute;left:12px;bottom:12px;
+  padding:6px 10px;border-radius:999px;
+  background:rgba(13,17,23,.72);color:#fff;
+  border:1px solid rgba(255,255,255,.18);
+  font-size:12px;font-weight:700;
+}
 .capbox{margin-top:12px;border:1px solid var(--line);border-radius:12px;background:#fff;min-height:var(--captionMinH);display:flex;flex-direction:column}
 .cap-top{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid var(--line)}
 .cap-title{font-weight:700}
@@ -34,7 +41,8 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 .cap-body{padding:10px 12px}
 .caption{font-size:16px;line-height:1.65;white-space:pre-wrap}
 .panel{border:1px solid var(--line);border-radius:12px;background:#fff;display:flex;flex-direction:column}
-.panel .head{padding:10px 12px;border-bottom:1px solid var(--line);font-weight:700}
+.panel .head{padding:10px 12px;border-bottom:1px solid var(--line);font-weight:700;display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap}
+.panel-title{font-weight:700}
 .slides{padding:6px;display:flex;flex-direction:column;gap:6px;max-height:calc(var(--slideMaxH) + var(--captionMinH) + 40px);overflow:auto}
 .slideItem{display:flex;gap:8px;align-items:center;padding:8px 10px;border:1px solid var(--line);border-radius:10px;cursor:pointer}
 .slideItem:hover{background:var(--accent-50);color:var(--accent);border-color:var(--accent)}
@@ -47,7 +55,42 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 .iconbtn{width:38px;height:38px;border-radius:10px;border:1px solid var(--line);background:#fff;cursor:pointer;font-size:16px}
 .iconbtn:hover{border-color:var(--accent);background:var(--accent);color:#fff}
 .iconbtn.mute.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.focus-actions{
+  position:fixed;right:24px;bottom:24px;z-index:1002;
+  display:none;gap:8px;padding:10px;
+  border-radius:14px;background:rgba(255,255,255,.92);
+  box-shadow:0 10px 28px rgba(0,0,0,.18);
+}
+body.focus-mode{background:#000}
+body.focus-mode .wrapper{max-width:none;width:100vw;min-height:100vh;margin:0;padding:0}
+body.focus-mode .card{border-radius:0;border:0;box-shadow:none;background:#000;min-height:100vh}
+body.focus-mode .topbar,
+body.focus-mode .capbox,
+body.focus-mode .panel,
+body.focus-mode .bottombar{display:none}
+body.focus-mode .main{display:block;padding:0}
+body.focus-mode .preview{
+  border:0;border-radius:0;cursor:zoom-out;
+  min-height:100vh;display:grid;place-items:center;
+  background:#000;
+}
+body.focus-mode #slideImg{
+  width:100vw;height:100vh;max-height:100vh;object-fit:contain;background:#000;
+}
+body.focus-mode .logo{top:18px;right:18px}
+body.focus-mode .preview-hint{display:none}
+body.focus-mode .focus-actions{display:flex}
 @media (max-width:1100px){ .main{grid-template-columns:1fr} }
+@media (max-width:700px){
+  .wrapper{padding:6px}
+  .main{padding:10px;gap:10px}
+  .cap-top{align-items:flex-start;gap:10px;flex-wrap:wrap}
+  .langbtns{width:100%;justify-content:flex-end}
+  .panel .head{align-items:flex-start}
+  .right-actions{width:100%;justify-content:flex-end}
+  .focus-actions{right:12px;bottom:12px;padding:8px}
+  .preview-hint{left:10px;bottom:10px;font-size:11px}
+}
 </style>
 </head>
 <body>
@@ -60,9 +103,10 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 
     <div class="main">
       <div>
-        <div class="preview">
+        <div class="preview" id="previewBox" title="Click to enlarge slide">
           <img id="slideImg" alt="Slide">
           <div class="logo"><img src="redstar-logo.png" alt="Redstar Logo"></div>
+          <div class="preview-hint" id="previewHint">Click slide to enlarge</div>
         </div>
         <div class="capbox">
           <div class="cap-top">
@@ -80,20 +124,28 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
       </div>
 
       <div class="panel">
-        <div class="head">Slaytlar</div>
+        <div class="head">
+          <span class="panel-title" id="slidesTitle">Slaytlar</span>
+          <div class="right-actions">
+            <button class="iconbtn mute active" id="muteBtn" title="Sesi aç/kapat">🔇</button>
+            <button class="iconbtn" id="gotoPrev" title="Önceki">◀</button>
+            <button class="iconbtn" id="gotoNext" title="Sonraki">▶</button>
+          </div>
+        </div>
         <div id="slidesBox" class="slides"></div>
       </div>
     </div>
 
     <div class="bottombar">
       <span class="badge" id="counter">0/0</span>
-      <div class="right-actions">
-        <button class="iconbtn mute active" id="muteBtn" title="Sesi aç/kapat">🔇</button>
-        <button class="iconbtn" id="gotoPrev" title="Önceki">◀</button>
-        <button class="iconbtn" id="gotoNext" title="Sonraki">▶</button>
-      </div>
     </div>
   </div>
+</div>
+
+<div class="focus-actions" id="focusActions" aria-label="Focused slide controls">
+  <button class="iconbtn mute active" id="focusMuteBtn" title="Mute or unmute audio">🔇</button>
+  <button class="iconbtn" id="focusPrevBtn" title="Previous">◀</button>
+  <button class="iconbtn" id="focusNextBtn" title="Next">▶</button>
 </div>
 
 <audio id="audio" preload="auto" playsinline="true" aria-hidden="true" style="display:none"></audio>
@@ -245,6 +297,8 @@ pkg = pkg
 
   // ------------------ DOM refs ------------------
   const img      = $('#slideImg');
+  const previewBox = $('#previewBox');
+  const previewHint = $('#previewHint');
   const audio    = $('#audio');
   const slidesEl = $('#slidesBox');
   const capTitle = $('#capTitle');
@@ -253,11 +307,16 @@ pkg = pkg
   const counter  = $('#counter');
   const btnEn    = $('#btnEn');
   const btnTr    = $('#btnTr');
+  const slidesTitle = $('#slidesTitle');
   const prevBtn  = $('#gotoPrev');
   const nextBtn  = $('#gotoNext');
   const muteBtn  = $('#muteBtn');
+  const focusPrevBtn = $('#focusPrevBtn');
+  const focusNextBtn = $('#focusNextBtn');
+  const focusMuteBtn = $('#focusMuteBtn');
 
   let i = 0, lang = (localStorage.getItem('cbtLang') === 'tr' ? 'tr' : 'en'), hardMuted = true;
+  let focusMode = false;
 
   function getTitleFor(slide){
     if (!slide) return null;
@@ -368,12 +427,29 @@ pkg = pkg
     setActive(i);
   }
 
+  function setFocusMode(nextState){
+    focusMode = Boolean(nextState);
+    document.body.classList.toggle('focus-mode', focusMode);
+    previewBox.title = focusMode ? 'Click to return to normal view' : 'Click to enlarge slide';
+    previewHint.textContent = focusMode ? '' : (lang === 'tr' ? 'Buyutmek icin slayta tikla' : 'Click slide to enlarge');
+  }
+
   function setLang(L){
     lang = (L === 'tr' ? 'tr' : 'en');
     localStorage.setItem('cbtLang', lang);
     btnEn.classList.toggle('active', lang==='en');
     btnTr.classList.toggle('active', lang==='tr');
     capTitle.textContent = (lang==='tr' ? 'Altyazı' : 'Caption');
+    slidesTitle.textContent = (lang==='tr' ? 'Slaytlar' : 'Slides');
+    prevBtn.title = (lang==='tr' ? 'Önceki' : 'Previous');
+    nextBtn.title = (lang==='tr' ? 'Sonraki' : 'Next');
+    muteBtn.title = (lang==='tr' ? 'Sesi aç/kapat' : 'Mute or unmute audio');
+    focusPrevBtn.title = prevBtn.title;
+    focusNextBtn.title = nextBtn.title;
+    focusMuteBtn.title = muteBtn.title;
+    if (!focusMode) {
+      previewHint.textContent = (lang === 'tr' ? 'Buyutmek icin slayta tikla' : 'Click slide to enlarge');
+    }
     refreshSlideLabels();
     renderCaption();
   }
@@ -384,8 +460,26 @@ pkg = pkg
   btnTr.onclick = ()=> setLang('tr');
   prevBtn.onclick = ()=> load(i-1);
   nextBtn.onclick = ()=> load(i+1);
-  const renderMute = ()=>{ muteBtn.classList.toggle('active',hardMuted); muteBtn.textContent = hardMuted?'🔇':'🔊'; };
-  muteBtn.onclick = ()=>{ hardMuted=!hardMuted; audio.muted=hardMuted; if(!hardMuted) audio.play().catch(()=>{}); renderMute(); };
+  focusPrevBtn.onclick = ()=> load(i-1);
+  focusNextBtn.onclick = ()=> load(i+1);
+  const renderMute = ()=>{
+    [muteBtn, focusMuteBtn].forEach(btn => {
+      btn.classList.toggle('active',hardMuted);
+      btn.textContent = hardMuted?'🔇':'🔊';
+    });
+  };
+  const toggleMute = ()=>{
+    hardMuted=!hardMuted;
+    audio.muted=hardMuted;
+    if(!hardMuted) audio.play().catch(()=>{});
+    renderMute();
+  };
+  muteBtn.onclick = toggleMute;
+  focusMuteBtn.onclick = toggleMute;
+  previewBox.onclick = ()=> setFocusMode(!focusMode);
+  document.addEventListener('keydown', ev => {
+    if (ev.key === 'Escape' && focusMode) setFocusMode(false);
+  });
 
   setLang(localStorage.getItem('cbtLang')==='tr'?'tr':'en');
   refreshSlideLabels();

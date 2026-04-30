@@ -100,22 +100,8 @@ async function ocrCaptionFromBottomBand(absPath){
     .replace(/\s{2,}/g, ' ')
     .trim();
 
-  // Sesli harf içermeyen uzun ALL-CAPS token'ları at
-  out = out.split(/\s+/).filter(tok=>{
-    const up = tok === tok.toUpperCase();
-    const hasVowel = /[AEIOUaeiou]/.test(tok);
-    if (tok.length >= 3 && up && !hasVowel) return false;
-    return true;
-  }).join(' ').trim();
-
   // Kuyrukta kalan menü/numara/tek harf çöplerini sil
   out = stripTrailingUI(out);
-
-  // Baştaki saçakları kırpma: ilk büyük-küçük harf başlangıcından itibaren al
-  const m = out.match(/[A-Z][a-z][\s\S]*$/);
-  if (m && m.index > 0 && m[0].length > 20) {
-    out = m[0].trim();
-  }
 
   return out;
 }

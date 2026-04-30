@@ -74,39 +74,6 @@
     }
   }
 
-  /* -------------------- PWA splash -------------------- */
-  (function ensureStandaloneFlag(){
-    const isStandalone =
-      window.matchMedia?.('(display-mode: standalone)').matches ||
-      window.navigator.standalone;
-    if (isStandalone) document.documentElement.classList.add('standalone');
-  })();
-
-  (function splashWithAudio(){
-    const isStandalone = document.documentElement.classList.contains('standalone');
-    if (!isStandalone) return;
-    const splash = $('#splash');
-    const video  = $('#splashVideo');
-    if (!splash) return;
-    const audio = new Audio('assets/splash/intro.mp3');
-    audio.volume = 1.0;
-    let tried = false;
-    const playAudio = () => {
-      if (tried) return; tried = true;
-      audio.play().catch(() => {
-        const resume = () => { audio.play().catch(()=>{}); window.removeEventListener('pointerdown', resume); window.removeEventListener('keydown', resume); };
-        window.addEventListener('pointerdown', resume, { once:true });
-        window.addEventListener('keydown', resume, { once:true });
-      });
-    };
-    const closeSplash = () => { splash.classList.add('hide'); setTimeout(()=>{ try{audio.pause();}catch{} splash.remove(); },480); };
-    if (video){
-      let closed=false; const tryClose=()=>{if(!closed){closed=true;closeSplash();}};
-      video.addEventListener('playing',()=>{playAudio();setTimeout(tryClose,3000);});
-      setTimeout(()=>{playAudio();tryClose();},3000);
-    } else { playAudio(); setTimeout(closeSplash,3000); }
-  })();
-
   /* -------------------- DOM -------------------- */
   const hero = $('#hero');
   const player = $('#player');

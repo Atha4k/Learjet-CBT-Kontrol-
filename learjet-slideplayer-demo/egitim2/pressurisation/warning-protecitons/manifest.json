@@ -3,9 +3,9 @@
   "pages": 10,
   "pad": 2,
   "namePrefix": "s",
-  "slidesDir": "warning-protection-slides",
-  "audioDir": "warning-protection-audio",
-  "captionsManifest": "warning-protection-captions/captions.json",
+  "slidesDir": "warning-portecitons-slides",
+  "audioDir": "warning-protecitons-audio",
+  "captionsManifest": "warning-protecitons-captions/captions.json",
   "imgExt": "png",
   "audioExt": "mp3"
 }

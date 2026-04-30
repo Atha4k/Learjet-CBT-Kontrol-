@@ -1,436 +1,386 @@
 [
   {
     "id": "s01",
-    "title": "Bezel Controllers",
-    "title_tr": "Bezel Kontrolleri",
+    "title": "MFD main menu is the power-up default menu. This menu is als…",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "MFD main menu is the power-up default menu. This menu is also displayed upon returning from any submenu. Main menu consists of: system (SYS), multi-function display (MFD), checklist (CKLST), weather (WX), MAP/PLAN, and MAP/PLAN range.",
-    "caption_tr": "MFD ana menüsü, sistem açıldığında varsayılan olarak görüntülenen menüdür. Bu menü, herhangi bir alt menüden geri dönüldüğünde de tekrar gösterilir. Ana menü şunlardan oluşur: -- system (SYS), -- multi-function display (MFD), -- checklist (CKLST), -- weather (WX), -- MAP/PLAN ve -- MAP/PLAN range."
+    "caption_tr": ""
   },
   {
     "id": "s02",
-    "title": "Controller Functions",
-    "title_tr": "Kontrol Fonksiyonları",
+    "title": "CKLST menus are not applicable on SIA's aircrafts.",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "CKLST sections are not applicable on this menu. ",
-    "caption_tr": "CKLST bölümleri bu menüde görünmez."
+    "caption_en": "CKLST menus are not applicable on SIA's aircrafts.",
+    "caption_tr": ""
   },
   {
     "id": "s03",
-    "title": "Altitude Selection",
-    "title_tr": "İrtifa Seçimi",
+    "title": "The main menu can be broken further into several submenus as…",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The main menu can be broken further into several submenus as shown above.",
-    "caption_tr": "Ana menü, yukarıda gösterildiği gibi daha fazla alt menüye ayrılabilir."
+    "caption_tr": ""
   },
   {
     "id": "s04",
-    "title": "BARO Settings",
-    "title_tr": "BARO Ayarları",
+    "title": "Anytime one of these sub-menu is displayed and RTN menu butt…",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "In addition to RA and BARO minimums, barometric correction settings can also be selected.",
-    "caption_tr": "RA ve BARO minimumlara ek olarak barometrik düzeltme ayarları da seçilebilir."
+    "caption_en": "Anytime one of these sub-menu is displayed and RTN menu button is pressed, it will change that sub-menu to main",
+    "caption_tr": ""
   },
   {
     "id": "s05",
-    "title": "RA BARO Button",
-    "title_tr": "RA BARO Tuşu",
+    "title": "Let us now concentrate on the main menu. MAP mode and SUMRY …",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "The RA/BARO pushbutton selects either RA or BARO reference. No selection is active at power-up.",
-    "caption_tr": "RA/BARO tuşu, RA veya BARO referansını seçmek için kullanılır. Sistem açıldığında herhangi bir seçim aktif değildir."
+    "caption_en": "Let us now concentrate on the main menu. MAP mode and SUMRY page are displayed by default on power-up.Therefore, SYS and MAP menus are boxed.",
+    "caption_tr": ""
   },
   {
     "id": "s06",
-    "title": "RA Default",
-    "title_tr": "RA Varsayılanı",
+    "title": "If the weather radar is ON, pushing the WX menu button selec…",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "The first press selects RA reference with a default minimum altitude displayed.",
-    "caption_tr": "İlk basış RA referansını seçer ve varsayılan bir minimum irtifa gösterilir."
+    "caption_en": "If the weather radar is ON, pushing the WX menu button select weather display on MFD. At the same time, WX menu is boxed and MP RNG menu is removed. This means that the range knob function is disabled.",
+    "caption_tr": ""
   },
   {
     "id": "s07",
-    "title": "Clear Selection",
-    "title_tr": "Seçimi Kaldır",
+    "title": "When weather is selected on the MFD, range control is by ran…",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "Pressing the RA/BARO button a third time clears the selection and the display field becomes blank.",
-    "caption_tr": "RA/BARO tuşuna üçüncü kez basıldığında seçim kaldırılır ve alan boş hale gelir."
+    "caption_en": "When weather is selected on the MFD, range control is by range buttons on the weather radar control panel. The UP arrow increases the range and the down arrow decreases the range. Maximum range selectable is 300 NM. Range is defaulted to 50 NM if weather radar is off.",
+    "caption_tr": ""
   },
   {
     "id": "s08",
-    "title": "Minimum Adjustment",
-    "title_tr": "Minimum Ayarı",
+    "title": "If WX menu is selected and now MAPPLAN button is pushed, it …",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "When RA or BARO is selected, the minimum value can be adjusted using the MINIMUM knob within defined limits.",
-    "caption_tr": "RA veya BARO seçildiğinde minimum değer, MINIMUM düğmesi kullanılarak belirlenen sınırlar içinde ayarlanabilir."
+    "caption_en": "If WX menu is selected and now MAPPLAN button is pushed, it will change MAP to PLAN display and 1) PLAN menu is boxed, 2) WX menu box is removed, and 3) MP RNG knob is enabled.",
+    "caption_tr": ""
   },
   {
     "id": "s09",
-    "title": "D Bug",
-    "title_tr": "D İşareti",
+    "title": "Pushing MAPPLAN button again reverts to MAP mode with weathe…",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "When BARO minimum is selected, a magenta D bug appears on the altitude tape at the selected value.",
-    "caption_tr": "BARO minimum seçildiğinde, seçilen değerde irtifa bandı üzerinde mor renkli bir D işareti görünür."
+    "caption_en": "Pushing MAPPLAN button again reverts to MAP mode with weather display. MAP mode is also obtained if the existing display is PLAN and WX button is pushed.",
+    "caption_tr": ""
   },
   {
     "id": "s10",
-    "title": "Dual Sync",
-    "title_tr": "Çift Senkron",
+    "title": "Weather deselection is done by depressing the menu button wi…",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "If RA or BARO is selected on both PFDs, adjusting one minimum control synchronizes both displays.",
-    "caption_tr": "Her iki PFD’de de RA veya BARO seçiliyse, birindeki ayar her iki ekranı senkronize eder."
+    "caption_en": "Weather deselection is done by depressing the menu button with the boxed WX. Do that.",
+    "caption_tr": ""
   },
   {
     "id": "s11",
-    "title": "Independent Minima",
-    "title_tr": "Bağımsız Minimum",
+    "title": "Weather deselection is done by depressing the menu button wi…",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
-    "caption_en": "If one side uses RA and the other BARO, adjustments affect only the selected side.",
-    "caption_tr": "Bir taraf RA, diğer taraf BARO kullanıyorsa yapılan ayar yalnızca seçilen tarafı etkiler."
+    "caption_en": "Weather deselection is done by depressing the menu button with the boxed WX. Do that.",
+    "caption_tr": ""
   },
   {
     "id": "s12",
-    "title": "RA Sync",
-    "title_tr": "RA Senkronu",
+    "title": "SUMRY is a system page which is displayed on power up. There…",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "When both sides select RA reference, the minimum values synchronize automatically.",
-    "caption_tr": "Her iki taraf RA referansını seçtiğinde minimum değerler otomatik olarak senkronize olur."
+    "caption_en": "SUMRY is a system page which is displayed on power up. Therefore, on the MFD main menu, SYS menu is boxed. Pushing SYS button removes SUMRY display and the box on SYS.",
+    "caption_tr": ""
   },
   {
     "id": "s13",
-    "title": "BARO Sync",
-    "title_tr": "BARO Senkronu",
+    "title": "SUMRY is a system page which is displayed on power up. There…",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
-    "caption_en": "Switching from RA to BARO synchronizes the BARO minimum with the opposite side.",
-    "caption_tr": "RA’dan BARO’ya geçildiğinde BARO minimum değeri karşı tarafla senkronize edilir."
+    "caption_en": "SUMRY is a system page which is displayed on power up. Therefore, on the MFD main menu, SYS menu is boxed. Pushing SYS button removes SUMRY display and the box on SYS.",
+    "caption_tr": ""
   },
   {
     "id": "s14",
-    "title": "BARO Matching",
-    "title_tr": "BARO Eşitleme",
+    "title": "If the SYS button is pressed again, SUMRY is brought back an…",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
-    "caption_en": "BARO minimum values are synchronized when both sides use BARO reference.",
-    "caption_tr": "Her iki taraf BARO referansı kullandığında BARO minimum değerleri eşitlenir."
+    "caption_en": "If the SYS button is pressed again, SUMRY is brought back and the main menu is replaced by system submenu.",
+    "caption_tr": ""
   },
   {
     "id": "s15",
-    "title": "RA Warning",
-    "title_tr": "RA Uyarısı",
+    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "When RA minimum is reached, a flashing amber MIN warning appears along with an aural alert.",
-    "caption_tr": "RA minimuma ulaşıldığında yanıp sönen amber MIN uyarısı ve sesli ikaz verilir."
+    "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
+    "caption_tr": ""
   },
   {
     "id": "s16",
-    "title": "BARO Warning",
-    "title_tr": "BARO Uyarısı",
+    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
-    "caption_en": "The same minimum warning occurs when BARO altitude equals the BARO minimum value.",
-    "caption_tr": "BARO irtifa BARO minimum değere eşit olduğunda aynı uyarı gerçekleşir."
+    "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
+    "caption_tr": ""
   },
   {
     "id": "s17",
-    "title": "RA Deselect",
-    "title_tr": "RA Kaldırma",
+    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
-    "caption_en": "RA minimum can be deselected by cycling the RA/BARO button until no selection remains.",
-    "caption_tr": "RA minimum, RA/BARO tuşu çevrilerek seçim kaldırılana kadar devre dışı bırakılabilir."
+    "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
+    "caption_tr": ""
   },
   {
     "id": "s18",
-    "title": "Remove BARO",
-    "title_tr": "BARO Kaldırma",
+    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "BARO minimum and D bug are removed by adjusting the minimum knob and clearing BARO selection.",
-    "caption_tr": "BARO minimum ve D işareti, minimum düğmesi ayarlanarak ve BARO seçimi kaldırılarak silinir."
+    "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
+    "caption_tr": ""
   },
   {
     "id": "s19",
-    "title": "BARO Set",
-    "title_tr": "BARO Ayarı",
+    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
-    "caption_en": "The BARO SET knob adjusts barometric correction in either inHg or hPa units.",
-    "caption_tr": "BARO SET düğmesi barometrik düzeltmeyi inHg veya hPa biriminde ayarlar."
+    "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
+    "caption_tr": ""
   },
   {
     "id": "s20",
-    "title": "ADC Input",
-    "title_tr": "ADC Girişi",
+    "title": "The above picture shows fuel is selcted on the menu. If FUEL…",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
-    "caption_en": "Corrected barometric data is sent to the ADC and processed by the IC-600 for display.",
-    "caption_tr": "Düzeltilmiş barometrik veri ADC’ye gönderilir ve IC-600 tarafından görüntülenir."
+    "caption_en": "The above picture shows fuel is selcted on the menu. If FUEL button is pushed, systems menu will switch to main menu. Fuel schematic remains displayed on the MFD. However, SYS menu is boxed to indicate the presence of the schematic on the MFD.",
+    "caption_tr": ""
   },
   {
     "id": "s21",
-    "title": "Standard Reset",
-    "title_tr": "Standart Sıfırlama",
+    "title": "If the SYS button is pushed, it will remove the last selecte…",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
-    "caption_en": "Pressing the STD button resets barometric correction to standard pressure.",
-    "caption_tr": "STD tuşuna basılması barometrik düzeltmeyi standart basınca sıfırlar."
+    "caption_en": "If the SYS button is pushed, it will remove the last selected system on display and at the same time, the box on the SYS disappears.",
+    "caption_tr": ""
   },
   {
     "id": "s22",
-    "title": "Standard Button",
-    "title_tr": "Standart Tuş",
+    "title": "Pushing MFD button on the main menu opens up submenu consist…",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
-    "caption_en": "Pressing the standard button resets the barometric correction to the standard pressure setting.",
-    "caption_tr": "Standart tuşa basıldığında barometrik düzeltme standart basınç ayarına sıfırlanır."
+    "caption_en": "Pushing MFD button on the main menu opens up submenu consisting of RTN, speeds (SPDS), joystick (JS TK), navigation (NAV) and airport (APT), DATA and MP RNG.",
+    "caption_tr": ""
   },
   {
     "id": "s23",
-    "title": "Bezel Menu",
-    "title_tr": "Bezel Menü",
+    "title": "The NAV and APT menus are not boxed initially. Pushing the a…",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
-    "caption_en": "The bezel controller provides menu navigation and selection for display functions.",
-    "caption_tr": "Bezel kontrol ünitesi ekran fonksiyonları için menü gezintisi ve seçim imkânı sağlar."
+    "caption_en": "The NAV and APT menus are not boxed initially. Pushing the associate button box up the NAV",
+    "caption_tr": ""
   },
   {
     "id": "s24",
-    "title": "Menu Navigation",
-    "title_tr": "Menü Gezintisi",
+    "title": "With NAV boxed, NAV is annunciated in green on the right. MF…",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
-    "caption_en": "Menu buttons are used to navigate between available display pages.",
-    "caption_tr": "Menü tuşları, mevcut ekran sayfaları arasında geçiş yapmak için kullanılır."
+    "caption_en": "With NAV boxed, NAV is annunciated in green on the right. MFD is provided with up to eight closest VORVORTACSs or NDBs in relation to the airplane. This is further limited to a maximum of four VORVORTACSs and four ADFs. Each navaid has an identifier. All symbols and identifiers are in green.",
+    "caption_tr": ""
   },
   {
     "id": "s25",
-    "title": "Joystick Control",
-    "title_tr": "Joystick Kontrolü",
+    "title": "Pushing the same the second time remove the box on NAV and b…",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
-    "caption_en": "The joystick allows movement of the designator on map and plan displays.",
-    "caption_tr": "Joystick, harita ve plan ekranlarında işaretçinin hareket ettirilmesini sağlar."
+    "caption_en": "Pushing the same the second time remove the box on NAV and box up APT menu. With APT boxed, APT is annunciated in cyan. MFD is provided with up to four closest airport symbols and identifiers. Symbols and identifiers are in cyan.",
+    "caption_tr": ""
   },
   {
     "id": "s26",
-    "title": "Designator Origin",
-    "title_tr": "İşaretçi Başlangıcı",
+    "title": "At the third push, both NAV and APT are boxed. This time bot…",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
-    "caption_en": "On power-up, the designator is positioned at the aircraft symbol.",
-    "caption_tr": "Sistem açıldığında işaretçi uçak sembolü üzerinde konumlanır."
+    "caption_en": "At the third push, both NAV and APT are boxed. This time both navaids and airports are called up for display on the MFD.",
+    "caption_tr": ""
   },
   {
     "id": "s27",
-    "title": "Designator Movement",
-    "title_tr": "İşaretçi Hareketi",
+    "title": "Pushing the button the fourth time removes the box and all n…",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
-    "caption_en": "Moving the joystick displaces the designator relative to the aircraft symbol.",
-    "caption_tr": "Joystick hareketi, işaretçiyi uçak sembolüne göre kaydırır."
+    "caption_en": "Pushing the button the fourth time removes the box and all navaids and airports displays are cleared from the MFD.",
+    "caption_tr": ""
   },
   {
     "id": "s28",
-    "title": "Distance Bearing",
-    "title_tr": "Mesafe ve İstikamet",
+    "title": "The DATA button allows for selection or deselection of NAVAI…",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
-    "caption_en": "When displaced, the distance and bearing from the aircraft to the designator are displayed.",
-    "caption_tr": "İşaretçi kaydırıldığında, uçak ile işaretçi arasındaki mesafe ve istikamet gösterilir."
+    "caption_en": "The DATA button allows for selection or deselection of NAVAIDNDB and airport idents. The power-up default is ident ON. Pushing DATA button will remove these idents.",
+    "caption_tr": ""
   },
   {
     "id": "s29",
-    "title": "Home Recall",
-    "title_tr": "Merkeze Dönüş",
+    "title": "The picture shows Vspeeds submenu when SPDS button is select…",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
-    "caption_en": "Pressing the recall button returns the designator to its home position.",
-    "caption_tr": "Recall tuşuna basıldığında işaretçi başlangıç konumuna döner."
+    "caption_en": "The picture shows Vspeeds submenu when SPDS button is selected. A boxed FMS indicates FMS is the source for the Vspeeds computation. The pilot programmes the FMS with valid data and the dashes turn to digital values that are received from FMS.",
+    "caption_tr": ""
   },
   {
     "id": "s30",
-    "title": "Waypoint Skipping",
-    "title_tr": "Waypoint Atlama",
+    "title": "The computed Vspeeds are displayed on the menu and at the bo…",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
-    "caption_en": "Repeated presses of the button cycle the designator through waypoints.",
-    "caption_tr": "Tuşa ardışık basıldığında işaretçi waypointler arasında dolaşır."
+    "caption_en": "The computed Vspeeds are displayed on the menu and at the bottom of speed tape on both PFDs. V1 speed is displayed in white, VR in cyan and V2 in green in colour.",
+    "caption_tr": ""
   },
   {
     "id": "s31",
-    "title": "Radar Waypoints",
-    "title_tr": "Radar Waypointleri",
+    "title": "FMS Vspeeds may be overridden by setting the Vspeeds manuall…",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
-    "caption_en": "Offset designators can be stored as temporary radar waypoints.",
-    "caption_tr": "Kaydırılmış işaretçiler geçici radar waypointleri olarak kaydedilebilir."
+    "caption_en": "FMS Vspeeds may be overridden by setting the Vspeeds manually. In setting Vspeeds manually, it is not necessary to set Vspeed in sequence i.e. V1 followed by VR and then V2. However, in the steps given below, Vspeeds are set sequentially.",
+    "caption_tr": ""
   },
   {
     "id": "s32",
-    "title": "Waypoint Storage",
-    "title_tr": "Waypoint Kaydı",
+    "title": "Step 1): Referring to the picture above, there are two ways …",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
-    "caption_en": "Up to 25 temporary radar waypoints can be stored during a flight.",
-    "caption_tr": "Bir uçuş boyunca en fazla 25 geçici radar waypointi saklanabilir."
+    "caption_en": "Step 1): Referring to the picture above, there are two ways to navigate from page 1 to page 3, the page in which Vspeeds are manually selected. On page 3, SET is seen above the rotary knob. The rotary knob is used to set Vspeeds. So, with V1 value surrounded with two boxes, the value can be changed by the SET knob.",
+    "caption_tr": ""
   },
   {
     "id": "s33",
-    "title": "Waypoint Identification",
-    "title_tr": "Waypoint Tanımlama",
+    "title": "Step 2): Having changed V1, VR button is pushed next. This w…",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
-    "caption_en": "Radar waypoints are labeled sequentially for identification.",
-    "caption_tr": "Radar waypointleri tanımlama amacıyla sıralı olarak etiketlenir."
+    "caption_en": "Step 2): Having changed V1, VR button is pushed next. This will leave V1 with a single box and VR value with two boxes. Turning the SET knob changes the VR value. Now, touch the highlighted knob to simulate changing",
+    "caption_tr": ""
   },
   {
     "id": "s34",
-    "title": "List Access",
-    "title_tr": "Liste Erişimi",
+    "title": "Step 3): Pushing V2 button allows V2 speed to be set by the …",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
-    "caption_en": "Stored radar waypoints can be accessed through the LIST function.",
-    "caption_tr": "Kaydedilen radar waypointlerine LIST fonksiyonu üzerinden erişilebilir."
+    "caption_en": "Step 3): Pushing V2 button allows V2 speed to be set by the knob.",
+    "caption_tr": ""
   },
   {
     "id": "s35",
-    "title": "Flight Plan Insert",
-    "title_tr": "Uçuş Planına Ekleme",
+    "title": "When the V2 speed has been set, V2 button is pressed again t…",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
-    "caption_en": "Radar waypoints may be inserted into the active flight plan.",
-    "caption_tr": "Radar waypointleri aktif uçuş planına eklenebilir."
+    "caption_en": "When the V2 speed has been set, V2 button is pressed again to remove the inner box. And now all the Vspeeds are boxed with a single box.",
+    "caption_tr": ""
   },
   {
     "id": "s36",
-    "title": "Shutdown Clear",
-    "title_tr": "Kapatma Temizleme",
+    "title": "If it is decided to revert to FMS Vspeeds, then the FMS VSPD…",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
-    "caption_en": "All temporary radar waypoints are cleared upon system shutdown.",
-    "caption_tr": "Sistem kapatıldığında tüm geçici radar waypointleri silinir."
+    "caption_en": "If it is decided to revert to FMS Vspeeds, then the FMS VSPDS button is pushed. This boxes FMS VSPDS and recalls all FMS computed Vspeeds. Manual Vspeeds are lost and SET disappears above the knob.",
+    "caption_tr": ""
   },
   {
     "id": "s37",
-    "title": "Joystick Submenu",
-    "title_tr": "Joystick Alt Menüsü",
+    "title": "Pushing JSTK button on the MFD menu selects the joystick sub…",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
-    "caption_en": "Selecting the joystick submenu enables designator control functions.",
-    "caption_tr": "Joystick alt menüsü seçildiğinde işaretçi kontrol fonksiyonları aktif olur."
+    "caption_en": "Pushing JSTK button on the MFD menu selects the joystick submenu.",
+    "caption_tr": ""
   },
   {
     "id": "s38",
-    "title": "Designator Control",
-    "title_tr": "İşaretçi Kontrolü",
+    "title": "Joystick submenu buttons are used in conjunction with joysti…",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
-    "caption_en": "The joystick moves the designator relative to aircraft position.",
-    "caption_tr": "Joystick, işaretçiyi uçağın konumuna göre hareket ettirir."
+    "caption_en": "Joystick submenu buttons are used in conjunction with joystick located just aft of the thrust levers. The joystick controls the designator on the MFD map or plan view.",
+    "caption_tr": ""
   },
   {
     "id": "s39",
-    "title": "Map Mode",
-    "title_tr": "Harita Modu",
+    "title": "In the map display, the designator orignates from airplane s…",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
-    "caption_en": "In map mode, the designator originates from the aircraft symbol.",
-    "caption_tr": "Harita modunda işaretçi uçak sembolünden başlar."
+    "caption_en": "In the map display, the designator orignates from airplane symbol (home position). It moves around the symbol by moving the joystick.",
+    "caption_tr": ""
   },
   {
     "id": "s40",
-    "title": "Plan Mode",
-    "title_tr": "Plan Modu",
+    "title": "In the plan display, designator is fixed at the center of th…",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
-    "caption_en": "In plan mode, the designator remains fixed while the aircraft symbol moves.",
-    "caption_tr": "Plan modunda işaretçi sabit kalır, uçak sembolü hareket eder."
+    "caption_en": "In the plan display, designator is fixed at the center of the circle, but the airplane symbol moves around the designator.",
+    "caption_tr": ""
   },
   {
     "id": "s41",
-    "title": "Relative Data",
-    "title_tr": "Göreceli Veriler",
+    "title": "In either display, whenever designator is displaced from its…",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
-    "caption_en": "Distance and bearing data update dynamically as the designator moves.",
-    "caption_tr": "İşaretçi hareket ettikçe mesafe ve istikamet verileri dinamik olarak güncellenir."
+    "caption_en": "In either display, whenever designator is displaced from its home position, distance and bearing of the designator to the aircraft are displayed on the right side of the MFD.",
+    "caption_tr": ""
   },
   {
     "id": "s42",
-    "title": "Hidden Designator",
-    "title_tr": "Gizli İşaretçi",
+    "title": "On power-up, the designator is co-located with the aircraft …",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
-    "caption_en": "When parked at the aircraft symbol, the designator is hidden.",
-    "caption_tr": "İşaretçi uçak sembolü üzerindeyken gizlenir."
+    "caption_en": "On power-up, the designator is co-located with the aircraft symbol. When the designator is parked at the aircraft symbol, it is not shown.",
+    "caption_tr": ""
   },
   {
     "id": "s43",
-    "title": "Joystick Inputs",
-    "title_tr": "Joystick Girdileri",
+    "title": "To displace the designator from its home position, the joyst…",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
-    "caption_en": "Directional joystick inputs move the designator accordingly.",
-    "caption_tr": "Joystick yön girdileri işaretçiyi ilgili yönde hareket ettirir."
+    "caption_en": "To displace the designator from its home position, the joystick is moved UPIDOWNILEFTRIGHT and the designator will move correspondingly. Now, touch the UP arrow and watch. Touch right arrow",
+    "caption_tr": ""
   },
   {
     "id": "s44",
-    "title": "Recall Function",
-    "title_tr": "Geri Çağırma",
+    "title": "Whenever designator is displaced, it can be recalled to its …",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
-    "caption_en": "The recall function returns the designator to its home position.",
-    "caption_tr": "Geri çağırma fonksiyonu işaretçiyi başlangıç konumuna getirir."
+    "caption_en": "Whenever designator is displaced, it can be recalled to its home position by pressing RCL button. Watch",
+    "caption_tr": ""
   },
   {
     "id": "s45",
-    "title": "Recall Confirmation",
-    "title_tr": "Geri Çağırma Onayı",
+    "title": "Whenever designator is displaced, it can be recalled to its …",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
-    "caption_en": "Visual confirmation is provided when the designator returns home.",
-    "caption_tr": "İşaretçi merkeze döndüğünde görsel onay sağlanır."
+    "caption_en": "Whenever designator is displaced, it can be recalled to its home position by pressing RCL button. Watch",
+    "caption_tr": ""
   },
   {
     "id": "s46",
-    "title": "Waypoint Review",
-    "title_tr": "Waypoint İncelemesi",
+    "title": "With designator at home position, pressing SKP button repeat…",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
-    "caption_en": "Cycling through waypoints allows review of the flight plan.",
-    "caption_tr": "Waypointler arasında dolaşmak uçuş planının incelenmesini sağlar."
+    "caption_en": "With designator at home position, pressing SKP button repeatedly skips designator from one waypoint to another. At the tenth waypoint pushing SKP will bring designator back to home position again. This feature enables crew to view and verify the flight plan.",
+    "caption_tr": ""
   },
   {
     "id": "s47",
-    "title": "Radar Insert",
-    "title_tr": "Radar Ekleme",
+    "title": "When the designator is offset, pushing ENT button causes the…",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
-    "caption_en": "Pressing ENT stores the designator position as a radar waypoint.",
-    "caption_tr": "ENT tuşuna basıldığında işaretçi konumu radar waypointi olarak kaydedilir."
+    "caption_en": "When the designator is offset, pushing ENT button causes the latitude and longitude of the designator to be transmitted to the FMS as radar waypoint. Up to a maximum of 25 radar waypoints can be stored temporary in the FMS on that flight, after which all stored radar waypoints will be erased upon FMS shutdown.",
+    "caption_tr": ""
   },
   {
     "id": "s48",
-    "title": "Waypoint Access",
-    "title_tr": "Waypoint Erişimi",
+    "title": "Radar waypoints are designated in the FMS as R1, R2 , etc ri…",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
-    "caption_en": "Radar waypoints can be retrieved and activated from the list menu.",
-    "caption_tr": "Radar waypointleri liste menüsünden çağrılıp aktif hale getirilebilir."
+    "caption_en": "Radar waypoints are designated in the FMS as R1, R2 , etc right up to R 25. They are accessible from the LIST function. Any of these waypoint can be retreived from the LIST function and make active on the flight plan.",
+    "caption_tr": ""
   }
 ]
-
-

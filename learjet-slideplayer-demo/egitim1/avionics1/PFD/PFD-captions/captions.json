@@ -1,218 +1,1074 @@
 [
   {
     "id": "s01",
-    "title": "PFD Overview",
-    "title_tr": "PFD Genel Bakış",
+    "title": "Primary flight display (PFD) is normally displayed on DUs 1 …",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "The Primary Flight Display (PFD) is normally shown on Display Units 1 and 4 and integrates attitude, navigation, and air data information.",
-    "caption_tr": "Birincil Uçuş Göstergesi (PFD), normalde 1 ve 4 numaralı Ekran Ünitelerinde gösterilir ve tutum, seyrüsefer ve hava verilerini entegre eder."
+    "caption_en": "Primary flight display (PFD) is normally displayed on DUs 1 and 4. PFD consists of an integrated display of attitude, navigation and air data flight",
+    "caption_tr": ""
   },
   {
     "id": "s02",
-    "title": "Display Layout",
-    "title_tr": "Ekran Yerleşimi",
+    "title": "PFD screen is divided into the following groups:",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The PFD screen is divided into several functional display groups.",
-    "caption_tr": "PFD ekranı, farklı işlevsel görüntü gruplarına ayrılmıştır."
+    "caption_en": "PFD screen is divided into the following groups:",
+    "caption_tr": ""
   },
   {
     "id": "s03",
-    "title": "Airspeed Display",
-    "title_tr": "Hava Hızı Göstergesi",
+    "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "PFD screen is devided into the following groups: airspeed display, autopilot and flight director mode annunciations, attitude director indicator display, attitude display, horizontal situation indicator, vertical speed display.",
-    "caption_tr": "PFD üzerindeki görüntü gruplarından biri hava hızı göstergesidir."
+    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display,",
+    "caption_tr": ""
   },
   {
     "id": "s04",
-    "title": "Mode Annunciations",
-    "title_tr": "Mod Göstergeleri",
+    "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "The PFD includes airspeed display and autopilot and flight director mode annunciations.",
-    "caption_tr": "PFD; hava hızı göstergesi ile otomatik pilot ve uçuş direktörü mod duyurularını içerir."
+    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display, -- Auto-pilot and flight director mode annunciations,",
+    "caption_tr": ""
   },
   {
     "id": "s05",
-    "title": "ADI Display",
-    "title_tr": "ADI Ekranı",
+    "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "The PFD also includes the Attitude Director Indicator (ADI) display.",
-    "caption_tr": "PFD; hava hızı ve mod duyurularına ek olarak Tutum Direktörü Göstergesi (ADI) ekranını da içerir."
+    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display, -- Auto-pilot and flight director mode annunciations, -- Attitude director indicator (ADI) display,",
+    "caption_tr": ""
   },
   {
     "id": "s06",
-    "title": "Altitude Display",
-    "title_tr": "İrtifa Göstergesi",
+    "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "The PFD integrates airspeed, mode annunciations, ADI display, and altitude display.",
-    "caption_tr": "PFD; hava hızı, mod duyuruları, ADI ekranı ve irtifa göstergesini entegre eder."
+    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display, -- Auto-pilot and flight director mode annunciations, -- Attitude director indicator (ADI) display, -- Altitude display,",
+    "caption_tr": ""
   },
   {
     "id": "s07",
-    "title": "HSI Display",
-    "title_tr": "HSI Göstergesi",
+    "title": "-- Horizontal situation indicator (HSI), and",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "The Horizontal Situation Indicator (HSI) is displayed on the PFD.",
-    "caption_tr": "Yatay Durum Göstergesi (HSI), PFD üzerinde görüntülenir."
+    "caption_en": "-- Horizontal situation indicator (HSI), and",
+    "caption_tr": ""
   },
   {
     "id": "s08",
-    "title": "Vertical Speed",
-    "title_tr": "Dikey Hız",
+    "title": "-- Horizontal situation indicator (HSI), and -- Vertical spe…",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "The PFD includes both the Horizontal Situation Indicator (HSI) and the vertical speed display.",
-    "caption_tr": "PFD, Yatay Durum Göstergesi (HSI) ile birlikte dikey hız göstergesini içerir."
+    "caption_en": "-- Horizontal situation indicator (HSI), and -- Vertical speed display",
+    "caption_tr": ""
   },
   {
     "id": "s09",
-    "title": "ADI Sphere",
-    "title_tr": "ADI Küresi",
+    "title": "The ADI symbols use a truncated sphere format to display sta…",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- sky/ground shading, •⁠  ⁠aircraft symbol, •⁠  ⁠pitch scale, and •⁠  ⁠roll attitude scale and pointer.",
-    "caption_tr": "ADI sembolleri, standart tutum (attitude) bilgisini göstermek için kesik küre (truncated sphere) formatını kullanır. Küre içinde şunlar bulunur: -- gökyüzü/yer (sky/ground) gölgelendirmesi, -- uçak sembolü, -- pitch (yunuslama) ölçeği ve -- roll (yatış) tutum ölçeği ve göstergesi."
+    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- skyground shading,",
+    "caption_tr": ""
   },
   {
     "id": "s10",
-    "title": "Aircraft Symbol",
-    "title_tr": "Uçak Sembolü",
+    "title": "The ADI symbols use a truncated sphere format to display sta…",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "The ADI sphere includes sky/ground shading and an aircraft symbol.",
-    "caption_tr": "ADI küresi, gökyüzü/yer gölgelendirmesi ve bir uçak sembolü içerir."
+    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- skyground shading, -- aircraft symbol,",
+    "caption_tr": ""
   },
   {
     "id": "s11",
-    "title": "Pitch Scale",
-    "title_tr": "Pitch Ölçeği",
+    "title": "The ADI symbols use a truncated sphere format to display sta…",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
-    "caption_en": "The ADI sphere also displays the pitch scale along with the aircraft symbol.",
-    "caption_tr": "ADI küresi, uçak sembolü ile birlikte pitch ölçeğini de gösterir."
+    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- skyground shading, -- aircraft symbol, -- pitch scale, and",
+    "caption_tr": ""
   },
   {
     "id": "s12",
-    "title": "Roll Scale",
-    "title_tr": "Roll Ölçeği",
+    "title": "The ADI symbols use a truncated sphere format to display sta…",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "The attitude display receives inputs from the AHRS for roll and pitch informtion.",
-    "caption_tr": "Tutum göstergesi (attitude display), roll (yatış) ve pitch (yunuslama) bilgisi için AHRS’ten veri alır."
+    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- skyground shading, -- aircraft symbol, -- pitch scale, and -- roll attitude scale and pointer.",
+    "caption_tr": ""
   },
   {
     "id": "s13",
-    "title": "AHRS Input",
-    "title_tr": "AHRS Girdisi",
+    "title": "The attitude display receives input from the Attitude and He…",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
-    "caption_en": "The attitude display receives roll and pitch input from the Attitude and Heading Reference System (AHRS).",
-    "caption_tr": "Tutum ekranı, roll ve pitch bilgilerini Tutum ve Baş Referans Sistemi (AHRS) üzerinden alır."
+    "caption_en": "The attitude display receives input from the Attitude and Heading Reference System (AHR ) for roll and pitch",
+    "caption_tr": ""
   },
   {
     "id": "s14",
-    "title": "Symbol Types",
-    "title_tr": "Sembol Türleri",
+    "title": "There are two types of aircraft symbol in use--the cross-poi…",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
-    "caption_en": "Two types of aircraft symbols are available: cross-pointer and single-cue.",
-    "caption_tr": "İki tür uçak sembolü bulunur: çapraz işaretçi ve tek komut (single cue)."
+    "caption_en": "There are two types of aircraft symbol in use--the cross-pointer and single cues.",
+    "caption_tr": ""
   },
   {
     "id": "s15",
-    "title": "Symbol Selection",
-    "title_tr": "Sembol Seçimi",
+    "title": "Selection of aircraft symbol is made on display controller l…",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "Aircraft symbol selection is made using the display controller located on the glareshield.",
-    "caption_tr": "Uçak sembolü seçimi, glareshield üzerinde bulunan ekran kontrol ünitesi ile yapılır."
+    "caption_en": "Selection of aircraft symbol is made on display controller located on the glareshield. Pressing the CUE button on either display controller selects one common aircraft symbol on both PFDs.",
+    "caption_tr": ""
   },
   {
     "id": "s16",
-    "title": "Single Cue",
-    "title_tr": "Tek Komut",
+    "title": "The single cue aircraft symbol is the power-up default displ…",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
-    "caption_en": "The single-cue aircraft symbol is the default display at power-up and appears as a triangle.",
-    "caption_tr": "Tek komut uçak sembolü, sistem açıldığında varsayılan olarak gösterilir ve üçgen şeklindedir."
+    "caption_en": "The single cue aircraft symbol is the power-up default display. The aircraft symbol is in the shape of triangle as shown.",
+    "caption_tr": ""
   },
   {
     "id": "s17",
-    "title": "Command Bars",
-    "title_tr": "Komut Çubukları",
+    "title": "When flight director mode is selected with single cue aircra…",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
-    "caption_en": "When flight director mode is selected, V-bar command bars appear to provide steering guidance.",
-    "caption_tr": "Uçuş direktörü modu seçildiğinde, yönlendirme sağlamak için V-çubuk komut göstergeleri görünür."
+    "caption_en": "When flight director mode is selected with single cue aircraft symbol displayed, a pair of V-bars appear to provide steering guidance. These are command bars which receive steering command from the master flight director. This subject will be discussed in Flight DirectorAuto-Pilot chapter.",
+    "caption_tr": ""
   },
   {
     "id": "s18",
-    "title": "Cross Pointer",
-    "title_tr": "Çapraz İşaretçi",
+    "title": "The cross-pointer symbol consists of two horizontal L shaped…",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "The cross-pointer symbol consists of two L-shaped wing symbols and a central square representing the fuselage.",
-    "caption_tr": "Çapraz işaretçi sembolü, kanatları temsil eden iki L şekli ve gövdeyi temsil eden merkezdeki kareden oluşur."
+    "caption_en": "The cross-pointer symbol consists of two horizontal L shaped symbols which represent wings; and a single small square in the middle, which represents airplane fuselage.",
+    "caption_tr": ""
   },
   {
     "id": "s19",
-    "title": "Pitch Roll Bars",
-    "title_tr": "Pitch Roll Çubukları",
+    "title": "The command bars in this case are a pair of cross-pointers, …",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
-    "caption_en": "The command bars consist of a vertical roll bar and a horizontal pitch bar.",
-    "caption_tr": "Komut çubukları, dikey roll çubuğu ve yatay pitch çubuğundan oluşur."
+    "caption_en": "The command bars in this case are a pair of cross-pointers, the vertical pointer is the roll bar, and the horizontal, the pitch bar.",
+    "caption_tr": ""
   },
   {
     "id": "s20",
-    "title": "Pitch Scale",
-    "title_tr": "Pitch Ölçeği",
+    "title": "The pitch attitude scale indicates pitch attitude of the air…",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
-    "caption_en": "The pitch attitude scale shows pitch angles in 5-degree increments up to 30 degrees, and at higher discrete values.",
-    "caption_tr": "Pitch tutum ölçeği, 30 dereceye kadar 5 derecelik artışlarla ve daha yüksek belirli değerlerde gösterilir."
+    "caption_en": "The pitch attitude scale indicates pitch attitude of the aircraft. Pitch index lines are displayed in 5 deg increments from level flight to 30 deg, then at 40 deg, 60 deg and at 90 deg.",
+    "caption_tr": ""
   },
   {
     "id": "s21",
-    "title": "Pitch Warnings",
-    "title_tr": "Pitch Uyarıları",
+    "title": "Red fly down pitch warning chevrons appear at 45 and 65 pitc…",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
-    "caption_en": "Red pitch warning chevrons appear at defined nose-up and nose-down pitch limits.",
-    "caption_tr": "Kırmızı pitch uyarı şevronları, belirlenmiş burun yukarı ve burun aşağı limitlerde görünür."
+    "caption_en": "Red fly down pitch warning chevrons appear at 45 and 65 pitch up. Red fly up warning chevrons appear at 35, 50 and 65 pitch down.",
+    "caption_tr": ""
   },
   {
     "id": "s22",
-    "title": "Roll Markers",
-    "title_tr": "Roll İşaretleri",
+    "title": "The roll scale is displayed at 10, 20, 30 and 60.deg. Unfill…",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
-    "caption_en": "The roll scale displays markings at 30 and 60 degrees, with additional reference triangles.",
-    "caption_tr": "Roll ölçeği 30 ve 60 derecelerde işaretler ve ek referans üçgenleri gösterir."
+    "caption_en": "The roll scale is displayed at 10, 20, 30 and 60.deg. Unfilled triangles are locted at 0 and 45 deg.",
+    "caption_tr": ""
   },
   {
     "id": "s23",
-    "title": "Roll Pointer",
-    "title_tr": "Roll İşaretçisi",
+    "title": "The roll pointer is a filled white triangle which moves insi…",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
-    "caption_en": "The roll pointer moves along the top of the ADI sphere to indicate aircraft roll angle.",
-    "caption_tr": "Roll işaretçisi, uçağın roll açısını göstermek için ADI küresinin üst kısmında hareket eder."
+    "caption_en": "The roll pointer is a filled white triangle which moves inside the top edge of the ADI sphere to indicate roll angle of the aircraft. The extreme left picture shows aircraft is in a 30 deg left bank. The extreme right picture shows 30 deg right bank.",
+    "caption_tr": ""
   },
   {
     "id": "s24",
-    "title": "Excessive Attitude",
-    "title_tr": "Aşırı Tutum",
+    "title": "An excessive attitude is defined as roll exceeding 65 deg, o…",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
-    "caption_en": "An excessive attitude occurs when roll exceeds 65 degrees or pitch exceeds defined nose-up or nose-down limits.",
-    "caption_tr": "Aşırı tutum, roll açısının 65 dereceyi ya da pitch açısının belirlenen burun yukarı veya aşağı limitlerini aşmasıdır."
+    "caption_en": "An excessive attitude is defined as roll exceeding 65 deg, or pitch attitude exceeding 30 deg nose-up or 20 deg nose-down.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s25",
+    "title": "When an excessive attitude situation exists, certain symbols…",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "When an excessive attitude situation exists, certain symbols are automatically removed to declutter the PFD. They are listed on the screen. These symbols will be restored when the roll attitude has been reduced to less than 63 deg and pitch attitude is less than 28 deg nose-up or less than 18 deg nose-down.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s26",
+    "title": "When either the pitch or roll data becomes invalid, all pitc…",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "When either the pitch or roll data becomes invalid, all pitch scale markings are removed, the attitude sphere turns cyan, and a red annunciation of ATT FAIL appears at the top centre portion of the sphere.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s27",
+    "title": "The airspeed display is presented as a vertical tape to the …",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "The airspeed display is presented as a vertical tape to the left of ADI. The airspeed data on the PFD is supplied by air data computer (ADC).",
+    "caption_tr": ""
+  },
+  {
+    "id": "s28",
+    "title": "The air data computer supplies inputs for -- calibrated airs…",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "The air data computer supplies inputs for -- calibrated airspeed, -- Mach, and -- overspeed indicator, VmoMmo.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s29",
+    "title": "The airspeed tape scrolls down as the aircraft speed increas…",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "The airspeed tape scrolls down as the aircraft speed increases; and it scrolls up as speed decreases. Watch the speed increases. Watch the speed decreases.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s30",
+    "title": "On the middle of the tape is a window with reference line. T…",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "On the middle of the tape is a window with reference line. The window displays the current airspeed digit which is magnified for accurate speed reading.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s31",
+    "title": "On power-up, the airspeed tape is indicated airspeed (IAS) r…",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "On power-up, the airspeed tape is indicated airspeed (IAS) reference. If the airspeed is more than 0.4 Mach, pushing the SPD knob on the flight guidance controller will change speed tape from IAS reference to Mach reference and vice-versa. Mach reference, however, will automatically change back to IAS reference if the airspeed falls below 0.4 Mach.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s32",
+    "title": "The window is blank when the speed is below 40 kts. When a m…",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "The window is blank when the speed is below 40 kts. When a minimum speed of 40 kts is reached, digital display appears in the window.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s33",
+    "title": "The white scale markings on the tape are in 10 knots increme…",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "The white scale markings on the tape are in 10 knots increments IAS. The numbers, however, are in steps of 20 knots. The digital readout in the window is in 1 kt increments. In IAS reference, an equivalent mach number is displayed below the speed tape if the speed exceeds 0.4 Mach.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s34",
+    "title": "The Mach tape scale marking is displayed in 0.02 Mach increm…",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "The Mach tape scale marking is displayed in 0.02 Mach increments. The digital value displayed in the window is in 0.01 Mach increments. When Mach tape is selected, an equivalent IAS is also displayed below the tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s35",
+    "title": "Mach reference is automatically selected when flight level c…",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "Mach reference is automatically selected when flight level change mode is engaged and mach speed schedule is met This will be discussed in Flight DirectorAuto-pilot chapter.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s36",
+    "title": "When aircraft is accelerating or deccelerating, a magenta ai…",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "When aircraft is accelerating or deccelerating, a magenta airspeed trend vector is displayed. The trend vector moves upward when aircraft is accelerating; and downward if itis deccelerating.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s37",
+    "title": "The upper or lower tip of the trend vector indicates what th…",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "The upper or lower tip of the trend vector indicates what the airspeed will be in ten seconds if the current acceleration or decceleration trend is continued.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s38",
+    "title": "An overspeed indicator is overlaid on the airspeed tape as a…",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "An overspeed indicator is overlaid on the airspeed tape as a red bar extending from the top of the tape. if the tape is IAS reference, the indicator represents VmoMmo or flap overspeed, whichever is lower. In Mach reference, indicator is Mmo.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s39",
+    "title": "If the tip of overspeed indicator and airspeed trend vector …",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "If the tip of overspeed indicator and airspeed trend vector meet or overlap, the window readout and the digital display below the tape turn amber.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s40",
+    "title": "If the overspeed indicator reaches or passes the window refe…",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "If the overspeed indicator reaches or passes the window reference line, window speed and digital display will change to red. This is an overspeed condition and aural warning 'OVERSPEED will sound continuously unless action is taken to reduce the speed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s41",
+    "title": "The low speed awareness red bar tape overlays the IAS or Mac…",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "The low speed awareness red bar tape overlays the IAS or Mach tape and extends upwards from the bottom of the display. This is aircraft stick shaker speed which is calculated as a function of angle of attack by the IC-600 computer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s42",
+    "title": "If the low speed awareness meets the window reference line, …",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "If the low speed awareness meets the window reference line, control columns will shake and aural warning S TALL\" will sound continuously.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s43",
+    "title": "An invalid angle of attack is shown by an amber annunciation…",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "An invalid angle of attack is shown by an amber annunciation AOA at the bottom of the speed tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s44",
+    "title": "Selected airspeed is displayed at the top of the tape, and a…",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "Selected airspeed is displayed at the top of the tape, and as a magenta bug on the tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s45",
+    "title": "Turning the speed SPD knob on the flight guidance controller…",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "Turning the speed SPD knob on the flight guidance controller changes the selected speed and moves the bug on both PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s46",
+    "title": "If the selected speed is set out of the display range, the b…",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "If the selected speed is set out of the display range, the bug will be parked, half in view, at the top or bottom of speed tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s47",
+    "title": "The bug is removed and selected airspeed turns to amber dash…",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "The bug is removed and selected airspeed turns to amber dashed line when vertical speed (VS) mode is selected on the flight guidance controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s48",
+    "title": "The bug is removed and selected airspeed turns to amber dash…",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "The bug is removed and selected airspeed turns to amber dashed line when vertical speed (VS) mode is selected on the flight guidance controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s49",
+    "title": "On ground, if the speed is less than 40 kis, Vspeeds will ap…",
+    "imgSrc": "slides/s49.png",
+    "audioSrc": "audio/s49.mp3",
+    "caption_en": "On ground, if the speed is less than 40 kis, Vspeeds will appear at the bottom of speed tape after computation by flight management computer (FMS) or manual insertion by the the crew. V1 will appears in white colour, VR in blue and V2 in green.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s50",
+    "title": "As the aircraft rolls for takeoff, the Vspeeds at the bottom…",
+    "imgSrc": "slides/s50.png",
+    "audioSrc": "audio/s50.mp3",
+    "caption_en": "As the aircraft rolls for takeoff, the Vspeeds at the bottom of the tape scroll out of view and actual Vspeed references will move down as the speed increases. V1 and VR are removed from the tape when the aircraft is airborne. V2 is removed at V2 40 KIAS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s51",
+    "title": "An invalid airspeed is indicated by red cross which appears …",
+    "imgSrc": "slides/s51.png",
+    "audioSrc": "audio/s51.mp3",
+    "caption_en": "An invalid airspeed is indicated by red cross which appears on the airspeed tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s52",
+    "title": "The altitude tape is on the right side of ADL. Its presentat…",
+    "imgSrc": "slides/s52.png",
+    "audioSrc": "audio/s52.mp3",
+    "caption_en": "The altitude tape is on the right side of ADL. Its presentation is the same as that of speed tape. The current altitude is read on the window which consists of digital amplified for better accuracy.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s53",
+    "title": "The altitude tape display has white single and double-line c…",
+    "imgSrc": "slides/s53.png",
+    "audioSrc": "audio/s53.mp3",
+    "caption_en": "The altitude tape display has white single and double-line chevrons positioned at 500 ft and 1000 ft respectively.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s54",
+    "title": "The white tick marks on the tape represent 100-ft increments…",
+    "imgSrc": "slides/s54.png",
+    "audioSrc": "audio/s54.mp3",
+    "caption_en": "The white tick marks on the tape represent 100-ft increments. The window digital readout has a resolution of 20-f.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s55",
+    "title": "When the aircraft is climbing, altitude tape scrolls downwar…",
+    "imgSrc": "slides/s55.png",
+    "audioSrc": "audio/s55.mp3",
+    "caption_en": "When the aircraft is climbing, altitude tape scrolls downwards. Simultaneously, a magenta altitude trend vector appears in upward direction from window reference line. In this particular instance, the altitude trend vector means that in 6 second's time, aircraft will climb to 14,500 ft from its present altitude if its current vertical speed is maintained.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s56",
+    "title": "Conversely, when aircraft is descending, the altitude tape s…",
+    "imgSrc": "slides/s56.png",
+    "audioSrc": "audio/s56.mp3",
+    "caption_en": "Conversely, when aircraft is descending, the altitude tape scrolls upwards and the trend vector moves down. The explanation of the trend vector with the airplane in descent is the same as that of during climb.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s57",
+    "title": "The altitude tape has range from -1000 to 55,000 ft. If the …",
+    "imgSrc": "slides/s57.png",
+    "audioSrc": "audio/s57.mp3",
+    "caption_en": "The altitude tape has range from -1000 to 55,000 ft. If the aircraft is below 0 ft, the window will have a negative sign(-) in front of the height.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s58",
+    "title": "Between 0 and 10,000 ft, a black and white hash is in front …",
+    "imgSrc": "slides/s58.png",
+    "audioSrc": "audio/s58.mp3",
+    "caption_en": "Between 0 and 10,000 ft, a black and white hash is in front of the height.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s59",
+    "title": "Above 10,000 ft, window is filled with all the five digits.",
+    "imgSrc": "slides/s59.png",
+    "audioSrc": "audio/s59.mp3",
+    "caption_en": "Above 10,000 ft, window is filled with all the five digits.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s60",
+    "title": "The preselect altitude digital display is located on top of …",
+    "imgSrc": "slides/s60.png",
+    "audioSrc": "audio/s60.mp3",
+    "caption_en": "The preselect altitude digital display is located on top of the tape. The altitude bug is positioned at this value on the tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s61",
+    "title": "Preselect altitude and bug are set simultaneously on both PF…",
+    "imgSrc": "slides/s61.png",
+    "audioSrc": "audio/s61.mp3",
+    "caption_en": "Preselect altitude and bug are set simultaneously on both PFDs by altitude select (ASEL) knob on the flight guidance controller. Setting a new altitude will arm the ASEL mode which will activate the altitude alert warning 1000 ft before reaching this altitude. The same warning is also triggered if the selected altitude is deviated. This will be discussed in detail in Flight DirectorAutopilot system.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s62",
+    "title": "If the altutude preselect exceeds the displayed range, the b…",
+    "imgSrc": "slides/s62.png",
+    "audioSrc": "audio/s62.mp3",
+    "caption_en": "If the altutude preselect exceeds the displayed range, the bug will not go out of screen. It will be parked with half the bug visible at the top or bottom of the tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s63",
+    "title": "An invalid barometric altitude information has a red cross o…",
+    "imgSrc": "slides/s63.png",
+    "audioSrc": "audio/s63.mp3",
+    "caption_en": "An invalid barometric altitude information has a red cross over it, as shown above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s64",
+    "title": "The baro set value is located directly below altitude tape. …",
+    "imgSrc": "slides/s64.png",
+    "audioSrc": "audio/s64.mp3",
+    "caption_en": "The baro set value is located directly below altitude tape. The value is in cyan. Power-up default of the baro is inches of mercury inHg). Pushing a button labelled Inhpa on the on-side display controller toggles the reference between inHg and hecto Pascals (hPa).",
+    "caption_tr": ""
+  },
+  {
+    "id": "s65",
+    "title": "Right below the PFD is the PFD bezel controller. Turning the…",
+    "imgSrc": "slides/s65.png",
+    "audioSrc": "audio/s65.mp3",
+    "caption_en": "Right below the PFD is the PFD bezel controller. Turning the knob labelled BARO SET changes the baro value. Pushing the button STD reset baro to standard.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s66",
+    "title": "Radio altitude is displayed as white digital in a white box …",
+    "imgSrc": "slides/s66.png",
+    "audioSrc": "audio/s66.mp3",
+    "caption_en": "Radio altitude is displayed as white digital in a white box at the lower sphere of ADL. it ranges from -20 to 2550 ft. The resolution is in 5 foot increments from -20 to 200 feet, and in 10 foot increments from 200 to 2550 feet. Above 2550 feet, the box and digital readout are removed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s67",
+    "title": "When radio altitude reads 550 ft and decreasing, a rising br…",
+    "imgSrc": "slides/s67.png",
+    "audioSrc": "audio/s67.mp3",
+    "caption_en": "When radio altitude reads 550 ft and decreasing, a rising brown raster, topped with yellow horizontal line, representing 0 ft above ground level (AGL), starts rising from the bottom of the altitude tape.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s68",
+    "title": "At 0 ft AGL, the entire lower half of the altitude tape is s…",
+    "imgSrc": "slides/s68.png",
+    "audioSrc": "audio/s68.mp3",
+    "caption_en": "At 0 ft AGL, the entire lower half of the altitude tape is shaded brown. This rising brown shading is known as low altitude awareness.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s69",
+    "title": "For an invalid radio altimeter, the digits are replaced with…",
+    "imgSrc": "slides/s69.png",
+    "audioSrc": "audio/s69.mp3",
+    "caption_en": "For an invalid radio altimeter, the digits are replaced with an amber boxed RA and the low altitude awareness is removed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s70",
+    "title": "Radio altitude (RA) or baro (BARO) minimum digital, in magen…",
+    "imgSrc": "slides/s70.png",
+    "audioSrc": "audio/s70.mp3",
+    "caption_en": "Radio altitude (RA) or baro (BARO) minimum digital, in magenta, is displayed below and right of ADI. When baro minimum is selected, a magenta 'D bug and a line across the altitude tape are displayed on the tape. The line on the tape coincides with the minimum set.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s71",
+    "title": "Selection of RA or BARO is by RABARO button on PFD bezel con…",
+    "imgSrc": "slides/s71.png",
+    "audioSrc": "audio/s71.mp3",
+    "caption_en": "Selection of RA or BARO is by RABARO button on PFD bezel controller which is below display unit. Changing of RA or BARO minimum is by the MINIMUMS knob.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s72",
+    "title": "Flight path angle (FPA) is a green symbol representing the a…",
+    "imgSrc": "slides/s72.png",
+    "audioSrc": "audio/s72.mp3",
+    "caption_en": "Flight path angle (FPA) is a green symbol representing the actual path of the aircraft relative to the horizon and ground track. The symbol position is calculated by the FMS and AHRS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s73",
+    "title": "Selection of this symbol is by FPA button on the on-side dis…",
+    "imgSrc": "slides/s73.png",
+    "audioSrc": "audio/s73.mp3",
+    "caption_en": "Selection of this symbol is by FPA button on the on-side display controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s74",
+    "title": "The green caret indicates vertical acceleration or deccelera…",
+    "imgSrc": "slides/s74.png",
+    "audioSrc": "audio/s74.mp3",
+    "caption_en": "The green caret indicates vertical acceleration or decceleration the aircraft is experiencing. The caret is aligned against the left wing if there is neither vertical acceleration nor decceleration.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s75",
+    "title": "To explain the function of FPA, let us assume the airplane i…",
+    "imgSrc": "slides/s75.png",
+    "audioSrc": "audio/s75.mp3",
+    "caption_en": "To explain the function of FPA, let us assume the airplane is on approach and is stabilised on a 3 glideslope centreline. For airplane to achieve this condition a correct power setting and a right pitch attitude must be set so that an equilibrium of forces are at work to bring the airplane perfectly down on the 3 glide path. If that is the case, FPA is fixed at 3 below the horizon and green caret is levelled with the wing to indicate no vertical acceleration or decceleration is experienced by the aircraft.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s76",
+    "title": "When a go-around is executed, aircraft is pitched up and thr…",
+    "imgSrc": "slides/s76.png",
+    "audioSrc": "audio/s76.mp3",
+    "caption_en": "When a go-around is executed, aircraft is pitched up and thrust increased. In this condition the resultant force causes an upward vertical acceleration on the aircraft. The caret moves up to reflect the conditon.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s77",
+    "title": "The upward force alters the aircraft descent profile to clim…",
+    "imgSrc": "slides/s77.png",
+    "audioSrc": "audio/s77.mp3",
+    "caption_en": "The upward force alters the aircraft descent profile to climb profile. The FPA moves above the horizon to indicate its actual flight path.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s78",
+    "title": "The FPA symbol is limited to 12 deg from the horizon line. I…",
+    "imgSrc": "slides/s78.png",
+    "audioSrc": "audio/s78.mp3",
+    "caption_en": "The FPA symbol is limited to 12 deg from the horizon line. If the path exceeds 16 deg, symbol turns amber and parks at zero reference.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s79",
+    "title": "When the navigation source is ILS, and ILS frequecy is tuned…",
+    "imgSrc": "slides/s79.png",
+    "audioSrc": "audio/s79.mp3",
+    "caption_en": "When the navigation source is ILS, and ILS frequecy is tuned on the corresponding navigation receiver, white glidestope scale and green pointer are displayed on the right side of ADI. A green GS is labelled above the scale.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s80",
+    "title": "If both PFDs have the same navigation source, the GS label a…",
+    "imgSrc": "slides/s80.png",
+    "audioSrc": "audio/s80.mp3",
+    "caption_en": "If both PFDs have the same navigation source, the GS label and pointer will turn amber.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s81",
+    "title": "For excessive deviations, the GS pointer changes colour from…",
+    "imgSrc": "slides/s81.png",
+    "audioSrc": "audio/s81.mp3",
+    "caption_en": "For excessive deviations, the GS pointer changes colour from green to amber, and the scale turns amber and flashes.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s82",
+    "title": "For an invalid glideslope signal, pointer is removed and a r…",
+    "imgSrc": "slides/s82.png",
+    "audioSrc": "audio/s82.mp3",
+    "caption_en": "For an invalid glideslope signal, pointer is removed and a red cross appears on the scale.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s83",
+    "title": "If FMS is the navigation source and vertical navigation prof…",
+    "imgSrc": "slides/s83.png",
+    "audioSrc": "audio/s83.mp3",
+    "caption_en": "If FMS is the navigation source and vertical navigation profile is programmed in the flight plan, white vertical scale and pointer appear to the right of ADI. The scale has white label VNV above it.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s84",
+    "title": "An amber VTA is displayed in place of VNV when vertical trac…",
+    "imgSrc": "slides/s84.png",
+    "audioSrc": "audio/s84.mp3",
+    "caption_en": "An amber VTA is displayed in place of VNV when vertical track alert is triggered. The input comes from FMS.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s85",
+    "title": "For an invalid FMS vertical deviation, the scale, label and …",
+    "imgSrc": "slides/s85.png",
+    "audioSrc": "audio/s85.mp3",
+    "caption_en": "For an invalid FMS vertical deviation, the scale, label and pointer are removed from display.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s86",
+    "title": "When on ILS or localiser (LOC) approach, marker beacons will…",
+    "imgSrc": "slides/s86.png",
+    "audioSrc": "audio/s86.mp3",
+    "caption_en": "When on ILS or localiser (LOC) approach, marker beacons will be displayed at the lower right corner below the ADI sphere. Each marker is boxed in white. As the aircraft flies over the outer, middle and inner marker, O will flash in cyan, M in amber and in white in that order.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s87",
+    "title": "Vertical speed (VS) is a fixed scale with a moving pointer. …",
+    "imgSrc": "slides/s87.png",
+    "audioSrc": "audio/s87.mp3",
+    "caption_en": "Vertical speed (VS) is a fixed scale with a moving pointer. The scale ranges from 8100 fpm to -8100 fpm. Display markings are 0, 1, 2 and 3. A digital display of actual VS is displayed at the centre of the arc if the VS is more than 500 fpm. This data is the magnification of the pointer and is readable to 50 fpm resolution. Maximum value of digital display is 9900 fpm.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s88",
+    "title": "Engaging VS mode on the flight guidance controller brings th…",
+    "imgSrc": "slides/s88.png",
+    "audioSrc": "audio/s88.mp3",
+    "caption_en": "Engaging VS mode on the flight guidance controller brings the VS target and bug into view on vertical speed scale. Target and bug can be changed by SPD knob. Recall that when VS is engaged, selected IAS becomes amber dashes and speed bug is removed.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s89",
+    "title": "If VS is invalid, the pointer is removed and a VS red flag f…",
+    "imgSrc": "slides/s89.png",
+    "audioSrc": "audio/s89.mp3",
+    "caption_en": "If VS is invalid, the pointer is removed and a VS red flag fills the centre of the arc.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s90",
+    "title": "This part of PFD is called horizontal situation indicator (H…",
+    "imgSrc": "slides/s90.png",
+    "audioSrc": "audio/s90.mp3",
+    "caption_en": "This part of PFD is called horizontal situation indicator (HSI). It consists of heading information presented as compass display. Heading input is from the on-side AHR S which in normal operation is coupled to the flux valve. If the AHRS is operated without flux valve, a white DG 12 is annunciated above HSI as shown.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s91",
+    "title": "If AHRS is invalid, red HDG FAIL flag is annunciated on the …",
+    "imgSrc": "slides/s91.png",
+    "audioSrc": "audio/s91.mp3",
+    "caption_en": "If AHRS is invalid, red HDG FAIL flag is annunciated on the compass. An invalid AHRS would also affect the ADI and ATT FAIL in red appears on the ADI.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s92",
+    "title": "The compass display may be in full compass rose, which is al…",
+    "imgSrc": "slides/s92.png",
+    "audioSrc": "audio/s92.mp3",
+    "caption_en": "The compass display may be in full compass rose, which is also called HS), partial compass rose (ARC) or map format (MAP). ARC and MAP extend an arc of 90 deg. These various compass formats are selected by the HSI button on the display controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s93",
+    "title": "If the navigation source is VORILOCIILS, full compass rose a…",
+    "imgSrc": "slides/s93.png",
+    "audioSrc": "audio/s93.mp3",
+    "caption_en": "If the navigation source is VORILOCIILS, full compass rose and ARC formats are selectable. If itis FMS, all three formats may be selected. However, MAP cannot be selected on the same side as MFD. Since MFD is normally displayed on the co-pilot's side, MAP display is not available on this side.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s94",
+    "title": "On the full compass rose, airplane heading is marked by an i…",
+    "imgSrc": "slides/s94.png",
+    "audioSrc": "audio/s94.mp3",
+    "caption_en": "On the full compass rose, airplane heading is marked by an inverted triangle at the top. Airplane symbol is at the centre of the compass.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s95",
+    "title": "In the ARC and MAP formats, heading reference is a pointer b…",
+    "imgSrc": "slides/s95.png",
+    "audioSrc": "audio/s95.mp3",
+    "caption_en": "In the ARC and MAP formats, heading reference is a pointer box with digital readout. The digital readout has a range of 001 deg to 360 deg at 1 deg resolution. Airplane symbol is near the base of PFD.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s96",
+    "title": "A digital readout of the selected heading is displayed to th…",
+    "imgSrc": "slides/s96.png",
+    "audioSrc": "audio/s96.mp3",
+    "caption_en": "A digital readout of the selected heading is displayed to the right of the compass. A corresponding heading bug is displayed on the compass. The bug moves along the outer edge of the compass.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s97",
+    "title": "Selected heading and bug are set by heading (HDG) knob on th…",
+    "imgSrc": "slides/s97.png",
+    "audioSrc": "audio/s97.mp3",
+    "caption_en": "Selected heading and bug are set by heading (HDG) knob on the flight guidance controller (FGC). Pushing this knob also synchroniizies selected heading and bug to existing heading.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s98",
+    "title": "In the ARC or MAP formats, the bug may be rotated out of vie…",
+    "imgSrc": "slides/s98.png",
+    "audioSrc": "audio/s98.mp3",
+    "caption_en": "In the ARC or MAP formats, the bug may be rotated out of view. When the bug is rotated out of compass scale, a single magenta arrow will appear and point to that direction in which the bug is hidden. The arrow disappears when the bug is visible again.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s99",
+    "title": "If the navigation source is VORILOCIILS, the source itself, …",
+    "imgSrc": "slides/s99.png",
+    "audioSrc": "audio/s99.mp3",
+    "caption_en": "If the navigation source is VORILOCIILS, the source itself, desired course, distance to navaid, course pointer and course deviation bar are green in colour. They are amber in colour if both PFDs are sharing a common navigation source.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s100",
+    "title": "The course pointer can be set by the on-side course (CRS) kn…",
+    "imgSrc": "slides/s100.png",
+    "audioSrc": "audio/s100.mp3",
+    "caption_en": "The course pointer can be set by the on-side course (CRS) knob on FGC. Turning the CRS knob rotates the course pointer and changes the value of the desired course also.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s101",
+    "title": "A TOFROM indicator is displayed as an arrow in front of the …",
+    "imgSrc": "slides/s101.png",
+    "audioSrc": "audio/s101.mp3",
+    "caption_en": "A TOFROM indicator is displayed as an arrow in front of the aircraft when aircraft is tracking towards VOR station. The arrow is behind if it is tracking from the VOR station.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s102",
+    "title": "A red cross will appear over the lateral deviation scale if …",
+    "imgSrc": "slides/s102.png",
+    "audioSrc": "audio/s102.mp3",
+    "caption_en": "A red cross will appear over the lateral deviation scale if the navigational signals become invalid.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s103",
+    "title": "With FMS as the navigational source, the course pointer is n…",
+    "imgSrc": "slides/s103.png",
+    "audioSrc": "audio/s103.mp3",
+    "caption_en": "With FMS as the navigational source, the course pointer is not pilot-selectable. It is determined by FMS flight plan route. When a waypoint is passed, FMS will set a new track to the next waypoint and the course pointer will change accordingly. The desired track value will also change with the pointer.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s104",
+    "title": "Deviation of the aircraft from the desired track is represen…",
+    "imgSrc": "slides/s104.png",
+    "audioSrc": "audio/s104.mp3",
+    "caption_en": "Deviation of the aircraft from the desired track is represented by the course deviation indicator (CDI). Lateral deviation scale changes depending on the mode FMS is operating in.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s105",
+    "title": "If the aircraft is in enroute, full scale deflection of CDI …",
+    "imgSrc": "slides/s105.png",
+    "audioSrc": "audio/s105.mp3",
+    "caption_en": "If the aircraft is in enroute, full scale deflection of CDI is 5 NM. In terminal (TERM), 1 NM. In approach (APP), 0.3 NM. Except for enroute, TERM and APP are annunciated in cyan beside FMS navigation source.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s106",
+    "title": "The MAP display consists of up to four waypoints, including …",
+    "imgSrc": "slides/s106.png",
+    "audioSrc": "audio/s106.mp3",
+    "caption_en": "The MAP display consists of up to four waypoints, including the FROM waypoint. These waypoints are provided by FMS. Active waypoint is in magenta and the rest of the waypoints are white.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s107",
+    "title": "Each waypoint has an identifier on the right. Waypoints are …",
+    "imgSrc": "slides/s107.png",
+    "audioSrc": "audio/s107.mp3",
+    "caption_en": "Each waypoint has an identifier on the right. Waypoints are joined by a white track line.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s108",
+    "title": "Other symbols that may be displayed on the MAP are shown abo…",
+    "imgSrc": "slides/s108.png",
+    "audioSrc": "audio/s108.mp3",
+    "caption_en": "Other symbols that may be displayed on the MAP are shown above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s109",
+    "title": "Below the airplane symbol is the offset distance with a lett…",
+    "imgSrc": "slides/s109.png",
+    "audioSrc": "audio/s109.mp3",
+    "caption_en": "Below the airplane symbol is the offset distance with a letter L or R to indicate whether airplane is left or right of desired track.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s110",
+    "title": "Range ring is always present on MAP display. In the ARC mode…",
+    "imgSrc": "slides/s110.png",
+    "audioSrc": "audio/s110.mp3",
+    "caption_en": "Range ring is always present on MAP display. In the ARC mode, range ring appears when the weather button (WX) on the display controller is pushed. Touch the WX button on the display controller.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s111",
+    "title": "Depressing the WX button on the display controller causes th…",
+    "imgSrc": "slides/s111.png",
+    "audioSrc": "audio/s111.mp3",
+    "caption_en": "Depressing the WX button on the display controller causes the range ring to appear on the ARC display. If the weather radar is ON, weather returns can be seen on the ARC or MAP displays. Weather returns cannot be displayed if the compass is in full compass rose.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s112",
+    "title": "Range ring enables crew to determine position of weather ret…",
+    "imgSrc": "slides/s112.png",
+    "audioSrc": "audio/s112.mp3",
+    "caption_en": "Range ring enables crew to determine position of weather returns and waypoints. Range ring is positioned halfway between airplane symbol and compass arc and is labelled with one-half of the selected range. In the above MAP, the selected range is 100 NM.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s113",
+    "title": "Range selection is by the UP and DOWN arrows on the radar co…",
+    "imgSrc": "slides/s113.png",
+    "audioSrc": "audio/s113.mp3",
+    "caption_en": "Range selection is by the UP and DOWN arrows on the radar control panel on the centre pedestal. The UP arrow, when pushed, increases the range. The DOWN arrow decreases the range. Maximum range selectable is 300 NM.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s114",
+    "title": "If weather radar is OFF, range is defaulted to 100 NM. Range…",
+    "imgSrc": "slides/s114.png",
+    "audioSrc": "audio/s114.mp3",
+    "caption_en": "If weather radar is OFF, range is defaulted to 100 NM. Range cannot be changed in this case.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s115",
+    "title": "Wind vector and drift bug are inputs from FMS. Regardless of…",
+    "imgSrc": "slides/s115.png",
+    "audioSrc": "audio/s115.mp3",
+    "caption_en": "Wind vector and drift bug are inputs from FMS. Regardless of the navigation source in use, wind and drift are displayed full-time as long as FMS information is valid.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s116",
+    "title": "Wind is on the left of compass display and it is shown in wh…",
+    "imgSrc": "slides/s116.png",
+    "audioSrc": "audio/s116.mp3",
+    "caption_en": "Wind is on the left of compass display and it is shown in white with magnitude and direction. Magnitude is in digital readout and direction is indicated by arrow showing the direction of wind relative to the airplane symbol.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s117",
+    "title": "The drift bug is a hollow cyan triangle. The drift bug moves…",
+    "imgSrc": "slides/s117.png",
+    "audioSrc": "audio/s117.mp3",
+    "caption_en": "The drift bug is a hollow cyan triangle. The drift bug moves around the compass perimeter to represent the angular difference between FMS desired track and actual track.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s118",
+    "title": "When selected on the display controller, two bearing pointer…",
+    "imgSrc": "slides/s118.png",
+    "audioSrc": "audio/s118.mp3",
+    "caption_en": "When selected on the display controller, two bearing pointers -- a cyan single pointer with circular head and white double pointers with diamond head -- appear on HSI and ARC.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s119",
+    "title": "In the MAP display, bearing pointers are presented as naviga…",
+    "imgSrc": "slides/s119.png",
+    "audioSrc": "audio/s119.mp3",
+    "caption_en": "In the MAP display, bearing pointers are presented as navigation aid symbols situated on the geographical position in relation to the",
+    "caption_tr": ""
+  },
+  {
+    "id": "s120",
+    "title": "An amber message (MSG) annunciation pops up flashing to the …",
+    "imgSrc": "slides/s120.png",
+    "audioSrc": "audio/s120.mp3",
+    "caption_en": "An amber message (MSG) annunciation pops up flashing to the right of compass heading when FMS message warning is active. The flashing will continue unless itis acknowledged by pressing MSG button on the FMS control display unit.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s121",
+    "title": "Additional FMS generated navigation annununciations are: - W…",
+    "imgSrc": "slides/s121.png",
+    "audioSrc": "audio/s121.mp3",
+    "caption_en": "Additional FMS generated navigation annununciations are: - WPT -- waypoint alert,",
+    "caption_tr": ""
+  },
+  {
+    "id": "s122",
+    "title": "Additional FMS generated navigation annununciations are: - W…",
+    "imgSrc": "slides/s122.png",
+    "audioSrc": "audio/s122.mp3",
+    "caption_en": "Additional FMS generated navigation annununciations are: - WPT -- waypoint alert, - DR -- dead reckoning, and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s123",
+    "title": "Additional FMS generated navigation annununciations are: - W…",
+    "imgSrc": "slides/s123.png",
+    "audioSrc": "audio/s123.mp3",
+    "caption_en": "Additional FMS generated navigation annununciations are: - WPT -- waypoint alert, - DR -- dead reckoning, and -INTEG -- GPS integrity.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s124",
+    "title": "When FMS selected crosstrack (SXTK) feature is activated, th…",
+    "imgSrc": "slides/s124.png",
+    "audioSrc": "audio/s124.mp3",
+    "caption_en": "When FMS selected crosstrack (SXTK) feature is activated, the SXTK will annunciate in white at the top left of HSI.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s125",
+    "title": "FMS lateral submode annunciations are displayed just beneath…",
+    "imgSrc": "slides/s125.png",
+    "audioSrc": "audio/s125.mp3",
+    "caption_en": "FMS lateral submode annunciations are displayed just beneath the cross-track mode annunciation (SXTK), and they are: -HDGSEL -- selected heading",
+    "caption_tr": ""
+  },
+  {
+    "id": "s126",
+    "title": "FMS lateral submode annunciations are displayed just beneath…",
+    "imgSrc": "slides/s126.png",
+    "audioSrc": "audio/s126.mp3",
+    "caption_en": "FMS lateral submode annunciations are displayed just beneath the cross-track mode annunciation (SXTK), and they are: -HDGSEL -- selected heading - HDGINT -- heading intercept, and",
+    "caption_tr": ""
+  },
+  {
+    "id": "s127",
+    "title": "FMS lateral submode annunciations are displayed just beneath…",
+    "imgSrc": "slides/s127.png",
+    "audioSrc": "audio/s127.mp3",
+    "caption_en": "FMS lateral submode annunciations are displayed just beneath the cross-track mode annunciation (SXTK), and they are: -HDGSEL -- selected heading - HDGINT -- heading intercept, and -PRCHDG -- heading procedure turn.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s128",
+    "title": "The picture shows the various comparison monitor annunciatio…",
+    "imgSrc": "slides/s128.png",
+    "audioSrc": "audio/s128.mp3",
+    "caption_en": "The picture shows the various comparison monitor annunciations. For comparison monitor to function, both pilots must be displaying same data but using independent sensors or systems.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s129",
+    "title": "Comparison monitoring is the function of the IC-600 computer…",
+    "imgSrc": "slides/s129.png",
+    "audioSrc": "audio/s129.mp3",
+    "caption_en": "Comparison monitoring is the function of the IC-600 computers which are interconnected by a integrated computer bus (IC BUS). This linkage allows the two computers to share, compare and communicate infomation. This topic will be discussed in Avionics Part 2.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s130",
+    "title": "For example, ifindepedent ADCs are providing airspeed input …",
+    "imgSrc": "slides/s130.png",
+    "audioSrc": "audio/s130.mp3",
+    "caption_en": "For example, ifindepedent ADCs are providing airspeed input to respective PFDs and if there is a discrepency between the two airspeed readouts, an amber IAS comparison monitor will flash for 10 seconds and then steady. This requires crew's actions, and therefore, crew will have to refer to checklist for procedures. No comparison will be made if both sides of the displays are from the same source.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s131",
+    "title": "The parameters monitored by comparison monitor are listed ab…",
+    "imgSrc": "slides/s131.png",
+    "audioSrc": "audio/s131.mp3",
+    "caption_en": "The parameters monitored by comparison monitor are listed above.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s132",
+    "title": "System reversion annunciations, ADC12, ATT12 and SG12 are di…",
+    "imgSrc": "slides/s132.png",
+    "audioSrc": "audio/s132.mp3",
+    "caption_en": "System reversion annunciations, ADC12, ATT12 and SG12 are displayed in amber at top left of both PFDs if both pilots are sharing a common air data computer (ADC), attitude and heading reference system (AHR S) and symbol generator (SG) respectively.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s133",
+    "title": "Amber annunciations MAG 12 appears above the HSI if AHRS 12 …",
+    "imgSrc": "slides/s133.png",
+    "audioSrc": "audio/s133.mp3",
+    "caption_en": "Amber annunciations MAG 12 appears above the HSI if AHRS 12 is used to provide heading references to both the PFDs.",
+    "caption_tr": ""
+  },
+  {
+    "id": "s134",
+    "title": "When a flight director mode of IASIMACH, VNAV (VNV) or verti…",
+    "imgSrc": "slides/s134.png",
+    "audioSrc": "audio/s134.mp3",
+    "caption_en": "When a flight director mode of IASIMACH, VNAV (VNV) or vertical speed (VS) is selected on the pitch mode and an impending overspeed condition is detected, MAXSPD is displayed in amber to the left of ADI.",
+    "caption_tr": ""
   }
 ]

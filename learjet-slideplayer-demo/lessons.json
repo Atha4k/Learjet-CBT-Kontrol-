@@ -345,38 +345,38 @@
     {
       "id": "warning-protections",
       "title": "Warning & Protection",
-      "pkg": "egitim2/pressurisation/warning-protections"
+      "pkg": "egitim2/pressurisation/warning-protecitons"
     }
   ]
 },
 "ice-rain-protection": {
-  "id": "ıce-rain-protection",
+  "id": "ice-rain-protection",
   "title": "Ice & Rain Protection",
   "lessons": [
   {
     "id": "general",
     "title": "General",
-    "pkg": "egitim2/ice-rain-protection/general"
+    "pkg": "egitim2/ıce-rain-protection/general"
   },
   {
     "id": "nacelle-ice",
     "title": "Nacelle Ice Protection",
-    "pkg": "egitim2/ice-rain-protection/nacelle-ice"
+    "pkg": "egitim2/ıce-rain-protection/nacelle-ice"
   },
   {
     "id": "probe-heat",
     "title": "Probe Heat System",
-    "pkg": "egitim2/ice-rain-protection/probe-heat"
+    "pkg": "egitim2/ıce-rain-protection/probe-heat"
   },
   {
     "id": "windshield-ice",
     "title": "Windshield Ice Protection",
-    "pkg": "egitim2/ice-rain-protection/windshield-ice"
+    "pkg": "egitim2/ıce-rain-protection/windshild-ice"
   },
   {
     "id": "wing-ice",
     "title": "Wing Ice Protection",
-    "pkg": "egitim2/ice-rain-protection/wing-ice"
+    "pkg": "egitim2/ıce-rain-protection/wing-ice"
   }
   ]
 },
@@ -819,8 +819,6 @@
   ]
 }
 }
-
-
 
 
 

@@ -63,6 +63,8 @@ body{
   border-bottom:1px solid #e5e7eb; overflow:hidden;
 }
 .hero-wrap{
+  position:relative;
+  z-index:1;
   width:min(1200px,96%); margin:0 auto; padding:20px 8px 28px;
   display:grid; place-items:end center;
 }
@@ -237,7 +239,10 @@ body{
 
 /* Hareket azaltma tercihi */
 @media (prefers-reduced-motion:reduce){
-  .plane-card,.plane-card img,.training-card{ transition:none }
+  .plane-card,.plane-card img,.training-card{
+    animation:none;
+    transition:none;
+  }
 }
 
 /* ====== ALT KUTULAR AÇILIYKEN ALTA NEFES ALANI ====== */
@@ -251,6 +256,11 @@ body.has-subtopics main::after{
   content:"";
   display:block;
   height:var(--page-spacer);
+}
+
+
+body.theme-dark .player-nav{
+  border-bottom:1px solid var(--surface-border);
 }
 
 /* Subtopics bölümü dipte sıkışmasın */

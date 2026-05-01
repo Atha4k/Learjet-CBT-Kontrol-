@@ -20,7 +20,7 @@
     "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display,",
+    "caption_en": "Airspeed display,",
     "caption_tr": ""
   },
   {
@@ -28,7 +28,7 @@
     "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display, -- Auto-pilot and flight director mode annunciations,",
+    "caption_en": "Auto-pilot and flight director mode annunciations,",
     "caption_tr": ""
   },
   {
@@ -36,7 +36,7 @@
     "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display, -- Auto-pilot and flight director mode annunciations, -- Attitude director indicator (ADI) display,",
+    "caption_en": "Attitude director indicator (ADI) display,",
     "caption_tr": ""
   },
   {
@@ -44,12 +44,12 @@
     "title": "PFD screen is divided into the following groups: -- Airspeed…",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "PFD screen is divided into the following groups: -- Airspeed display, -- Auto-pilot and flight director mode annunciations, -- Attitude director indicator (ADI) display, -- Altitude display,",
+    "caption_en": "Altitude display,",
     "caption_tr": ""
   },
   {
     "id": "s07",
-    "title": "-- Horizontal situation indicator (HSI), and",
+    "title": "Horizontal situation indicator (HSI), and",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Horizontal situation indicator (HSI), and",
@@ -57,10 +57,10 @@
   },
   {
     "id": "s08",
-    "title": "-- Horizontal situation indicator (HSI), and -- Vertical spe…",
+    "title": "Vertical speed display",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "Horizontal situation indicator (HSI), and -- Vertical speed display",
+    "caption_en": "Vertical speed display",
     "caption_tr": ""
   },
   {
@@ -76,7 +76,7 @@
     "title": "The ADI symbols use a truncated sphere format to display sta…",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- skyground shading, -- aircraft symbol,",
+    "caption_en": "Aircraft symbol,",
     "caption_tr": ""
   },
   {
@@ -84,7 +84,7 @@
     "title": "The ADI symbols use a truncated sphere format to display sta…",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
-    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- skyground shading, -- aircraft symbol, -- pitch scale, and",
+    "caption_en": "The pitch scale, and",
     "caption_tr": ""
   },
   {
@@ -92,7 +92,7 @@
     "title": "The ADI symbols use a truncated sphere format to display sta…",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "The ADI symbols use a truncated sphere format to display standard attitude information. Within the sphere is the : -- skyground shading, -- aircraft symbol, -- pitch scale, and -- roll attitude scale and pointer.",
+    "caption_en": "The Roll attitude scale and pointer.",
     "caption_tr": ""
   },
   {

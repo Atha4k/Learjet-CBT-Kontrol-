@@ -34,6 +34,7 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 .cap-top{display:flex;align-items:center;justify-content:space-between;padding:8px 12px;border-bottom:1px solid var(--line)}
 .cap-title{font-weight:700}
 .cap-sub{margin-left:8px;opacity:.7;font-weight:600}
+.cap-controls{display:flex;align-items:center;gap:10px;flex-wrap:wrap;justify-content:flex-end}
 .langbtns{display:flex;gap:8px}
 .langbtn{padding:6px 10px;border:1px solid var(--line);border-radius:999px;background:#fff;cursor:pointer;font-size:13px}
 .langbtn:hover{border-color:var(--accent);color:var(--accent)}
@@ -49,7 +50,6 @@ body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Inter,Arial}
 .slideItem.active{background:var(--accent);color:#fff;border-color:var(--accent)}
 .slideItem .idx{width:26px;height:26px;display:inline-grid;place-items:center;border:1px solid var(--line);border-radius:8px;font-size:12px}
 .slideItem.active .idx{border-color:rgba(255,255,255,.6)}
-.bottombar{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding:10px 14px}
 .badge{background:var(--accent-50);color:var(--accent);border:1px solid var(--accent);padding:4px 10px;border-radius:999px;font-size:12px;font-weight:700}
 .right-actions{display:flex;gap:8px}
 .iconbtn{width:38px;height:38px;border-radius:10px;border:1px solid var(--line);background:#fff;cursor:pointer;font-size:16px}
@@ -85,7 +85,8 @@ body.focus-mode .focus-actions{display:flex}
   .wrapper{padding:6px}
   .main{padding:10px;gap:10px}
   .cap-top{align-items:flex-start;gap:10px;flex-wrap:wrap}
-  .langbtns{width:100%;justify-content:flex-end}
+  .cap-controls{width:100%;justify-content:space-between}
+  .langbtns{justify-content:flex-end}
   .panel .head{align-items:flex-start}
   .right-actions{width:100%;justify-content:flex-end}
   .focus-actions{right:12px;bottom:12px;padding:8px}
@@ -114,9 +115,12 @@ body.focus-mode .focus-actions{display:flex}
               <span id="capTitle" class="cap-title">Caption</span>
               <span id="capSubTitle" class="cap-sub"></span>
             </div>
-            <div class="langbtns">
-              <button class="langbtn active" data-lang="en" id="btnEn">English</button>
-              <button class="langbtn" data-lang="tr" id="btnTr">Türkçe</button>
+            <div class="cap-controls">
+              <span class="badge" id="counter">0/0</span>
+              <div class="langbtns">
+                <button class="langbtn active" data-lang="en" id="btnEn">English</button>
+                <button class="langbtn" data-lang="tr" id="btnTr">Türkçe</button>
+              </div>
             </div>
           </div>
           <div class="cap-body"><div id="captionText" class="caption"></div></div>
@@ -134,10 +138,6 @@ body.focus-mode .focus-actions{display:flex}
         </div>
         <div id="slidesBox" class="slides"></div>
       </div>
-    </div>
-
-    <div class="bottombar">
-      <span class="badge" id="counter">0/0</span>
     </div>
   </div>
 </div>

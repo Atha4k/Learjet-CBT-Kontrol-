@@ -1,7 +1,8 @@
 {
   "type": "module",
   "scripts": {
-    "ocr": "node scripts/ocr-build.mjs"
+    "ocr": "node scripts/ocr-build.mjs",
+    "tts": "node scripts/tts-build.mjs"
   },
   "name": "learjet-slideplayer-demo",
   "version": "1.0.0",

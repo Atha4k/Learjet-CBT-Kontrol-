@@ -14,12 +14,12 @@
   "s03": {
     "title": "Nose Section Layout",
     "title_tr": "Burun Bölümü Düzeni",
-    "en": "The front and rear pressure bulkheads make up the limit of the pressurized section, which contains the cockpit and passenger compartments.",
+    "en": "The nose section consists of an equpment bay",
     "tr": "Ön ve arka basınç perdeleri, kokpit ve yolcu bölmelerini içeren basınçlı bölümün sınırlarını oluşturur."
   },
   "s04": {
-    "title": "Nose Section Layout",
-    "title_tr": "Burun Bölümü Düzeni",
+    "title": "Pressurised Section",
+    "title_tr": "Basınçlı Bölüm",
     "en": "The nose section consists of an equpment bay on the upper half with the nose landing gear bay below. The front and rear pressure bulkheads make up the limits of the pressurised section, which consist of the cockpit and passenger compartments.",
     "tr": "Ön ve arka basınç perdeleri, kokpit ve yolcu bölmelerini içeren basınçlı bölümün sınırlarını oluşturur."
   },

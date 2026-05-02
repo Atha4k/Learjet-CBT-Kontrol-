@@ -14,8 +14,8 @@
     "title_tr": "DU Güç Kaynakları",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The L ESS AV bus supplies power to DU 1, and the R ESS AV bus powers DUs 3 and 4. For these buses to be powered, the respective AV MS TR switches must be ON. DU 2 is powered directly by the L ESS bus.",
-    "caption_tr": "L ESS AV bus, DU 1’i; R ESS AV bus ise DU 3 ve DU 4’ü besler. Bu bus’ların enerjilenmesi için ilgili AV MS TR anahtarları ON konumunda olmalıdır. DU 2 ise doğrudan L ESS bus tarafından beslenir."
+    "caption_en": "The LEFT ESS AV bus supplies power to DU 1, and the RIGHT ESS AV bus powers DUs 3 and 4. For these buses to be powered, the respective AV MS TR switches must be ON. DU 2 is powered directly by the LEFT ESS bus.",
+    "caption_tr": "LEFT ESS AV bus, DU 1’i; RIGHT ESS AV bus ise DU 3 ve DU 4’ü besler. Bu bus’ların enerjilenmesi için ilgili AV MS TR anahtarları ON konumunda olmalıdır. DU 2 ise doğrudan LEFT ESS bus tarafından beslenir."
   },
   {
     "id": "s03",

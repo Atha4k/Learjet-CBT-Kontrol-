@@ -1,8 +1,8 @@
 [
   {
     "id": "s01",
-    "title": "Windshield Heating Power Source",
-    "title_tr": "Ön Cam Isıtma Güç Kaynağı",
+    "title": "Windshield Heating Power",
+    "title_tr": "Isıtma Güç Kaynağı",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The windshield heating system is powered by AC generator or alternator.",
@@ -10,8 +10,8 @@
   },
   {
     "id": "s02",
-    "title": "Alternator Location and Output",
-    "title_tr": "Alternatörün Konumu ve Çıkışı",
+    "title": "Alternator Location Output",
+    "title_tr": "Alternatör Konumu Çıkışı",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The alternator is located in each engine and is mounted next to the starter-generator. It operates from 6000-12000 rpm and supply to 200 volts at a maximum of 5KVA single phase output. The frequency varies between 200-400 Hz.",
@@ -19,8 +19,8 @@
   },
   {
     "id": "s03",
-    "title": "Left and Right Windshield Heater Supply",
-    "title_tr": "Sol ve Sağ Ön Cam Isıtıcı Beslemesi",
+    "title": "Heater Supply",
+    "title_tr": "Isıtıcı Beslemesi",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The left windshield heater is powered by the left alternator and the right windshield by the right alternator.",
@@ -29,7 +29,7 @@
   {
     "id": "s04",
     "title": "Windshield Controller Regulation",
-    "title_tr": "Ön Cam Kontrol Ünitesi ile Düzenleme",
+    "title_tr": "Kontrol Ünitesi Düzenleme",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Alternator current to the heater is controlled by a windshield controller that contains monitoring circuitry for the windshield.",
@@ -37,8 +37,8 @@
   },
   {
     "id": "s05",
-    "title": "AC Power Monitoring Limitation",
-    "title_tr": "AC Güç İzleme Kısıtı",
+    "title": "AC Power Monitoring",
+    "title_tr": "Güç İzleme Kısıtı",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "There are no provisions for directly monitoring alternator output on SUMRY and ELEC displays. Loss of AC power would be detected by windshield anti-ice failure.",
@@ -46,8 +46,8 @@
   },
   {
     "id": "s06",
-    "title": "Engine Fire and Alternator Disconnect",
-    "title_tr": "Motor Yangını ve Alternatörün Devreden Çıkması",
+    "title": "Engine Fire Alternator",
+    "title_tr": "Alternatör Devreden Çıkması",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "In an engine fire situation, pressing the FIRE PUSH button disconnects the corresponding alternator and makes windshield heating inoperative.",

@@ -1,34 +1,38 @@
 [
   {
     "id": "s01",
-    "title": "The Auxiliary Power Unit (APU) installed on the airplane, is…",
+    "title": "Auxiliary Power Unit",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Auxiliary Power Unit (APU) installed on the airplane, is a single shaft, constant speed gas turbine engine. itis designed to provide pneumatic and electrical loads to the airplane. Made by Allied Signals, it is assigned a model number.",
-    "caption_tr": ""
+    "caption_tr": "Uçağa monte edilen Yardımcı Güç Ünitesi (APU), tek şaftlı, sabit hızlı bir gaz türbini motorudur. Uçağa pnömatik ve elektrik yükleri sağlamak üzere tasarlanmıştır. Allied Signals tarafından yapılmış olup bir model numarası verilmiştir.",
+    "title_tr": "Yardımcı Güç Ünitesi"
   },
   {
     "id": "s02",
-    "title": "itis located in the aft tail-cone compartment, above the 2 m…",
+    "title": "itis located aft",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "itis located in the aft tail-cone compartment, above the 2 main batteries and is enclosed within a shroud.",
-    "caption_tr": ""
+    "caption_tr": "kıç kuyruk konisi bölmesinde, 2 ana bataryanın üzerinde bulunur ve bir örtü içinde muhafaza edilir.",
+    "title_tr": "arkada yer alır"
   },
   {
     "id": "s03",
-    "title": "The air inlet for the APU is located on the left side of the…",
+    "title": "air inlet APU",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The air inlet for the APU is located on the left side of the fuselage, just above the left engine pylon. The exhaust gases exit the APU through the exhaust opening above the right engine pylon.",
-    "caption_tr": ""
+    "caption_tr": "APU'nun hava girişi gövdenin sol tarafında, sol motor pilonunun hemen üzerinde bulunur. Egzoz gazları APU'dan sağ motor pilonunun üzerindeki egzoz açıklığından çıkar.",
+    "title_tr": "hava girişi APU'su"
   },
   {
     "id": "s04",
-    "title": "The maximum altitude for an APU inflight start or operating …",
+    "title": "maximum altitude APU",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The maximum altitude for an APU inflight start or operating with electrical and bleed loads is feet Without load, the APU can be operated up to feet. However, currently the APU is certified for ground use only.",
-    "caption_tr": ""
+    "caption_tr": "Bir APU'nun uçuş sırasında başlatılması veya elektrik ve boşaltma yükleriyle çalıştırılması için maksimum irtifa feet'tir. Yük olmadan, APU feet'e kadar çalıştırılabilir. Ancak şu anda APU yalnızca yerde kullanım için onaylanmıştır.",
+    "title_tr": "maksimum yükseklik APU'su"
   }
 ]

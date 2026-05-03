@@ -1,18 +1,20 @@
 [
   {
     "id": "s01",
-    "title": "Upon touchdown, page 1 of the LANDING summary will be displa…",
+    "title": "Upon touchdown page",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "Upon touchdown, page 1 of the LANDING summary will be displayed automatically. Information on this page is self-explanatory. oo FR N _",
-    "caption_tr": ""
+    "caption_en": "Upon touchdown, page 1 of the LANDING summary will be displayed automatically. Information on this page is self-explanatory. ",
+    "caption_tr": "Konma sonrasında İNİŞ özetinin 1. sayfası otomatik olarak görüntülenecektir. Bu sayfadaki bilgiler açıklayıcı niteliktedir. ",
+    "title_tr": "Konma sayfasında"
   },
   {
     "id": "s02",
-    "title": "Landing page 22 will display the best computed position coor…",
+    "title": "Landing page 2/2",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "Landing page 22 will display the best computed position coordinates, the most significant sensors derived position co-ordinates, and the difference between the two. J oo FR N _",
-    "caption_tr": ""
+    "caption_en": "Landing page 2/2 will display the best computed position coordinates, the most significant sensors derived position co-ordinates, and the difference between the two. ",
+    "caption_tr": "Açılış sayfası 2/2, en iyi hesaplanan konum koordinatlarını, sensörlerden elde edilen en önemli konum koordinatlarını ve ikisi arasındaki farkı görüntüleyecektir. ",
+    "title_tr": "Açılış sayfası 22"
   }
 ]

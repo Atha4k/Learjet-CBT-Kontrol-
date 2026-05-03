@@ -1,146 +1,164 @@
 [
   {
     "id": "s01",
-    "title": "The HF communication system consists of a control panel loca…",
+    "title": "HF communication system",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The HF communication system consists of a control panel located on the centre pedestal, power amplifierantenna coupler and HF receiver both in the RH aft avionics compartment, and antenna which is located on top of the aircraft.",
-    "caption_tr": ""
+    "caption_tr": "HF iletişim sistemi, merkez kaide üzerinde yer alan bir kontrol paneli, güç amplifikatörüanten bağlayıcı ve hem sağ arka aviyonik bölmesinde bulunan HF alıcısı hem de uçağın üst kısmında yer alan antenden oluşur.",
+    "title_tr": "HF iletişim sistemi"
   },
   {
     "id": "s02",
-    "title": "The HF communication system frequency range is from to KHz i…",
+    "title": "HF communication system",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The HF communication system frequency range is from to KHz in KHz increments. The system is capable of operating in a channel mode or in a direct frequency mode.",
-    "caption_tr": ""
+    "caption_tr": "HF iletişim sisteminin frekans aralığı, KHz'lik artışlarla KHz'den KHz'e kadardır. Sistem kanal modunda veya doğrudan frekans modunda çalışabilmektedir.",
+    "title_tr": "HF iletişim sistemi"
   },
   {
     "id": "s03",
-    "title": "In the channel mode, up to 99 frequencies may be preprogramm…",
+    "title": "channel mode 99",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "In the channel mode, up to 99 frequencies may be preprogrammed for rapid frequency selection.",
-    "caption_tr": ""
+    "caption_tr": "Kanal modunda, hızlı frekans seçimi için 99'a kadar frekans önceden programlanabilir.",
+    "title_tr": "kanal modu 99"
   },
   {
     "id": "s04",
-    "title": "Direct frequency mode is available by changing the digit to …",
+    "title": "Direct frequency mode",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Direct frequency mode is available by changing the digit to the desired frequency.",
-    "caption_tr": ""
+    "caption_tr": "Doğrudan frekans modu, rakamın istenen frekansa değiştirilmesiyle kullanılabilir.",
+    "title_tr": "Doğrudan frekans modu"
   },
   {
     "id": "s05",
-    "title": "The FREQCHAN button selects either direct tunning or preset …",
+    "title": "FREQCHAN button selects",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The FREQCHAN button selects either direct tunning or preset channel operation. Direct tunning of frequency is accomplished with the button out. Preset channel operation is available with the button depressed. Touch the FREQCHAN button to change to channel mode.",
-    "caption_tr": ""
+    "caption_tr": "FREQCHAN düğmesi doğrudan ayarlamayı veya önceden ayarlanmış kanal işlemini seçer. Frekansın doğrudan ayarlanması düğme dışarı çıkarılarak gerçekleştirilir. Düğmeye basıldığında önceden ayarlanmış kanal işlemi yapılabilir. Kanal moduna geçmek için FREQCHAN düğmesine dokunun.",
+    "title_tr": "FREQCHAN düğmesi seçer"
   },
   {
     "id": "s06",
-    "title": "The MODE button selects USB or AM mode. This is set by depre…",
+    "title": "MODE button selects",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The MODE button selects USB or AM mode. This is set by depressing and releasing MODE button until the desired mode is annunciated on the frequency window. In CHAN operation, MODE is preset but can be changed by MODE button. Re-selection of the channel will return the system to the original preset mode.",
-    "caption_tr": ""
+    "caption_tr": "MODE düğmesi USB veya AM modunu seçer. Bu, istenen mod frekans penceresinde bildirilene kadar MODE düğmesine basılıp bırakılarak ayarlanır. CHAN işleminde MODE önceden ayarlanmıştır ancak MODE düğmesiyle değiştirilebilir. Kanalın yeniden seçilmesi sistemi orijinal ön ayar moduna döndürecektir.",
+    "title_tr": "MODE düğmesi seçer"
   },
   {
     "id": "s07",
-    "title": "The CLARIFIER knob improves reception when the ground statio…",
+    "title": "CLARIFIER knob improves",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The CLARIFIER knob improves reception when the ground station is slightly off frequency resulting in unnatural voice quality. When receiving an unclear transmission, pull out the knob and rotate the knob either way to give natural voice quality. When the knob is pushed in, the clarifier control is off and should be left in this position if operation is satisfactory.",
-    "caption_tr": ""
+    "caption_tr": "CLARIFIER düğmesi, yer istasyonunun frekansı biraz düşük olduğunda doğal olmayan ses kalitesine neden olduğunda alımı iyileştirir. Net olmayan bir iletim alındığında, doğal ses kalitesi sağlamak için düğmeyi dışarı çekin ve düğmeyi her iki yöne çevirin. Düğme içeri itildiğinde arıtıcı kontrolü kapalıdır ve çalışma tatmin ediciyse bu konumda bırakılmalıdır.",
+    "title_tr": "CLARIFIER düğmesi iyileşiyor"
   },
   {
     "id": "s08",
-    "title": "The SQUELCH knob adjusts the receiver squelch level. Squelch…",
+    "title": "SQUELCH knob adjusts",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The SQUELCH knob adjusts the receiver squelch level. Squelch should be set by rotating the knob clockwise until background noise can be heard then counterclockwise until the noise is just barely audible or absent. Squelch operation on HF is not as predictable as and readjustment may be required frequently.",
-    "caption_tr": ""
+    "caption_tr": "SQUELCH düğmesi alıcı susturucu seviyesini ayarlar. Susturma, arka plan gürültüsü duyuluncaya kadar düğmenin saat yönünde, ardından gürültü zar zor duyulabilene veya tamamen yok olana kadar saat yönünün tersine döndürülerek ayarlanmalıdır. HF'de susturma işlemi o kadar öngörülebilir değildir ve sık sık yeniden ayarlama yapılması gerekebilir.",
+    "title_tr": "SQUELCH düğmesi ayarlanır"
   },
   {
     "id": "s09",
-    "title": "The OFF VOLUME knob turns the system off or on, and control …",
+    "title": "OFF VOLUME knob",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The OFF VOLUME knob turns the system off or on, and control the volume. No frequency is displayed until the system has warmed up (approximately two minutes) after initial power up.",
-    "caption_tr": ""
+    "caption_tr": "OFF VOLUME düğmesi sistemi kapatır veya açar ve ses seviyesini kontrol eder. İlk açılıştan sonra sistem ısınana kadar (yaklaşık iki dakika) hiçbir frekans görüntülenmez.",
+    "title_tr": "KAPALI SES DÜZEYİ"
   },
   {
     "id": "s10",
-    "title": "When depressed with a pointed object, the STO button stores …",
+    "title": "depressed pointed object",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "When depressed with a pointed object, the STO button stores the displayed frequency and emission mode in the memory. When depressed with a pointed object, the button activates the Programme Mode enabling the pilot to change the frequency and emission mode of preset channel. In the Programme Mode operation, the annunciator light will illuminate.",
-    "caption_tr": ""
+    "caption_tr": "STO düğmesi sivri uçlu bir nesneyle basıldığında görüntülenen frekansı ve emisyon modunu hafızada saklar. Sivri uçlu bir nesneyle basıldığında, düğme Program Modunu etkinleştirerek pilotun önceden ayarlanmış kanalın frekansını ve emisyon modunu değiştirmesini sağlar. Program Modu işleminde uyarı ışığı yanacaktır.",
+    "title_tr": "depresif sivri uçlu"
   },
   {
     "id": "s11",
-    "title": "The FrequencyChannel selector consists of two concentric kno…",
+    "title": "FrequencyChannel selector two",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The FrequencyChannel selector consists of two concentric knobs that control channel and frequency.",
-    "caption_tr": ""
+    "caption_tr": "Frekans Kanalı seçici, kanalı ve frekansı kontrol eden iki eşmerkezli düğmeden oluşur.",
+    "title_tr": "FrekansKanal seçici iki"
   },
   {
     "id": "s12",
-    "title": "With the FREQCHAN button in Channel (down) position, the out…",
+    "title": "FREQCHAN button Channel",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "With the FREQCHAN button in Channel (down) position, the outer knob of the frequencychannel selector is not functional. The inner knob will provide channel selection from 1 through As each channel is selected, a corresponding stored frequency is displayed. Watch",
-    "caption_tr": ""
+    "caption_tr": "FREQCHAN düğmesi Kanal (aşağı) konumundayken, frekanskanal seçicinin dış düğmesi işlevsel değildir. İç düğme 1'den 1'e kadar kanal seçimi sağlayacaktır. Her kanal seçildiğinde karşılık gelen kayıtlı frekans görüntülenir. Kol saati",
+    "title_tr": "FREQCHAN düğmesi Kanal"
   },
   {
     "id": "s13",
-    "title": "With the FREQCHAN button in FREQUENCY (up) position, the out…",
+    "title": "FREQCHAN button FREQUENCY",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "With the FREQCHAN button in FREQUENCY (up) position, the outer knob becomes a cursor control to select the digit to be changed. Turning the outer clockwiseanti-clockwise causes the selected digit to flash. The flashing digit is changed by rotating the inner knob. Selection of frequency may be from left to right or vice-versa. Touch the highlighted knob to simulate turning the outer knob to change the first digit.",
-    "caption_tr": ""
+    "caption_tr": "FREQCHAN düğmesi FREQUENCY (yukarı) konumundayken, dış düğme değiştirilecek rakamı seçmek için bir imleç kontrolü haline gelir. Dış kısmı saat yönünde saat yönünün tersine çevirmek seçilen rakamın yanıp sönmesine neden olur. Yanıp sönen rakam iç düğmeyi çevirerek değiştirilir. Frekans seçimi soldan sağa veya tam tersi olabilir. İlk rakamı değiştirmek amacıyla dış düğmeyi döndürmeyi simüle etmek için vurgulanan düğmeye dokunun.",
+    "title_tr": "FREQCHAN düğmesi FREKANS"
   },
   {
     "id": "s14",
-    "title": "Turning the outer flashes the first digit. Using the inner k…",
+    "title": "Turning outer flashes",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Turning the outer flashes the first digit. Using the inner knob, rotate until the desired number is set. The first digit has a range of 2 to Touch the highlighted knob to simulate changing first digit",
-    "caption_tr": ""
+    "caption_tr": "Dış kısım döndürüldüğünde ilk rakam yanıp söner. İç düğmeyi kullanarak istenilen sayı ayarlanana kadar çevirin. İlk rakamın 2 aralığı vardır İlk rakamın değişimini simüle etmek için vurgulanan düğmeye dokunun",
+    "title_tr": "Dış flaşların döndürülmesi"
   },
   {
     "id": "s15",
-    "title": "Similarly, the rest of the digits can be changed using the o…",
+    "title": "Similarly rest digits",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Similarly, the rest of the digits can be changed using the outer and inner knobs. The range selectable for each of the remaining digitsis 0to 9. Watch",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, rakamların geri kalanı dış ve iç düğmeler kullanılarak değiştirilebilir. Kalan rakamların her biri için seçilebilen aralık 0 ile 9 arasındadır.",
+    "title_tr": "Benzer şekilde dinlenme"
   },
   {
     "id": "s16",
-    "title": "Having selected a frequency and before transmission, itis ne…",
+    "title": "Having selected frequency",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Having selected a frequency and before transmission, itis necessary to tune the HF transmitter. This is done by selecting the HF transmit button on the ACP and pressing the on-side microphone button momentarily.",
-    "caption_tr": ""
+    "caption_tr": "Frekansı seçtikten sonra iletimden önce HF vericisini ayarlamak gerekir. Bu, ACP'deki HF iletim düğmesinin seçilmesi ve yan taraftaki mikrofon düğmesine anlık olarak basılmasıyla yapılır.",
+    "title_tr": "Frekansı seçtikten sonra"
   },
   {
     "id": "s17",
-    "title": "Keying the microphone will allow the HF antenna coupler to t…",
+    "title": "Keying microphone will",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Keying the microphone will allow the HF antenna coupler to tune the antenna. At the same time, the frequency on the display window goes blank and the TX annunciator flashes. When the tuning process is over, the frequency reappears and the TX disappears.",
-    "caption_tr": ""
+    "caption_tr": "Mikrofonun anahtarlanması, HF anten kuplörünün anteni ayarlamasına olanak tanır. Aynı zamanda ekran penceresindeki frekans boşalır ve TX göstergesi yanıp söner. Ayarlama işlemi bittiğinde frekans yeniden görünür ve TX kaybolur.",
+    "title_tr": "Anahtarlama mikrofonu"
   },
   {
     "id": "s18",
-    "title": "Transmission can now be made on the When the microphone is k…",
+    "title": "Transmission can made",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Transmission can now be made on the When the microphone is keyed to transmit, TX annunciator will illuminate steady on the window.",
-    "caption_tr": ""
+    "caption_tr": "Artık iletim yapılabilir. Mikrofon iletim için ayarlandığında, TX uyarı cihazı pencerede sabit olarak yanacaktır.",
+    "title_tr": "İletim yapılabilir"
   }
 ]

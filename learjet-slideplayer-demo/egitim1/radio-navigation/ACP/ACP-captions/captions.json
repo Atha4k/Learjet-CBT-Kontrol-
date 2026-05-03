@@ -1,234 +1,263 @@
 [
   {
     "id": "s01",
-    "title": "The pilot's and co-pilots digital audio control panels are l…",
+    "title": "pilot's co-pilots digital",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "The pilot's and co-pilots digital audio control panels are located outboard of the PFDs on each side of the cockpit.",
-    "caption_tr": ""
+    "caption_en": "The pilot's and co-pilots digital audio control panels are located outboard of the PFDs.",
+    "caption_tr": "Pilotun ve yardımcı pilotların dijital ses kontrol panelleri PFD'lerin dışına yerleştirilmiştir.",
+    "title_tr": "pilot yardımcı pilotları"
   },
   {
     "id": "s02",
-    "title": "The observer's audio control panel is on the right of his se…",
+    "title": "observer's audio control",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The observer's audio control panel is on the right of his seat. It is located on top of the manual stowage compartment.",
-    "caption_tr": ""
+    "caption_en": "Each pilots has their own ACP panel.",
+    "caption_tr": "Her pilotun kendi ACP paneli vardır.",
+    "title_tr": "gözlemcinin ses kontrolü"
   },
   {
     "id": "s03",
-    "title": "Each audio control panel (ACP) receives digitized audio from…",
+    "title": "audio control panel",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Each audio control panel (ACP) receives digitized audio from integrated navigation units (INU), integrated communications units (ICU) and HF through high-speed digital data buses and reconstitutes them into headphone and speaker signals. The pilot and co-pilot may listen to the same audio source at independent audio volume level settings over the cockpit speaker and headset.",
-    "caption_tr": ""
+    "caption_tr": "Her ses kontrol paneli (ACP), yüksek hızlı dijital veri yolları aracılığıyla entegre navigasyon ünitelerinden (INU), entegre iletişim ünitelerinden (ICU) ve HF'den dijitalleştirilmiş ses alır ve bunları kulaklık ve hoparlör sinyallerine dönüştürür. Pilot ve yardımcı pilot, kokpit hoparlörü ve kulaklık üzerinden aynı ses kaynağını bağımsız ses seviyesi ayarlarında dinleyebilir.",
+    "title_tr": "ses kontrol paneli"
   },
   {
     "id": "s04",
-    "title": "The audio control panels also receive inputs from crew warni…",
+    "title": "audio control panels",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The audio control panels also receive inputs from crew warning panel ground proximity warningwindshear systems and trim-in motion detector for horizontal stabilizer.",
-    "caption_tr": ""
+    "caption_tr": "Ses kontrol panelleri aynı zamanda mürettebat uyarı panelinin yere yakınlık uyarısı, rüzgar kesme sistemlerinden ve yatay stabilizatör için dahili hareket dedektöründen de girdiler alır.",
+    "title_tr": "ses kontrol panelleri"
   },
   {
     "id": "s05",
-    "title": "Microphone transmit buttons are located along the top row of…",
+    "title": "Microphone transmit buttons",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Microphone transmit buttons are located along the top row of the audio control panel. For night flying operations, the transmit buttons are annunciated with lighted green bar on the switch indicating the selected microphone.",
-    "caption_tr": ""
+    "caption_tr": "Mikrofon aktarma düğmeleri, ses kontrol panelinin üst sırasında bulunur. Gece uçuş operasyonları için, iletim düğmeleri, seçilen mikrofonu gösteren anahtar üzerinde yanan yeşil çubukla belirtilir.",
+    "title_tr": "Mikrofon iletim düğmeleri"
   },
   {
     "id": "s06",
-    "title": "When the transmit button is pushed, it latches in the down p…",
+    "title": "transmit button pushed",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "When the transmit button is pushed, it latches in the down position. When latched down, it connects microphone (hand-held, boom or oxygen mask microphone) to the selected radio. At the same time, it also enables the audio reception at the preset volume. This is regardless of whether the receive button is on or off.",
-    "caption_tr": ""
+    "caption_tr": "İletim düğmesine basıldığında aşağı konumda kilitlenir. Kilitlendiğinde mikrofonu (el tipi, bomlu veya oksijen maskesi mikrofonu) seçilen radyoya bağlar. Aynı zamanda önceden ayarlanmış ses seviyesinde ses alımını da sağlar. Bu, alma düğmesinin açık veya kapalı olmasından bağımsızdır.",
+    "title_tr": "iletim düğmesine basıldı"
   },
   {
     "id": "s07",
-    "title": "For boom and hand-held microphone to be connected to the rad…",
+    "title": "boom hand-held microphone",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "For boom and hand-held microphone to be connected to the radios, the BOONMASK switch must be selected in the depressed position.",
-    "caption_tr": ""
+    "caption_tr": "Boom ve el mikrofonunun telsizlere bağlanabilmesi için BOONMASK anahtarının basılı konumda seçilmesi gerekmektedir.",
+    "title_tr": "bom el mikrofonu"
   },
   {
     "id": "s08",
-    "title": "When oxygen mask is used, the BOONMASK switch must be select…",
+    "title": "oxygen mask BOONMASK",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "When oxygen mask is used, the BOONMASK switch must be selected UP.",
-    "caption_tr": ""
+    "caption_tr": "Oksijen maskesi kullanıldığında BOONMASK anahtarı YUKARI seçilmelidir.",
+    "title_tr": "oksijen maskesi BOONMASK"
   },
   {
     "id": "s09",
-    "title": "The transmit buttons are mechanically interlocked so that ea…",
+    "title": "transmit buttons are",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The transmit buttons are mechanically interlocked so that each new selection automatically deselects the previous selection. Watch",
-    "caption_tr": ""
+    "caption_tr": "İletim düğmeleri mekanik olarak birbirine kilitlenmiştir, böylece her yeni seçim otomatik olarak önceki seçimin seçimini kaldırır. Kol saati",
+    "title_tr": "iletim düğmeleri"
   },
   {
     "id": "s10",
-    "title": "Depressing the PA button connects the boom, hand-held or oxy…",
+    "title": "Depressing PA button",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Depressing the PA button connects the boom, hand-held or oxygen microphone to the passenger address (PA) amplifier. The audio level for the PA is automatically adjusted for conditions and is not settable by the crew.",
-    "caption_tr": ""
+    "caption_tr": "PA düğmesine basıldığında bom, el mikrofonu veya oksijen mikrofonu yolcu adresi (PA) amplifikatörüne bağlanır. PA'nın ses seviyesi koşullara göre otomatik olarak ayarlanır ve mürettebat tarafından ayarlanamaz.",
+    "title_tr": "PA düğmesine basılması"
   },
   {
     "id": "s11",
-    "title": "An emergency switch is located in the upper right corner of …",
+    "title": "emergency switch located",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "An emergency switch is located in the upper right corner of each audio control panel. When emergency is depressed, that side of microphone and audio reception is connected directly to COM 1 and NAV 1 and all functions of the audio control panel are by-passed except the headphone volume.",
-    "caption_tr": ""
+    "caption_tr": "Her ses kontrol panelinin sağ üst köşesinde bir acil durum anahtarı bulunur. Acil durum tuşuna basıldığında, mikrofonun bu tarafı ve ses alımı doğrudan COM 1 ve NAV 1'e bağlanır ve ses kontrol panelinin kulaklık ses düzeyi dışındaki tüm işlevleri atlanır.",
+    "title_tr": "acil durum anahtarı"
   },
   {
     "id": "s12",
-    "title": "To receive NAV 1 audio IDENT with emergency button selected …",
+    "title": "receive NAV 1",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "To receive NAV 1 audio IDENT with emergency button selected on the audio control panel, the NAV AUDIO switch on the must be depressed.",
-    "caption_tr": ""
+    "caption_tr": "Ses kontrol panelinde acil durum düğmesi seçiliyken NAV 1 ses kimliğini almak için, NAV AUDIO anahtarına basılmalıdır.",
+    "title_tr": "NAV 1'i al"
   },
   {
     "id": "s13",
-    "title": "The receive buttons are located on the lower rows of the aud…",
+    "title": "receive buttons are",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The receive buttons are located on the lower rows of the audio control panel. When these push-onpush-off switches are latched in the down position, audio is turned off from the receiver. When unlatched in the up position, the audio associated with that button is connected to the headphone and also to the speaker, if selected.",
-    "caption_tr": ""
+    "caption_tr": "Alma düğmeleri ses kontrol panelinin alt sıralarında bulunur. Bu basmalı-kapalı anahtarlar aşağı konumda mandallandığında, alıcıdan gelen ses kapatılır. Mandal yukarı konumda açıldığında, bu düğmeyle ilişkili ses kulaklığa ve ayrıca seçilmişse hoparlöre bağlanır.",
+    "title_tr": "alma düğmeleri"
   },
   {
     "id": "s14",
-    "title": "The audio level can be adjusted by rotating the receive butt…",
+    "title": "audio level can",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The audio level can be adjusted by rotating the receive button. Counter-clockwise to decrease the volume, and clockwise to increase the volume. The audio level pointer on the knobs is illuminated for night flight.",
-    "caption_tr": ""
+    "caption_tr": "Ses seviyesi, alma düğmesini çevirerek ayarlanabilir. Sesi azaltmak için saat yönünün tersine, artırmak için ise saat yönünde. Düğmelerdeki ses seviyesi göstergesi gece uçuşu için aydınlatılmıştır.",
+    "title_tr": "ses seviyesi"
   },
   {
     "id": "s15",
-    "title": "When the DME knob is unlatched up and the arrow on the knob …",
+    "title": "DME knob unlatched",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "When the DME knob is unlatched up and the arrow on the knob is centred straight up, the audio level is at a minimum. Rotating the control knob in either direction 1 or 2 will increase the volume for that corresponding receiver only.",
-    "caption_tr": ""
+    "caption_tr": "DME düğmesinin mandalı açıldığında ve düğme üzerindeki ok yukarı doğru ortalandığında ses seviyesi minimumdadır. Kontrol düğmesinin 1 veya 2 yönünde döndürülmesi yalnızca ilgili alıcının ses düzeyini artıracaktır.",
+    "title_tr": "DME düğmesi açık"
   },
   {
     "id": "s16",
-    "title": "The SIDETONE button selects the on-side cockpit speaker. In …",
+    "title": "SIDETONE button selects",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The SIDETONE button selects the on-side cockpit speaker. In the latched down position, the speaker is turned off; and when the control is in the unlatched (up) position, the on-side cockpit speaker is on.",
-    "caption_tr": ""
+    "caption_tr": "SIDETONE düğmesi yan kokpit hoparlörünü seçer. Kilitli konumda hoparlör kapatılır; ve kumanda mandalı açık (yukarı) konumdayken yan kokpit hoparlörü açıktır.",
+    "title_tr": "YAN TONE düğmesi"
   },
   {
     "id": "s17",
-    "title": "The sidetone level control is used to prevent undesirable fe…",
+    "title": "sidetone level control",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "The sidetone level control is used to prevent undesirable feedback of speaker sidetone audio into the transmitting microphone. When transmitting, both the on-side and off-side speaker sidetone audio levels will be lowered. In addition, the off-side headphone and sidetone levels are lowered.",
-    "caption_tr": ""
+    "caption_tr": "Yan ton seviyesi kontrolü, hoparlör yan ton sesinin verici mikrofona istenmeyen geri beslemesini önlemek için kullanılır. İletim sırasında, hem yan hem de dış hoparlör yan ton ses seviyeleri düşürülecektir. Ek olarak, dış kulaklık ve yan ton seviyeleri de düşürülür.",
+    "title_tr": "yan ton seviyesi"
   },
   {
     "id": "s18",
-    "title": "With the speaker on, the SPEAKER knob can be used to adjust …",
+    "title": "speaker knob can",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "With the speaker on, the SPEAKER knob can be used to adjust the volume of the cockpit speaker. This control functions in series with the individual receive buttons.",
-    "caption_tr": ""
+    "caption_tr": "Hoparlör açıkken, SPEAKER düğmesi kokpit hoparlörünün ses düzeyini ayarlamak için kullanılabilir. Bu kontrol, bireysel alım düğmeleriyle seri olarak çalışır.",
+    "title_tr": "hoparlör düğmesi"
   },
   {
     "id": "s19",
-    "title": "The IDIBOTHVOICE switch is located on the right side of the …",
+    "title": "IDIBOTHVOICE switch located",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "The IDIBOTHVOICE switch is located on the right side of the audio control panel. In the ID position, the VOR and ADF audio is filtered out to enhance the Morse code identification and eliminate the voice signal.",
-    "caption_tr": ""
+    "caption_tr": "IDIBOTHVOICE anahtarı ses kontrol panelinin sağ tarafında bulunur. Kimlik konumunda, Mors kodu tanımlamasını geliştirmek ve ses sinyalini ortadan kaldırmak için VOR ve ADF sesi filtrelenir.",
+    "title_tr": "IDIBOTHVOICE anahtarı bulundu"
   },
   {
     "id": "s20",
-    "title": "In the VOICE position, the audio ident is filtered out and t…",
+    "title": "VOICE position audio",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "In the VOICE position, the audio ident is filtered out and the voice content remains. This position is useful for ATIS reception. In BOTH position, voice and ident signals may be heard simultaneously.",
-    "caption_tr": ""
+    "caption_tr": "SES konumunda, ses kimliği filtrelenir ve ses içeriği kalır. Bu konum ATIS alımı için kullanışlıdır. HER İKİ pozisyonda ses ve kimlik sinyalleri aynı anda duyulabilir.",
+    "title_tr": "SES konumu sesi"
   },
   {
     "id": "s21",
-    "title": "The controls for the marker beacon receiver are located at t…",
+    "title": "controls marker beacon",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The controls for the marker beacon receiver are located at the bottom of the audio control panel. The marker beacon volume control is used to adjusted the volume to the on-side speaker and headphone. The volume cannot be adjusted below an internally preset level. The selector must be in up position to receive the audio.",
-    "caption_tr": ""
+    "caption_tr": "İşaretleyici işaret ışığı alıcısının kontrolleri ses kontrol panelinin alt kısmında bulunur. İşaretleyici işaret ışığı ses düzeyi kontrolü, ses düzeyini yan taraftaki hoparlöre ve kulaklığa ayarlamak için kullanılır. Ses seviyesi dahili olarak önceden ayarlanmış bir seviyenin altına ayarlanamaz. Sesi alabilmek için seçicinin yukarı konumda olması gerekir.",
+    "title_tr": "işaretleyici işaretçisini kontrol"
   },
   {
     "id": "s22",
-    "title": "The MUTE control is a momentary-action switch. Pushing this …",
+    "title": "MUTE control momentary-action",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The MUTE control is a momentary-action switch. Pushing this selector will temporarily silence the marker beacon audio. The audio remains muted for the time it takes the aircraft to leave the influence of the marker beacon, then resets in preparation for reception of the next marker beacon.",
-    "caption_tr": ""
+    "caption_tr": "MUTE kontrolü anlık eylem anahtarıdır. Bu seçiciye basıldığında işaretleyici işaret sesi geçici olarak susturulur. Ses, uçağın işaretleyici işaret ışığının etkisinden ayrılmasına kadar geçen süre boyunca sessiz kalır, ardından bir sonraki işaretleyici işaret ışığının alınmasına hazırlık amacıyla sıfırlanır.",
+    "title_tr": "MUTE kontrolü anlık"
   },
   {
     "id": "s23",
-    "title": "The same selector also controls sensitivity of marker beacon…",
+    "title": "same selector also",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "The same selector also controls sensitivity of marker beacon receiver. If both selectors are in LO or HI position, then the sensitivity of both receivers will correspondingly be in low or high. But if one of them is in LO, then both receivers sensitivity will be set to low. The graphics above explain this.",
-    "caption_tr": ""
+    "caption_tr": "Aynı seçici aynı zamanda işaretleyici işaret alıcısının hassasiyetini de kontrol eder. Her iki seçici de LO veya HI konumundaysa, her iki alıcının hassasiyeti de buna göre düşük veya yüksek olacaktır. Ancak bunlardan biri LO'daysa her iki alıcının hassasiyeti düşük olarak ayarlanacaktır. Yukarıdaki grafikler bunu açıklıyor.",
+    "title_tr": "aynı seçici"
   },
   {
     "id": "s24",
-    "title": "The interphone (INPH) volume control adjusts the on-side hea…",
+    "title": "interphone volume control",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "The interphone (INPH) volume control adjusts the on-side headset audio level when the interphone function is used. The interphone operates on a hot mic basis.",
-    "caption_tr": ""
+    "caption_tr": "Dahili telefon (INPH) ses seviyesi kontrolü, dahili telefon işlevi kullanıldığında yan kulaklığın ses seviyesini ayarlar. Dahili telefon sıcak mikrofon esasına göre çalışır.",
+    "title_tr": "dahili telefon ses"
   },
   {
     "id": "s25",
-    "title": "When INPH is push in (latched), the on-side interphone (inte…",
+    "title": "INPH push on-side",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "When INPH is push in (latched), the on-side interphone (intercom) is turned off. When the control is up (unlatched), the on-side interphone is turned on.",
-    "caption_tr": ""
+    "caption_tr": "INPH içeri itildiğinde (kilitlendiğinde), yan taraftaki dahili telefon (interkom) kapatılır. Kontrol açıkken (mandal açıkken), yan taraftaki dahili telefon açılır.",
+    "title_tr": "INPH yandan itin"
   },
   {
     "id": "s26",
-    "title": "The HEADPHONE control is used to adjust the on-side headphon…",
+    "title": "HEADPHONE control adjust",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "The HEADPHONE control is used to adjust the on-side headphone volume. This control functions in series with the individual audio source controls.",
-    "caption_tr": ""
+    "caption_tr": "KULAKLIK kontrolü, yan taraftaki kulaklık ses düzeyini ayarlamak için kullanılır. Bu kontrol, bireysel ses kaynağı kontrolleriyle seri halinde çalışır.",
+    "title_tr": "KULAKLIK kontrolü ayarı"
   },
   {
     "id": "s27",
-    "title": "The MICIMASK control allows for microphone audio switching b…",
+    "title": "MICIMASK control allows",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "The MICIMASK control allows for microphone audio switching between the boomhand-held microphone and the oxygen mask microphone. In the latched down position (MIC), boom and hand-held microphones are activated. In the up position, oxygen mask microphone is activated.",
-    "caption_tr": ""
+    "caption_tr": "MICIMASK kontrolü, el mikrofonu ile oksijen maskesi mikrofonu arasında mikrofon sesi geçişine olanak tanır. Kilitli konumda (MIC), bom ve el mikrofonları etkinleştirilir. Yukarı pozisyonda oksijen maskesi mikrofonu devreye girer.",
+    "title_tr": "MICIMASK kontrolü şunları sağl"
   },
   {
     "id": "s28",
-    "title": "The MASK intercom feature provides interphone audio to the o…",
+    "title": "MASK intercom feature",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The MASK intercom feature provides interphone audio to the on-side cockpit speaker during oxygen mask operation. This speaker audio is available regardless of the ONOFF button position.",
-    "caption_tr": ""
+    "caption_tr": "MASK interkom özelliği, oksijen maskesinin çalışması sırasında yan kokpit hoparlörüne interkom sesi sağlar. Bu hoparlör sesi, ONOFF düğmesinin konumundan bağımsız olarak kullanılabilir.",
+    "title_tr": "MASKE interkom özelliği"
   },
   {
     "id": "s29",
-    "title": "Please note that INPH must be selected on (up) whenever the …",
+    "title": "Please note that",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "Please note that INPH must be selected on (up) whenever the MASK microphone is selected. With this setting, the on-side speaker can be used for intercom via the on-side oxygen mask microphone and cockpit speaker. It also allows adjustable volume control of the off-side MASK intercom on the speaker.",
-    "caption_tr": ""
+    "caption_tr": "MASK mikrofonu her seçildiğinde INPH'nin (yukarı) seçilmesi gerektiğini lütfen unutmayın. Bu ayarla, yan taraftaki oksijen maskesi mikrofonu ve kokpit hoparlörü aracılığıyla yan taraftaki hoparlör interkom için kullanılabilir. Ayrıca hoparlördeki MASK interkomunun ayarlanabilir ses seviyesi kontrolüne de olanak tanır.",
+    "title_tr": "Lütfen şunu unutmayın"
   }
 ]

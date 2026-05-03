@@ -1,98 +1,110 @@
 [
   {
     "id": "s01",
-    "title": "Oil for engine lubrication is stored in an oil tank that is …",
+    "title": "Oil engine lubrication",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Oil for engine lubrication is stored in an oil tank that is on the right hand side of the engine. An oil pump, driven by the accessory gearbox, takes oil from the tank.",
-    "caption_tr": ""
+    "caption_tr": "Motor yağlama yağı, motorun sağ tarafında bulunan bir yağ tankında depolanır. Aksesuar dişli kutusu tarafından tahrik edilen bir yağ pompası, yağı depodan alır.",
+    "title_tr": "Yağlı motor yağlaması"
   },
   {
     "id": "s02",
-    "title": "The oil filter has a bypass in the event that the filter ele…",
+    "title": "oil filter has",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The oil filter has a bypass in the event that the filter element is clogged. In this case, a white LEFT or RIGHT OIL FILTER advisory message will be displayed in flight on CAS. On ground the message will change to amber.",
-    "caption_tr": ""
+    "caption_tr": "Filtre elemanının tıkanması durumunda yağ filtresinde bir bypass bulunur. Bu durumda uçuş sırasında CAS'ta beyaz bir SOL veya SAĞ YAĞ FİLTRESİ uyarı mesajı görüntülenecektir. Yerdeyken mesaj kehribar rengine dönüşecektir.",
+    "title_tr": "yağ filtresi var"
   },
   {
     "id": "s03",
-    "title": "Pressure and Temperature Bypass valve allows oil to bypass t…",
+    "title": "Pressure Temperature Bypass",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Pressure and Temperature Bypass valve allows oil to bypass three air-oil coolers when the oil temperature is low. When the oil temperature increases, this valve then direct oil through the air-oil coolers.",
-    "caption_tr": ""
+    "caption_tr": "Basınç ve Sıcaklık Baypas valfi, yağ sıcaklığı düşük olduğunda yağın üç hava-yağ soğutucusunu baypas etmesine olanak tanır. Yağ sıcaklığı arttığında bu valf yağı hava-yağ soğutucularına yönlendirir.",
+    "title_tr": "Basınç Sıcaklık Baypası"
   },
   {
     "id": "s04",
-    "title": "Qil is then directed to lubricate bearings and gearboxes dir…",
+    "title": "Qil directed lubricate",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Qil is then directed to lubricate bearings and gearboxes directly or after being cooled by the Fuel Heater Oil Cooler.",
-    "caption_tr": ""
+    "caption_tr": "Qil daha sonra doğrudan veya Yakıt Isıtıcı Yağ Soğutucusu tarafından soğutulduktan sonra yatakları ve dişli kutularını yağlamaya yönlendirilir.",
+    "title_tr": "Qil yağlamayı yönlendirdi"
   },
   {
     "id": "s05",
-    "title": "An oil pressure sensor provides for the oil pressure display…",
+    "title": "oil pressure sensor",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "An oil pressure sensor provides for the oil pressure display on EICAS and the RMU. If the oil pressure falls below a safe limit, this triggers master warning, illuminates the appropriate OIL PRESSURE LOW light on the and also causes a red Left or Right Oil Pressure Low warning message to flash on CAS.",
-    "caption_tr": ""
+    "caption_tr": "Bir yağ basıncı sensörü, EICAS ve RMU'da yağ basıncının görüntülenmesini sağlar. Yağ basıncı güvenli bir sınırın altına düşerse, bu ana uyarıyı tetikler, ilgili YAĞ BASINCI DÜŞÜK ışığını yakar ve ayrıca CAS'ta kırmızı bir Sol veya Sağ Yağ Basıncı Düşük uyarı mesajının yanıp sönmesine neden olur.",
+    "title_tr": "yağ basınç sensörü"
   },
   {
     "id": "s06",
-    "title": "An oil temperature sensor provides for the oil temperature d…",
+    "title": "oil temperature sensor",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "An oil temperature sensor provides for the oil temperature display on EICAS and the RMU.",
-    "caption_tr": ""
+    "caption_tr": "Bir yağ sıcaklığı sensörü, EICAS ve RMU'da yağ sıcaklığının görüntülenmesini sağlar.",
+    "title_tr": "yağ sıcaklık sensörü"
   },
   {
     "id": "s07",
-    "title": "The scavenge elements of the oil pump draw oil out from the …",
+    "title": "scavenge elements oil",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The scavenge elements of the oil pump draw oil out from the bearing compartments and gearboxes and returns the oil back to the oil tank. Metallic chips detected by a chip sensor during flight will cause a white Left or Right Engine Chip advisory message to be display on CAS.",
-    "caption_tr": ""
+    "caption_tr": "Yağ pompasının temizleme elemanları, yağı yatak bölmelerinden ve dişli kutularından çeker ve yağı tekrar yağ deposuna geri gönderir. Uçuş sırasında çip sensörü tarafından tespit edilen metalik çipler, CAS'ta beyaz bir Sol veya Sağ Motor Çipi uyarı mesajının görüntülenmesine neden olacaktır.",
+    "title_tr": "temizleme elemanları yağı"
   },
   {
     "id": "s08",
-    "title": "To minimise oil foaming, the oil tank air pressure is allowe…",
+    "title": "minimise oil foaming",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "To minimise oil foaming, the oil tank air pressure is allowed to increase to the setting of a breather pressurisation valve.",
-    "caption_tr": ""
+    "caption_tr": "Yağ köpürmesini en aza indirmek için, yağ deposu hava basıncının havalandırma basınçlandırma valfi ayarına kadar artmasına izin verilir.",
+    "title_tr": "yağ köpürmesini en"
   },
   {
     "id": "s09",
-    "title": "Engine oil level should be checked within one hour of engine…",
+    "title": "Engine oil level",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Engine oil level should be checked within one hour of engine shutdown.",
-    "caption_tr": ""
+    "caption_tr": "Motor yağı seviyesi, motor kapatıldıktan sonraki bir saat içinde kontrol edilmelidir.",
+    "title_tr": "Motor yağı seviyesi"
   },
   {
     "id": "s10",
-    "title": "Opening an access panel on the outboard side of each engine …",
+    "title": "Opening access panel",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Opening an access panel on the outboard side of each engine cowling gives access to a dipstick. This is the oil tank of the right hand engine which has a separate fill port for topping up.",
-    "caption_tr": ""
+    "caption_tr": "Her motor kaputunun dış tarafındaki erişim panelinin açılması, yağ çubuğuna erişim sağlar. Bu, doldurmak için ayrı bir doldurma deliğine sahip olan sağ motorun yağ deposudur.",
+    "title_tr": "Erişim panelini açma"
   },
   {
     "id": "s11",
-    "title": "For the left hand engine the dipstick port serves as the fil…",
+    "title": "left hand engine",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "For the left hand engine the dipstick port serves as the fill port as well.",
-    "caption_tr": ""
+    "caption_tr": "Sol motor için yağ çubuğu portu aynı zamanda doldurma portu görevi de görür.",
+    "title_tr": "sol motor"
   },
   {
     "id": "s12",
-    "title": "The dipstick is marked with a FULL and a ONE QUART LOW posit…",
+    "title": "dipstick marked FULL",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The dipstick is marked with a FULL and a ONE QUART LOW position. Fill to the FULL mark if oil is at or below the ONE QUART LOW mark.",
-    "caption_tr": ""
+    "caption_tr": "Yağ çubuğu FULL ve ONE QUART LOW konumuyla işaretlenmiştir. Yağ BİR ÇEYREK DÜŞÜK işaretinde veya altındaysa, FULL işaretine kadar doldurun.",
+    "title_tr": "Yağ çubuğu FULL"
   }
 ]

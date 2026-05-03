@@ -1,171 +1,192 @@
 [
   {
     "id": "s01",
-    "title": "The Primus is the standard radar installed in the Learjet It…",
+    "title": "Primus standard radar",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Primus is the standard radar installed in the Learjet It is an X-band radar system designed for atmospheric moisture detection and ground mapping.",
-    "caption_tr": ""
+    "caption_tr": "Primus, Learjet'te kurulu standart radardır. Atmosferdeki nem tespiti ve yer haritalaması için tasarlanmış bir X-bant radar sistemidir.",
+    "title_tr": "Primus standart radar"
   },
   {
     "id": "s02",
-    "title": "When the system is in weather detection mode, it will detect…",
+    "title": "system weather detection",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "When the system is in weather detection mode, it will detect and locate various types of inclement weather conditions along the flight path and provide a visual-colour display of storm intensities.",
-    "caption_tr": ""
+    "caption_tr": "Sistem, hava durumu tespit modundayken, uçuş yolu boyunca çeşitli türde sert hava koşullarını tespit edip tespit edecek ve fırtına yoğunluklarına ilişkin görsel renkli bir görüntü sağlayacaktır.",
+    "title_tr": "sistem hava durumu"
   },
   {
     "id": "s03",
-    "title": "When the system is used for ground mapping, the display will…",
+    "title": "system ground mapping",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "When the system is used for ground mapping, the display will enable crew to identify coastlines, hilly or mountainous regions, cities, or large structures.",
-    "caption_tr": ""
+    "caption_tr": "Sistem yer haritalaması için kullanıldığında, ekran mürettebatın kıyı şeritlerini, engebeli veya dağlık bölgeleri, şehirleri veya büyük yapıları tanımlamasına olanak tanıyacak.",
+    "title_tr": "sistem zemin haritalaması"
   },
   {
     "id": "s04",
-    "title": "The weather radar system consists of a RTA unit which stands…",
+    "title": "weather radar system",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The weather radar system consists of a RTA unit which stands for receivertransmitterantenna and a weather radar controller. The RTA is a 12-inch plate and is installed inside the radome on the forward side of the frame. The weather radar controller is mounted on the pedestal.",
-    "caption_tr": ""
+    "caption_tr": "Hava durumu radar sistemi, alıcı-verici anteni temsil eden bir RTA ünitesi ve bir hava durumu radar kontrol cihazından oluşur. RTA 12 inçlik bir plakadır ve çerçevenin ön tarafındaki anten kaportasının içine monte edilir. Hava durumu radar kontrolörü kaide üzerine monte edilmiştir.",
+    "title_tr": "hava durumu radar"
   },
   {
     "id": "s05",
-    "title": "The radar antenna is provided with pitch and roll signals to…",
+    "title": "radar antenna provided",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The radar antenna is provided with pitch and roll signals to stabilise the antenna. The antenna receives stabilization inputs from AHRS 1.",
-    "caption_tr": ""
+    "caption_tr": "Radar anteni, anteni stabilize etmek için eğim ve dönüş sinyalleriyle donatılmıştır. Anten AHRS 1'den stabilizasyon girişleri alır.",
+    "title_tr": "radar anteni sağlandı"
   },
   {
     "id": "s06",
-    "title": "The RTA transmits and receives X-band radio frequency energy…",
+    "title": "RTA transmits receives",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The RTA transmits and receives X-band radio frequency energy. The transmitter sent signals to the antenna; the antenna scans and directs signals to any targets that fall within the scanning sector.",
-    "caption_tr": ""
+    "caption_tr": "RTA, X-bant radyo frekansı enerjisini iletir ve alır. Verici antene sinyaller gönderdi; anten tarar ve sinyalleri tarama sektörü dahilindeki tüm hedeflere yönlendirir.",
+    "title_tr": "RTA iletir alır"
   },
   {
     "id": "s07",
-    "title": "When the radar beam hits a target, part of the beam is defle…",
+    "title": "radar beam hits",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "When the radar beam hits a target, part of the beam is deflected back and is received by the antenna; and part of it continues forward to detect any targets further down. The echoed signal, which is received by the antenna, now goes to the receiver.",
-    "caption_tr": ""
+    "caption_tr": "Radar ışını bir hedefe çarptığında ışının bir kısmı geriye doğru sapar ve anten tarafından alınır; ve bir kısmı daha aşağılardaki hedefleri tespit etmek için ileriye doğru devam ediyor. Anten tarafından alınan yankılanan sinyal artık alıcıya gider.",
+    "title_tr": "radar ışını vuruyor"
   },
   {
     "id": "s08",
-    "title": "The receiver and processing system processes and convert thi…",
+    "title": "receiver processing system",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The receiver and processing system processes and convert this signal to video data. The video data is then transmitted directly to PFDs and instead of being channelled to symbol generators. This is due to RTA ability to convert signals straight to video information.",
-    "caption_tr": ""
+    "caption_tr": "Alıcı ve işleme sistemi bu sinyali işler ve video verilerine dönüştürür. Video verileri daha sonra sembol oluşturuculara kanalize edilmek yerine doğrudan PFD'lere iletilir. Bunun nedeni RTA'nın sinyalleri doğrudan video bilgisine dönüştürme yeteneğidir.",
+    "title_tr": "alıcı işleme sistemi"
   },
   {
     "id": "s09",
-    "title": "To display weather on the compass format must be in partial …",
+    "title": "weather compass format",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "To display weather on the compass format must be in partial compass (ARC) or map. And on the the compass must be in the map mode.",
-    "caption_tr": ""
+    "caption_tr": "Hava durumunu pusula formatında görüntülemek için kısmi pusula (ARC) veya harita şeklinde olması gerekir. Ve pusulanın harita modunda olması gerekir.",
+    "title_tr": "hava durumu pusula"
   },
   {
     "id": "s10",
-    "title": "Selection of weather display on the is by WX button on the d…",
+    "title": "Selection weather WX",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Selection of weather display on the is by WX button on the display controller. On the selection of weather display is by WX menu button on the bezel controller.",
-    "caption_tr": ""
+    "caption_tr": "Hava durumu ekranının seçimi, ekran denetleyicisindeki WX düğmesiyle yapılır. Hava durumu ekranının seçimi, çerçeve denetleyicisindeki WX menü düğmesiyle yapılır.",
+    "title_tr": "Hava durumu seçimi"
   },
   {
     "id": "s11",
-    "title": "When the radar is being displayed on the the radar primary m…",
+    "title": "radar being primary",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "When the radar is being displayed on the the radar primary mode of operation is annunciated at the left end of the mid-range ring. On the the radar mode is annunciated approximately halfway down on the left side of the display.",
-    "caption_tr": ""
+    "caption_tr": "Radar, radarda görüntülendiğinde, birincil çalışma modu orta menzil halkasının sol ucunda duyurulur. Radar modunda ekranın sol tarafının yaklaşık yarısına kadar bildirilir.",
+    "title_tr": "radar öncelikli"
   },
   {
     "id": "s12",
-    "title": "The table above consists of all the weather radar mode annun…",
+    "title": "table above weather",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The table above consists of all the weather radar mode annunciations on PFD and MFD",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki tablo PFD ve MFD'deki tüm hava durumu radar modu duyurularını içermektedir.",
+    "title_tr": "hava durumu tablosu"
   },
   {
     "id": "s13",
-    "title": "The weather radar is controlled from weather radar controlle…",
+    "title": "weather radar controlled",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The weather radar is controlled from weather radar controller. The controller consists of functions as shown and they are described as follows:",
-    "caption_tr": ""
+    "caption_tr": "Hava durumu radarı, hava durumu radar kontrolöründen kontrol edilir. Kontrolör gösterilen işlevlerden oluşur ve aşağıda açıklanmıştır:",
+    "title_tr": "hava durumu radar"
   },
   {
     "id": "s14",
-    "title": "When (standby) is selected, the RTA is powered up but it doe…",
+    "title": "selected RTA powered",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "When (standby) is selected, the RTA is powered up but it does not radiate any RF energy and antenna does not scan. The system performs a magnetron warm up for about 45 seconds. During this time, WAIT is annuncicted on the PFD and MFD in cyan.",
-    "caption_tr": ""
+    "caption_tr": "(Bekleme) seçildiğinde, RTA açılır ancak RF enerjisi yaymaz ve anten tarama yapmaz. Sistem yaklaşık 45 saniye boyunca bir magnetron ısınması gerçekleştirir. Bu süre zarfında PFD ve MFD'de camgöbeği renginde WAIT duyurulur.",
+    "title_tr": "seçilen RTA destekli"
   },
   {
     "id": "s15",
-    "title": "If the aircraft is on the ground, system will go into forced…",
+    "title": "aircraft ground system",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "If the aircraft is on the ground, system will go into forced standby (F mode after 45 seconds has elapsed. The forced standby is a feacture designed to prevent radar from switching on to an operating mode while aircraft is on the ground.",
-    "caption_tr": ""
+    "caption_tr": "Uçak yerde ise sistem zorunlu beklemeye (45 saniye geçtikten sonra F moduna) geçecektir. Zorunlu bekleme, uçak yerdeyken radarın çalışma moduna geçmesini önlemek için tasarlanmış bir özelliktir.",
+    "title_tr": "uçak yer sistemi"
   },
   {
     "id": "s16",
-    "title": "If the aircraft is in the air and is selected, will be annun…",
+    "title": "aircraft air selected",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "If the aircraft is in the air and is selected, will be annunciated after the warm up period is over. In this mode, antenna does not scan, transmitter is disabled, the display memory is erased, and antenna is stowed in a tilt-up position. Standby should be selected anytime it is desired to keep power on the system without transmitting.",
-    "caption_tr": ""
+    "caption_tr": "Uçağın havada olması ve seçilmesi durumunda ısınma süresi bittikten sonra duyurulacaktır. Bu modda anten tarama yapmaz, verici devre dışı bırakılır, ekran belleği silinir ve anten yukarı kaldırılmış konumda saklanır. İletim yapmadan sisteme gücün açık tutulması istendiğinde Bekleme modu seçilmelidir.",
+    "title_tr": "uçak havası seçildi"
   },
   {
     "id": "s17",
-    "title": "In the WX position, the receiver and transmitter become acti…",
+    "title": "WX position receiver",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "In the WX position, the receiver and transmitter become active at the selected range and tilt, and the antenna sweeps 120 deg in front of the",
-    "caption_tr": ""
+    "caption_tr": "WX konumunda, alıcı ve verici seçilen aralıkta ve eğimde aktif hale gelir ve anten antenin 120 derece önünde hareket eder.",
+    "title_tr": "WX konum alıcısı"
   },
   {
     "id": "s18",
-    "title": "If WX is selected for display prior to the expiration of the…",
+    "title": "WX selected prior",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "If WX is selected for display prior to the expiration of the initial RTA warm up period (approximately 45 seconds), WAIT is displayed flashing in cyan. Upon completion of the warm up period, the system will automatically switch to WX mode.",
-    "caption_tr": ""
+    "caption_tr": "İlk RTA ısınma süresinin (yaklaşık 45 saniye) sona ermesinden önce görüntülenmek üzere WX seçilirse, camgöbeği renginde yanıp sönerek WAIT görüntülenir. Isınma süresinin tamamlanmasının ardından sistem otomatik olarak WX moduna geçecektir.",
+    "title_tr": "WX önceden seçildi"
   },
   {
     "id": "s19",
-    "title": "Storm intensity levels are displayed in four standard colour…",
+    "title": "Storm intensity levels",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Storm intensity levels are displayed in four standard colours in the WX mode. Areas of heaviest rainfall appear in magenta, next heaviest is red, rainfall of medium intensity in yellow, and areas of weak rainfall appear in green.",
-    "caption_tr": ""
+    "caption_tr": "Fırtına yoğunluk seviyeleri WX modunda dört standart renkte görüntülenir. En yoğun yağış alanları macenta renkte, sonraki en yoğun yağış kırmızı renkte, orta yoğunlukta yağışlar sarı renkte ve zayıf yağış alanları yeşil renkte görünür.",
+    "title_tr": "Fırtına yoğunluğu seviyeleri"
   },
   {
     "id": "s20",
-    "title": "If the weather radar is to be operated on the ground in the …",
+    "title": "weather radar operated",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "If the weather radar is to be operated on the ground in the weather mode, the feature must be overriden. This is done by pressing both the range buttons simultaneously. It will then override the squat switch and turn on the weather radar.",
-    "caption_tr": ""
+    "caption_tr": "Hava durumu radarı hava durumu modunda yerde çalıştırılacaksa bu özelliğin geçersiz kılınması gerekir. Bu, her iki aralık düğmesine aynı anda basılarak yapılır. Daha sonra çömelme anahtarını geçersiz kılacak ve hava durumu radarını açacaktır.",
+    "title_tr": "hava durumu radarı"
   },
   {
     "id": "s21",
-    "title": "It is essential that when weather radar is used on the groun…",
+    "title": "It essential that",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "It is essential that when weather radar is used on the ground, some precautionary measures must be taken to ensure that the safety of ground crew and equipment are not jeopardized. Here are some of the safety rules:",
-    "caption_tr": ""
+    "caption_tr": "Meteoroloji radarı yerde kullanıldığında, yer ekibinin ve ekipmanın güvenliğinin tehlikeye girmemesini sağlamak için bazı ihtiyati tedbirlerin alınması zorunludur. İşte güvenlik kurallarından bazıları:",
+    "title_tr": "Bu çok önemli"
   },
   {
     "id": "s22",
@@ -173,7 +194,8 @@
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 22"
   },
   {
     "id": "s23",
@@ -181,318 +203,358 @@
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 23"
   },
   {
     "id": "s24",
-    "title": "On ground, if weather radar is transmitting and WX is not se…",
+    "title": "ground weather radar",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "On ground, if weather radar is transmitting and WX is not selected on the TX will be annunciated in amber. TX is not annunciated on In the air, the same condition results in cyan TX.",
-    "caption_tr": ""
+    "caption_tr": "Yerde, hava durumu radarı yayın yapıyorsa ve TX'te WX seçilmemişse sarı renkte duyurulacaktır. TX açık olarak bildirilmez. Havada aynı durum camgöbeği TX ile sonuçlanır.",
+    "title_tr": "kara hava durumu"
   },
   {
     "id": "s25",
-    "title": "The GMAP operation is selected by setting the mode control t…",
+    "title": "GMAP selected setting",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "The GMAP operation is selected by setting the mode control to GMAP. The tilt control is turned down until the desired amount of terrain is displayed. The degree of down-tilt will depend upon the aircraft altitude and the selected range. In this mode, GMAP is annunciated on the PFD and MFD.",
-    "caption_tr": ""
+    "caption_tr": "GMAP işlemi, mod kontrolünün GMAP olarak ayarlanmasıyla seçilir. İstenilen arazi miktarı görüntülenene kadar eğim kontrolü kısılır. Aşağı eğimin derecesi uçağın yüksekliğine ve seçilen aralığa bağlı olacaktır. Bu modda GMAP, PFD ve MFD'de duyurulur.",
+    "title_tr": "GMAP seçili ayar"
   },
   {
     "id": "s26",
-    "title": "In the ground mapping mode, the system internal parameters a…",
+    "title": "ground mapping mode",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "In the ground mapping mode, the system internal parameters are set to enhance returns from the ground targets and reduce returns from weather targets. In this mode, prominent landmarks are displayed which enable the pilot to identify coastlines, mountainous regions, cities and even large structure.",
-    "caption_tr": ""
+    "caption_tr": "Yer haritalama modunda, sistemin dahili parametreleri yer hedeflerinden gelen geri dönüşleri artıracak ve hava hedeflerinden gelen geri dönüşleri azaltacak şekilde ayarlanır. Bu modda, pilotun kıyı şeritlerini, dağlık bölgeleri, şehirleri ve hatta büyük yapıları tanımlamasını sağlayan önemli yer işaretleri görüntülenir.",
+    "title_tr": "yer haritalama modu"
   },
   {
     "id": "s27",
-    "title": "The colour scheme in use when in GMAP mode are cyan, yellow …",
+    "title": "colour scheme GMAP",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "The colour scheme in use when in GMAP mode are cyan, yellow and magenta. Cyan represents the least reflective return, yellow is a moderate return and magenta is a strong return.",
-    "caption_tr": ""
+    "caption_tr": "GMAP modunda kullanılan renk şeması camgöbeği, sarı ve macentadır. Camgöbeği en az yansıtıcı getiriyi temsil eder, sarı orta düzeyde bir getiriyi, macenta ise güçlü bir getiriyi temsil eder.",
+    "title_tr": "renk şeması GMAP"
   },
   {
     "id": "s28",
-    "title": "Because GMAP has its own set of colours for interpretation, …",
+    "title": "Because GMAP has",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "Because GMAP has its own set of colours for interpretation, pilot should not attempt to use GMAP for weather detection. Weather type targets are not calibrated when the radar is in GMAP mode.",
-    "caption_tr": ""
+    "caption_tr": "GMAP'ın yorumlamaya yönelik kendi renk seti olduğundan, pilot hava durumu tespiti için GMAP'ı kullanmaya çalışmamalıdır. Radar GMAP modundayken hava durumu türü hedefler kalibre edilmez.",
+    "title_tr": "Çünkü GMAP'ın"
   },
   {
     "id": "s29",
-    "title": "In the radar is put into the standby mode and legend is annu…",
+    "title": "radar put standby",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "In the radar is put into the standby mode and FPLN legend is annunciated.",
-    "caption_tr": ""
+    "caption_tr": "Radar bekleme moduna alınır ve FPLN lejantı duyurulur.",
+    "title_tr": "radarı beklemeye al"
   },
   {
     "id": "s30",
-    "title": "No weather targets are displayed on the screen.",
+    "title": "No weather targets",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "FP mode places the radar in the flight plan mode permetting singular display of navigation data on PFD and MFD .No weather targets are displayed on the screen.",
-    "caption_tr": ""
+    "caption_tr": "FP modu, radarı, PFD ve MFD'de navigasyon verilerinin tekil olarak görüntülenmesine olanak tanıyan uçuş planı moduna yerleştirir. Ekranda hiçbir hava durumu hedefi görüntülenmez.",
+    "title_tr": "Hava durumu hedefi"
   },
   {
     "id": "s31",
-    "title": "The position is used to selected a special test pattern to a…",
+    "title": "position selected special",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "The position is used to selected a special test pattern to allow verification of system operation;100 NM range is automatically selected; TEST is annunciated. In this mode transmitter is on and radiating X-band microwave energy.",
-    "caption_tr": ""
+    "caption_tr": "Pozisyon, sistem çalışmasının doğrulanmasına izin verecek özel bir test modelinin seçilmesi için kullanılır; 100 NM aralığı otomatik olarak seçilir; TEST açıklandı. Bu modda verici açıktır ve X-bant mikrodalga enerjisi yaymaktadır.",
+    "title_tr": "pozisyon seçildi özel"
   },
   {
     "id": "s32",
-    "title": "If the test is not normal, FAIL will be annunciated in amber…",
+    "title": "test normal FAIL",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "If the test is not normal, FAIL will be annunciated in amber and a fault code appears below the annunciation. Fault code should be given to the maintanence crew for trouble-shooting.",
-    "caption_tr": ""
+    "caption_tr": "Test normal değilse, sarı renkte FAIL uyarısı verilecek ve bildirimin altında bir hata kodu görünecektir. Arızanın giderilmesi için bakım ekibine arıza kodu verilmelidir.",
+    "title_tr": "normal test BAŞARISIZ"
   },
   {
     "id": "s33",
-    "title": "Two momentary-action switches on the radar controller are us…",
+    "title": "Two momentary-action switches",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "Two momentary-action switches on the radar controller are used to select the operating range of the radar. One switch has an up-arrow to increase range, and the other has a down-arrow to decrease range.",
-    "caption_tr": ""
+    "caption_tr": "Radarın çalışma aralığını seçmek için radar kontrolöründeki iki anlık hareket anahtarı kullanılır. Anahtarlardan birinde menzili artırmak için bir yukarı ok, diğerinde ise menzili azaltmak için bir aşağı ok bulunur.",
+    "title_tr": "İki anlık eylem"
   },
   {
     "id": "s34",
-    "title": "Two momentary-action switches on the radar controller are us…",
+    "title": "Two momentary-action switches",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "Two momentary-action switches on the radar controller are used to select the operating range of the radar. One switch has an up-arrow to increase range, and the other has a down-arrow to decrease range. For these switches to be active, weather radar selector must not be in the OFF position.",
-    "caption_tr": ""
+    "caption_tr": "Radarın çalışma aralığını seçmek için radar kontrolöründeki iki anlık hareket anahtarı kullanılır. Anahtarlardan birinde menzili artırmak için bir yukarı ok, diğerinde ise menzili azaltmak için bir aşağı ok bulunur. Bu anahtarların aktif olması için hava durumu radar seçicisinin KAPALI konumda olmaması gerekir.",
+    "title_tr": "İki anlık eylem"
   },
   {
     "id": "s35",
-    "title": "In the OFF position and if MAP is selected on the the range …",
+    "title": "OFF position MAP",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "In the OFF position and if MAP is selected on the the range displayed is defaulted to 100 NM.",
-    "caption_tr": ""
+    "caption_tr": "KAPALI konumda ve MAP seçilirse görüntülenen aralık varsayılan olarak 100 NM olarak ayarlanır.",
+    "title_tr": "KAPALI konumu HARİTASI"
   },
   {
     "id": "s36",
-    "title": "Likewise, selecting WX on the with radar selector in the OFF…",
+    "title": "Likewise WX radar",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "Likewise, selecting WX on the with radar selector in the OFF position will have the range fix at 100NM",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, radar seçici KAPALI konumdayken WX'in seçilmesi, menzilin 100 NM'de sabitlenmesini sağlayacaktır.",
+    "title_tr": "Aynı şekilde WX"
   },
   {
     "id": "s37",
-    "title": "But when radar selector is out of OFF position in this case)…",
+    "title": "But radar selector",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "But when radar selector is out of OFF position in this case), range on both MAP and can be changed by the range buttons on the weather controller. Ranges selectable by the weather radar range buttons are 5,10,25,50,100 and 150 NM (shown on half range ring as and NM respectively)",
-    "caption_tr": ""
+    "caption_tr": "Ancak bu durumda radar seçici KAPALI konumu dışında olduğunda), hem MAP'taki menzil hem de hava durumu kontrol cihazı üzerindeki menzil düğmeleriyle değiştirilebilir. Hava durumu radar menzil düğmeleriyle seçilebilen menziller 5,10,25,50,100 ve 150 NM'dir (yarım menzil halkasında sırasıyla ve NM olarak gösterilir)",
+    "title_tr": "Ancak radar seçici"
   },
   {
     "id": "s38",
-    "title": "Recall that when WX is selected on the MP knob is inhibited.…",
+    "title": "Recall that WX",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "Recall that when WX is selected on the MP knob is inhibited. It cannot be used to select range.",
-    "caption_tr": ""
+    "caption_tr": "MP düğmesinde WX seçildiğinde engellendiğini hatırlayın. Aralığı seçmek için kullanılamaz.",
+    "title_tr": "WX'i hatırlayın"
   },
   {
     "id": "s39",
-    "title": "If FP mode is selected on the radar controller, additional r…",
+    "title": "FP mode selected",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "If FP mode is selected on the radar controller, additional ranges of and NM can be selected by the range switches.",
-    "caption_tr": ""
+    "caption_tr": "Radar kontrol cihazında FP modu seçilirse, menzil anahtarları aracılığıyla ek menziller ve NM seçilebilir.",
+    "title_tr": "FP modu seçildi"
   },
   {
     "id": "s40",
-    "title": "The rotary GAIN control knob adjusts receiver gain. The syst…",
+    "title": "rotary GAIN control",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "The rotary GAIN control knob adjusts receiver gain. The system is in the variable gain mode with the control knob pulled out and preset (fixed) gain if the knob is pushed in.",
-    "caption_tr": ""
+    "caption_tr": "Döner KAZANÇ kontrol düğmesi alıcı kazancını ayarlar. Sistem, kontrol düğmesi dışarı çekilmiş ve düğme içeri itildiğinde önceden ayarlanmış (sabit) kazanç ile değişken kazanç modundadır.",
+    "title_tr": "döner KAZANÇ kontrolü"
   },
   {
     "id": "s41",
-    "title": "When in variable gain mode, VAR legend is displayed in amber…",
+    "title": "variable gain mode",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "When in variable gain mode, VAR legend is displayed in amber on and Variable gain allows gain to be adjusted by rotating the knob between MINIMUM and MAXIMUM.",
-    "caption_tr": ""
+    "caption_tr": "Değişken kazanç modundayken, VAR açıklaması sarı renkte görüntülenir ve Değişken kazanç, düğmenin MINIMUM ile MAXIMUM arasında döndürülmesiyle kazancın ayarlanmasına olanak tanır.",
+    "title_tr": "değişken kazanç modu"
   },
   {
     "id": "s42",
-    "title": "When the selector is pushed down, it returns to preset mode.…",
+    "title": "selector pushed down",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "When the selector is pushed down, it returns to preset mode. In the preset mode, there is no annunciation. The system is in fully automatic gain control in this mode. It is also the recommended setting for WX mode.",
-    "caption_tr": ""
+    "caption_tr": "Seçici aşağı basıldığında ön ayar moduna geri döner. Ön ayar modunda herhangi bir bildirim yoktur. Bu modda sistem tam otomatik kazanç kontrolündedir. Bu aynı zamanda WX modu için de önerilen ayardır.",
+    "title_tr": "seçici aşağı itildi"
   },
   {
     "id": "s43",
-    "title": "The tilt rotary control knob is used to select tilt angle of…",
+    "title": "tilt rotary control",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "The tilt rotary control knob is used to select tilt angle of the antenna beam in relation to the horizon. Clockwise rotation tilts the beam upward from 0 to 15 and counter-clockwise rotation tilts the beam downward from 0 to -15",
-    "caption_tr": ""
+    "caption_tr": "Eğim döner kontrol düğmesi, anten ışınının ufka göre eğim açısını seçmek için kullanılır. Saat yönünde döndürme, ışını 0'dan 15'e kadar yukarı doğru eğer ve saat yönünün tersine döndürme, ışını 0'dan -15'e kadar aşağı doğru eğer.",
+    "title_tr": "eğim döner kontrolü"
   },
   {
     "id": "s44",
-    "title": "The range between 5 and is expanded for ease of setability.",
+    "title": "range between 5",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "The range between -5 and 5 is expanded for ease of setability.",
-    "caption_tr": ""
+    "caption_tr": "Ayarlama kolaylığı için -5 ile 5 arasındaki aralık genişletilir.",
+    "title_tr": "5 arası aralık"
   },
   {
     "id": "s45",
-    "title": "Tilt is indicated just below the weather mode annunciator.",
+    "title": "Tilt just below",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "Tilt is indicated just below the weather mode annunciator.",
-    "caption_tr": ""
+    "caption_tr": "Eğim, hava durumu modu göstergesinin hemen altında gösterilir.",
+    "title_tr": "Hemen aşağıya doğru"
   },
   {
     "id": "s46",
-    "title": "Rain Echo Attenuation Compensation Technique. lt is availabl…",
+    "title": "Rain Echo Attenuation",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "Rain Echo Attenuation Compensation Technique. lt is available in all modes except GMAP. This momentary-action switch allows selectiondeselection of this function.",
-    "caption_tr": ""
+    "caption_tr": "Yağmur Yankısı Zayıflatma Telafi Tekniği. GMAP dışındaki tüm modlarda mevcuttur. Bu anlık eylem anahtarı, bu işlevin seçiminin kaldırılmasına olanak tanır.",
+    "title_tr": "Yağmur Yankısı Azaltma"
   },
   {
     "id": "s47",
-    "title": "When selected, is annunciated on the and as shown.",
+    "title": "selected annunciated",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "When selected, is annunciated on the and as shown.",
-    "caption_tr": ""
+    "caption_tr": "Seçildiğinde ve üzerinde gösterildiği gibi duyurulur.",
+    "title_tr": "seçilmiş ilan edildi"
   },
   {
     "id": "s48",
-    "title": "When is selected, its function will override variable gain, …",
+    "title": "selected its function",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "When RCT is selected, its function will override variable gain, if selected, and forces the system into preset gain. The receiver gain is automatically adjusted according to received signal strength.",
-    "caption_tr": ""
+    "caption_tr": "RCT seçildiğinde, fonksiyonu, eğer seçilirse, değişken kazancı geçersiz kılacak ve sistemi önceden ayarlanmış kazanca zorlayacaktır. Alıcı kazancı, alınan sinyal gücüne göre otomatik olarak ayarlanır.",
+    "title_tr": "işlevini seçti"
   },
   {
     "id": "s49",
-    "title": "In an operation without REACT, the X-band energy transmitted…",
+    "title": "without REACT X-band",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "In an operation without REACT, the X-band energy transmitted by the antenna will deflect a certain signals back to the receiver which convert signal into visual images on the and The returned signals from the first target are strong, but the returned signals from the subsequent targets are weaker (attenuate).",
-    "caption_tr": ""
+    "caption_tr": "REACT'sız bir işlemde, anten tarafından iletilen X-bant enerjisi belirli bir sinyali alıcıya geri saptıracak ve bu sinyal, sinyali görsel görüntülere dönüştürecektir. İlk hedeften geri dönen sinyaller güçlüdür ancak sonraki hedeflerden geri dönen sinyaller daha zayıftır (zayıflar).",
+    "title_tr": "REACT X-bandı olmadan"
   },
   {
     "id": "s50",
-    "title": "When viewed on the screen, the targets do not depict the act…",
+    "title": "viewed screen targets",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
     "caption_en": "When viewed on the screen, the targets do not depict the actual intensity of clouds that are ahead of the aircaft.",
-    "caption_tr": ""
+    "caption_tr": "Ekranda görüntülendiğinde hedefler, hava aracının önündeki bulutların gerçek yoğunluğunu göstermiyor.",
+    "title_tr": "görüntülenen ekran hedefleri"
   },
   {
     "id": "s51",
-    "title": "When REACT is selected, the radar receiver sensitivity is in…",
+    "title": "REACT selected radar",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
     "caption_en": "When REACT is selected, the radar receiver sensitivity is increased and this will compensate for the attenuation losses as the radar pulse passes through weather targets on its way to illuminate other targets. The compensated targets when displayed on the screen will reflect the true status of the clouds ahead.",
-    "caption_tr": ""
+    "caption_tr": "REACT seçildiğinde, radar alıcısının hassasiyeti artar ve bu, radar darbesi diğer hedefleri aydınlatmak üzere hava durumu hedeflerinin içinden geçerken meydana gelen zayıflama kayıplarını telafi eder. Ekranda görüntülendiğinde telafi edilen hedefler ilerideki bulutların gerçek durumunu yansıtacaktır.",
+    "title_tr": "REACT seçilen radar"
   },
   {
     "id": "s52",
-    "title": "There is a maximum value to which sensitivity may be set due…",
+    "title": "There maximum value",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
     "caption_en": "There is a maximum value to which sensitivity may be set due to the receiver generating noise, and fills the display with noise if it were too high.When this maximum value is reached a blue colour is displayed for the remainder of the displayed range. This gives the crew an unmistakable warning that attenuation is hiding severe weather (magenta level) that cannot be accurately detected.",
-    "caption_tr": ""
+    "caption_tr": "Alıcının gürültü üretmesi ve çok yüksek olması durumunda ekranı gürültüyle doldurması nedeniyle hassasiyetin ayarlanabileceği bir maksimum değer vardır. Bu maksimum değere ulaşıldığında görüntülenen aralığın geri kalanı için mavi renk görüntülenir. Bu, mürettebata, zayıflamanın doğru bir şekilde tespit edilemeyen şiddetli hava koşullarını (macenta seviyesi) gizlediğine dair açık bir uyarı verir.",
+    "title_tr": "Maksimum değer var"
   },
   {
     "id": "s53",
-    "title": "Stabilization input from AHRS 1 is controlled by an momentar…",
+    "title": "Stabilization input AHRS",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
     "caption_en": "Stabilization input from AHRS 1 is controlled by an momentary-action pushbutton switch on the radar controller.",
-    "caption_tr": ""
+    "caption_tr": "AHRS 1'den gelen stabilizasyon girişi, radar kontrol cihazı üzerindeki anlık işlem butonu ile kontrol edilir.",
+    "title_tr": "Stabilizasyon girişi AHRS"
   },
   {
     "id": "s54",
-    "title": "In the on position, there is no annunciation. If the AHRS 1 …",
+    "title": "position there no",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
     "caption_en": "STAB is normally selected to enable AHRS 1 to provide attitude stabilization signal to the weather radar antenna. In the on position, there is no annunciation. If the AHRS 1 is inoperative or if the STAB is selected off, an amber STAB will be annunciated on the MFD. STAB is not annunciated on PFD.",
-    "caption_tr": ""
+    "caption_tr": "STAB normalde AHRS 1'in hava durumu radar antenine durum stabilizasyon sinyali sağlamasını sağlayacak şekilde seçilir. Açık konumda herhangi bir bildirim yoktur. AHRS 1 çalışmıyorsa veya STAB kapalı seçilirse, MFD'de sarı renkli bir STAB duyurulacaktır. STAB PFD'de duyurulmuyor.",
+    "title_tr": "Orada konum hayır"
   },
   {
     "id": "s55",
-    "title": "When selected, is annunciated in white on and to indicate it…",
+    "title": "selected annunciated white",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
     "caption_en": "When selected, is annunciated in white on and to indicate it is in the armed condition.",
-    "caption_tr": ""
+    "caption_tr": "Seçildiğinde beyaz renkte yanar ve silahlı durumda olduğunu belirtir.",
+    "title_tr": "Seçilmiş beyaz ilan"
   },
   {
     "id": "s56",
-    "title": "If variable gain is selected and is subsequently selected, w…",
+    "title": "variable gain selected",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
     "caption_en": "If variable gain is selected and TGT is subsequently selected, will replace VAR and force the gain into preset mode.",
-    "caption_tr": ""
+    "caption_tr": "Değişken kazanç seçilirse ve ardından TGT seçilirse, VAR'ın yerini alacak ve kazancı önceden ayarlanmış moda zorlayacaktır.",
+    "title_tr": "Değişken kazanç seçildi"
   },
   {
     "id": "s57",
-    "title": "Target alert function is disabled when: 1) GMAP is selected,…",
+    "title": "1 GMAP selected",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
     "caption_en": "Target alert function is disabled when: 1) GMAP is selected, or 2) FP mode is selected and the range selected is more than 300 NM",
-    "caption_tr": ""
+    "caption_tr": "Hedef uyarı fonksiyonu şu durumlarda devre dışı bırakılır: 1) GMAP seçildiğinde veya 2) FP modu seçildiğinde ve seçilen menzil 300 NM'den fazla olduğunda",
+    "title_tr": "1 GMAP seçildi"
   },
   {
     "id": "s58",
-    "title": "Target alert monitors for red level 3 or greater returns BEY…",
+    "title": "Target alert monitors",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
     "caption_en": "Target alert monitors for red level 3 or greater returns BEYOND the selected range, up to 50 and 7.5 degrees on each side of the airplane heading. Within the selected range, target alert is inactive.",
-    "caption_tr": ""
+    "caption_tr": "Hedef uyarısı, uçak yönünün her iki yanında 50 ve 7,5 dereceye kadar, seçilen aralığın ÖTESİNDE, kırmızı seviye 3 veya daha yüksek geri dönüşler için monitörler. Seçilen aralıkta hedef uyarısı etkin değil.",
+    "title_tr": "Hedef uyarı monitörleri"
   },
   {
     "id": "s59",
-    "title": "If a level three target is detected within the defined range…",
+    "title": "level three target",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
     "caption_en": "If a level three target is detected within the defined range, and if it is within a horinzontal angle of +-7.5 deg. from the nose of the aircraft, the target alert warning is triggered. In this situation, the white TGT annunciations on the PFD and MFD will turn amber.",
-    "caption_tr": ""
+    "caption_tr": "Tanımlanan aralıkta üçüncü seviye bir hedef tespit edilirse ve +-7,5 derecelik yatay açı içindeyse. uçağın burnundan hedef uyarı uyarısı tetiklenir. Bu durumda PFD ve MFD'deki beyaz TGT duyuruları kehribar rengine dönecektir.",
+    "title_tr": "Üçüncü seviye hedef"
   },
   {
     "id": "s60",
-    "title": "Upon receiving the target alert annunciaiton, operator shoul…",
+    "title": "Upon receiving target",
     "imgSrc": "slides/s60.png",
     "audioSrc": "audio/s60.mp3",
     "caption_en": "Upon receiving the target alert annunciaiton, operator should extend the range to bring the questionable target within the selected range for viewing.",
-    "caption_tr": ""
+    "caption_tr": "Hedef uyarısı duyurusunu aldıktan sonra operatör, şüpheli hedefi görüntüleme için seçilen aralığa getirecek şekilde menzili genişletmelidir.",
+    "title_tr": "Hedef alındıktan sonra"
   },
   {
     "id": "s61",
-    "title": "Target alert is functional (if selected) even when radar is …",
+    "title": "Target alert functional",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
     "caption_en": "Target alert is functional (if selected) even when radar is not selected for display on PFD and MFD.",
-    "caption_tr": ""
+    "caption_tr": "Hedef uyarısı, PFD ve MFD'de görüntülenmek üzere radar seçilmediğinde bile işlevseldir (seçiliyse).",
+    "title_tr": "Hedef uyarısı işlevsel"
   },
   {
     "id": "s62",
-    "title": "The SECT pushbutton is used to select either the normal 14 l…",
+    "title": "SECT pushbutton select",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
     "caption_en": "The SECT pushbutton is used to select either the normal 14 looks per minute 120 deg scan or the faster update 28 looks per minute 60 deg scan.",
-    "caption_tr": ""
+    "caption_tr": "SECT düğmesi, normal 14 görünüm/dakika 120 derece taramayı veya daha hızlı güncelleme olan 28 görünüm/dakika 60 derece taramayı seçmek için kullanılır.",
+    "title_tr": "SECT butonu seçimi"
   }
 ]

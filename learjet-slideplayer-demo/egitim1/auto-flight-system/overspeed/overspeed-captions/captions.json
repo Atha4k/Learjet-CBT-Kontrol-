@@ -1,26 +1,29 @@
 [
   {
     "id": "s01",
-    "title": "All of the FD pitch modes except ASEL, ALT, GS and PIT have …",
+    "title": "FD pitch modes",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "All of the FD pitch modes except ASEL, ALT, GS and PIT have overspeed protection through the The FD predicts an overspeed condition based upon acceleration to prevent an overspeed condition from occurring. The pitch bar will provide a pitch up command to arrest the acceleration.",
-    "caption_tr": ""
+    "caption_tr": "ASEL, ALT, GS ve PIT dışındaki tüm FD hatve modları aşırı hız korumasına sahiptir. FD, aşırı hız durumunun oluşmasını önlemek için hızlanmaya bağlı olarak aşırı hız durumunu tahmin eder. Pitch çubuğu, hızlanmayı durdurmak için bir pitch up komutu sağlayacaktır.",
+    "title_tr": "FD adım modları"
   },
   {
     "id": "s02",
-    "title": "While overspeed protection is active, the selected FD modes …",
+    "title": "overspeed protection active",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "While overspeed protection is active, the selected FD modes are unaffected and the MAX annunciation is displayed in amber on the left side of ADI.",
-    "caption_tr": ""
+    "caption_tr": "Aşırı hız koruması etkinken seçilen FD modları etkilenmez ve MAX bildirimi ADI'nin sol tarafında sarı renkte görüntülenir.",
+    "title_tr": "Aşırı hız koruması"
   },
   {
     "id": "s03",
-    "title": "Once the predicted overspeed condition is corrected…",
+    "title": "Once predicted overspeed",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Once the predicted overspeed condition is corrected, the FD reverts to the mode selected prior to activation of the MAX SPD annunciation.",
-    "caption_tr": ""
+    "caption_tr": "Tahmin edilen aşırı hız durumu düzeltildikten sonra FD, MAX SPD bildiriminin etkinleştirilmesinden önce seçilen moda geri döner.",
+    "title_tr": "Aşırı hız tahm"
   }
 ]

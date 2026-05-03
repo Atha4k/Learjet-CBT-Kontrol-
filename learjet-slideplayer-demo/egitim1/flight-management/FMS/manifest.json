@@ -5,7 +5,7 @@
   "namePrefix": "s",
   "slidesDir": "FMS-slides",
   "audioDir": "FMS-audio",
-  "captionsManifest": "FMS-captions/captions.json",
+  "captionsManifest": "FMS-caption/captions.json",
   "imgExt": "png",
   "audioExt": "mp3"
 }

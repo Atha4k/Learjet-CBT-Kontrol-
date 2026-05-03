@@ -1,8 +1,8 @@
 [
   {
     "id": "s01",
-    "title": "Hydraulic Pressure Indications Overview",
-    "title_tr": "Hidrolik Basınç Göstergelerine Genel Bakış",
+    "title": "Hydraulic Pressure Indications",
+    "title_tr": "Hidrolik Basınç Göstergelerine",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Hydraulic Pressure Indications Both the Main and Auxiliary hydraulic system pressures are psi. However, only the main hydraulic system pressure and the brake accumulator pressure are indicated.",
@@ -10,8 +10,8 @@
   },
   {
     "id": "s02",
-    "title": "Main Hydraulic Pressure Indication",
-    "title_tr": "Ana Hidrolik Basınç Göstergesi",
+    "title": "Main Hydraulic Pressure",
+    "title_tr": "Ana Hidrolik Basınç",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The main hydraulic system pressure is indicated on -the SUMRY page as MAIN - the EICAS-HYD page within the MAIN PSI indication - the Radio Management Unit (RMU)",
@@ -19,8 +19,8 @@
   },
   {
     "id": "s03",
-    "title": "Auxiliary Pump Pressure Monitoring",
-    "title_tr": "Yardımcı Pompa Basıncının İzlenmesi",
+    "title": "Auxiliary Pump Pressure",
+    "title_tr": "Yardımcı Pompa Basıncı",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Though the auxiliary pump operation and output pressure are monitored, its pressure is not indicated at all.",
@@ -28,8 +28,8 @@
   },
   {
     "id": "s04",
-    "title": "Brake Accumulator Pressure Indication",
-    "title_tr": "Fren Akümülatörü Basınç Göstergesi",
+    "title": "Brake Accumulator Pressure",
+    "title_tr": "Fren Akümülatörü Basınç",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Only the brake accumulator pressure is shown. ltis indicated on -the SUMRY page as BRAKE- ACCUMULATOR -the RMU as - the EICAS-HYD page within the BRAKE ACCUMULATOR indication and on the tape display.",

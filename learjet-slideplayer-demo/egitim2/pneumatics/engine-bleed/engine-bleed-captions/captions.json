@@ -1,154 +1,173 @@
 [
   {
     "id": "s01",
-    "title": "Two independent systems extract the bleed air from the engin…",
+    "title": "Two independent systems",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Two independent systems extract the bleed air from the engines. They are the LP or low pressure bleed air system and the HP or high pressure bleed air system. The engine bleed system is controlled through the L BLEED and the R BLEED switches.",
-    "caption_tr": ""
+    "caption_tr": "İki bağımsız sistem, tahliye havasını motorlardan alır. Bunlar LP veya düşük basınçlı boşaltma havası sistemi ve HP veya yüksek basınçlı boşaltma havası sistemidir. Motor boşaltma sistemi, L BLEED ve R BLEED anahtarları aracılığıyla kontrol edilir.",
+    "title_tr": "İki bağımsız sistem"
   },
   {
     "id": "s02",
-    "title": "Since the left and right engine bleed systems are identical,…",
+    "title": "Since left right",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Since the left and right engine bleed systems are identical, we will refer only to the left bleed air system in this lesson.",
-    "caption_tr": ""
+    "caption_tr": "Sol ve sağ motor hava alma sistemleri aynı olduğundan bu derste sadece sol hava boşaltma sistemine değineceğiz.",
+    "title_tr": "Sol sağdan beri"
   },
   {
     "id": "s03",
-    "title": "Engine Bleed Valves and Switches The engine bleed air contro…",
+    "title": "Engine Bleed Valves",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Engine Bleed Valves and Switches The engine bleed air control valves are the environmental control system pressure regulating and shut-off valve (ECS PRSOV ) and the high pressure shut-off valve SOV).",
-    "caption_tr": ""
+    "caption_tr": "Motor Sızdırma Valfleri ve Anahtarları Motor sızdırma havası kontrol valfleri, çevresel kontrol sistemi basınç düzenleme ve kapatma valfi (ECS PRSOV) ve yüksek basınç kapatma valfi SOV'dur.",
+    "title_tr": "Motor Tahliye Valfleri"
   },
   {
     "id": "s04",
-    "title": "When the engines are running, selecting the L BLEED switch o…",
+    "title": "engines are running",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "When the engines are running, selecting the L BLEED switch opens the left ECS PRSOV and the OFF light on the L BLEED switch extinguishes. This action also arms the left HP SOV, the left emergency pressurization valve (EMER PRESS) and the left wing and stabilizer anti-ice valve.",
-    "caption_tr": ""
+    "caption_tr": "Motorlar çalışırken, L BLEED anahtarının seçilmesi sol ECS PRSOV'u açar ve L BLEED anahtarı üzerindeki KAPALI ışığı söner. Bu eylem aynı zamanda sol HP SOV'yi, sol acil durum basınçlandırma valfini (EMER PRESS) ve sol kanat ile dengeleyici buzlanma önleme valfini de devreye sokar.",
+    "title_tr": "motorlar çalışıyor"
   },
   {
     "id": "s05",
-    "title": "This means that these armed valves (left HPSOV, left EMER PR…",
+    "title": "This means that",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "This means that these armed valves (left HPSOV, left EMER PRESS valve, left WingStab valve) require the Left Bleed switch to be selected on before they can open. The R BLEED switch controls the identical valves on the right side.",
-    "caption_tr": ""
+    "caption_tr": "Bu, bu silahlı valflerin (sol HPSOV, sol EMER PRESS valfi, sol WingStab valfi) açılmadan önce Sol Boşaltma anahtarının seçilmesi gerektiği anlamına gelir. R BLEED anahtarı sağ taraftaki aynı valfleri kontrol eder.",
+    "title_tr": "şu anlama geliyor"
   },
   {
     "id": "s06",
-    "title": "The EMER Press valve operation will be covered in the Pressu…",
+    "title": "EMER Press valve",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The EMER Press valve operation will be covered in the Pressurization lesson. The Wing and Stabilizer valve will be covered in the Ice and Rain Protection lesson.",
-    "caption_tr": ""
+    "caption_tr": "EMER Pres vanasının çalışması Basınçlandırma dersinde ele alınacaktır. Kanat ve Stabilizatör valfi Buz ve Yağmurdan Korunma dersinde ele alınacaktır.",
+    "title_tr": "EMER Pres vanası"
   },
   {
     "id": "s07",
-    "title": "Low Pressure Bleed System. The LP air is bled from a single …",
+    "title": "Low Pressure Bleed",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Low Pressure Bleed System. The LP air is bled from a single port on the low pressure compressor section. With the engines running, this air flows through a check valve and stops between the left HP SOV and the ECS PRSOV. Both these left valves are controlled by the L BLEED switch.",
-    "caption_tr": ""
+    "caption_tr": "Düşük Basınçlı Tahliye Sistemi. LP havası, alçak basınç kompresörü bölümündeki tek bir porttan dışarı atılır. Motorlar çalışırken, bu hava bir çek valf içinden akar ve sol HP SOV ile ECS PRSOV arasında durur. Bu sol valflerin her ikisi de L BOŞALTMA anahtarı tarafından kontrol edilir.",
+    "title_tr": "Düşük Basınçlı Kanama"
   },
   {
     "id": "s08",
-    "title": "The other part of the LP air stops at the emergency pressuri…",
+    "title": "other part LP",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The other part of the LP air stops at the emergency pressurization shut off vaive or EMER PRESS valve.",
-    "caption_tr": ""
+    "caption_tr": "LP havasının diğer kısmı acil basınçlandırma kapatma vanasında veya EMER PRESS vanasında durur.",
+    "title_tr": "diğer kısım LP"
   },
   {
     "id": "s09",
-    "title": "Selecting the L BLEED switch on, opens the left ECS PRSOV an…",
+    "title": "L BLEED switch",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Selecting the L BLEED switch on, opens the left ECS PRSOV and its OFF light extinguishes. The LP air flow through another check valve into the pneumatic manifold. If the pack valve is open, the air flows into the ECU for cooling.",
-    "caption_tr": ""
+    "caption_tr": "L BLEED anahtarı açık seçildiğinde sol ECS PRSOV açılır ve KAPALI ışığı söner. LP havası başka bir çek valften pnömatik manifolda akar. Paket valfi açıksa, hava soğutma için ECU'ya akar.",
+    "title_tr": "L BOŞALTMA anahtarı"
   },
   {
     "id": "s10",
-    "title": "The LP air is used to supply the airplane bleed air requirem…",
+    "title": "LP air airplane",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The LP air is used to supply the airplane bleed air requirements during high thrust settings. This means during take-off, climb and cruise. Air for pressurizing the hydraulic reservoir is tapped from the pneumatic manifold. The right LP bleed air system is identical.",
-    "caption_tr": ""
+    "caption_tr": "LP havası, yüksek itme ayarları sırasında uçağın boşaltma havası gereksinimlerini karşılamak için kullanılır. Bu, kalkış, tırmanış ve seyir sırasında anlamına gelir. Hidrolik rezervuarın basınçlandırılmasına yönelik hava, pnömatik manifolddan çekilir. Sağ LP hava tahliye sistemi aynıdır.",
+    "title_tr": "LP hava uçağı"
   },
   {
     "id": "s11",
-    "title": "High Pressure Bleed System The HP bleed air is tapped from 4…",
+    "title": "High Pressure Bleed",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "High Pressure Bleed System The HP bleed air is tapped from 4 ports on the high pressure compressor section. This HP air flows and stops at the HP SOV. lt also stops at the WingStab anti-ice valve and the nacelle anti-ice shut-off valve (NAC SOV) on the engine.",
-    "caption_tr": ""
+    "caption_tr": "Yüksek Basınçlı Boşaltma Sistemi HP boşaltma havası, yüksek basınçlı kompresör bölümündeki 4 porttan alınır. Bu HP havası HP SOV'de akar ve durur. Ayrıca motordaki WingStab buz önleme valfinde ve motor kaportası buz önleme kapatma valfinde (NAC SOV) de durur.",
+    "title_tr": "Yüksek Basınçlı Kanama"
   },
   {
     "id": "s12",
-    "title": "The HP SOV operation depends on the bleed switch selection a…",
+    "title": "HP SOV depends",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The HP SOV operation depends on the bleed switch selection and the thrust setting. With the L BLEED switch selected on, the left HP SOV opens during low thrust settings to boost the airflow into the cabin. This occurs after the engines are started, during taxy or a descent.",
-    "caption_tr": ""
+    "caption_tr": "HP SOV işlemi, boşaltma anahtarı seçimine ve itme ayarına bağlıdır. L BLEED anahtarı açık konumdayken, kabine giren hava akışını artırmak için düşük itme ayarları sırasında sol HP SOV açılır. Bu, motorlar çalıştırıldıktan sonra, taksi sırasında veya iniş sırasında meydana gelir.",
+    "title_tr": "HP SOV bağlıdır"
   },
   {
     "id": "s13",
-    "title": "Note that the higher HP air pressure prevents the LP air fro…",
+    "title": "Note that higher",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Note that the higher HP air pressure prevents the LP air from supplying bleed air at the same time. All the bleed air system requirements are now supplied by the HP air. When the thrust levers are pushed up for take-off, climb or cruise, the HP SOV automatically closes and the LP system takes over.",
-    "caption_tr": ""
+    "caption_tr": "Daha yüksek HP hava basıncının LP havasının aynı anda tahliye havası sağlamasını önlediğini unutmayın. Tüm boşaltma havası sistemi gereksinimleri artık HP hava tarafından karşılanıyor. Kalkış, tırmanma veya seyir için itme kolları yukarı itildiğinde, HP SOV otomatik olarak kapanır ve LP sistemi devreye girer.",
+    "title_tr": "Daha yüksek olduğunu"
   },
   {
     "id": "s14",
-    "title": "This is a summary of the bleed air usage. The HP air is used…",
+    "title": "This summary bleed",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "This is a summary of the bleed air usage. The HP air is used during low thrust settings to prevent the engines from stalling. The LP air is used during high thrust settings.",
-    "caption_tr": ""
+    "caption_tr": "Bu, boşaltma havası kullanımının bir özetidir. HP havası, düşük itme ayarları sırasında motorların durmasını önlemek için kullanılır. LP havası yüksek itme ayarları sırasında kullanılır.",
+    "title_tr": "Bu özet kanama"
   },
   {
     "id": "s15",
-    "title": "Controller or Environmental Control System Controller (LearJ…",
+    "title": "Controller Environmental Control",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Controller or Environmental Control System Controller (LearJet) The pneumatic system is controlled by the ECS controller This is a dual channel controller and controls the operation of the ECS PRSOVs, the HPSOVs and the EMER PRESS valves.",
-    "caption_tr": ""
+    "caption_tr": "Kontrol Cihazı veya Ortam Kontrol Sistemi Kontrol Cihazı (LearJet) Pnömatik sistem, ECS kontrol cihazı tarafından kontrol edilir. Bu, çift kanallı bir kontrol cihazıdır ve ECS PRSOV'ların, HPSOV'ların ve EMER PRESS valflerinin çalışmasını kontrol eder.",
+    "title_tr": "Denetleyici Çevre Kontrolü"
   },
   {
     "id": "s16",
-    "title": "The left channel is powered by the DC Left Essential bus and…",
+    "title": "left channel powered",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The left channel is powered by the DC Left Essential bus and controls the left ECS PRSOV, the left HPSOV and the left EMER PRESS valve. The right channel is powered by the DC Right Essential bus. It controls the similar valves on the right side.",
-    "caption_tr": ""
+    "caption_tr": "Sol kanal, DC Left Essential veriyolundan güç alır ve sol ECS PRSOV'u, sol HPSOV'u ve sol EMER PRESS valfini kontrol eder. Sağ kanala DC Right Essential veri yolu tarafından güç sağlanır. Sağ taraftaki benzer valfleri kontrol eder.",
+    "title_tr": "sol kanal destekli"
   },
   {
     "id": "s17",
-    "title": "Left Channel Failure If the left channel fails, both the lef…",
+    "title": "Left Channel Failure",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Left Channel Failure If the left channel fails, both the left HP SOV and the left EMER PRESS valves will automatically close if they are open. The left ECS PRSOV remains open if the L BLEED switch is left selected on.",
-    "caption_tr": ""
+    "caption_tr": "Sol Kanal Arızası Sol kanal arızalanırsa, hem sol HP SOV hem de sol EMER PRESS valfleri açıksa otomatik olarak kapanacaktır. L BLEED anahtarı açık bırakılırsa sol ECS PRSOV açık kalır.",
+    "title_tr": "Sol Kanal Arızası"
   },
   {
     "id": "s18",
-    "title": "The ECS PRSOV remains open if its controlling channel fails …",
+    "title": "ECS PRSOV remains",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The ECS PRSOV remains open if its controlling channel fails or if there is a loss of power to the valve itself. This is known as a Fail-Safe Open valve feature. This ensures that the LP pneumatic bleed is always available for pressurization. Note that the right HP air is now supplying the airplane bleed air system due to its higher pressure.",
-    "caption_tr": ""
+    "caption_tr": "ECS PRSOV, kontrol kanalı arızalanırsa veya vananın kendisinde güç kaybı olursa açık kalır. Bu, Arızaya Karşı Güvenli Açık valf özelliği olarak bilinir. Bu, LP pnömatik boşaltmanın her zaman basınçlandırma için hazır olmasını sağlar. Daha yüksek basınçtan dolayı artık uçağın tahliye havası sistemini doğru HP havasının beslediğini unutmayın.",
+    "title_tr": "ECS PRSOV kalır"
   },
   {
     "id": "s19",
-    "title": "If the other channel also fails, the ECS controller will be …",
+    "title": "other channel also",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "If the other channel also fails, the ECS controller will be inoperative. In this case, both the left and right HPSOV and the left and right EMER PRESS valves will close. However, both the ECS PRSOVs still remain open and the LP bleed air is used for air-conditioning and pressurization.",
-    "caption_tr": ""
+    "caption_tr": "Diğer kanalın da arızalanması durumunda ECS kontrol cihazı çalışmayacaktır. Bu durumda hem sol ve sağ HPSOV hem de sol ve sağ EMER PRESS valfleri kapanacaktır. Ancak hem ECS PRSOV'lar hala açık kalıyor hem de LP boşaltma havası iklimlendirme ve basınçlandırma için kullanılıyor.",
+    "title_tr": "diğer kanal da"
   }
 ]

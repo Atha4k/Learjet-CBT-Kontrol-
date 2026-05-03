@@ -1,114 +1,128 @@
 [
   {
     "id": "s01",
-    "title": "Windshield Anti-ice and Defog System The 2 windshields are e…",
+    "title": "Windshield Anti-ice Defog",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Windshield Anti-ice and Defog System The 2 windshields are electrically heated to prevent fogging and ice build-up. This is by heating an integral film element contained in the outer layers of the windshield.",
-    "caption_tr": ""
+    "caption_tr": "Ön Cam Buzlanmayı Önleme ve Buğu Giderme Sistemi 2 ön cam, buğulanmayı ve buz oluşumunu önlemek için elektrikle ısıtılır. Bu, ön camın dış katmanlarında bulunan entegre bir film elemanının ısıtılmasıyla yapılır.",
+    "title_tr": "Ön Cam Buz"
   },
   {
     "id": "s02",
-    "title": "The windshield is composed of 7 layers. The outermost layer …",
+    "title": "windshield composed 7",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The windshield is composed of 7 layers. The outermost layer is made of a strong, tempered glass ply. Next to it is the heating element which is made of tin oxide. This layer is heated to provide anti-icing and defogs the windshield.",
-    "caption_tr": ""
+    "caption_tr": "Ön cam 7 katmandan oluşur. En dış katman güçlü, temperlenmiş bir cam katmandan yapılmıştır. Yanında kalay oksitten yapılmış ısıtma elemanı bulunur. Bu katman, ön camın buzlanmasını önlemek ve buğusunu gidermek için ısıtılır.",
+    "title_tr": "ön cam 7'den"
   },
   {
     "id": "s03",
-    "title": "The 2 thick internal layers carry all the structural loads o…",
+    "title": "2 thick internal",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The 2 thick internal layers carry all the structural loads of the windshield. They are joined together by a bonding layer. If the outermost glass layer breaks in flight, the structural integrity of the windshield is not compromised since the load is carried by the 2 inner layers.",
-    "caption_tr": ""
+    "caption_tr": "2 kalın iç katman, ön camın tüm yapısal yüklerini taşır. Bir yapıştırma katmanı ile birleştirilirler. Uçuş sırasında en dıştaki cam katmanı kırılırsa, yük içteki 2 katman tarafından taşındığından ön camın yapısal bütünlüğü bozulmaz.",
+    "title_tr": "2 kalın iç"
   },
   {
     "id": "s04",
-    "title": "The innermost layer (crew shield) protects the inside of the…",
+    "title": "innermost layer protects",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The innermost layer (crew shield) protects the inside of the windshield from environmental and mechanical damage. It is bonded to the inner structural layer.",
-    "caption_tr": ""
+    "caption_tr": "En içteki katman (mürettebat kalkanı), ön camın içini çevresel ve mekanik hasarlardan korur. İç yapısal katmana bağlanır.",
+    "title_tr": "en içteki katman"
   },
   {
     "id": "s05",
-    "title": "This windshield anti-ice system uses power from the 2 dedica…",
+    "title": "This windshield anti-ice",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "This windshield anti-ice system uses power from the 2 dedicated engine driven alternators to heat the integral film elements within the windshield. The system consists of a dual channel windshield controller, 2 power distribution panels and temperature sensors.",
-    "caption_tr": ""
+    "caption_tr": "Bu ön cam buzlanma önleme sistemi, ön cam içindeki entegre film elemanlarını ısıtmak için 2 özel motor tahrikli alternatörün gücünü kullanır. Sistem, çift kanallı ön cam kumandası, 2 güç dağıtım paneli ve sıcaklık sensörlerinden oluşur.",
+    "title_tr": "ön cam buzlanmayı"
   },
   {
     "id": "s06",
-    "title": "Windshield Controller The 2 channels are powered by the Left…",
+    "title": "Windshield Controller 2",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Windshield Controller The 2 channels are powered by the Left and Right essential busses respectively. The left windshield heating is controlled by the left channel through the L switch. The right windshield heating is controlled by the right channel through the R switch.",
-    "caption_tr": ""
+    "caption_tr": "Ön Cam Kontrol Cihazı 2 kanala sırasıyla Sol ve Sağ temel veri yolları tarafından güç sağlanır. Sol ön cam ısıtması, L anahtarı aracılığıyla sol kanal tarafından kontrol edilir. Sağ ön cam ısıtması, R anahtarı aracılığıyla sağ kanal tarafından kontrol edilir.",
+    "title_tr": "Ön Cam Kumandası"
   },
   {
     "id": "s07",
-    "title": "Thus, a failure of the left channel will render the left win…",
+    "title": "Thus failure left",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Thus, a failure of the left channel will render the left windshield heating inoperative. With the L and R switches off, their OFF lights are illuminated. Note that there is no CAS message displayed with the switches off.",
-    "caption_tr": ""
+    "caption_tr": "Bu nedenle sol kanalın arızalanması, sol ön cam ısıtmasının çalışmaz hale gelmesine neden olacaktır. L ve R anahtarları kapalıyken KAPALI ışıkları yanar. Anahtarlar kapalıyken hiçbir CAS mesajının görüntülenmediğini unutmayın.",
+    "title_tr": "Böylece başarısızlık kaldı"
   },
   {
     "id": "s08",
-    "title": "To heat the left windshield, select the L switch on. Its OFF…",
+    "title": "heat left windshield",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "To heat the left windshield, select the L switch on. Its OFF light extinguishes. The left controller channel commands the left to heat up the left windshield.",
-    "caption_tr": ""
+    "caption_tr": "Sol ön camı ısıtmak için L düğmesini açın. KAPALI ışığı söner. Sol denetleyici kanalı, sol ön camı ısıtmak için sola komut verir.",
+    "title_tr": "sol ön camı"
   },
   {
     "id": "s09",
-    "title": "The normal temperature sensor sends the actual windshield te…",
+    "title": "normal temperature sensor",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The normal temperature sensor sends the actual windshield temperature back to the windshield controller. During normal operation, the controller regulates the output of the alternators to maintain the windshield temperature between and Switching the R on heats up the right windshield.",
-    "caption_tr": ""
+    "caption_tr": "Normal sıcaklık sensörü, gerçek ön cam sıcaklığını ön cam kontrol cihazına geri gönderir. Normal çalışma sırasında kontrol cihazı, ön cam sıcaklığını ve R'nin açılması sağ ön camın ısınmasını sağlayacak şekilde alternatörün çıkışını düzenler.",
+    "title_tr": "normal sıcaklık sensörü"
   },
   {
     "id": "s10",
-    "title": "Degraded Mode If there is a fault within the left channel ci…",
+    "title": "Degraded Mode there",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Degraded Mode If there is a fault within the left channel circuitry during normal operation, the left windshield heating system continues to operate but in the degraded mode. The left alternator output is no longer modulated to maintain between and",
-    "caption_tr": ""
+    "caption_tr": "Düşük Mod Normal çalışma sırasında sol kanal devresinde bir arıza varsa, sol ön cam ısıtma sistemi düşük modda çalışmaya devam eder. Sol alternatör çıkışı artık ve arasında kalacak şekilde modüle edilmiyor",
+    "title_tr": "Bozulmuş Mod orada"
   },
   {
     "id": "s11",
-    "title": "Instead, the power applied to the left windshield depends on…",
+    "title": "Instead power applied",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Instead, the power applied to the left windshield depends on the temperature of the windshield. When the windshield temperature exceeds the heating power is removed. This causes the windshield to cool down.",
-    "caption_tr": ""
+    "caption_tr": "Bunun yerine sol ön cama uygulanan güç, ön camın sıcaklığına bağlıdır. Ön cam sıcaklığı aşıldığında ısıtma gücü kesilir. Bu, ön camın soğumasına neden olur.",
+    "title_tr": "Bunun yerine uygulanan"
   },
   {
     "id": "s12",
-    "title": "The normal windshield temperature is controlled to be betwee…",
+    "title": "normal windshield temperature",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The normal windshield temperature is controlled to be between and If the left normal temperature sensor detect a temperature below with the system switched on, a caution CAS message L HT FAIL is displayed.",
-    "caption_tr": ""
+    "caption_tr": "Normal ön cam sıcaklığı ile arasında olacak şekilde kontrol edilir. Sistem açıkken sol normal sıcaklık sensörü bunun altında bir sıcaklık tespit ederse, bir uyarı CAS mesajı L HT FAIL görüntülenir.",
+    "title_tr": "normal ön cam"
   },
   {
     "id": "s13",
-    "title": "There is no cockpit indication of an alternator failure othe…",
+    "title": "There no cockpit",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "There is no cockpit indication of an alternator failure other than the loss of windshield heating on that side. With this failure, heating to the left windshield will be lost.",
-    "caption_tr": ""
+    "caption_tr": "Ön cam ısıtmasının kaybı dışında alternatör arızasına dair kokpitte herhangi bir gösterge bulunmuyor. Bu arıza durumunda sol ön camın ısıtması kaybolacaktır.",
+    "title_tr": "Kokpit yok"
   },
   {
     "id": "s14",
-    "title": "If the left channel fails to control the heating to the wind…",
+    "title": "left channel fails",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "If the left channel fails to control the heating to the windshield, its temperature may rise. When the left overheat sensor detects a temperature exceeding a caution CAS message L OVHT is displayed. The L should be switched off.",
-    "caption_tr": ""
+    "caption_tr": "Sol kanal ön camın ısıtmasını kontrol edemezse sıcaklığı artabilir. Sol aşırı ısınma sensörü uyarıyı aşan bir sıcaklık tespit ettiğinde CAS mesajı L OVHT görüntülenir. L kapatılmalıdır.",
+    "title_tr": "sol kanal başarısız"
   }
 ]

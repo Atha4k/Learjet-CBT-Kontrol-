@@ -1,802 +1,875 @@
 [
   {
     "id": "s01",
-    "title": "Depressing the knob will synchronize the bug on PFDs and to …",
+    "title": "Depressing knob will",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Depressing the knob will synchronize the bug on PFDs and to the aircraft heading.",
-    "caption_tr": ""
+    "caption_tr": "Düğmeye basıldığında hata PFD'lerde ve uçağın istikametinde senkronize edilecektir.",
+    "title_tr": "Düğmeye basılması"
   },
   {
     "id": "s02",
-    "title": "Let's examine the various features on the",
+    "title": "Let's examine various",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Let's examine the various features on the flight guidance controller.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yönlendirme kontrolöründeki çeşitli özellikleri inceleyelim.",
+    "title_tr": "Çeşitli inceleyelim"
   },
   {
     "id": "s03",
-    "title": "Let's examine the various features on the",
+    "title": "Let's examine various",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Let's examine the various features on the",
-    "caption_tr": ""
+    "caption_tr": "Çeşitli özellikleri inceleyelim",
+    "title_tr": "Çeşitli inceleyelim"
   },
   {
     "id": "s04",
-    "title": "These knobs are used to individually set the courses on the …",
+    "title": "These knobs are",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "These knobs are used to individually set the courses on the left and right HSI displays. They are used primarily to set the course for a VOR radial or LOC course.",
-    "caption_tr": ""
+    "caption_tr": "Bu düğmeler sol ve sağ HSI ekranlarındaki rotaları ayrı ayrı ayarlamak için kullanılır. Öncelikle VOR radyal veya LOC rotasına yönelik rotayı ayarlamak için kullanılırlar.",
+    "title_tr": "Bu düğmeler"
   },
   {
     "id": "s05",
-    "title": "The course knobs have a push button in the centre to synchro…",
+    "title": "course knobs have",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The course knobs have a push button in the centre to synchronize the display to the airplanes \"direct-to\" course.",
-    "caption_tr": ""
+    "caption_tr": "Rota düğmelerinin ortasında, ekranı uçağın \"doğrudan\" rotasına senkronize etmek için bir basma düğmesi bulunur.",
+    "title_tr": "kurs düğmeleri var"
   },
   {
     "id": "s06",
-    "title": "Suppose the airplane is at the position as shown. It is trac…",
+    "title": "Suppose airplane position",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Suppose the airplane is at the position as shown. It is tracking to intercept on the course of 090 of a VOR station.",
-    "caption_tr": ""
+    "caption_tr": "Uçağın gösterilen konumda olduğunu varsayalım. Bir VOR istasyonunun 090 rotasında kesişmeyi takip ediyor.",
+    "title_tr": "Uçak konumunu varsayalım"
   },
   {
     "id": "s07",
-    "title": "The course pointer and the deviation bar will align themselv…",
+    "title": "course pointer deviation",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The course pointer and the deviation bar will align themselves and point to the VOR station. The assembly behaves like a bearing pointer. It indicates to the crew the existing radial the airplane is on.",
-    "caption_tr": ""
+    "caption_tr": "Rota işaretçisi ve sapma çubuğu kendilerini hizalayacak ve VOR istasyonunu işaret edecektir. Montaj bir yön işaretçisi gibi davranır. Mürettebata uçağın bulunduğu mevcut radyali gösterir.",
+    "title_tr": "kurs işaretçisi sapması"
   },
   {
     "id": "s08",
-    "title": "This feature enables the crew to track direct to the VOR sta…",
+    "title": "This feature enables",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "This feature enables the crew to track direct to the VOR station on that radial, if desired.",
-    "caption_tr": ""
+    "caption_tr": "Bu özellik, mürettebatın istenirse doğrudan o radyal üzerindeki VOR istasyonunu izlemesine olanak tanır.",
+    "title_tr": "Bu özellik şunları sağlar:"
   },
   {
     "id": "s09",
-    "title": "Heading is selected via a rotary knob, with a \"Heading Bug\" …",
+    "title": "Heading selected rotary",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Heading is selected via a rotary knob, with a \"Heading Bug\" symbol on the face of the knob. The heading knob controls the heading bug and digital display on both PFDs and the bug on the MAP display.",
-    "caption_tr": ""
+    "caption_tr": "Yön, düğmenin ön yüzünde \"Heading Bug\" sembolü bulunan döner düğme aracılığıyla seçilir. Yön düğmesi, hem PFD'lerdeki hem de MAP ekranındaki hatayı ve dijital ekranı kontrol eder.",
+    "title_tr": "Başlık seçilen döner"
   },
   {
     "id": "s10",
-    "title": "Depressing the knob will synchronize the bug on PFDs and to …",
+    "title": "Depressing knob will",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Depressing the heading knob will synchronize the heading bug on PFDs and to the aircraft heading.",
-    "caption_tr": ""
+    "caption_tr": "Yön düğmesine basmak, PFD'lerdeki rota hatasını ve uçağın rotasını senkronize edecektir.",
+    "title_tr": "Düğmeye basılması"
   },
   {
     "id": "s11",
-    "title": "The roll mode consist of the following buttons: NAV,",
+    "title": "NAV APP",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
-    "caption_en": "The roll mode consist of the following buttons: NAV,",
-    "caption_tr": ""
+    "caption_en": "The roll mode consist of the following buttons: heading NAV, APPROACH, and BANK.",
+    "caption_tr": "Dönme modu şu düğmelerden oluşur: NAV başlığı, YAKLAŞIM ve BANK.",
+    "title_tr": "NAV UYGULAMASI"
   },
   {
     "id": "s12",
-    "title": "The roll mode consist of the following buttons: NAV, APP, an…",
+    "title": "ALT",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "The roll mode consist of the following buttons: NAV, APP, and",
-    "caption_tr": ""
+    "caption_en": "The pitch mode consist of the following buttons: SPEED, FLIGHT LEVEL CHANGE, VERTİCAL SPEED,VNAV, ALLTİTUDE HOLD and ALLTİTUDE SELECT.",
+    "caption_tr": "Pitch modu şu düğmelerden oluşur: HIZ, UÇUŞ SEVİYESİ DEĞİŞİMİ, DÜŞEY HIZ, VNAV, ALLTİTUDE HOLD ve ALLTİTUDE SELECT.",
+    "title_tr": "ALT"
   },
   {
     "id": "s13",
-    "title": "The roll mode consist of the following buttons: NAV, APP, an…",
+    "title": "table various FD",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
-    "caption_en": "The roll mode consist of the following buttons: heading NAV, APPROACH, and BANK.",
-    "caption_tr": ""
+    "caption_en": "The table shows the various FD roll modes that can be selected from the roll buttons.",
+    "caption_tr": "Tablo, döndürme düğmelerinden seçilebilen çeşitli FD döndürme modlarını göstermektedir.",
+    "title_tr": "çeşitli FD tablosu"
   },
   {
     "id": "s14",
-    "title": "The pitch mode consist of the following buttons:",
+    "title": "table various FD",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
-    "caption_en": "The pitch mode consist of the following buttons:",
-    "caption_tr": ""
+    "caption_en": "The table shows the various FD pitch modes that can be selected from the pitch buttons.",
+    "caption_tr": "Tablo, adım düğmelerinden seçilebilen çeşitli FD adım modlarını göstermektedir.",
+    "title_tr": "çeşitli FD tablosu"
   },
   {
     "id": "s15",
-    "title": "The pitch mode consist of the following buttons: ALT, and, A…",
+    "title": "ROL basic mode",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "The pitch mode consist of the following buttons: SPEED, FLIGHT LEVEL CHANGE, VERTİCAL SPEED,VNAV, ALLTİTUDE HOLD and ALLTİTUDE SELECT.",
-    "caption_tr": ""
+    "caption_en": "ROL is a basic mode which is automatically selected when a pitch mode is first selected. Touch button",
+    "caption_tr": "ROL, bir perde modu ilk seçildiğinde otomatik olarak seçilen bir temel moddur. Dokunmatik düğme",
+    "title_tr": "ROL temel modu"
   },
   {
     "id": "s16",
-    "title": "The table shows the various FD roll modes that can be select…",
+    "title": "ROL annunciated roll",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
-    "caption_en": "The table shows the various FD roll modes that can be selected from the roll buttons.",
-    "caption_tr": ""
+    "caption_en": "When ROL is annunciated on the roll mode, it has two meanings: 1) If the selection of the ROL is made with airplane in a bank of less than 6, the roll bar will command the airplane to wings level. This is called heading hold mode.",
+    "caption_tr": "Roll modunda ROL bildirildiğinde bunun iki anlamı vardır: 1) ROL seçimi uçak 6'dan daha az bir yatıştayken yapılırsa, roll bar uçağa kanat hizasına gelmesi komutunu verecektir. Buna yön tutma modu denir.",
+    "title_tr": "ROL duyurulan rulo"
   },
   {
     "id": "s17",
-    "title": "The table shows the various FD pitch modes that can be selec…",
+    "title": "selection ROL mode",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
-    "caption_en": "The table shows the various FD pitch modes that can be selected from the pitch buttons.",
-    "caption_tr": ""
+    "caption_en": "If the selection of the ROL mode is made and the bank angle is more than 6 but less than then the roll bar will command airplane to maintain the roll at that bank angle. This is roll hold mode.",
+    "caption_tr": "ROL modunun seçimi yapılırsa ve yatış açısı 6'dan fazla ancak bu değerden küçükse, devrilme çubuğu uçağa yuvarlanmayı bu yatış açısında tutması komutunu verecektir. Bu yuvarlanma tutma modudur.",
+    "title_tr": "seçim ROL modu"
   },
   {
     "id": "s18",
-    "title": "ROL is a basic mode which is automatically selected when a p…",
+    "title": "Tis basic mode",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "ROL is a basic mode which is automatically selected when a pitch mode is first selected. Touch button",
-    "caption_tr": ""
+    "caption_en": "Tis a basic mode and itis automatically selected when a roll mode is first selected. Touch button",
+    "caption_tr": "Bu temel bir moddur ve bir dönüş modu ilk seçildiğinde otomatik olarak seçilir. Dokunmatik düğme",
+    "title_tr": "Bu temel mod"
   },
   {
     "id": "s19",
-    "title": "When ROL is annunciated on the roll mode, it has two meaning…",
+    "title": "Tis basic mode",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
-    "caption_en": "When ROL is annunciated on the roll mode, it has two meanings: 1) If the selection of the ROL is made with airplane in a bank of less than 6, the roll bar will command the airplane to wings level. This is called heading hold mode.",
-    "caption_tr": ""
+    "caption_en": "Tis a basic mode and itis automatically selected when a roll mode is first selected.",
+    "caption_tr": "Bu temel bir moddur ve bir dönüş modu ilk seçildiğinde otomatik olarak seçilir.",
+    "title_tr": "Bu temel mod"
   },
   {
     "id": "s20",
-    "title": "If the selection of the ROL mode is made and the bank angle …",
+    "title": "basic PIT mode",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
-    "caption_en": "If the selection of the ROL mode is made and the bank angle is more than 6 but less than then the roll bar will command airplane to maintain the roll at that bank angle. This is roll hold mode.",
-    "caption_tr": ""
+    "caption_en": "In the basic PIT mode, the pitch bar sync to the existing airplane pitch attitude. This is known as pitch hold mode.",
+    "caption_tr": "Temel PIT modunda, eğim çubuğu mevcut uçağın eğim açısına göre senkronize edilir. Bu, perde tutma modu olarak bilinir.",
+    "title_tr": "temel PIT modu"
   },
   {
     "id": "s21",
-    "title": "Tis a basic mode and itis automatically selected when a roll…",
+    "title": "Recall that button",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
-    "caption_en": "Tis a basic mode and itis automatically selected when a roll mode is first selected. Touch button",
-    "caption_tr": ""
+    "caption_en": "Recall that the button on the control wheel can be used as a FD pitch or roll sync switch if AP is not engaged. Pitch sync requires a roll FD mode engaged and roll sync reqiures a pitch FD mode engaged.",
+    "caption_tr": "AP devrede değilse kontrol tekerleğindeki düğmenin FD eğim veya dönüş senkronizasyon anahtarı olarak kullanılabileceğini unutmayın. Pitch senkronizasyonu, bir dönüş FD modunun devreye sokulmasını gerektirir ve dönüş senkronizasyonu, bir pitch FD modunun devreye sokulmasını gerektirir.",
+    "title_tr": "O düğmeyi hatırla"
   },
   {
     "id": "s22",
-    "title": "Tis a basic mode and itis automatically selected when a roll…",
+    "title": "left graphic has",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
-    "caption_en": "Tis a basic mode and itis automatically selected when a roll mode is first selected.",
-    "caption_tr": ""
+    "caption_en": "To demonstrate pitch sync: the left graphic has the airplane pitch attitude below the horizon and the pitch bar is against it. If the airplane is pitched up (centre picture), the pitch bar remains below the horizon. If pressed and released, the pitch synchronises with the new pitch attitude.",
+    "caption_tr": "Pitch senkronizasyonunu göstermek için: soldaki grafikte uçağın yunuslama açısı ufkun altındadır ve pitch çubuğu buna karşıdır. Uçak yukarıya doğru eğilirse (ortadaki resim), eğim çubuğu ufkun altında kalır. Basılıp bırakılırsa perde yeni perde tutumuyla senkronize olur.",
+    "title_tr": "soldaki grafik var"
   },
   {
     "id": "s23",
-    "title": "In the basic PIT mode, the pitch bar sync to the existing ai…",
+    "title": "Similarly can synchronise",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
-    "caption_en": "In the basic PIT mode, the pitch bar sync to the existing airplane pitch attitude. This is known as pitch hold mode.",
-    "caption_tr": ""
+    "caption_en": "Similarly, can be used to synchronise the roll bar as is shown in the above graphic.",
+    "caption_tr": "Benzer şekilde yukarıdaki grafikte gösterildiği gibi roll bar'ı senkronize etmek için kullanılabilir.",
+    "title_tr": "Benzer şekilde senkronize"
   },
   {
     "id": "s24",
-    "title": "Recall that the button on the control wheel can be used as a…",
-    "imgSrc": "slides/s24.png",
-    "audioSrc": "audio/s24.mp3",
-    "caption_en": "Recall that the button on the control wheel can be used as a FD pitch or roll sync switch if AP is not engaged. Pitch sync requires a roll FD mode engaged and roll sync reqiures a pitch FD mode engaged.",
-    "caption_tr": ""
-  },
-  {
-    "id": "s25",
-    "title": "To demonstrate pitch sync: the left graphic has the airplane…",
-    "imgSrc": "slides/s25.png",
-    "audioSrc": "audio/s25.mp3",
-    "caption_en": "To demonstrate pitch sync: the left graphic has the airplane pitch attitude below the horizon and the pitch bar is against it. If the airplane is pitched up (centre picture), the pitch bar remains below the horizon. If pressed and released, the pitch synchronises with the new pitch attitude.",
-    "caption_tr": ""
-  },
-  {
-    "id": "s26",
-    "title": "Similarly, can be used to synchronise the roll bar as is sho…",
-    "imgSrc": "slides/s26.png",
-    "audioSrc": "audio/s26.mp3",
-    "caption_en": "Similarly, can be used to synchronise the roll bar as is shown in the above graphic.",
-    "caption_tr": ""
-  },
-  {
-    "id": "s27",
-    "title": "Heading select is used to maintain a magnetic heading. The h…",
+    "title": "Heading select maintain",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "Heading select is used to maintain a magnetic heading. The heading bug is positioned to the desired heading on the HSI using the Knob on the Touch knob to simulate positioning heading bug to heading.",
-    "caption_tr": ""
+    "caption_tr": "Yön seçimi, manyetik bir rotayı korumak için kullanılır. Rota hatası, rota hatasının rotaya konumlandırılmasını simüle etmek için Dokunmatik düğme üzerindeki Düğme kullanılarak HSI üzerinde istenen rotaya konumlandırılır.",
+    "title_tr": "Başlık seç bakım"
+  },
+  {
+    "id": "s25",
+    "title": "Moving heading bug",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Moving heading bug from the existing heading will create an error in the heading select mode. The flight director computer will cause displacement of the roll bar and move the bar to the left.",
+    "caption_tr": "Yön hatasını mevcut başlıktan taşımak başlık seçme modunda bir hata oluşturacaktır. Uçuş yönlendirme bilgisayarı roll barın yer değiştirmesine neden olacak ve barı sola hareket ettirecektir.",
+    "title_tr": "Hareketli başlık hatası"
+  },
+  {
+    "id": "s26",
+    "title": "following command bars",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "By following the command bars and turning the aircraft left, the compass card will move. When the desired heading is reached, the roll bar centralizes and maintains the required heading.",
+    "caption_tr": "Komut çubuklarını takip ederek ve uçağı sola çevirerek pusula kartı hareket edecektir. İstenilen istikamete ulaşıldığında roll bar merkezileşir ve gerekli istikameti korur.",
+    "title_tr": "komut çubuklarını takip"
+  },
+  {
+    "id": "s27",
+    "title": "NAV button selected",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "The NAV button, when selected, provides various FD mode annunciations which depend on what is selected on the navigation source.",
+    "caption_tr": "NAV düğmesi seçildiğinde, navigasyon kaynağında neyin seçildiğine bağlı olarak çeşitli FD modu bildirimleri sağlar.",
+    "title_tr": "NAV düğmesi seçildi"
   },
   {
     "id": "s28",
-    "title": "Moving heading bug from the existing heading will create an …",
+    "title": "navigation source VOR",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
-    "caption_en": "Moving heading bug from the existing heading will create an error in the heading select mode. The flight director computer will cause displacement of the roll bar and move the bar to the left.",
-    "caption_tr": ""
+    "caption_en": "If the the navigation source is VOR, LOC or ILS, FD roll mode annunciation will be VOR or LOCBC.",
+    "caption_tr": "Navigasyon kaynağı VOR, LOC veya ILS ise, FD dönüş modu bildirimi VOR veya LOCBC olacaktır.",
+    "title_tr": "navigasyon kaynağı VOR"
   },
   {
     "id": "s29",
-    "title": "By following the command bars and turning the aircraft left,…",
+    "title": "1 Set flight",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
-    "caption_en": "By following the command bars and turning the aircraft left, the compass card will move. When the desired heading is reached, the roll bar centralizes and maintains the required heading.",
-    "caption_tr": ""
+    "caption_en": "To fly the NAV mode: 1) Set up a flight plan into the",
+    "caption_tr": "NAV modunda uçmak için: 1) Bir uçuş planı oluşturun.",
+    "title_tr": "1 Uçuşu ayarla"
   },
   {
     "id": "s30",
-    "title": "The NAV button, when selected, provides various FD mode annu…",
+    "title": "1 Set flight",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
-    "caption_en": "The NAV button, when selected, provides various FD mode annunciations which depend on what is selected on the navigation source.",
-    "caption_tr": ""
+    "caption_en": "To fly the NAV mode: 1) Set up a flight plan into the 2) Select as the navigation source by depressing button on the master display controller",
+    "caption_tr": "NAV modunda uçmak için: 1) Bir uçuş planını ayarlayın 2) Ana ekran denetleyicisindeki düğmeye basarak navigasyon kaynağı olarak seçin",
+    "title_tr": "1 Uçuşu ayarla"
   },
   {
     "id": "s31",
-    "title": "If the the navigation source is VOR, LOC or ILS, FD roll mod…",
+    "title": "Push NAV button",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
-    "caption_en": "If the the navigation source is VOR, LOC or ILS, FD roll mode annunciation will be VOR or LOCBC.",
-    "caption_tr": ""
+    "caption_en": "Push NAV button on the This will cause to annunciate in green (capture) on the",
+    "caption_tr": "NAV düğmesine basın. Bu, ekranda yeşil renkte (yakalama) bildirime neden olacaktır.",
+    "title_tr": "NAV düğmesine basın"
   },
   {
     "id": "s32",
-    "title": "To fly the NAV mode: 1) Set up a flight plan into the",
+    "title": "flight director function",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
-    "caption_en": "To fly the NAV mode: 1) Set up a flight plan into the",
-    "caption_tr": ""
+    "caption_en": "The flight director function captures and directs the aircraft to a track intercept. It will direct the aircraft with a shortest turn to intercept the desired track. This is shown in the graphic above.",
+    "caption_tr": "Uçuş direktörü işlevi, uçağı yakalar ve bir rota kesişmesine yönlendirir. İstenilen yolu kesmek için uçağı en kısa dönüşle yönlendirecektir. Bu, yukarıdaki grafikte gösterilmektedir.",
+    "title_tr": "uçuş direktörü işlevi"
   },
   {
     "id": "s33",
-    "title": "To fly the NAV mode: 1) Set up a flight plan into the 2) Sel…",
+    "title": "Once aircraft track",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
-    "caption_en": "To fly the NAV mode: 1) Set up a flight plan into the 2) Select as the navigation source by depressing button on the master display controller",
-    "caption_tr": ""
+    "caption_en": "Once the aircraft is on track, the deviation indicator is centred and the desired track is achieved. The AP may be engaged if desired, as is shown on the",
+    "caption_tr": "Uçak rotaya girdiğinde sapma göstergesi ortalanır ve istenilen rota elde edilir. İstenirse AP, resimde gösterildiği gibi devreye alınabilir.",
+    "title_tr": "kez uçak pisti"
   },
   {
     "id": "s34",
-    "title": "Push NAV button on the This will cause to annunciate in gree…",
+    "title": "1 Select VOR",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
-    "caption_en": "Push NAV button on the This will cause to annunciate in green (capture) on the",
-    "caption_tr": ""
+    "caption_en": "To select VOR NAV mode: 1) Select VOR frequency on RMU NAV window on the master side.",
+    "caption_tr": "VOR NAV modunu seçmek için: 1) Ana taraftaki RMU NAV penceresinde VOR frekansını seçin.",
+    "title_tr": "1 VOR'u seçin"
   },
   {
     "id": "s35",
-    "title": "The flight director function captures and directs the aircra…",
+    "title": "1 Select VOR",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
-    "caption_en": "The flight director function captures and directs the aircraft to a track intercept. It will direct the aircraft with a shortest turn to intercept the desired track. This is shown in the graphic above.",
-    "caption_tr": ""
+    "caption_en": "To select VOR NAV mode: 1) Select VOR frequency on the RMU on the master side. 2) Press NAV button on the display controller on the same side. This will make VOR as the navigation source on the",
+    "caption_tr": "VOR NAV modunu seçmek için: 1) Ana taraftaki RMU'da VOR frekansını seçin. 2) Ekran denetleyicisinin aynı tarafındaki NAV düğmesine basın. Bu, VOR'u navigasyon kaynağı yapacaktır.",
+    "title_tr": "1 VOR'u seçin"
   },
   {
     "id": "s36",
-    "title": "Once the aircraft is on track, the deviation indicator is ce…",
+    "title": "Set course pointer",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
-    "caption_en": "Once the aircraft is on track, the deviation indicator is centred and the desired track is achieved. The AP may be engaged if desired, as is shown on the",
-    "caption_tr": ""
+    "caption_en": "Set the course pointer to the desired course. 4) Select NAV button. Do that.",
+    "caption_tr": "Rota işaretçisini istediğiniz rotaya ayarlayın. 4) NAV düğmesini seçin. Bunu yap.",
+    "title_tr": "Rota işaretçisini ayarla"
   },
   {
     "id": "s37",
-    "title": "To select VOR NAV mode: 1) Select VOR frequency on RMU NAV w…",
+    "title": "aircraft outside normal",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
-    "caption_en": "To select VOR NAV mode: 1) Select VOR frequency on RMU NAV window on the master side.",
-    "caption_tr": ""
+    "caption_en": "When the aircraft is outside the normal capture range of the VOR signal, as shown above, engaging the NAV button annunciates in green and VOR in white. The flight director is armed to capture the VOR signal and generates a roll command to fly selected heading.",
+    "caption_tr": "Yukarıda gösterildiği gibi hava aracı VOR sinyalinin normal yakalama aralığının dışında olduğunda, NAV düğmesine basıldığında yeşil renkte ve VOR beyaz renkte duyurulur. Uçuş yöneticisi, VOR sinyalini yakalayacak şekilde donatılmıştır ve seçilen istikamette uçmak için bir yuvarlanma komutu oluşturur.",
+    "title_tr": "uçak normalin dışında"
   },
   {
     "id": "s38",
-    "title": "To select VOR NAV mode: 1) Select VOR frequency on the RMU o…",
+    "title": "aircraft within VOR",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
-    "caption_en": "To select VOR NAV mode: 1) Select VOR frequency on the RMU on the master side. 2) Press NAV button on the display controller on the same side. This will make VOR as the navigation source on the",
-    "caption_tr": ""
+    "caption_en": "When the aircraft is within the VOR captured range, the FD automatically drops the heading select mode and switches to VOR capture phase. The white VOR replaces turns green and is boxed in white for 8 seconds. The FD now provides roll bar with a command to bank the aircraft to capture and track the selected VOR radial.",
+    "caption_tr": "Uçak VOR yakalama menzili içinde olduğunda, FD otomatik olarak yön seçme modunu bırakır ve VOR yakalama aşamasına geçer. Beyaz VOR, yeşile döner ve 8 saniye boyunca beyaz renkte kutulanır. FD artık seçilen VOR radyalini yakalayıp takip etmek üzere uçağın yana yatması için bir komut içeren roll bar sağlıyor.",
+    "title_tr": "VOR içindeki uçak"
   },
   {
     "id": "s39",
-    "title": "Set the course pointer to the desired course. 4) Select NAV …",
+    "title": "aircraft satisfies VOR",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
-    "caption_en": "Set the course pointer to the desired course. 4) Select NAV button. Do that.",
-    "caption_tr": ""
+    "caption_en": "When the aircraft satisfies VOR track conditions, the course error signal is removed from the lateral steering command. The DME distance is used for lateral gain programming. The system automatically compensates for crosswind of up to 45 course error.",
+    "caption_tr": "Uçak VOR yolu koşullarını karşıladığında rota hatası sinyali yanal direksiyon komutundan kaldırılır. DME mesafesi yanal kazanç programlaması için kullanılır. Sistem, 45 rota hatasına kadar yan rüzgarı otomatik olarak telafi eder.",
+    "title_tr": "uçak VOR'u karşılıyor"
   },
   {
     "id": "s40",
-    "title": "When the aircraft is outside the normal capture range of the…",
+    "title": "intended function FD",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
-    "caption_en": "When the aircraft is outside the normal capture range of the VOR signal, as shown above, engaging the NAV button annunciates in green and VOR in white. The flight director is armed to capture the VOR signal and generates a roll command to fly selected heading.",
-    "caption_tr": ""
+    "caption_en": "The intended function of the FD APP mode is that APP button be used for - VOR approach. -ILS approach.",
+    "caption_tr": "FD APP modunun amaçlanan işlevi, APP düğmesinin VOR yaklaşımı için kullanılmasıdır. -ILS yaklaşımı.",
+    "title_tr": "amaçlanan fonksiyon FD"
   },
   {
     "id": "s41",
-    "title": "When the aircraft is within the VOR captured range, the FD a…",
+    "title": "Instead mode NAV",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
-    "caption_en": "When the aircraft is within the VOR captured range, the FD automatically drops the heading select mode and switches to VOR capture phase. The white VOR replaces turns green and is boxed in white for 8 seconds. The FD now provides roll bar with a command to bank the aircraft to capture and track the selected VOR radial.",
-    "caption_tr": ""
+    "caption_en": "Instead of selecting the mode with the NAV button on the the APP button is pushed. If the aircraft is not within the capture range, heading and APP engage lights will illuminate. VAPP annunciate in white and in green on the PFDs.",
+    "caption_tr": "Mod seçmek yerine NAV butonu ile APP butonuna basılır. Eğer hava aracı yakalama menzili içinde değilse, yön ve APP devreye girme ışıkları yanacaktır. VAPP, PFD'lerde beyaz ve yeşil renkte duyurur.",
+    "title_tr": "Bunun yerine NAV"
   },
   {
     "id": "s42",
-    "title": "When the aircraft satisfies VOR track conditions, the course…",
+    "title": "VAPP captured mode",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
-    "caption_en": "When the aircraft satisfies VOR track conditions, the course error signal is removed from the lateral steering command. The DME distance is used for lateral gain programming. The system automatically compensates for crosswind of up to 45 course error.",
-    "caption_tr": ""
+    "caption_en": "When the VAPP is captured, mode is removed. VAPP replaces and becomes green. A pitch mode such as VS or IAS may be used to step down the aircraft on the selected radial onto the runway.",
+    "caption_tr": "VAPP yakalandığında mod kaldırılır. VAPP değiştirilir ve yeşil olur. VS veya IAS gibi bir eğim modu, uçağı seçilen radyal üzerinde piste indirmek için kullanılabilir.",
+    "title_tr": "VAPP yakalama modu"
   },
   {
     "id": "s43",
-    "title": "The intended function of the FD APP mode is that APP button …",
+    "title": "ILS approach mode",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
-    "caption_en": "The intended function of the FD APP mode is that APP button be used for - VOR approach. -ILS approach.",
-    "caption_tr": ""
+    "caption_en": "The ILS approach mode automatically intercepts, captures, and tracks the front course localizer and glideslope signals. The mode is interlocked so that the glideslope capture is inhibited until the localizer is captured.",
+    "caption_tr": "ILS yaklaşma modu, ön rota konum belirleyicisini ve kayma eğimi sinyallerini otomatik olarak yakalar, yakalar ve takip eder. Mod, yerelleştirici yakalanana kadar kayma eğimi yakalamasının engelleneceği şekilde kilitlenmiştir.",
+    "title_tr": "ILS yaklaşma modu"
   },
   {
     "id": "s44",
-    "title": "Instead of selecting the mode with the NAV button on the the…",
+    "title": "Select ILS frequency",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
-    "caption_en": "Instead of selecting the mode with the NAV button on the the APP button is pushed. If the aircraft is not within the capture range, heading and APP engage lights will illuminate. VAPP annunciate in white and in green on the PFDs.",
-    "caption_tr": ""
+    "caption_en": "Select ILS frequency on the RMU NAV window.",
+    "caption_tr": "RMU NAV penceresinde ILS frekansını seçin.",
+    "title_tr": "ILS frekansını seçin"
   },
   {
     "id": "s45",
-    "title": "When the VAPP is captured, mode is removed. VAPP replaces an…",
+    "title": "Push NAV button",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
-    "caption_en": "When the VAPP is captured, mode is removed. VAPP replaces and becomes green. A pitch mode such as VS or IAS may be used to step down the aircraft on the selected radial onto the runway.",
-    "caption_tr": ""
+    "caption_en": "Push the NAV button on the display controller to select ILS as the navigation source.",
+    "caption_tr": "Navigasyon kaynağı olarak ILS'yi seçmek için ekran denetleyicisindeki NAV düğmesine basın.",
+    "title_tr": "NAV düğmesine basın"
   },
   {
     "id": "s46",
-    "title": "The ILS approach mode automatically intercepts, captures, an…",
+    "title": "Set course pointer",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
-    "caption_en": "The ILS approach mode automatically intercepts, captures, and tracks the front course localizer and glideslope signals. The mode is interlocked so that the glideslope capture is inhibited until the localizer is captured.",
-    "caption_tr": ""
+    "caption_en": "Set the course pointer to the inbound course to be flown by turning the course on the 4) Push the APP button on Do that.",
+    "caption_tr": "Rota işaretçisini, rotayı çevirerek uçulacak rotaya ayarlayın. 4) Bunu yapın'daki APP düğmesine basın.",
+    "title_tr": "Rota işaretçisini ayarla"
   },
   {
     "id": "s47",
-    "title": "Select ILS frequency on the RMU NAV window.",
+    "title": "Pushing APP button",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
-    "caption_en": "Select ILS frequency on the RMU NAV window.",
-    "caption_tr": ""
+    "caption_en": "Pushing the APP button arms both localizer and glideslope modes when aircraft is not within the localizer capture range. If not selected, the (heading) is also annunciated in green as an active mode before localizer capture. In practice, APP is normally selected when the aircraft is being vectored to a position ready for localizer capture as shown in the bottom left picture. Arming the LOCIGS early may result in them being captured if aircraft is vectored across the runway.",
+    "caption_tr": "Uçak, yerelleştirici yakalama menzili içinde olmadığında, APP düğmesine basıldığında hem yerelleştirici hem de kayma eğimi modları etkinleştirilir. Seçilmediği takdirde, (yön) konumu da yerelleştirici yakalamadan önce aktif mod olarak yeşil renkle duyurulur. Uygulamada, APP normalde hava aracı sol alt resimde gösterildiği gibi yerelleştirici yakalamaya hazır bir konuma vektörlendiğinde seçilir. LOCIGS'in erken silahlandırılması, uçağın pist boyunca vektörlenmesi durumunda yakalanmalarına neden olabilir.",
+    "title_tr": "APP düğmesine basmak"
   },
   {
     "id": "s48",
-    "title": "Push the NAV button on the display controller to select ILS …",
+    "title": "localizer captured replaced",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
-    "caption_en": "Push the NAV button on the display controller to select ILS as the navigation source.",
-    "caption_tr": ""
+    "caption_en": "When the localizer is captured, is replaced by LOC in green. LOC is boxed in white for 8 seconds. Roll command bar will now direct the aircraft to centre line of localizer beam.",
+    "caption_tr": "Yerelleştirici yakalandığında yeşil renkli LOC ile değiştirilir. LOC 8 saniye boyunca beyaz renkte kutulanır. Döndürme komut çubuğu artık hava aracını konum belirleme ışınının merkez hattına yönlendirecek.",
+    "title_tr": "yerelleştirici yakalandı değiştirildi"
   },
   {
     "id": "s49",
-    "title": "Set the course pointer to the inbound course to be flown by …",
+    "title": "glideslope capture computer",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
-    "caption_en": "Set the course pointer to the inbound course to be flown by turning the course on the 4) Push the APP button on Do that.",
-    "caption_tr": ""
+    "caption_en": "At glideslope capture, the computer drops any other roll mode that was in use. The armed GS turns green and becomes the active pitch mode. The captured GS automatically generates a pitch command to track the glideslope beam.",
+    "caption_tr": "Süzülme eğimi yakalama sırasında bilgisayar, kullanımda olan diğer yuvarlanma modlarını bırakır. Devreye alınan GS yeşile döner ve aktif atış moduna geçer. Yakalanan GS, kayma eğimi ışınını izlemek için otomatik olarak bir eğim komutu oluşturur.",
+    "title_tr": "kayma eğimi yakalama"
   },
   {
     "id": "s50",
-    "title": "Pushing the APP button arms both localizer and glideslope mo…",
+    "title": "system compensates aircraft",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
-    "caption_en": "Pushing the APP button arms both localizer and glideslope modes when aircraft is not within the localizer capture range. If not selected, the (heading) is also annunciated in green as an active mode before localizer capture. In practice, APP is normally selected when the aircraft is being vectored to a position ready for localizer capture as shown in the bottom left picture. Arming the LOCIGS early may result in them being captured if aircraft is vectored across the runway.",
-    "caption_tr": ""
+    "caption_en": "The system compensates for aircraft closure on the glideslope antenna as the system goes into track mode, as shown above. Glideslope programming is normally a computed function of radio altitude. If radio altitude is not available, then GS programming is a function of vertical speed true air speed (TAS), marker beacon, and time. If the autopilot is engaged, it must be disengaged before reaching ft AGL since this aircraft is equipped with single channel autopilot system suitable for CAT 1 approach.",
+    "caption_tr": "Sistem, yukarıda gösterildiği gibi, sistem takip moduna geçtiğinde uçağın süzülme eğimi antenindeki kapanmasını telafi eder. Süzülme eğimi programlaması normalde radyo yüksekliğinin hesaplanmış bir fonksiyonudur. Radyo irtifası mevcut değilse, GS programlaması dikey hız gerçek hava hızının (TAS), işaret ışığının ve zamanın bir fonksiyonudur. Bu uçak CAT 1 yaklaşımına uygun tek kanallı otopilot sistemi ile donatılmış olduğundan, otopilot devrede ise ft AGL'ye ulaşmadan önce devre dışı bırakılması gerekmektedir.",
+    "title_tr": "sistem uçağı telafi"
   },
   {
     "id": "s51",
-    "title": "When the localizer is captured, is replaced by LOC in green.…",
+    "title": "low bank limits",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
-    "caption_en": "When the localizer is captured, is replaced by LOC in green. LOC is boxed in white for 8 seconds. Roll command bar will now direct the aircraft to centre line of localizer beam.",
-    "caption_tr": ""
+    "caption_en": "Selecting low bank on the limits bank angles to 14 left and 14 right. The mode is selected with the button and is annunciated on the button and by a green arc on the top of the ADI on both PFDs.",
+    "caption_tr": "14 sol ve 14 sağ limit yatış açılarında düşük yatış seçimi. Mod, düğmeyle seçilir ve düğme üzerinde ve her iki PFD'de ADI'nin üst kısmındaki yeşil bir yay ile duyurulur.",
+    "title_tr": "düşük banka limitleri"
   },
   {
     "id": "s52",
-    "title": "At glideslope capture, the computer drops any other roll mod…",
+    "title": "Low bank does",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
-    "caption_en": "At glideslope capture, the computer drops any other roll mode that was in use. The armed GS turns green and becomes the active pitch mode. The captured GS automatically generates a pitch command to track the glideslope beam.",
-    "caption_tr": ""
+    "caption_en": "Low bank does not engage for NAV mode, - Approach mode, and - Basic roll mode",
+    "caption_tr": "Düşük yatış NAV modu, - Yaklaşma modu ve - Temel dönüş modu için devreye girmez",
+    "title_tr": "Düşük banka bunu"
   },
   {
     "id": "s53",
-    "title": "The system compensates for aircraft closure on the glideslop…",
+    "title": "Above ft mean",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
-    "caption_en": "The system compensates for aircraft closure on the glideslope antenna as the system goes into track mode, as shown above. Glideslope programming is normally a computed function of radio altitude. If radio altitude is not available, then GS programming is a function of vertical speed true air speed (TAS), marker beacon, and time. If the autopilot is engaged, it must be disengaged before reaching ft AGL since this aircraft is equipped with single channel autopilot system suitable for CAT 1 approach.",
-    "caption_tr": ""
+    "caption_en": "Above ft mean sea level the bank angle is automatically reduced to 14 when FD modes are heading select and VOR capture (VOR). When descending below ft the heading select mode bank angle returns to the standard bank value",
+    "caption_tr": "Ortalama deniz seviyesinin üzerinde, FD modları yön seçimi ve VOR yakalama (VOR) olduğunda yatış açısı otomatik olarak 14'e düşürülür. Aşağıya inildiğinde yön seçme modu yatış açısı standart yatış değerine döner",
+    "title_tr": "Ft'nin üstü demek"
   },
   {
     "id": "s54",
-    "title": "Selecting low bank on the limits bank angles to 14 left and …",
+    "title": "FD pitch modes",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
-    "caption_en": "Selecting low bank on the limits bank angles to 14 left and 14 right. The mode is selected with the button and is annunciated on the button and by a green arc on the top of the ADI on both PFDs.",
-    "caption_tr": ""
+    "caption_en": "All FD pitch modes except altitude hold (ALT) and altitude preselect (ASEL) are used when the aircraft is in the climb and descent phases.",
+    "caption_tr": "İrtifa tutma (ALT) ve irtifa ön seçimi (ASEL) dışındaki tüm FD eğim modları, uçak tırmanma ve alçalma aşamalarındayken kullanılır.",
+    "title_tr": "FD adım modları"
   },
   {
     "id": "s55",
-    "title": "Low bank does not engage for NAV mode, - Approach mode, and …",
+    "title": "Speed button engage",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
-    "caption_en": "Low bank does not engage for NAV mode, - Approach mode, and - Basic roll mode",
-    "caption_tr": ""
+    "caption_en": "Speed button is used to engage the speed hold mode (IAS or MACH). The FD will command pitch change as necessary to maintain the speed that existed at the time of engagement. The selected speed above the speed tape and the bug will synchronize to the speed at the time of engagement.",
+    "caption_tr": "Hız düğmesi, hız tutma modunu (IAS veya MACH) devreye almak için kullanılır. FD, çarpışma anında mevcut olan hızı korumak için gerektiğinde eğim değişikliği komutunu verecektir. Hız bandının ve hatanın üzerindeki seçilen hız, çarpışma anındaki hıza senkronize edilecektir.",
+    "title_tr": "Hız düğmesi devreye"
   },
   {
     "id": "s56",
-    "title": "Above ft mean sea level the bank angle is automatically redu…",
+    "title": "change speed that",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
-    "caption_en": "Above ft mean sea level the bank angle is automatically reduced to 14 when FD modes are heading select and VOR capture (VOR). When descending below ft the heading select mode bank angle returns to the standard bank value",
-    "caption_tr": ""
+    "caption_en": "To change the speed after that, it can be set by turning knob on the The FD computer, sensing a new speed is requested, will pitch the bar accordingly so as to achieve the new reference speed. Touch the knob to simulate changing speed to kts.",
+    "caption_tr": "Bundan sonra hızı değiştirmek için, FD bilgisayarı üzerindeki düğmeyi çevirerek ayarlanabilir, yeni bir hız istendiğini algıladığında, yeni referans hızı elde etmek için çubuğu buna göre eğecektir. Hızın kts olarak değiştirilmesini simüle etmek için düğmeye dokunun.",
+    "title_tr": "hızını değiştir"
   },
   {
     "id": "s57",
-    "title": "All FD pitch modes except altitude hold (ALT) and altitude p…",
+    "title": "hold speed constant",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
-    "caption_en": "All FD pitch modes except altitude hold (ALT) and altitude preselect (ASEL) are used when the aircraft is in the climb and descent phases.",
-    "caption_tr": ""
+    "caption_en": "To hold the speed at constant mach number, aircraft speed must be more than Next, pushing the knob changes the speed tape from IAS reference to Mach reference. In the Mach reference, the FD pitch mode is changed to MACH. If a new mach number is desired, it is achieved by turning the knob.",
+    "caption_tr": "Hızı sabit makine sayısında tutmak için, uçak hızının daha fazla olması gerekir. Sonraki, düğmeye basıldığında hız bandı IAS referansından Mach referansına değişir. Mach referansında FD adım modu MACH olarak değiştirilir. Yeni bir makine numarası isteniyorsa düğme çevrilerek elde edilir.",
+    "title_tr": "hızı sabit tut"
   },
   {
     "id": "s58",
-    "title": "Speed button is used to engage the speed hold mode (IAS or M…",
+    "title": "Recall that button",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
-    "caption_en": "Speed button is used to engage the speed hold mode (IAS or MACH). The FD will command pitch change as necessary to maintain the speed that existed at the time of engagement. The selected speed above the speed tape and the bug will synchronize to the speed at the time of engagement.",
-    "caption_tr": ""
+    "caption_en": "Recall that button can be used to change the speed of the aircraft. To change the speed: 1) Depressed the button and manoeuvre the aircraft until the desired speed is achieved. 2) Release the button.",
+    "caption_tr": "Bu düğmenin uçağın hızını değiştirmek için kullanılabileceğini hatırlayın. Hızı değiştirmek için: 1) Düğmeye basın ve istenen hıza ulaşılana kadar hava aracını manevra ettirin. 2) Düğmeyi bırakın.",
+    "title_tr": "O düğmeyi hatırla"
   },
   {
     "id": "s59",
-    "title": "To change the speed after that, it can be set by turning kno…",
+    "title": "button released speed",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
-    "caption_en": "To change the speed after that, it can be set by turning knob on the The FD computer, sensing a new speed is requested, will pitch the bar accordingly so as to achieve the new reference speed. Touch the knob to simulate changing speed to kts.",
-    "caption_tr": ""
+    "caption_en": "When the button is released, the speed bug and the selected speed synchronize to the new manoeuvred speed, which in this case is kts. The FD computer, sensing the new reference speed, will position the pitch bar to achieve the new speed. The autopilot, if it is engaged, will follow the command bars to attain the required speed.",
+    "caption_tr": "Düğme bırakıldığında, hız hatası ve seçilen hız, bu durumda kts olan yeni manevra hızına senkronize edilir. Yeni referans hızını algılayan FD bilgisayarı, adım çubuğunu yeni hızı elde edecek şekilde konumlandıracaktır. Otomatik pilot devredeyse gerekli hıza ulaşmak için komut çubuklarını takip edecektir.",
+    "title_tr": "düğme serbest bırakılma"
   },
   {
     "id": "s60",
-    "title": "To hold the speed at constant mach number, aircraft speed mu…",
+    "title": "vertical speed mode",
     "imgSrc": "slides/s60.png",
     "audioSrc": "audio/s60.mp3",
-    "caption_en": "To hold the speed at constant mach number, aircraft speed must be more than Next, pushing the knob changes the speed tape from IAS reference to Mach reference. In the Mach reference, the FD pitch mode is changed to MACH. If a new mach number is desired, it is achieved by turning the knob.",
-    "caption_tr": ""
+    "caption_en": "When the vertical speed mode is engaged, the following occurs: - VS is annunciated in green on both the PFDs.",
+    "caption_tr": "Dikey hız modu devreye girdiğinde aşağıdakiler meydana gelir: - Her iki PFD'de VS yeşil renkte gösterilir.",
+    "title_tr": "dikey hız modu"
   },
   {
     "id": "s61",
-    "title": "Recall that button can be used to change the speed of the ai…",
+    "title": "speed select bug",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
-    "caption_en": "Recall that button can be used to change the speed of the aircraft. To change the speed: 1) Depressed the button and manoeuvre the aircraft until the desired speed is achieved. 2) Release the button.",
-    "caption_tr": ""
+    "caption_en": "The speed select bug on the airspeed tape is removed and the digital speed reference is replaced with amber dashes.",
+    "caption_tr": "Hava hızı bandındaki hız seçme hatası kaldırıldı ve dijital hız referansı, sarı çizgilerle değiştirildi.",
+    "title_tr": "hız seçme hatası"
   },
   {
     "id": "s62",
-    "title": "When the button is released, the speed bug and the selected …",
+    "title": "displays vertical speed",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
-    "caption_en": "When the button is released, the speed bug and the selected speed synchronize to the new manoeuvred speed, which in this case is kts. The FD computer, sensing the new reference speed, will position the pitch bar to achieve the new speed. The autopilot, if it is engaged, will follow the command bars to attain the required speed.",
-    "caption_tr": ""
+    "caption_en": "The displays the vertical speed target value above the vertical speed scale in plus or minus ftmin and the bug positions correspondingly.",
+    "caption_tr": "Dikey hız hedef değerini dikey hız ölçeğinin üzerinde artı veya eksi ftmin olarak ve buna göre hata konumlarını görüntüler.",
+    "title_tr": "dikey hızı gösterir"
   },
   {
     "id": "s63",
-    "title": "When the vertical speed mode is engaged, the following occur…",
+    "title": "time button pressed",
     "imgSrc": "slides/s63.png",
     "audioSrc": "audio/s63.mp3",
-    "caption_en": "When the vertical speed mode is engaged, the following occurs: - VS is annunciated in green on both the PFDs.",
-    "caption_tr": ""
+    "caption_en": "At the time when VS button is pressed on the the existing vertical speed is the reference. If a new vertical speed reference is desired, the knob is turned until the vertical speed target is displayed above the vertical speed scale.",
+    "caption_tr": "VS butonuna basıldığında mevcut dikey hız referans alınır. Yeni bir dikey hız referansı isteniyorsa, düğme, dikey hız hedefi dikey hız ölçeğinin üzerinde görüntülenene kadar çevrilir.",
+    "title_tr": "zaman tuşuna basıldı"
   },
   {
     "id": "s64",
-    "title": "The speed select bug on the airspeed tape is removed and the…",
+    "title": "speed mode can",
     "imgSrc": "slides/s64.png",
     "audioSrc": "audio/s64.mp3",
-    "caption_en": "The speed select bug on the airspeed tape is removed and the digital speed reference is replaced with amber dashes.",
-    "caption_tr": ""
+    "caption_en": "As with the speed mode, the can also be used to change the aircraft vertical speed. The vertical speed is changed the same way as the airspeed.",
+    "caption_tr": "Hız modunda olduğu gibi, uçağın dikey hızını değiştirmek için de kullanılabilir. Dikey hız, uçak hızıyla aynı şekilde değiştirilir.",
+    "title_tr": "hız modu şunları yapabilir:"
   },
   {
     "id": "s65",
-    "title": "The displays the vertical speed target value above the verti…",
+    "title": "flight level change",
     "imgSrc": "slides/s65.png",
     "audioSrc": "audio/s65.mp3",
-    "caption_en": "The displays the vertical speed target value above the vertical speed scale in plus or minus ftmin and the bug positions correspondingly.",
-    "caption_tr": ""
+    "caption_en": "The flight level change mode is also used to fly to new altitude using predefined airspeed profiles as shown by the graphs above. The speed reference used by control law is computed based on the baro corrected altitude.",
+    "caption_tr": "Uçuş seviyesi değiştirme modu aynı zamanda yukarıdaki grafiklerde gösterildiği gibi önceden tanımlanmış hava hızı profillerini kullanarak yeni irtifaya uçmak için de kullanılır. Kontrol kanunu tarafından kullanılan hız referansı, baro düzeltmeli rakıma göre hesaplanır.",
+    "title_tr": "uçuş seviyesi değişikliği"
   },
   {
     "id": "s66",
-    "title": "At the time when VS button is pressed on the the existing ve…",
+    "title": "Pressing button first",
     "imgSrc": "slides/s66.png",
     "audioSrc": "audio/s66.mp3",
-    "caption_en": "At the time when VS button is pressed on the the existing vertical speed is the reference. If a new vertical speed reference is desired, the knob is turned until the vertical speed target is displayed above the vertical speed scale.",
-    "caption_tr": ""
+    "caption_en": "Pressing button the first time engages the flight level change mode in the normal climbdescent profile. is annunciated in green on both PFDs.",
+    "caption_tr": "Düğmeye ilk kez basıldığında normal tırmanma-iniş profilinde uçuş seviyesi değiştirme modu devreye girer. her iki PFD'de de yeşil renkle gösterilir.",
+    "title_tr": "İlk düğmeye basmak"
   },
   {
     "id": "s67",
-    "title": "As with the speed mode, the can also be used to change the a…",
+    "title": "normal climb profile",
     "imgSrc": "slides/s67.png",
     "audioSrc": "audio/s67.mp3",
-    "caption_en": "As with the speed mode, the can also be used to change the aircraft vertical speed. The vertical speed is changed the same way as the airspeed.",
-    "caption_tr": ""
+    "caption_en": "In a normal climb profile, the speed reference is kts below ft, and it is Mach above ft.",
+    "caption_tr": "Normal bir tırmanış profilinde hız referansı ft'nin altında kts, ft'nin üstünde ise Mach'tır.",
+    "title_tr": "normal tırmanış profili"
   },
   {
     "id": "s68",
-    "title": "The flight level change mode is also used to fly to new alti…",
+    "title": "descent speed reference",
     "imgSrc": "slides/s68.png",
     "audioSrc": "audio/s68.mp3",
-    "caption_en": "The flight level change mode is also used to fly to new altitude using predefined airspeed profiles as shown by the graphs above. The speed reference used by control law is computed based on the baro corrected altitude.",
-    "caption_tr": ""
+    "caption_en": "In descent, the speed reference is above ft. It is kts from ft to ft. The speed reference changes linearly from to kts for decreasing altitudes between ft to ft. The speed reference is kts below ft.",
+    "caption_tr": "Alçalma sırasında hız referansı ft'nin üzerindedir. ft'den ft'e kts'dir. ft'den ft'e kadar olan rakımlarda hız referansı doğrusal olarak kts'den kts'ye değişir. Hız referansı ft'nin altında kts'dir.",
+    "title_tr": "iniş hızı referansı"
   },
   {
     "id": "s69",
-    "title": "Pressing button the first time engages the flight level chan…",
+    "title": "Pressing button second",
     "imgSrc": "slides/s69.png",
     "audioSrc": "audio/s69.mp3",
-    "caption_en": "Pressing button the first time engages the flight level change mode in the normal climbdescent profile. is annunciated in green on both PFDs.",
-    "caption_tr": ""
+    "caption_en": "Pressing the button the second time selects the high speed climbdescent schedule and changes the FD annunciation to flight level change high",
+    "caption_tr": "Düğmeye ikinci kez basıldığında yüksek hızlı tırmanış iniş programı seçilir ve FD duyurusu uçuş seviyesi değişimi yüksek olarak değiştirilir",
+    "title_tr": "Düğmeye ikinci basış"
   },
   {
     "id": "s70",
-    "title": "In a normal climb profile, the speed reference is kts below …",
+    "title": "high speed climb",
     "imgSrc": "slides/s70.png",
     "audioSrc": "audio/s70.mp3",
-    "caption_en": "In a normal climb profile, the speed reference is kts below ft, and it is Mach above ft.",
-    "caption_tr": ""
+    "caption_en": "In high speed climb schedule, the speed reference equals kts below ft. it changes linearly from kts to kts for increasing altitudes from ft to ft. It then stays at kts from ft to ft and itis Mach above ft.",
+    "caption_tr": "Yüksek hızlı tırmanış programında, hız referansı ft'nin altında kts'ye eşittir. ft'den ft'ye artan rakımlar için doğrusal olarak kts'den kts'ye değişir. Daha sonra ft'den ft'e kts'de kalır ve ft'nin üstünde Mach'tır.",
+    "title_tr": "yüksek hızlı tırmanış"
   },
   {
     "id": "s71",
-    "title": "In descent, the speed reference is above ft. It is kts from …",
+    "title": "high speed descent",
     "imgSrc": "slides/s71.png",
     "audioSrc": "audio/s71.mp3",
-    "caption_en": "In descent, the speed reference is above ft. It is kts from ft to ft. The speed reference changes linearly from to kts for decreasing altitudes between ft to ft. The speed reference is kts below ft.",
-    "caption_tr": ""
+    "caption_en": "In high speed descent, the speed reference is above ft to 27,000ft It is kts from ft to ft. It changes linearly from kts to kts for decreasing altitudes between ft and ft. The speed reference is kts below ft.",
+    "caption_tr": "Yüksek hızlı inişte hız referansı ft'den 27.000 ft'e kadardır. ft'den ft'e kts'dir. ft ile ft arasındaki rakımları azaltmak için kts'den kts'ye doğrusal olarak değişir. Hız referansı ft'nin altında kts'dir.",
+    "title_tr": "yüksek hızlı iniş"
   },
   {
     "id": "s72",
-    "title": "Pressing the button the second time selects the high speed c…",
+    "title": "flight level change",
     "imgSrc": "slides/s72.png",
     "audioSrc": "audio/s72.mp3",
-    "caption_en": "Pressing the button the second time selects the high speed climbdescent schedule and changes the FD annunciation to flight level change high",
-    "caption_tr": ""
+    "caption_en": "When flight level change is in control, the speed tape automatically switches to mach reference when the mach schedule is intercepted during climb. Conversely, the speed tape changes to IAS reference during descent and IAS schedule is intercepted.",
+    "caption_tr": "Uçuş seviyesi değişimi kontrol altında olduğunda, tırmanış sırasında makine programı kesildiğinde hız bandı otomatik olarak makine referansına geçer. Tersine, iniş sırasında hız bandı IAS referansına değişir ve IAS programı kesilir.",
+    "title_tr": "uçuş seviyesi değişikliği"
   },
   {
     "id": "s73",
-    "title": "In high speed climb schedule, the speed reference equals kts…",
+    "title": "flight level change",
     "imgSrc": "slides/s73.png",
     "audioSrc": "audio/s73.mp3",
-    "caption_en": "In high speed climb schedule, the speed reference equals kts below ft. it changes linearly from kts to kts for increasing altitudes from ft to ft. It then stays at kts from ft to ft and itis Mach above ft.",
-    "caption_tr": ""
+    "caption_en": "In flight level change mode, the knob is inhibited. It has no effect on the speed reference and speed bug. The speed reference is determined by the speed schedule.",
+    "caption_tr": "Uçuş seviyesi değiştirme modunda düğme engellenir. Hız referansı ve hız hatası üzerinde hiçbir etkisi yoktur. Hız referansı hız planına göre belirlenir.",
+    "title_tr": "uçuş seviyesi değişikliği"
   },
   {
     "id": "s74",
-    "title": "In high speed descent, the speed reference is above ft to 27…",
+    "title": "climb descent pushed",
     "imgSrc": "slides/s74.png",
     "audioSrc": "audio/s74.mp3",
-    "caption_en": "In high speed descent, the speed reference is above ft to 27,000ft It is kts from ft to ft. It changes linearly from kts to kts for decreasing altitudes between ft and ft. The speed reference is kts below ft.",
-    "caption_tr": ""
+    "caption_en": "During climb or descent, if the is pushed and held, the crew can manoeuvre the aircraft. However, when the button is released, flight level change mode takes over to bring the aircraft back to the speed schedule.",
+    "caption_tr": "Tırmanma veya alçalma sırasında itilip tutulursa mürettebat uçağa manevra yapabilir. Ancak düğme bırakıldığında, uçağı hız programına geri döndürmek için uçuş seviyesi değiştirme modu devreye girer.",
+    "title_tr": "tırmanış iniş itildi"
   },
   {
     "id": "s75",
-    "title": "When flight level change is in control, the speed tape autom…",
+    "title": "Pushing button third",
     "imgSrc": "slides/s75.png",
     "audioSrc": "audio/s75.mp3",
-    "caption_en": "When flight level change is in control, the speed tape automatically switches to mach reference when the mach schedule is intercepted during climb. Conversely, the speed tape changes to IAS reference during descent and IAS schedule is intercepted.",
-    "caption_tr": ""
+    "caption_en": "Pushing the button the third time cancels the mode and basic pitch mode (PIT) is entered. Watch.",
+    "caption_tr": "Düğmeye üçüncü kez basıldığında mod iptal edilir ve temel adım moduna (PIT) girilir. Kol saati.",
+    "title_tr": "Üçüncü düğmeye basıyorum"
   },
   {
     "id": "s76",
-    "title": "In flight level change mode, the knob is inhibited. It has n…",
+    "title": "Depressing button arms",
     "imgSrc": "slides/s76.png",
     "audioSrc": "audio/s76.mp3",
-    "caption_en": "In flight level change mode, the knob is inhibited. It has no effect on the speed reference and speed bug. The speed reference is determined by the speed schedule.",
-    "caption_tr": ""
+    "caption_en": "Depressing the button arms, then captures the pitch steering commands of the flight director if: 1) is selected as the navigation source on the master side.",
+    "caption_tr": "Düğme kollarına basılması, ardından aşağıdaki durumlarda uçuş direktörünün pitch direksiyon komutlarını yakalar: 1) ana tarafta navigasyon kaynağı olarak seçilir.",
+    "title_tr": "Düğme kollarına basılması"
   },
   {
     "id": "s77",
-    "title": "During climb or descent, if the is pushed and held, the crew…",
+    "title": "Push NAV button",
     "imgSrc": "slides/s77.png",
     "audioSrc": "audio/s77.mp3",
-    "caption_en": "During climb or descent, if the is pushed and held, the crew can manoeuvre the aircraft. However, when the button is released, flight level change mode takes over to bring the aircraft back to the speed schedule.",
-    "caption_tr": ""
+    "caption_en": "Push NAV button on the to select on the roll mode.",
+    "caption_tr": "Dönme modunu seçmek için NAV düğmesine basın.",
+    "title_tr": "NAV düğmesine basın"
   },
   {
     "id": "s78",
-    "title": "Pushing the button the third time cancels the mode and basic…",
+    "title": "3 programmed vertical",
     "imgSrc": "slides/s78.png",
     "audioSrc": "audio/s78.mp3",
-    "caption_en": "Pushing the button the third time cancels the mode and basic pitch mode (PIT) is entered. Watch.",
-    "caption_tr": ""
+    "caption_en": "3) is programmed for a vertical navigation profile,",
+    "caption_tr": "3) dikey gezinme profili için programlanmıştır,",
+    "title_tr": "3 programlanmış dikey"
   },
   {
     "id": "s79",
-    "title": "Depressing the button arms, then captures the pitch steering…",
+    "title": "altitude preselector set",
     "imgSrc": "slides/s79.png",
     "audioSrc": "audio/s79.mp3",
-    "caption_en": "Depressing the button arms, then captures the pitch steering commands of the flight director if: 1) is selected as the navigation source on the master side.",
-    "caption_tr": ""
+    "caption_en": "The altitude preselector is set below existing altitude and airplane is within TOD.",
+    "caption_tr": "İrtifa ön seçici mevcut irtifanın altına ayarlanmıştır ve uçak TOD dahilindedir.",
+    "title_tr": "rakım ön seçici"
   },
   {
     "id": "s80",
-    "title": "Push NAV button on the to select on the roll mode.",
+    "title": "Pressing vertical navigation",
     "imgSrc": "slides/s80.png",
     "audioSrc": "audio/s80.mp3",
-    "caption_en": "Push NAV button on the to select on the roll mode.",
-    "caption_tr": ""
+    "caption_en": "Pressing the vertical navigation button will arm the mode. In the armed condition, white is annunciated on the PFDs in the FD pitch mode annunciation field.",
+    "caption_tr": "Dikey gezinme düğmesine basmak modu etkinleştirecektir. Silahlı durumda, FD perde modu bildirim alanındaki PFD'lerde beyaz duyurulur.",
+    "title_tr": "Dikey gezinmeye basma"
   },
   {
     "id": "s81",
-    "title": "3) is programmed for a vertical navigation profile,",
+    "title": "Fifteen seconds prior",
     "imgSrc": "slides/s81.png",
     "audioSrc": "audio/s81.mp3",
-    "caption_en": "3) is programmed for a vertical navigation profile,",
-    "caption_tr": ""
+    "caption_en": "Fifteen seconds prior to initiating the descent, the amber VTA (vertical track alert) annunciator appears on the PFDs.",
+    "caption_tr": "İnişi başlatmadan on beş saniye önce, PFD'lerde sarı renkli VTA (dikey iz uyarısı) uyarı cihazı belirir.",
+    "title_tr": "On saniye"
   },
   {
     "id": "s82",
-    "title": "The altitude preselector is set below existing altitude and …",
+    "title": "TOD captured turned",
     "imgSrc": "slides/s82.png",
     "audioSrc": "audio/s82.mp3",
-    "caption_en": "The altitude preselector is set below existing altitude and airplane is within TOD.",
-    "caption_tr": ""
+    "caption_en": "At TOD, is captured and turned green. The automatically initiates capture of the descent path. The amber VTA annunciator is changed to green",
+    "caption_tr": "TOD'da yakalanır ve yeşile döner. İniş yolunun yakalanmasını otomatik olarak başlatır. Sarı renkli VTA göstergesi yeşile dönüştü",
+    "title_tr": "TOD yakalanan döndü"
   },
   {
     "id": "s83",
-    "title": "Pressing the vertical navigation button will arm the mode. I…",
+    "title": "scale right ADI",
     "imgSrc": "slides/s83.png",
     "audioSrc": "audio/s83.mp3",
-    "caption_en": "Pressing the vertical navigation button will arm the mode. In the armed condition, white is annunciated on the PFDs in the FD pitch mode annunciation field.",
-    "caption_tr": ""
+    "caption_en": "The scale on the right of ADI monitor the vertical profile of the descent path. Enroute vertical navigation scaling is ft full scale, and the terminal scaling is ft, and approach is ft.",
+    "caption_tr": "ADI'nin sağındaki ölçek iniş yolunun dikey profilini izler. Yol boyu dikey navigasyon ölçeklendirmesi ft tam ölçektir ve terminal ölçeklendirmesi ft'dir ve yaklaşma ft'dir.",
+    "title_tr": "sağa ölçeklendir ADI"
   },
   {
     "id": "s84",
-    "title": "Fifteen seconds prior to initiating the descent, the amber V…",
+    "title": "altitude preselect mode",
     "imgSrc": "slides/s84.png",
     "audioSrc": "audio/s84.mp3",
-    "caption_en": "Fifteen seconds prior to initiating the descent, the amber VTA (vertical track alert) annunciator appears on the PFDs.",
-    "caption_tr": ""
+    "caption_en": "The altitude preselect (ASEL) mode is used in conjunction with another pitch mode to automatically capture, level off, and hold the altitude that was set with ASEL knob on the The ASEL function also provides the aititude reference for the altitude alert function.",
+    "caption_tr": "İrtifa ön seçimi (ASEL) modu, ASEL düğmesiyle ayarlanan irtifayı otomatik olarak yakalamak, dengelemek ve bu irtifayı korumak için başka bir eğim moduyla birlikte kullanılır. ASEL işlevi ayrıca irtifa uyarısı işlevi için yükseklik referansı da sağlar.",
+    "title_tr": "rakım ön seçim"
   },
   {
     "id": "s85",
-    "title": "At TOD, is captured and turned green. The automatically init…",
+    "title": "1 Set altitude",
     "imgSrc": "slides/s85.png",
     "audioSrc": "audio/s85.mp3",
-    "caption_en": "At TOD, is captured and turned green. The automatically initiates capture of the descent path. The amber VTA annunciator is changed to green",
-    "caption_tr": ""
+    "caption_en": "To select ASEL mode: 1) Set the altitude in the altitude preselect window, using the ASEL knob on the",
+    "caption_tr": "ASEL modunu seçmek için: 1) İrtifa ön seçim penceresindeki irtifayı, üzerindeki ASEL düğmesini kullanarak ayarlayın.",
+    "title_tr": "1 Yüksekliği ayarlayın"
   },
   {
     "id": "s86",
-    "title": "The scale on the right of ADI monitor the vertical profile o…",
+    "title": "Engage vertical mode",
     "imgSrc": "slides/s86.png",
     "audioSrc": "audio/s86.mp3",
-    "caption_en": "The scale on the right of ADI monitor the vertical profile of the descent path. Enroute vertical navigation scaling is ft full scale, and the terminal scaling is ft, and approach is ft.",
-    "caption_tr": ""
+    "caption_en": "Engage a vertical mode such as or to initiate a descent. The displays the following: - ASEL in white - The other vertical mode in green",
+    "caption_tr": "İnişi başlatmak için veya gibi dikey bir modu etkinleştirin. Aşağıdakileri görüntüler: - ASEL beyaz - Diğer dikey mod yeşil renkte",
+    "title_tr": "Dikey modu etkinleştirin"
   },
   {
     "id": "s87",
-    "title": "The altitude preselect (ASEL) mode is used in conjunction wi…",
+    "title": "capture point ASEL",
     "imgSrc": "slides/s87.png",
     "audioSrc": "audio/s87.mp3",
-    "caption_en": "The altitude preselect (ASEL) mode is used in conjunction with another pitch mode to automatically capture, level off, and hold the altitude that was set with ASEL knob on the The ASEL function also provides the aititude reference for the altitude alert function.",
-    "caption_tr": ""
+    "caption_en": "At capture point, ASEL turns green and is boxed in white for 8 seconds. Aircraft then begins to flare to slow down its rate of descent. The capture point is dependent on the vertical speed. ASEL will capture much early if the vertical speed is high; and the reverse is true.",
+    "caption_tr": "Yakalama noktasında ASEL yeşile döner ve 8 saniye boyunca beyaz renkte kutulanır. Uçak daha sonra iniş hızını yavaşlatmak için parlamaya başlar. Yakalama noktası dikey hıza bağlıdır. ASEL, dikey hızın yüksek olması durumunda çok daha erken yakalama yapacaktır; ve bunun tersi de doğrudur.",
+    "title_tr": "yakalama noktası ASEL"
   },
   {
     "id": "s88",
-    "title": "To select ASEL mode: 1) Set the altitude in the altitude pre…",
+    "title": "within 20 ft",
     "imgSrc": "slides/s88.png",
     "audioSrc": "audio/s88.mp3",
-    "caption_en": "To select ASEL mode: 1) Set the altitude in the altitude preselect window, using the ASEL knob on the",
-    "caption_tr": ""
+    "caption_en": "When within 20 ft of the preselected altitude, the green ASEL annunciation is replaced with altitude hold (ALT) mode in green. The ALT button light illuminates to indicate captured.",
+    "caption_tr": "Önceden seçilen irtifaya 20 ft yaklaşıldığında, yeşil ASEL bildiriminin yerini yeşil renkli irtifa tutma (ALT) modu alır. ALT düğmesinin ışığı yakalandığını belirtmek için yanar.",
+    "title_tr": "20 ft içinde"
   },
   {
     "id": "s89",
-    "title": "Engage a vertical mode such as or to initiate a descent. The…",
+    "title": "ft selected altitude",
     "imgSrc": "slides/s89.png",
     "audioSrc": "audio/s89.mp3",
-    "caption_en": "Engage a vertical mode such as or to initiate a descent. The displays the following: - ASEL in white - The other vertical mode in green",
-    "caption_tr": ""
+    "caption_en": "At ft before the selected altitude, the altitude alert warning is activated. The altitude preselect window and digital display change to amber. Simultaneously, an aural warning which sounds like that of a bell is heard.",
+    "caption_tr": "Seçilen yükseklikten ft önce, yükseklik uyarısı uyarısı etkinleştirilir. Yükseklik ön seçim penceresi ve dijital ekran sarıya döner. Aynı anda zil sesine benzeyen sesli bir uyarı duyulur.",
+    "title_tr": "ft seçilen yükseklik"
   },
   {
     "id": "s90",
-    "title": "At capture point, ASEL turns green and is boxed in white for…",
+    "title": "aircraft within ft",
     "imgSrc": "slides/s90.png",
     "audioSrc": "audio/s90.mp3",
-    "caption_en": "At capture point, ASEL turns green and is boxed in white for 8 seconds. Aircraft then begins to flare to slow down its rate of descent. The capture point is dependent on the vertical speed. ASEL will capture much early if the vertical speed is high; and the reverse is true.",
-    "caption_tr": ""
+    "caption_en": "When the aircraft is within ft of the target altitude, the preselect window and digital display change back to their original colours.",
+    "caption_tr": "Uçak hedef irtifanın ft yakınında olduğunda, ön seçim penceresi ve dijital ekran orijinal renklerine geri döner.",
+    "title_tr": "ft içindeki uçak"
   },
   {
     "id": "s91",
-    "title": "When within 20 ft of the preselected altitude, the green ASE…",
+    "title": "aircraft deviates its",
     "imgSrc": "slides/s91.png",
     "audioSrc": "audio/s91.mp3",
-    "caption_en": "When within 20 ft of the preselected altitude, the green ASEL annunciation is replaced with altitude hold (ALT) mode in green. The ALT button light illuminates to indicate captured.",
-    "caption_tr": ""
+    "caption_en": "If the aircraft deviates from its selected altitude by more than ft, it will again trigger the altitude alert warning. The altitude preselect window and the digital display turn amber and the bell sounds. The preselect window and digital display, however, return to their original colours when the aircraft has deviated ft or more from the selected altitude.",
+    "caption_tr": "Eğer Phantom seçilen irtifadan ft'den daha fazla saparsa, irtifa uyarısı uyarısını yeniden tetikleyecektir. Yükseklik ön seçim penceresi ve dijital ekran sarıya döner ve zil sesi duyulur. Ancak ön seçim penceresi ve dijital ekran, hava aracı seçilen irtifadan ft veya daha fazla saptığında orijinal renklerine geri döner.",
+    "title_tr": "uçak kendi yolundan"
   },
   {
     "id": "s92",
-    "title": "At ft before the selected altitude, the altitude alert warni…",
+    "title": "altitude hold mode",
     "imgSrc": "slides/s92.png",
     "audioSrc": "audio/s92.mp3",
-    "caption_en": "At ft before the selected altitude, the altitude alert warning is activated. The altitude preselect window and digital display change to amber. Simultaneously, an aural warning which sounds like that of a bell is heard.",
-    "caption_tr": ""
+    "caption_en": "The altitude hold mode may be engaged at any time by depressing the ALT button. When selected, ALT is annunciated in green on the PFDs and the command bar will maintain the aircraft at that barometric altitude. The picture shows the aircraft is passing ft Touch the ALT button.",
+    "caption_tr": "İrtifa tutma modu herhangi bir zamanda ALT düğmesine basılarak devreye alınabilir. Seçildiğinde ALT, PFD'lerde yeşil renkle gösterilir ve komut çubuğu, uçağı bu barometrik yükseklikte tutacaktır. Resim uçağın geçtiğini göstermektedir ft ALT düğmesine dokunun.",
+    "title_tr": "irtifa tutma modu"
   },
   {
     "id": "s93",
-    "title": "When the aircraft is within ft of the target altitude, the p…",
+    "title": "go-around mode transition",
     "imgSrc": "slides/s93.png",
     "audioSrc": "audio/s93.mp3",
-    "caption_en": "When the aircraft is within ft of the target altitude, the preselect window and digital display change back to their original colours.",
-    "caption_tr": ""
+    "caption_en": "The go-around (GA) mode is used to transition from a landing approach to a climb out condition in the event of a missed approach. The crew selects GA mode by pushing the GA button located on the left throttle handle.",
+    "caption_tr": "Pas geçme (GA) modu, yaklaşmanın kaçırılması durumunda iniş yaklaşmasından tırmanma durumuna geçiş yapmak için kullanılır. Mürettebat, sol gaz kelebeği kolunda bulunan GA düğmesine basarak GA modunu seçer.",
+    "title_tr": "dolaşma modu geçişi"
   },
   {
     "id": "s94",
-    "title": "If the aircraft deviates from its selected altitude by more …",
+    "title": "GA mode selected",
     "imgSrc": "slides/s94.png",
     "audioSrc": "audio/s94.mp3",
-    "caption_en": "If the aircraft deviates from its selected altitude by more than ft, it will again trigger the altitude alert warning. The altitude preselect window and the digital display turn amber and the bell sounds. The preselect window and digital display, however, return to their original colours when the aircraft has deviated ft or more from the selected altitude.",
-    "caption_tr": ""
+    "caption_en": "With GA mode selected, all previously selected FD modes are cancelled, except for ASEL arm mode . The ROL annunciation in green provides a wings level command to the roll bar; and the GA provides 9 pitch up command to the pitch bar. If the autopilot is engaged, it will disengage when GA is selected. However, selecting GA will not disconnect yaw damper.",
+    "caption_tr": "GA modu seçildiğinde, ASEL etkinleştirme modu hariç önceden seçilen tüm FD modları iptal edilir. Yeşil renkli ROL bildirimi, devrilme çubuğuna kanat seviyesi komutu sağlar; ve GA, perde çubuğuna 9 perde yükseltme komutu sağlar. Otomatik pilot devredeyse GA seçildiğinde devreden çıkacaktır. Ancak GA'nın seçilmesi sapma sönümleyicinin bağlantısını kesmez.",
+    "title_tr": "GA modu seçildi"
   },
   {
     "id": "s95",
-    "title": "The altitude hold mode may be engaged at any time by depress…",
+    "title": "GA cancelled ASEL",
     "imgSrc": "slides/s95.png",
     "audioSrc": "audio/s95.mp3",
-    "caption_en": "The altitude hold mode may be engaged at any time by depressing the ALT button. When selected, ALT is annunciated in green on the PFDs and the command bar will maintain the aircraft at that barometric altitude. The picture shows the aircraft is passing ft Touch the ALT button.",
-    "caption_tr": ""
+    "caption_en": "GA is cancelled with ASEL capture or by engaging any other pitch mode.",
+    "caption_tr": "GA, ASEL yakalamayla veya başka herhangi bir adım moduna geçilerek iptal edilir.",
+    "title_tr": "GA ASEL'i iptal"
   },
   {
     "id": "s96",
-    "title": "The go-around (GA) mode is used to transition from a landing…",
+    "title": "GA can also",
     "imgSrc": "slides/s96.png",
     "audioSrc": "audio/s96.mp3",
-    "caption_en": "The go-around (GA) mode is used to transition from a landing approach to a climb out condition in the event of a missed approach. The crew selects GA mode by pushing the GA button located on the left throttle handle.",
-    "caption_tr": ""
+    "caption_en": "GA can also be cancelled by depressing the button, but in this case all modes are cancelled and FD command bars will clear from view. Touch the button.",
+    "caption_tr": "GA aynı zamanda düğmeye basılarak da iptal edilebilir ancak bu durumda tüm modlar iptal edilir ve FD komut çubukları görünümden kaldırılır. Düğmeye dokunun.",
+    "title_tr": "GA ayrıca"
   },
   {
     "id": "s97",
-    "title": "With GA mode selected, all previously selected FD modes are …",
+    "title": "Once predicted overspeed",
     "imgSrc": "slides/s97.png",
     "audioSrc": "audio/s97.mp3",
-    "caption_en": "With GA mode selected, all previously selected FD modes are cancelled, except for ASEL arm mode . The ROL annunciation in green provides a wings level command to the roll bar; and the GA provides 9 pitch up command to the pitch bar. If the autopilot is engaged, it will disengage when GA is selected. However, selecting GA will not disconnect yaw damper.",
-    "caption_tr": ""
-  },
-  {
-    "id": "s98",
-    "title": "GA is cancelled with ASEL capture or by engaging any other p…",
-    "imgSrc": "slides/s98.png",
-    "audioSrc": "audio/s98.mp3",
-    "caption_en": "GA is cancelled with ASEL capture or by engaging any other pitch mode.",
-    "caption_tr": ""
-  },
-  {
-    "id": "s99",
-    "title": "GA can also be cancelled by depressing the button, but in th…",
-    "imgSrc": "slides/s99.png",
-    "audioSrc": "audio/s99.mp3",
-    "caption_en": "GA can also be cancelled by depressing the button, but in this case all modes are cancelled and FD command bars will clear from view. Touch the button.",
-    "caption_tr": ""
-  },
-  {
-    "id": "s100",
-    "title": "Once the predicted overspeed condition is corrected, the FD …",
-    "imgSrc": "slides/s100.png",
-    "audioSrc": "audio/s100.mp3",
     "caption_en": "Once the predicted overspeed condition is corrected, the FD reverts to the mode selected prior to activation of the MAX annunciation.",
-    "caption_tr": ""
+    "caption_tr": "Tahmin edilen aşırı hız durumu düzeltildikten sonra FD, MAX bildiriminin etkinleştirilmesinden önce seçilen moda geri döner.",
+    "title_tr": "Aşırı hız tahm"
   }
 ]

@@ -6,8 +6,8 @@
     "tr": "Elektrik sistemi; zorunlu olmayan buslar, ana buslar, ana aviyonik buslar, zorunlu aviyonik buslar ve zorunlu buslar olmak üzere birden fazla DC bus yapısından oluşur."
   },
   "s02": {
-    "title": "Left and Right DC Bus Power Supply",
-    "title_tr": "Sol ve Sağ DC Bus Güç Kaynağı",
+    "title": "DC Bus Supply",
+    "title_tr": "DC Bus Gücü",
     "en": "The left DC buses are connected to the left generator bus, which is normally powered by the left starter-generator. The right DC buses are powered by the right starter-generator through the right generator bus.",
     "tr": "Sol DC buslar normalde sol starter-jeneratör tarafından beslenen sol jeneratör busuna bağlıdır. Sağ DC buslar ise sağ starter-jeneratör aracılığıyla sağ jeneratör busundan güç alır."
   },
@@ -25,7 +25,7 @@
   },
   "s05": {
     "title": "Hot Buses",
-    "title_tr": "Sürekli Enerjili Buslar (Hot Bus)",
+    "title_tr": "Sürekli Enerjili Buslar",
     "en": "The electrical system includes several hot buses: left and right emergency hot buses, left and right hot buses, and the rear hot bus. These buses are powered at all times.",
     "tr": "Elektrik sistemi; sol ve sağ acil hot buslar, sol ve sağ hot buslar ile arka hot busu içerir. Bu buslar her zaman enerjilidir."
   },

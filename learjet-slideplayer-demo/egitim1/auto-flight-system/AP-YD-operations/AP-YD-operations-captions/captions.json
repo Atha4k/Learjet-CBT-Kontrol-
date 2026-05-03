@@ -1,595 +1,669 @@
 [
   {
     "id": "s01",
-    "title": "Autopilot servo actuator can be represented in simplified fo…",
+    "title": "Autopilot servo actuator",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Autopilot servo actuator can be represented in simplified form as shown above.",
-    "caption_tr": ""
+    "caption_tr": "Otopilot servo aktüatör yukarıda gösterildiği gibi basitleştirilmiş biçimde temsil edilebilir.",
+    "title_tr": "Otopilot servo aktüatör"
   },
   {
     "id": "s02",
-    "title": "When the servo is denergised, the clutch is open and the spl…",
+    "title": "servo denergised clutch",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "When the servo is denergised, the clutch is open and the spline is free to rotate. In the energised condition, servo clutch is close and the spline is driven directly by the electric motor.",
-    "caption_tr": ""
+    "caption_tr": "Servoya enerji verildiğinde kavrama açılır ve kama serbestçe dönebilir. Enerji verildiğinde servo kavrama kapalıdır ve kama doğrudan elektrik motoru tarafından tahrik edilir.",
+    "title_tr": "servo enerjisiz debriyaj"
   },
   {
     "id": "s03",
-    "title": "The pitch and roll servos are connected to the autopilot cir…",
+    "title": "pitch roll servos",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The pitch and roll servos are connected to the autopilot circuit card which resides in IC-600 2 computer.",
-    "caption_tr": ""
+    "caption_tr": "Pitch and roll servoları IC-600 2 bilgisayarında bulunan otopilot devre kartına bağlanır.",
+    "title_tr": "adım rulo servolar"
   },
   {
     "id": "s04",
-    "title": "The spline of the servo is linked to flight control surfaces…",
+    "title": "spline servo linked",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The spline of the servo is linked to flight control surfaces via mechanical and cable linkages. The roll and pitch servos are connected to the aileron and elevator respectively.",
-    "caption_tr": ""
+    "caption_tr": "Servonun spline'ı, mekanik ve kablo bağlantıları aracılığıyla uçuş kontrol yüzeylerine bağlanır. Yuvarlanma ve eğim servoları sırasıyla kanatçık ve asansöre bağlanır.",
+    "title_tr": "spline servo bağlantılı"
   },
   {
     "id": "s05",
-    "title": "For AP to steer the aircraft, it must receive steering guida…",
+    "title": "AP steer aircraft",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "For AP to steer the aircraft, it must receive steering guidance. The steering guidance is provided by the left or right flight director depending on which is selected as the master. The master FD is determined by the transfer button. Pushing this button toggles the green arrow left or right. Where the arrow is pointing at, that side of the FD is selected as the master.",
-    "caption_tr": ""
+    "caption_tr": "AP'nin uçağı yönlendirebilmesi için, yönlendirme rehberliğini alması gerekir. Direksiyon rehberliği, hangisinin master olarak seçildiğine bağlı olarak sol veya sağ uçuş direktörü tarafından sağlanır. Master FD transfer butonu ile belirlenir. Bu düğmeye basıldığında yeşil ok sola veya sağa değişir. Okun işaret ettiği yer FD'nin o tarafı master olarak seçilir.",
+    "title_tr": "AP uçağı yönlendirmek"
   },
   {
     "id": "s06",
-    "title": "Steering guidance to the AP system can also be provided by t…",
+    "title": "Steering guidance AP",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Steering guidance to the AP system can also be provided by the control wheel trim switch located on the outboard side of each control wheel. Actuating the trim switch without pressing the arming button provide manual input by the crew to manoeuvre the aircraft. However, this way of manoeuvring the aircraft is available only on the coupled or master side.",
-    "caption_tr": ""
+    "caption_tr": "AP sistemine yönlendirme kılavuzu, her bir kontrol tekerleğinin dış tarafında bulunan kontrol tekerleği trim anahtarıyla da sağlanabilir. Devreye alma düğmesine basmadan trim anahtarının çalıştırılması, mürettebatın uçağa manevra yapması için manuel giriş yapmasını sağlar. Ancak, uçağın bu şekilde manevra yapması yalnızca akuple veya ana tarafta mümkündür.",
+    "title_tr": "Direksiyon kılavuzu AP"
   },
   {
     "id": "s07",
-    "title": "When the steering signals are present and provided AP is eng…",
+    "title": "steering signals are",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "When the steering signals are present and provided AP is engaged, the servos will respond to the command signals and move the control surfaces accordingly.",
-    "caption_tr": ""
+    "caption_tr": "Direksiyon sinyalleri mevcut olduğunda ve AP'nin devrede olması koşuluyla, servolar komut sinyallerine yanıt verecek ve kontrol yüzeylerini buna göre hareket ettirecektir.",
+    "title_tr": "direksiyon sinyalleri"
   },
   {
     "id": "s08",
-    "title": "The AP trims the aircraft in the pitch axis by moving the ho…",
+    "title": "AP trims aircraft",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The AP trims the aircraft in the pitch axis by moving the horizontal stabilizer updown using secondary pitch trim actuator. When the AP energises the secondary trim actuator for more than 2 to 3 seconds, a series of audible Clacker sounds is transmitted through the audio system.",
-    "caption_tr": ""
+    "caption_tr": "AP, ikincil eğim ayar aktüatörünü kullanarak yatay dengeleyiciyi yukarı aşağı hareket ettirerek uçağı eğim ekseninde düzeltir. AP, ikincil trim aktüatörüne 2 ila 3 saniyeden fazla enerji verdiğinde, ses sistemi aracılığıyla bir dizi duyulabilir Clacker sesi iletilir.",
+    "title_tr": "AP uçakları düzeltiyor"
   },
   {
     "id": "s09",
-    "title": "The purpose of pitch trimming by the horizontal stabilizer i…",
+    "title": "purpose pitch trimming",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The purpose of pitch trimming by the horizontal stabilizer is to reduce air load on the elevator following a manoeuvre of elevator causing a change in pitch attitude. In a trimmed condition the pitch servo is relieved of torque exerted due to the presence of current.",
-    "caption_tr": ""
+    "caption_tr": "Yatay dengeleyici tarafından eğim düzeltmenin amacı, asansörün eğim tutumunda bir değişikliğe neden olan bir manevrasını takiben asansör üzerindeki hava yükünü azaltmaktır. Düzeltilmiş bir durumda, adım servosu, akımın varlığına bağlı olarak uygulanan torktan kurtulur.",
+    "title_tr": "amaçlı adım kırpma"
   },
   {
     "id": "s10",
-    "title": "For pitch trimming to function, the pitch trim selector, whi…",
+    "title": "pitch trimming function",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "For pitch trimming to function, the pitch trim selector, which is on centre pedestal, must not be in OFF position. In the OFF position, AP will not engage.",
-    "caption_tr": ""
+    "caption_tr": "Perde kırpmanın çalışması için orta kaide üzerinde bulunan perde kırpma seçicinin KAPALI konumda olmaması gerekir. KAPALI konumda AP devreye girmez.",
+    "title_tr": "perde kırpma işlevi"
   },
   {
     "id": "s11",
-    "title": "With the pitch switch in either PRI (primary) or SEC (second…",
+    "title": "pitch switch either",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "With the pitch switch in either PRI (primary) or SEC (secondary) position, power from the right essential bus is supplied to secondary pitch trim actuator.",
-    "caption_tr": ""
+    "caption_tr": "PRI (birincil) veya SEC (ikincil) konumdaki hatve anahtarıyla, sağ temel veri yolundan gelen güç, ikincil hatve trim aktüatörüne sağlanır.",
+    "title_tr": "adım anahtarı da"
   },
   {
     "id": "s12",
-    "title": "If the trim malfunction has occurred, and the trim system ha…",
+    "title": "trim malfunction has",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "If the trim malfunction has occurred, and the trim system has not sufficiently reduced elevator servo current, a white \"AP ELEV MISTRIM message will be displayed on the CAS to indicate torque is still exerted by the elevator servo on the control surface.",
-    "caption_tr": ""
+    "caption_tr": "Trim arızası meydana gelmişse ve trim sistemi asansör servo akımını yeterince azaltmamışsa CAS üzerinde beyaz bir \"AP ELEV MISTRIM mesajı görüntülenerek torkun asansör servosu tarafından kontrol yüzeyinde hala uygulandığını gösterecektir.",
+    "title_tr": "trim arızası var"
   },
   {
     "id": "s13",
-    "title": "If the mistrim continues (more than 10 seconds), or current …",
+    "title": "mistrim continues current",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "If the mistrim continues (more than 10 seconds), or current drawn by the pitch servo is excessive, the message will turn from white to amber. The annunciation informs the crew that the aircraft is out of trim and that a disconnect, while out of trim, can cause a slight manoeuvre.",
-    "caption_tr": ""
+    "caption_tr": "Yanlış kırpma devam ederse (10 saniyeden fazla) veya pitch servosu tarafından çekilen akım aşırı ise mesaj beyazdan kehribar rengine dönecektir. Duyuru, mürettebata uçağın trim dışı olduğu ve trim dışındayken bağlantı kesilmesinin hafif bir manevraya neden olabileceği konusunda bilgi verir.",
+    "title_tr": "Mistrim akıma devam"
   },
   {
     "id": "s14",
-    "title": "In this case it will also be necessary for the crew to corre…",
+    "title": "this case it",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "AP does not have capability to trim the roll axis; therefore, if there is a mistrim in the roll axis, an amber \"AP AIL MISTRIM\" message will be displayed on the CAS. In this case it will also be necessary for the crew to correct the mistrim condition.",
-    "caption_tr": ""
+    "caption_tr": "AP'nin dönüş eksenini kesme özelliği yoktur; bu nedenle, dönüş ekseninde bir yanlış trim varsa, CAS'ta sarı renkli bir \"AP AIL MISTRIM\" mesajı görüntülenecektir. Bu durumda mürettebatın yanlış trim durumunu düzeltmesi de gerekli olacaktır.",
+    "title_tr": "bu durumda"
   },
   {
     "id": "s15",
-    "title": "The yaw servo receives input from either the yaw damper or r…",
+    "title": "yaw servo receives",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "The yaw servo receives input from either the yaw damper or rudder boost system. The servo is connected to the rudder control surface.",
-    "caption_tr": ""
+    "caption_tr": "Yalpalama servosu, ya yalpalama sönümleyiciden ya da dümen takviye sisteminden girdi alır. Servo, dümen kontrol yüzeyine bağlanır.",
+    "title_tr": "yaw servo alır"
   },
   {
     "id": "s16",
-    "title": "The yaw damper system provides yaw damping and turn co-ordin…",
+    "title": "yaw damper system",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The yaw damper system provides yaw damping and turn co-ordination functions. It makes no effort to control the flightpath of the airplane. YD recieves yaw information from attitude and heading reference systems (AHRS)",
-    "caption_tr": ""
+    "caption_tr": "Yalpalama sönümleme sistemi, sapma sönümleme ve dönüş koordinasyon fonksiyonları sağlar. Uçağın uçuş yolunu kontrol etmek için hiçbir çaba sarf etmez. YD, sapma bilgilerini tutum ve yön referans sistemlerinden (AHRS) alır",
+    "title_tr": "sapma amortisör sistemi"
   },
   {
     "id": "s17",
-    "title": "Rudder boost system is installed to assist crew when heavy r…",
+    "title": "Rudder boost system",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Rudder boost system is installed to assist crew when heavy rudder pedal force is reqiured to maintain control, such as with engine failure during takeoff. This topic is discussed in Flight Control chapter.",
-    "caption_tr": ""
+    "caption_tr": "Dümen takviye sistemi, kalkış sırasında motor arızası gibi durumlarda kontrolü sürdürmek için ağır dümen pedalı kuvvetine ihtiyaç duyulduğunda mürettebata yardımcı olmak üzere kurulur. Bu konu Uçuş Kontrolü bölümünde ele alınmıştır.",
+    "title_tr": "Dümen yükseltme sistemi"
   },
   {
     "id": "s18",
-    "title": "The yaw damper can be engaged independent of the autopilot b…",
+    "title": "yaw damper can",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The yaw damper can be engaged independent of the autopilot but the autopilot cannot be engaged without the yaw damper.",
-    "caption_tr": ""
+    "caption_tr": "Yalpalama sönümleyici, otopilottan bağımsız olarak devreye alınabilir ancak otopilot, sapma sönümleyici olmadan devreye alınamaz.",
+    "title_tr": "yaw damper kutusu"
   },
   {
     "id": "s19",
-    "title": "On power-up, the APYD systems perform a self-test on the ser…",
+    "title": "power-up APYD systems",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "On power-up, the APYD systems perform a self-test on the servo circuits and the control and disconnect paths. During the self-test, AP TEST is annunciated in amber above the centre portion of ADI.",
-    "caption_tr": ""
+    "caption_tr": "APYD sistemleri, açılışta servo devrelerde ve kontrol ve bağlantı kesme yollarında kendi kendini test eder. Otomatik test sırasında AP TEST, ADI'nin orta kısmının üzerinde sarı renkte gösterilir.",
+    "title_tr": "APYD sistemlerini güçlendirme"
   },
   {
     "id": "s20",
-    "title": "The self-test last for as long as the AHR Ss initialisation …",
+    "title": "self-test last long",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "The self-test last for as long as the AHR Ss initialisation is taking place.",
-    "caption_tr": ""
+    "caption_tr": "Otomatik test, AHR S'nin başlatılması devam ettiği sürece devam eder.",
+    "title_tr": "kendi kendine test"
   },
   {
     "id": "s21",
-    "title": "At the very top, centre section of the PFDs is a field dedic…",
+    "title": "very top centre",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "At the very top, centre section of the PFDs is a field dedicated to flight director and AP annunciation.",
-    "caption_tr": ""
+    "caption_tr": "PFD'lerin en üstte orta bölümü, uçuş direktörlüğüne ve AP anonslarına ayrılmış bir alandır.",
+    "title_tr": "çok üst merkez"
   },
   {
     "id": "s22",
-    "title": "A horizontal arrow appears at the top, centre of each betwee…",
+    "title": "horizontal arrow top",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "A horizontal arrow appears at the top, centre of each between the flight director roll and pitch mode annuciators.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yöneticisi dönüşü ve eğim modu göstergeleri arasında her birinin ortasında, üstte yatay bir ok görünür.",
+    "title_tr": "yatay ok üst"
   },
   {
     "id": "s23",
-    "title": "This arrow points left or right, as selected on the switch, …",
+    "title": "This arrow points",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
-    "caption_en": "This arrow points left or right, as selected on the FGC XFR switch, to indicate which flight director is the master, and the flight director in which AP will couple to when it is engaged. The arrow on the PFD is a repeater of the green arrows on either side of the FGC XFR switch.",  
-    "caption_tr": ""
+    "caption_en": "This arrow points left or right, as selected on the FGC XFR switch, to indicate which flight director is the master, and the flight director in which AP will couple to when it is engaged. The arrow on the PFD is a repeater of the green arrows on either side of the FGC XFR switch.",
+    "caption_tr": "Bu ok, hangi uçuş direktörünün ana olduğunu ve AP'nin devreye girdiğinde bağlanacağı uçuş direktörünü belirtmek için FGC XFR anahtarında seçildiği gibi sola veya sağa işaret eder. PFD üzerindeki ok, FGC XFR anahtarının her iki yanındaki yeşil okların tekrarlayıcısıdır.",
+    "title_tr": "Bu ok noktaları"
   },
   {
     "id": "s24",
-    "title": "This arrow points left or right, as selected on the switch, …",
+    "title": "This arrow points",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "This arrow points left or right, as selected on the switch, to indicate 1) which fight director is the master, and 2) the flight director in which AP will couple to when it is engaged. The arrow on the is a repeater of the green arrows on either side of the switch",
-    "caption_tr": ""
+    "caption_tr": "Bu ok, 1) hangi dövüş direktörünün usta olduğunu ve 2) AP'nin devreye girdiğinde bağlanacağı uçuş direktörünü belirtmek için anahtarda seçildiği gibi sola veya sağa işaret eder. Üzerindeki ok, anahtarın her iki yanındaki yeşil okların tekrarlayıcısıdır",
+    "title_tr": "Bu ok noktaları"
   },
   {
     "id": "s25",
-    "title": "Just below the arrow is a line reserved for AP and YD annunc…",
+    "title": "Just below arrow",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Just below the arrow is a line reserved for AP and YD annunciation. A green \"AP\" and appear in this area on the when AP andor YD isare engaged.",
-    "caption_tr": ""
+    "caption_tr": "Okun hemen altında AP ve YD duyurularına ayrılmış satır bulunmaktadır. AP ve/veya YD devreye girdiğinde bu alanda yeşil bir \"AP\" görünür.",
+    "title_tr": "Okun hemen altında"
   },
   {
     "id": "s26",
-    "title": "The button has an arrowhead on each side. The system default…",
+    "title": "button has arrowhead",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "The transfer button has an arrowhead on each side. The system defaults to the pilot's side on power-up illuminating the left arrow in green. This means that the left flight director is the master.",
-    "caption_tr": ""
+    "caption_tr": "Aktarma düğmesinin her iki yanında birer ok ucu bulunur. Sistem, açılışta varsayılan olarak pilotun tarafını seçer ve sol ok yeşil renkte yanar. Bu, sol uçuş direktörünün kaptan olduğu anlamına gelir.",
+    "title_tr": "düğme ok ucu"
   },
   {
     "id": "s27",
-    "title": "After power-up, each time the button is depressed, the arrow…",
+    "title": "power-up time button",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "After power-up, each time the button is depressed, the arrow head toggles to the opposite side.",
-    "caption_tr": ""
+    "caption_tr": "Güç açıldıktan sonra düğmeye her basıldığında ok ucu diğer tarafa geçer.",
+    "title_tr": "açılış süresi düğmesi"
   },
   {
     "id": "s28",
-    "title": "After power-up, each time the button is depressed, the arrow…",
+    "title": "power-up time button",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "After power-up, each time the button is depressed, the arrow head toggles to the opposite side.",
-    "caption_tr": ""
+    "caption_tr": "Güç açıldıktan sonra düğmeye her basıldığında ok ucu diğer tarafa geçer.",
+    "title_tr": "açılış süresi düğmesi"
   },
   {
     "id": "s29",
-    "title": "The change in arrow head direction on the switch is also acc…",
+    "title": "change arrow head",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "The change in arrow head direction on the switch is also accompanied by the change in direction of the arrow on the The arrow should normally be pointing to the side from which the airplane is being flown.",
-    "caption_tr": ""
+    "caption_tr": "Anahtar üzerindeki ok ucu yönündeki değişikliğe aynı zamanda anahtar üzerindeki okun yönündeki değişiklik de eşlik eder. Ok normalde uçağın uçtuğu tarafa işaret etmelidir.",
+    "title_tr": "ok başını değiştir"
   },
   {
     "id": "s30",
-    "title": "However, when is selected with AP engaged, any flight direct…",
+    "title": "However selected AP",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "However, when is selected with AP engaged, any flight director modes that were engaged will be cancelled on the PFDs.",
-    "caption_tr": ""
+    "caption_tr": "Ancak AP devredeyken seçildiğinde, PFD'lerde devrede olan tüm uçuş yöneticisi modları iptal edilecektir.",
+    "title_tr": "Ancak seçilen AP"
   },
   {
     "id": "s31",
-    "title": "The arrow changes direction, but the flight director modes r…",
+    "title": "arrow changes direction",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "The arrow changes direction, but the flight director modes revert to basic modes: ROL and PIT. The AP remains engaged.",
-    "caption_tr": ""
+    "caption_tr": "Ok yön değiştirir ancak uçuş yöneticisi modları temel modlara geri döner: ROL ve PIT. AP devrede olmaya devam ediyor.",
+    "title_tr": "ok yön değiştirir"
   },
   {
     "id": "s32",
-    "title": "If the flight director modes have been selected with autopil…",
+    "title": "flight director modes",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "If the flight director modes have been selected with autopilot not engaged and the transfer button is pushed, it will cancel all flight director modes on the PFDs.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yönlendirme modları otopilot devrede değilken seçilmişse ve transfer düğmesine basılmışsa, PFD'lerdeki tüm uçuş yönlendirme modları iptal edilecektir.",
+    "title_tr": "uçuş direktörü modları"
   },
   {
     "id": "s33",
-    "title": "Therefore, to avoid reselection of flight director modes, it…",
+    "title": "Therefore avoid reselection",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "Therefore, to avoid reselection of flight director modes, itis a good practice to a) decide first which flight director is to be the master,",
-    "caption_tr": ""
+    "caption_tr": "Bu nedenle, uçuş yöneticisi modlarının yeniden seçilmesini önlemek için iyi bir uygulamadır: a) öncelikle hangi uçuş yöneticisinin kaptan olacağına karar vermek,",
+    "title_tr": "nedenle yeniden seçilmekten"
   },
   {
     "id": "s34",
-    "title": "Therefore, to avoid reselection of flight director modes, it…",
+    "title": "Therefore avoid reselection",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "Therefore, to avoid reselection of flight director modes, itis a good practice to a) decide first which flight director is to be the master, b) select button arrow to the master side,",
-    "caption_tr": ""
+    "caption_tr": "Bu nedenle, uçuş yöneticisi modlarının yeniden seçilmesini önlemek için, a) ilk önce hangi uçuş yöneticisinin master olacağına karar vermek, b) master tarafındaki düğme okunu seçmek,",
+    "title_tr": "nedenle yeniden seçilmekten"
   },
   {
     "id": "s35",
-    "title": "Therefore, to avoid reselection of flight director modes, it…",
+    "title": "Therefore avoid reselection",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "Therefore, to avoid reselection of flight director modes, itis a good practice to a) decide first which flight director is to be the master, b) select button arrow to the master side, c) select flight director modes.",
-    "caption_tr": ""
+    "caption_tr": "Bu nedenle, uçuş yöneticisi modlarının yeniden seçilmesini önlemek için, a) ilk önce hangi uçuş yöneticisinin ana olacağına karar vermek, b) ana taraftaki düğme okunu seçmek, c) uçuş yöneticisi modlarını seçmek iyi bir uygulamadır.",
+    "title_tr": "nedenle yeniden seçilmekten"
   },
   {
     "id": "s36",
-    "title": "Therefore, to avoid reselection of flight director modes, it…",
+    "title": "Therefore avoid reselection",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "Therefore, to avoid reselection of flight director modes, itis a good practice to a) decide first which flight director is to be the master, b) select button arrow to the master side, c) select flight director modes. d) engage AP.",
-    "caption_tr": ""
+    "caption_tr": "Bu nedenle, uçuş yöneticisi modlarının yeniden seçilmesini önlemek için, a) ilk önce hangi uçuş yöneticisinin ana olacağına karar vermek, b) ana taraftaki düğme okunu seçmek, c) uçuş yöneticisi modlarını seçmek iyi bir uygulamadır. d) AP'yi devreye sokun.",
+    "title_tr": "nedenle yeniden seçilmekten"
   },
   {
     "id": "s37",
-    "title": "The AP and YD are engaged using AP and YD select buttons loc…",
+    "title": "AP YD are",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "The AP and YD are engaged using AP and YD select buttons located on the centre section of the Each button has a vertical green bar that illuminates when engaged.",
-    "caption_tr": ""
+    "caption_tr": "AP ve YD, düğmenin orta kısmında bulunan AP ve YD seçme düğmeleri kullanılarak devreye alınır. Her düğme, devreye alındığında yanan dikey bir yeşil çubuğa sahiptir.",
+    "title_tr": "AP YD"
   },
   {
     "id": "s38",
-    "title": "When the AP button is depressed, engaging the AP, the YD wil…",
+    "title": "AP button depressed",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "When the AP button is depressed, engaging the AP, the YD will also engage, if not previously selected.",
-    "caption_tr": ""
+    "caption_tr": "AP düğmesine basıldığında AP etkinleştirildiğinde, daha önce seçilmemişse YD de devreye girecektir.",
+    "title_tr": "AP düğmesine basıldı"
   },
   {
     "id": "s39",
-    "title": "When the AP button is depressed, engaging the AP, the YD wil…",
+    "title": "AP button depressed",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "When the AP button is depressed, engaging the AP, the YD will also engage, if not previously selected.",
-    "caption_tr": ""
+    "caption_tr": "AP düğmesine basıldığında AP etkinleştirildiğinde, daha önce seçilmemişse YD de devreye girecektir.",
+    "title_tr": "AP düğmesine basıldı"
   },
   {
     "id": "s40",
-    "title": "The YD can be engaged independently of the AP, but the AP sy…",
+    "title": "YD can engaged",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "The YD can be engaged independently of the AP, but the AP system will not engage without the YAW DAMPER.",
-    "caption_tr": ""
+    "caption_tr": "YD, AP'den bağımsız olarak devreye alınabilir ancak AP sistemi, YAW DAMPER olmadan devreye girmez.",
+    "title_tr": "YD devreye girebilir"
   },
   {
     "id": "s41",
-    "title": "The AP can be engaged with bank angles up to 45 and pitch at…",
+    "title": "AP can engaged",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "The AP can be engaged with bank angles up to 45 and pitch attitudes between PLUS OR MİNES 30 DEGREE",
-    "caption_tr": ""
+    "caption_tr": "AP, 45'e kadar yatış açıları ve PLUS VEYA MİNLER 30 DERECE arasındaki eğim açıları ile devreye alınabilir",
+    "title_tr": "AP devreye girebilir"
   },
   {
     "id": "s42",
-    "title": "If the AP is engaged with the bank angle exceeding 30 which …",
+    "title": "AP engaged bank",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "If the AP is engaged with the bank angle exceeding 30 which is the maximun limit for AP operation in the basic roll mode, AP will return airplane roll to 30 degrees.",
-    "caption_tr": ""
+    "caption_tr": "AP, temel dönüş modunda AP operasyonu için maksimum sınır olan 30'u aşan yatış açısıyla devreye girerse, AP uçağın dönüşünü 30 dereceye döndürecektir.",
+    "title_tr": "AP anlaşan banka"
   },
   {
     "id": "s43",
-    "title": "Likewise, engaging AP with airplane pitch attitudes outside …",
+    "title": "Likewise engaging AP",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "Likewise, engaging AP with airplane pitch attitudes outside the normal envelope will cause AP to limit airplane pitch limits to 20 to -10 degrees as shown in the graphics.",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, AP'yi normal zarfın dışındaki uçak eğim tutumlarıyla meşgul etmek, AP'nin uçak eğim sınırlarını grafiklerde gösterildiği gibi 20 ila -10 derece ile sınırlamasına neden olacaktır.",
+    "title_tr": "Aynı şekilde AP'yi"
   },
   {
     "id": "s44",
-    "title": "When the AP is engaged with no FD modes engaged and the roll…",
+    "title": "AP engaged no",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "When the AP is engaged with no FD modes engaged and the roll attitude is within 6 of wings level, the AP will roll the airplane to wings level attitude and hold the existing pitch. This mode is referred to as the heading hold mode, and will be annunciated on the with \"ROL\" appearing in the FD roll mode field and \"PIT\" in the pitch mode.",
-    "caption_tr": ""
+    "caption_tr": "AP, hiçbir FD modu devrede olmadan devreye girdiğinde ve dönüş tutumu kanat seviyesinin 6 derece dahilinde olduğunda, AP, uçağı kanat seviyesi konumuna döndürecek ve mevcut eğimi koruyacaktır. Bu mod, yön tutma modu olarak adlandırılır ve FD dönüş modu alanında \"ROL\" ve eğim modunda \"PIT\" belirerek duyurulacaktır.",
+    "title_tr": "AP devreye girdi"
   },
   {
     "id": "s45",
-    "title": "If the bank angle is greater than 6 when the AP is engaged, …",
+    "title": "bank angle greater",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "If the bank angle is greater than 6 when the AP is engaged, and with no FD modes active the AP holds the airplane in the existing bank and pitch attitude. The FD command bars will also sync to the existing attitude and the ROL and PIT are annunciated. This is referred to as roll hold mode.",
-    "caption_tr": ""
+    "caption_tr": "AP devreye girdiğinde yatış açısı 6'dan büyükse ve hiçbir FD modu aktif değilken AP, uçağı mevcut yatış ve yunuslama tutumunda tutar. FD komut çubukları da mevcut tutumla senkronize edilecek ve ROL ve PIT duyurulacaktır. Buna yuvarlanma tutma modu denir.",
+    "title_tr": "yatış açısı daha"
   },
   {
     "id": "s46",
-    "title": "When the AP is engaged, the command bars and the FD modes on…",
+    "title": "AP engaged command",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "When the AP is engaged, the command bars and the FD modes on the master cannot be removed by pressing the corresponding FD switch. The above graphics indicate pilot's flight director is the master and therefore the PFD.",
-    "caption_tr": ""
+    "caption_tr": "AP devreye girdiğinde, ana cihazdaki komut çubukları ve FD modları ilgili FD anahtarına basılarak kaldırılamaz. Yukarıdaki grafikler pilotun uçuş direktörünün kaptan ve dolayısıyla PFD olduğunu göstermektedir.",
+    "title_tr": "AP devreye girdi"
   },
   {
     "id": "s47",
-    "title": "However, the command bars and the FD modes on the slave can …",
+    "title": "However command bars",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "However, the command bars and the FD modes on the slave can be removed by pressing its FD switch. This switch toggles the bars and FD modes on and off.",
-    "caption_tr": ""
+    "caption_tr": "Ancak, yardımcı cihazdaki komut çubukları ve FD modları, FD anahtarına basılarak kaldırılabilir. Bu anahtar çubukları ve FD modlarını açar ve kapatır.",
+    "title_tr": "Ancak komut çubukları"
   },
   {
     "id": "s48",
-    "title": "If any flight director modes are selected before the AP is e…",
+    "title": "any flight director",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "If any flight director modes are selected before the AP is engaged, the AP automatically couples to the selected FD modes.",
-    "caption_tr": ""
+    "caption_tr": "AP devreye girmeden önce herhangi bir uçuş yöneticisi modu seçilirse AP otomatik olarak seçilen FD modlarına bağlanır.",
+    "title_tr": "herhangi uçuş direktörü"
   },
   {
     "id": "s49",
-    "title": "To fly the airplane manually through the AP system, AP must …",
+    "title": "fly airplane manually",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "To fly the airplane manually through the AP system, AP must be engaged without any FD modes. When the AP is engaged, ROL and PIT will annunciate in basic on the roll and pitch modes respectively. In the basic modes, crew would be able to input steering signals through the without pressing the arming button.",
-    "caption_tr": ""
+    "caption_tr": "Uçağı AP sistemi üzerinden manuel olarak uçurmak için AP'nin herhangi bir FD modu olmadan devreye alınması gerekir. AP devreye girdiğinde, ROL ve PIT sırasıyla yuvarlanma ve eğim modlarında temel olarak bildirimde bulunacaktır. Temel modlarda mürettebat, devreye alma düğmesine basmadan dümen sinyallerini girebilecektir.",
+    "title_tr": "uçağı manuel uçurmak"
   },
   {
     "id": "s50",
-    "title": "Moving the control wheel trim switch updown, without depress…",
+    "title": "Moving control wheel",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
     "caption_en": "Moving the control wheel trim switch updown, without depressing the arming button, provides direct pitch signal to the pitch servo through the AP.",
-    "caption_tr": ""
+    "caption_tr": "Etkinleştirme düğmesine basmadan kontrol tekerleği trim anahtarının yukarı doğru hareket ettirilmesi, AP aracılığıyla pitch servosuna doğrudan pitch sinyali sağlar.",
+    "title_tr": "Hareketli kontrol tekerleği"
   },
   {
     "id": "s51",
-    "title": "Similarly, leftiright movement on the control wheel trim swi…",
+    "title": "Similarly leftiright movement",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
     "caption_en": "Similarly, leftiright movement on the control wheel trim switch will provide roll signal to the roll servo.",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, kontrol tekerleği trim anahtarındaki sola doğru hareket, dönüş servosuna dönüş sinyali sağlayacaktır.",
+    "title_tr": "Benzer şekilde sola"
   },
   {
     "id": "s52",
-    "title": "If the arming button is depressed and the control wheel trim…",
+    "title": "arming button depressed",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
     "caption_en": "If the arming button is depressed and the control wheel trim switch is moved in any direction, the AP will be disengaged.",
-    "caption_tr": ""
+    "caption_tr": "Etkinleştirme düğmesine basılırsa ve kontrol tekerleği trim anahtarı herhangi bir yöne hareket ettirilirse AP devre dışı kalacaktır.",
+    "title_tr": "devreye düğmesine basıldı"
   },
   {
     "id": "s53",
-    "title": "The YD is not affected in this case; it remains engaged.",
+    "title": "YD affected this",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
     "caption_en": "The YD is not affected in this case; it remains engaged.",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda YD etkilenmez; meşgul kalır.",
+    "title_tr": "YD bunu etkiledi"
   },
   {
     "id": "s54",
-    "title": "If AP is engaged with FD modes already selected, moving the …",
+    "title": "AP engaged FD",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
     "caption_en": "If AP is engaged with FD modes already selected, moving the control wheel trim switch left and right without pressing the arming button will trip the selected FD roll mode and revert the mode to basic ROL mode.",
-    "caption_tr": ""
+    "caption_tr": "AP, önceden seçilmiş olan FD modlarıyla devreye sokulmuşsa, etkinleştirme düğmesine basmadan kontrol tekerleği trim anahtarının sola ve sağa hareket ettirilmesi, seçilen FD dönüş modunu tetikleyecek ve modu temel ROL moduna döndürecektir.",
+    "title_tr": "AP FD'yi devreye"
   },
   {
     "id": "s55",
-    "title": "Likewise, moving the control wheel trim switch updown withou…",
+    "title": "Likewise moving control",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
     "caption_en": "Likewise, moving the control wheel trim switch updown without pressing the arming button will cause the selected pitch mode to trip and revert the pitch mode to basic \"PIT\".",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, etkinleştirme düğmesine basmadan kontrol tekerleği trim anahtarının yukarıya doğru hareket ettirilmesi, seçilen eğim modunun devreye girmesine ve eğim modunun temel \"PIT\" moduna dönmesine neden olacaktır.",
+    "title_tr": "Aynı şekilde hareketli"
   },
   {
     "id": "s56",
-    "title": "Moving the control wheel trim switch leftiright and updown w…",
+    "title": "Moving control wheel",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
     "caption_en": "Moving the control wheel trim switch leftiright and updown will not disengage the roll and pitch modes if APP button is engaged and LOC and GS are captured. Manual AP control is ineffective under this condition.",
-    "caption_tr": ""
+    "caption_tr": "APP düğmesi devredeyse ve LOC ve GS yakalanmışsa, kontrol tekerleği trim anahtarının sola ve yukarıya doğru hareket ettirilmesi, yuvarlanma ve eğim modlarını devre dışı bırakmayacaktır. Bu koşul altında manuel AP kontrolü etkisizdir.",
+    "title_tr": "Hareketli kontrol tekerleği"
   },
   {
     "id": "s57",
-    "title": "Touch control steering switch, located at each inboard contr…",
+    "title": "Touch control steering",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
     "caption_en": "Touch control steering switch, located at each inboard control wheel, is used to temporarily take control from the AP when itis engaged. It can also be used as a FD pitch or roll sync switch when AP is disengaged.",
-    "caption_tr": ""
+    "caption_tr": "Her bir dahili kontrol tekerleğinde bulunan dokunmatik kontrollü direksiyon anahtarı, devreye girdiğinde kontrolü geçici olarak AP'den almak için kullanılır. AP devre dışı bırakıldığında FD pitch veya roll senkronizasyon anahtarı olarak da kullanılabilir.",
+    "title_tr": "Dokunmatik kontrollü direksiyon"
   },
   {
     "id": "s58",
-    "title": "With AP engaged, depressing and holding EITHER button diseng…",
+    "title": "AP engaged depressing",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
     "caption_en": "With AP engaged, depressing and holding EITHER button disengages the clutch on the pitch and roll servos. In this condition, the servos splines are free to rotate and the crew can now manoeuvre the airplane through the control column without disengaging the AP.",
-    "caption_tr": ""
+    "caption_tr": "AP devredeyken, HERHANGİ bir düğmenin basılması ve basılı tutulması, pitch ve roll servolarındaki kavramayı devre dışı bırakır. Bu durumda, servoların kamaları serbestçe dönebilmektedir ve mürettebat artık AP'yi devre dışı bırakmadan uçağa kontrol kolonu aracılığıyla manevra yaptırabilmektedir.",
+    "title_tr": "AP iç karartıcı"
   },
   {
     "id": "s59",
-    "title": "While the button is held depressed, a white annunciator appe…",
+    "title": "button held depressed",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
     "caption_en": "While the button is held depressed, a white annunciator appears in the AP display area at the top of PFDs.",
-    "caption_tr": ""
+    "caption_tr": "Düğme basılı tutulduğunda PFD'lerin üst kısmındaki AP görüntüleme alanında beyaz bir uyarı cihazı görünür.",
+    "title_tr": "düğme basılı tutuldu"
   },
   {
     "id": "s60",
-    "title": "In addition, selected FD modes remain engaged and the comman…",
+    "title": "addition selected FD",
     "imgSrc": "slides/s60.png",
     "audioSrc": "audio/s60.mp3",
     "caption_en": "In addition, selected FD modes remain engaged and the command bars synchronize to the existing airplane attitude.",
-    "caption_tr": ""
+    "caption_tr": "Ek olarak, seçilen FD modları devrede kalır ve komut çubukları mevcut uçak tutumuna senkronize olur.",
+    "title_tr": "ek seçilen FD"
   },
   {
     "id": "s61",
-    "title": "Once released, the pitch and roll clutch servos re-engage an…",
+    "title": "Once released pitch",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
     "caption_en": "Once released, the pitch and roll clutch servos re-engage and give airplane control back to the AP. Previously engaged vertical modes (Speed, Vertical Speed or Altitude) will synchronise to the new existing flight conditions and lateral modes will attempt to recapture. This will be dealt with in the flight director section.",
-    "caption_tr": ""
+    "caption_tr": "Serbest bırakıldığında, eğim ve yuvarlanma kavrama servoları yeniden devreye girer ve uçak kontrolünü AP'ye geri verir. Daha önce devreye alınan dikey modlar (Hız, Dikey Hız veya Rakım) yeni mevcut uçuş koşullarına senkronize olacak ve yanal modlar yeniden yakalanmaya çalışılacaktır. Bu konu uçuş direktörü bölümünde ele alınacaktır.",
+    "title_tr": "kez yayınlandıktan saha"
   },
   {
     "id": "s62",
-    "title": "Depressing the arming button on either and momentarily movin…",
+    "title": "Depressing arming button",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
-    "caption_en": "AP can be disengaged by any of the following: Depressing the arming button on either CWTS and momentarily moving the CWTS in any direction. This is the normal way of disengaging the AP.",  
-    "caption_tr": ""
+    "caption_en": "AP can be disengaged by any of the following: Depressing the arming button on either CWTS and momentarily moving the CWTS in any direction. This is the normal way of disengaging the AP.",
+    "caption_tr": "AP aşağıdakilerden herhangi biriyle devre dışı bırakılabilir: CWTS'deki etkinleştirme düğmesine basılarak ve CWTS'yi anlık olarak herhangi bir yönde hareket ettirerek. Bu, AP'yi devre dışı bırakmanın normal yoludur.",
+    "title_tr": "Devreye düğmesine basılması"
   },
   {
     "id": "s63",
-    "title": "Momentarily depressing either control wheel master switch ju…",
+    "title": "Momentarily depressing either",
     "imgSrc": "slides/s63.png",
     "audioSrc": "audio/s63.mp3",
     "caption_en": "Momentarily depressing either control wheel master switch just below CWTS. This will also disengage YAW DAMPER.",
-    "caption_tr": ""
+    "caption_tr": "CWTS'nin hemen altındaki kontrol tekerleği ana şalterlerinden birine anlık olarak basılıyor. Bu aynı zamanda YAW DAMPER'ı da devre dışı bırakacaktır.",
+    "title_tr": "an moral bozucu"
   },
   {
     "id": "s64",
-    "title": "Depressing the AP or YD button",
+    "title": "Depressing AP YD",
     "imgSrc": "slides/s64.png",
     "audioSrc": "audio/s64.mp3",
     "caption_en": "Depressing the AP or YD button ON FLIGHT GUDIANCE CONTROLLER.",
-    "caption_tr": ""
+    "caption_tr": "UÇUŞ YÖNETİM KONTROL CİHAZINDA AP veya YD düğmesine basılması.",
+    "title_tr": "AP YD'yi iç"
   },
   {
     "id": "s65",
-    "title": "Turning the trim selector switch off",
+    "title": "Turning trim selector",
     "imgSrc": "slides/s65.png",
     "audioSrc": "audio/s65.mp3",
     "caption_en": "Turning the trim selector switch off",
-    "caption_tr": ""
+    "caption_tr": "Trim seçici anahtarının kapatılması",
+    "title_tr": "Trim seçicinin döndürülmesi"
   },
   {
     "id": "s66",
-    "title": "Turning the trim selector switch off -- Activating the secon…",
+    "title": "Turning trim selector",
     "imgSrc": "slides/s66.png",
     "audioSrc": "audio/s66.mp3",
     "caption_en": "Turning the trim selector switch off -- Activating the secondary trim switch with PITCH TRIM selector in SEC",
-    "caption_tr": ""
+    "caption_tr": "Trim seçici anahtarının kapatılması -- İkincil trim anahtarının SEC'de PITCH TRIM seçiciyle etkinleştirilmesi",
+    "title_tr": "Trim seçicinin döndürülmesi"
   },
   {
     "id": "s67",
-    "title": "Depressing the go-around (GA) button on the left thrust leve…",
+    "title": "Depressing go-around button",
     "imgSrc": "slides/s67.png",
     "audioSrc": "audio/s67.mp3",
     "caption_en": "Depressing the go-around (GA) button on the left thrust lever.",
-    "caption_tr": ""
+    "caption_tr": "Sol itme kolundaki dolaşma (GA) düğmesine basılması.",
+    "title_tr": "Dönme düğmesine basmak"
   },
   {
     "id": "s68",
-    "title": "When the AP is disengaged by any the above, a disconnect ton…",
+    "title": "AP disengaged any",
     "imgSrc": "slides/s68.png",
     "audioSrc": "audio/s68.mp3",
     "caption_en": "When the AP is disengaged by any the above, a disconnect tone, similar to the first few notes of cavalry charge, momentarily sounds.",
-    "caption_tr": ""
+    "caption_tr": "AP yukarıdakilerden herhangi biri nedeniyle devre dışı bırakıldığında, süvari hücumunun ilk birkaç notasına benzer bir bağlantı kesme tonu anlık olarak duyulur.",
+    "title_tr": "AP tümünü devre"
   },
   {
     "id": "s69",
-    "title": "At the same time, the green AP on the turn amber and flash f…",
+    "title": "same time green",
     "imgSrc": "slides/s69.png",
     "audioSrc": "audio/s69.mp3",
     "caption_en": "At the same time, the green AP on the turn amber and flash for 5 seconds, then blank. Additionally, the green bar light within the AP select button on the flight guadiance controller extinguishes.",
-    "caption_tr": ""
+    "caption_tr": "Aynı zamanda, yeşil AP sarıya döner ve 5 saniye boyunca yanıp söner, ardından boş olur. Ek olarak, uçuş yönlendirme kontrol cihazı üzerindeki AP seçme düğmesindeki yeşil çubuk ışığı söner.",
+    "title_tr": "aynı zamanda yeşil"
   },
   {
     "id": "s70",
-    "title": "Yaw damper can be disengaged by any one of the following: --…",
+    "title": "--",
     "imgSrc": "slides/s70.png",
     "audioSrc": "audio/s70.mp3",
     "caption_en": "Yaw damper can be disengaged by any one of the following: -- Pushing the YD button on the flight guadiance controller.",
-    "caption_tr": ""
+    "caption_tr": "Yalpalama sönümleyici aşağıdakilerden herhangi biriyle devre dışı bırakılabilir: - Uçuş yönlendirme kontrol cihazı üzerindeki YD düğmesine basılarak.",
+    "title_tr": "- Uçuş yönlendirme"
   },
   {
     "id": "s71",
-    "title": "Yaw damper can be disengaged by any one of the following: --…",
+    "title": "--",
     "imgSrc": "slides/s71.png",
     "audioSrc": "audio/s71.mp3",
     "caption_en": "Yaw damper can be disengaged by any one of the following: -- Pushing the YD button on the flight guadiance controller -- Pushing either CWMS.",
-    "caption_tr": ""
+    "caption_tr": "Yalpalama sönümleyici aşağıdakilerden herhangi biriyle devre dışı bırakılabilir: - Uçuş yönlendirme kontrol cihazı üzerindeki YD düğmesine basılarak - CWMS'den herhangi birine basılarak.",
+    "title_tr": "- Uçuş yönlendirme"
   },
   {
     "id": "s72",
-    "title": "There is no aural warning accompanying YD disengagement. The…",
+    "title": "There no aural",
     "imgSrc": "slides/s72.png",
     "audioSrc": "audio/s72.mp3",
     "caption_en": "There is no aural warning accompanying YD disengagement. The YD annunciation on the flashes amber for 5 seconds and then disappears. The YD green bar extinguishes.",
-    "caption_tr": ""
+    "caption_tr": "YD'nin devre dışı bırakılmasına eşlik eden herhangi bir sesli uyarı yoktur. Ekrandaki YD yazısı 5 saniye boyunca sarı renkte yanıp sönüyor ve ardından kayboluyor. YD yeşil çubuğu söner.",
+    "title_tr": "işitsel yok"
   },
   {
     "id": "s73",
-    "title": "If the AP is also engaged, it too will disengage along with …",
+    "title": "AP also engaged",
     "imgSrc": "slides/s73.png",
     "audioSrc": "audio/s73.mp3",
     "caption_en": "If the AP is also engaged, it too will disengage along with the YAW DAMPER in which case, cavalry charge is also heard.",
-    "caption_tr": ""
+    "caption_tr": "AP de devreye girerse, YAW DAMPER ile birlikte devre dışı kalacaktır, bu durumda süvari hücumu da duyulur.",
+    "title_tr": "AP de devreye"
   },
   {
     "id": "s74",
-    "title": "But there are occassions in which APYD may disengage automat…",
+    "title": "But there are",
     "imgSrc": "slides/s74.png",
     "audioSrc": "audio/s74.mp3",
     "caption_en": "But there are occassions in which APYD may disengage automatically for any of the following reasons:",
-    "caption_tr": ""
+    "caption_tr": "Ancak APYD'nin aşağıdaki nedenlerden herhangi biri nedeniyle otomatik olarak ayrılabileceği durumlar da vardır:",
+    "title_tr": "Ama var"
   },
   {
     "id": "s75",
@@ -597,7 +671,8 @@
     "imgSrc": "slides/s75.png",
     "audioSrc": "audio/s75.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 75"
   },
   {
     "id": "s76",
@@ -605,7 +680,8 @@
     "imgSrc": "slides/s76.png",
     "audioSrc": "audio/s76.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 76"
   },
   {
     "id": "s77",
@@ -613,7 +689,8 @@
     "imgSrc": "slides/s77.png",
     "audioSrc": "audio/s77.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 77"
   },
   {
     "id": "s78",
@@ -621,7 +698,8 @@
     "imgSrc": "slides/s78.png",
     "audioSrc": "audio/s78.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 78"
   },
   {
     "id": "s79",
@@ -629,38 +707,43 @@
     "imgSrc": "slides/s79.png",
     "audioSrc": "audio/s79.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 79"
   },
   {
     "id": "s80",
-    "title": "If AP disconnect is due to any of the reasons mentioned, the…",
+    "title": "AP disconnect due",
     "imgSrc": "slides/s80.png",
     "audioSrc": "audio/s80.mp3",
     "caption_en": "If AP disconnect is due to any of the reasons mentioned, the cavalry charge will sound continuously. The AP annuciation becomes steady red on the",
-    "caption_tr": ""
+    "caption_tr": "AP bağlantısının kesilmesi belirtilen nedenlerden herhangi biri nedeniyle meydana gelirse süvari hücumu sürekli olarak çalacaktır. AP bildirimi ekranda sabit kırmızı renkte olur.",
+    "title_tr": "AP bağlantısı kesilmesi"
   },
   {
     "id": "s81",
-    "title": "Momentarily depressing the switch for at least 2 seconds ack…",
+    "title": "Momentarily depressing switch",
     "imgSrc": "slides/s81.png",
     "audioSrc": "audio/s81.mp3",
     "caption_en": "Momentarily depressing CWM the switch for at least 2 seconds acknowledges the monitor disconnect and silences the cavalry charge. If the system resets, the red AP annunciator on the is removed.",
-    "caption_tr": ""
+    "caption_tr": "CWM anahtarına en az 2 saniye süreyle anlık olarak basılması, monitörün bağlantısının kesildiğini onaylar ve süvari hücumunu susturur. Sistem sıfırlanırsa, üzerindeki kırmızı AP uyarı cihazı kaldırılır.",
+    "title_tr": "Anlık basılan anahtar"
   },
   {
     "id": "s82",
-    "title": "If the system fails to reset, the AP will remain steady in r…",
+    "title": "system fails reset",
     "imgSrc": "slides/s82.png",
     "audioSrc": "audio/s82.mp3",
     "caption_en": "If the system fails to reset, the AP will remain steady in red or amber. The pilots will have to refer to the checklist for procedures.",
-    "caption_tr": ""
+    "caption_tr": "Sistem sıfırlanmazsa AP kırmızı veya sarı renkte sabit kalacaktır. Pilotların prosedürler için kontrol listesine başvurması gerekecek.",
+    "title_tr": "sistem sıfırlanamıyor"
   },
   {
     "id": "s83",
-    "title": "If the YD is also disconnected by any of the reasons mention…",
+    "title": "YD also disconnected",
     "imgSrc": "slides/s83.png",
     "audioSrc": "audio/s83.mp3",
     "caption_en": "If the YAW DAMPER is also disconnected by any of the reasons mentioned, amber YAW DAMPER is annunciated on the until is depressed for at least 2 seconds. If the amber YAW DAMPER remains, crew will have to refer to checklist.",
-    "caption_tr": ""
+    "caption_tr": "YAW DAMPER'ın da belirtilen sebeplerden herhangi biri nedeniyle bağlantısı kesilirse, en az 2 saniye basılana kadar sarı YAW DAMPER uyarısı verilir. Kehribar renkli YAW DAMPER kalırsa mürettebatın kontrol listesine başvurması gerekecektir.",
+    "title_tr": "YD'n de bağlantısı"
   }
 ]

@@ -363,6 +363,11 @@ pkg = pkg
     return (await r.text()).trim();
   }
 
+  function bust(url){
+    if (!url) return '';
+    return `${url}${url.includes('?') ? '&' : '?'}v=${Date.now()}`;
+  }
+
   async function loadCaptionForSlide(slide){
     const rec = CAPMAP?.[slide.key];
     if (rec){
@@ -413,11 +418,11 @@ pkg = pkg
     i = Math.max(0, Math.min(data.length-1, k|0));
 
     const s = data[i] || {};
-    img.src = s.imgSrc || '';
+    img.src = bust(s.imgSrc || '');
 
     audio.pause(); audio.removeAttribute('src'); audio.load();
     if (s.audioSrc){
-      audio.src = s.audioSrc;
+      audio.src = bust(s.audioSrc);
       audio.muted = hardMuted;
       audio.play().catch(()=>{});
     }

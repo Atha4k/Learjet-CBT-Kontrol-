@@ -1,314 +1,353 @@
 [
   {
     "id": "s01",
-    "title": "The 2 spoiler panels are located in front of the trailing ed…",
+    "title": "2 spoiler panels",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The 2 spoiler panels are located in front of the trailing edge flaps. The spoilers are hydraulically powered by the main hydraulic system and their operations are controlled by the Spoileron Controller. The spoiler panels are extended and retracted by the spoiler actuator.",
-    "caption_tr": ""
+    "caption_tr": "2 spoiler paneli, arka kenar kanatlarının önünde bulunur. Spoyler ana hidrolik sistem tarafından hidrolik olarak çalıştırılır ve işlemleri Spoileron Kontrol Cihazı tarafından kontrol edilir. Spoyler panelleri, spoiler aktüatörü tarafından uzatılır ve geri çekilir.",
+    "title_tr": "2 spoiler paneli"
   },
   {
     "id": "s02",
-    "title": "Spoiler Lever This is located on the left side of the thrott…",
+    "title": "Spoiler Lever This",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Spoiler Lever This is located on the left side of the throttle quadrant and is linked to 2 RVDTs (rotary variable differential transformer). These Ts send the signals to the spoileron controller whenever the lever is moved. ",
-    "caption_tr": ""
+    "caption_tr": "Spoyler Kolu Bu, gaz kelebeği kadranının sol tarafında bulunur ve 2 RVDT'ye (döner değişken diferansiyel transformatör) bağlanır. Bu T'ler, kol hareket ettirildiğinde sinyalleri spoileron kontrolörüne gönderir.",
+    "title_tr": "Spoiler Kolu Bu"
   },
   {
     "id": "s03",
-    "title": "There are 3 marked settings for the spoiler lever that corre…",
+    "title": "There are 3",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "There are 3 marked settings for the spoiler lever that corresponds to the detents : - RET (full retract) - ARM for auto-spoiler operation) and - EXT (full extension). ",
-    "caption_tr": ""
+    "caption_tr": "Kilitlere karşılık gelen spoyler kolu için 3 işaretli ayar bulunmaktadır : - RET (tam geri çekme) - otomatik spoyler çalışması için ARM) ve - EXT (tam uzatma).",
+    "title_tr": "3 tane var"
   },
   {
     "id": "s04",
-    "title": "The range between the ARM and EXT detents allows for variabl…",
+    "title": "range between ARM",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The range between the ARM and EXT detents allows for variable spoiler positions in-flight. There are aiso 2 unmarked detents between ARM and EXT. They correspond to intermediate spoiler extension positions of approximately 15 and ",
-    "caption_tr": ""
+    "caption_tr": "ARM ve EXT tetikleri arasındaki aralık, uçuş sırasında değişken spoyler konumlarına izin verir. ARM ve EXT arasında 2 adet işaretsiz tetik bulunmaktadır. Yaklaşık 15'lik ara spoyler uzatma konumlarına karşılık gelirler ve",
+    "title_tr": "ARM arasındaki aralık"
   },
   {
     "id": "s05",
-    "title": "There are 3 modes of operation for the spoilers system. - No…",
+    "title": "There are 3",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "There are 3 modes of operation for the spoilers system. - Normal or Manual Spoiler mode - Auto-Spoiler mode - Spoileron mode ",
-    "caption_tr": ""
+    "caption_tr": "Spoiler sisteminin 3 çalışma modu vardır. - Normal veya Manuel Spoiler modu - Otomatik Spoiler modu - Spoileron modu",
+    "title_tr": "3 tane var"
   },
   {
     "id": "s06",
-    "title": "Normal or Manual Spoiler Mode The spoilers can be extended s…",
+    "title": "Normal Manual Spoiler",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Normal or Manual Spoiler Mode The spoilers can be extended symmetrically on the ground or in-flight by moving the spoiler lever aft of the ARM position. On the ground, placing the lever to any position aft of ARM will cause a full extension of the spoilers in 1 second. ",
-    "caption_tr": ""
+    "caption_tr": "Normal veya Manuel Spoyler Modu Spoyler yerde veya uçuş sırasında spoyler kolunu ARM konumunun arkasına hareket ettirerek simetrik olarak uzatılabilir. Yerdeyken kolu ARM'in arkasında herhangi bir konuma getirmek spoilerin 1 saniyede tamamen açılmasına neden olacaktır.",
+    "title_tr": "Normal Manuel Spoiler"
   },
   {
     "id": "s07",
-    "title": "When the spoiler lever is placed in any position aft of ARM,…",
+    "title": "spoiler lever placed",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "When the spoiler lever is placed in any position aft of ARM, the RVDTs attached to it will signal the spoileron controller or computer. The controller, in turn, energizes the servo valves to meter hydraulic pressure to the extend side of the actuators. ",
-    "caption_tr": ""
+    "caption_tr": "Spoyler kolu ARM'in arkasında herhangi bir konuma yerleştirildiğinde, ona bağlı RVDT'ler spoiler üzerindeki kontrol cihazına veya bilgisayara sinyal gönderecektir. Kontrolör de aktüatörlerin uzatma tarafındaki hidrolik basıncı ölçmek için servo valflere enerji verir.",
+    "title_tr": "spoiler kolu yerleştirildi"
   },
   {
     "id": "s08",
-    "title": "The spoiler actuators will then extend the spoiler panels. T…",
+    "title": "spoiler actuators will",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The spoiler actuators will then extend the spoiler panels. The controller receives spoiler extension feed-back from the RVDTSs attached to the 2 actuators, and it neutralizes the servo valves when the spoilers have reached the selected position. ",
-    "caption_tr": ""
+    "caption_tr": "Spoyler aktüatörleri daha sonra spoiler panellerini uzatacaktır. Kontrolör, 2 aktüatöre bağlı RVDTS'lerden spoyler uzantısı geri bildirimi alır ve spoiler seçilen konuma ulaştığında servo valfleri nötralize eder.",
+    "title_tr": "spoiler aktüatörleri"
   },
   {
     "id": "s09",
-    "title": "In-flight, the amount of spoiler panel extension will depend…",
+    "title": "In-flight amount spoiler",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "In-flight, the amount of spoiler panel extension will depend on the spoiler lever position and airspeed. Below knots, the spoileron controller commands a 60 extension when the lever is placed to EXT. At higher speeds, this full extension is not available when the lever is placed to EXT.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş sırasında spoiler paneli uzantısının miktarı, spoiler kolunun konumuna ve uçak hızına bağlı olacaktır. Düğümlerin altında, spoileron kontrolörü, kol EXT konumuna getirildiğinde 60 derecelik bir uzatma komutu verir. Daha yüksek hızlarda, kol EXT konumuna getirildiğinde bu tam uzatma kullanılamaz.",
+    "title_tr": "Uçuş miktar spoyleri"
   },
   {
     "id": "s10",
-    "title": "When the spoilers are extended or retracted in-flight, the h…",
+    "title": "spoilers are extended",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "When the spoilers are extended or retracted in-flight, the horizontal stabilizer configuration trim system automatically adjusts the pitch trim to compensate for the pitching moment caused by spoilers repositioning.",
-    "caption_tr": ""
+    "caption_tr": "Spoylerler uçuş sırasında uzatıldığında veya geri çekildiğinde, yatay dengeleyici konfigürasyonlu trim sistemi, spoylerin yeniden konumlandırılmasının neden olduğu eğim momentini telafi etmek için eğim trimini otomatik olarak ayarlar.",
+    "title_tr": "spoiler uzatıldı"
   },
   {
     "id": "s11",
-    "title": "The spoilers should not be manually extended if the flaps ar…",
+    "title": "spoilers should manually",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The spoilers should not be manually extended if the flaps are also extended while in-flight except as specified in the EMERGENCY andor ABNORMAL procedures section of the AFM. A caution CAS message SPOILERS EXT is displayed if the spoilers are manually deployed with the flaps extended at 3 or more. ",
-    "caption_tr": ""
+    "caption_tr": "AFM'nin ACİL DURUM ve/veya ANORMAL prosedürler bölümünde belirtilenler dışında, uçuş sırasında kanatlar da uzatılıyorsa spoiler manuel olarak uzatılmamalıdır. Kanatlar 3 veya daha fazla açıkken spoiler manuel olarak açılırsa, bir CAS uyarı mesajı SPOILERS EXT görüntülenir.",
+    "title_tr": "spoiler manuel yapılmalıdır"
   },
   {
     "id": "s12",
-    "title": "The digital spoiler indicators and the analog scale pointers…",
+    "title": "digital spoiler indicators",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The digital spoiler indicators and the analog scale pointers will turn amber anytime - the flaps are extended to 3 or more and - the spoilers are manually extended in flight JE.",
-    "caption_tr": ""
+    "caption_tr": "Dijital rüzgarlık göstergeleri ve analog ölçek işaretçileri her an sarıya dönecektir - kanatlar 3 veya daha fazlasına kadar uzatılır ve - JE uçuşunda rüzgarlıklar manuel olarak uzatılır.",
+    "title_tr": "dijital spoiler göstergeleri"
   },
   {
     "id": "s13",
-    "title": "The spoiler indications are shown on -the SUMRY page as 0 to…",
+    "title": "spoiler indications are",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The spoiler indications are shown on -the SUMRY page as 0 to 60 (digital format) -the EICAS - page in digital format and also in an analog and pointer format - the RMU page 1 in a digital format.",
-    "caption_tr": ""
+    "caption_tr": "Spoiler göstergeleri -SUMRY sayfasında 0 ila 60 arasında (dijital format) -EICAS sayfasında - dijital formatta ve ayrıca analog ve işaretçi formatında - RMU sayfasında 1 dijital formatta gösterilir.",
+    "title_tr": "spoiler göstergeleri"
   },
   {
     "id": "s14",
-    "title": "Note that the digital format indication, displays the comman…",
+    "title": "Note that digital",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Note that the digital format indication, displays the commanded spoiler position by the spoiler lever or the auto-spoiler function. it does not display differential extension as a result of spoileron mode operation. Moving the spoiler lever will cause it to display the desired spoiler selection. ",
-    "caption_tr": ""
+    "caption_tr": "Dijital format göstergesinin, spoiler kolu veya otomatik spoiler fonksiyonu ile komut verilen spoiler konumunu görüntülediğini unutmayın. spoileron modunda çalışmanın bir sonucu olarak diferansiyel uzamayı göstermez. Spoyler kolunun hareket ettirilmesi, istenilen spoiler seçiminin görüntülenmesine neden olacaktır.",
+    "title_tr": "Dijital olduğunu unutmayın"
   },
   {
     "id": "s15",
-    "title": "The pointers show the actual spoiler panel extension for all…",
+    "title": "pointers show actual",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "The pointers show the actual spoiler panel extension for all conditions inclusive of differential requirements. We will discuss more of this under the spoileron mode of operation. ",
-    "caption_tr": ""
+    "caption_tr": "İşaretçiler, diferansiyel gereksinimler dahil tüm koşullar için gerçek spoiler paneli uzantısını gösterir. Bu konuyu daha fazla spoileron çalışma modunda tartışacağız.",
+    "title_tr": "işaretçiler gerçekleri gösterir"
   },
   {
     "id": "s16",
-    "title": "The spoilers must be fully retracted for take-off. If the sp…",
+    "title": "spoilers must fully",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The spoilers must be fully retracted for take-off. If the spoilers are extended with the airplane on the ground, the spoiler indications will be boxed. An advisory CAS message SPOILERS EXT is also displayed. ",
-    "caption_tr": ""
+    "caption_tr": "Kalkış için spoiler tamamen geri çekilmelidir. Eğer spoiler uçak yerdeyken uzatılırsa, spoiler göstergeleri kutu içine alınacaktır. Ayrıca tavsiye niteliğinde bir CAS mesajı SPOILERS EXT görüntülenir.",
+    "title_tr": "spoiler tamamen olmalı"
   },
   {
     "id": "s17",
-    "title": "Advancing the thrust levers beyond will cause the take-off w…",
+    "title": "Advancing thrust levers",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Advancing the thrust levers beyond will cause the take-off warnings to be activated. The advisory CAS message SPOILER EXT and all the spoiler indications will tum red. The aural CONFIGURATION voice warning will also sound. Placing the spoiler lever to RET will retract the spoilers and resets the system. ",
-    "caption_tr": ""
+    "caption_tr": "İtme kollarını ileri doğru ilerletmek kalkış uyarılarının devreye girmesine neden olacaktır. Tavsiye niteliğindeki CAS mesajı SPOILER EXT ve tüm spoiler göstergeleri kırmızıya dönecektir. Ayrıca sesli KONFİGÜRASYON sesli uyarısı da duyulacaktır. Spoyler kolunu RET konumuna getirmek spoilerleri geri çekecek ve sistemi sıfırlayacaktır.",
+    "title_tr": "İtme kollarını ilerletme"
   },
   {
     "id": "s18",
-    "title": "Auto-Spoilers Mode This mode is designed for automatic exten…",
+    "title": "Auto-Spoilers Mode This",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Auto-Spoilers Mode This mode is designed for automatic extension of the spoilers during -a RTO (rejected take-off) and - after a normal landing. ",
-    "caption_tr": ""
+    "caption_tr": "Otomatik Spoyler Modu Bu mod, RTO (kalkışın reddedilmesi) sırasında ve normal iniş sonrasında spoilerlerin otomatik olarak uzatılması için tasarlanmıştır.",
+    "title_tr": "Otomatik Spoiler Modu"
   },
   {
     "id": "s19",
-    "title": "This mode fully extends both spoilers when the spoiler lever…",
+    "title": "This mode fully",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "This mode fully extends both spoilers when the spoiler lever is at ARM and - both thrust levers are at idle or cut-off and - a ground mode is sensed by either squat switch and - atleast 1 left and 1 right wheel speed is greater than 60 knots ",
-    "caption_tr": ""
+    "caption_tr": "Bu mod, rüzgarlık kolu ARM konumundayken ve - her iki itme kolu da rölantide veya kapalı konumdayken ve - çömelme anahtarından biri tarafından bir zemin modu algılandığında ve - en az 1 sol ve 1 sağ tekerlek hızı 60 knot'tan büyük olduğunda her iki spoyleri tamamen uzatır.",
+    "title_tr": "Bu mod tamamen"
   },
   {
     "id": "s20",
-    "title": "Prior to take-off, the spoiler lever is placed at ARM. When …",
+    "title": "Prior take-off spoiler",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "Prior to take-off, the spoiler lever is placed at ARM. When a RTO or rejected take-off is executed, the spoilers will extend fully when all the 3 conditions are met. Note that the spoiler lever remains at ARM even after the spoilers have automatically deployed. por) ",
-    "caption_tr": ""
+    "caption_tr": "Kalkıştan önce spoiler kolu ARM konumuna getirilir. Bir RTO veya kalkışın reddedilmesi yürütüldüğünde, 3 koşulun tümü karşılandığında spoiler tamamen uzayacaktır. Spoiler otomatik olarak açıldıktan sonra bile spoiler kolunun ARM konumunda kaldığını unutmayın. por)",
+    "title_tr": "Önceki kalkış spoyleri"
   },
   {
     "id": "s21",
-    "title": "The auto-spoilers will not extend on the ground even with th…",
+    "title": "auto-spoilers will extend",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The auto-spoilers will not extend on the ground even with the ARM position selected and the thrust levers at idle UNTIL the airplane has accelerated past 60 knots.",
-    "caption_tr": ""
+    "caption_tr": "Otomatik spoylerler, ARM konumu seçiliyken ve itme kolları rölantideyken bile, uçak 60 deniz milini geçene kadar hızlanıncaya kadar yerde uzanmayacaktır.",
+    "title_tr": "otomatik spoiler uzayacak"
   },
   {
     "id": "s22",
-    "title": "Prior to landing, the spoiler lever is again placed at ARM. …",
+    "title": "Prior landing spoiler",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "Prior to landing, the spoiler lever is again placed at ARM. After touch down, the spoilers will deploy fully when the thrust levers are retarded to idle and the wheel speeds exceed 60 knots. Note that the spoiler lever remains at ARM even after the spoilers have automatically deployed. pen) ",
-    "caption_tr": ""
+    "caption_tr": "İnişten önce spoiler kolu tekrar ARM konumuna getirilir. Yere indikten sonra, itme kolları rölantiye geciktirildiğinde ve tekerlek hızları 60 deniz milini aştığında spoiler tamamen açılacaktır. Spoiler otomatik olarak açıldıktan sonra bile spoiler kolunun ARM konumunda kaldığını unutmayın. dolma kalem)",
+    "title_tr": "Önceki iniş spoyleri"
   },
   {
     "id": "s23",
-    "title": "Once the spoilers have deployed automatically, advancing the…",
+    "title": "Once spoilers have",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Once the spoilers have deployed automatically, advancing the thrust levers from idle automatically stows the spoiler panels. However, the spoiler lever remains at the ARM position and it has to be physically placed to RET to reset the system. ",
-    "caption_tr": ""
+    "caption_tr": "Spoyler otomatik olarak açıldıktan sonra, itme kollarının rölantiden ilerletilmesi spoyler panellerini otomatik olarak yerleştirir. Ancak spoiler kolu ARM konumunda kalıyor ve sistemi sıfırlamak için fiziksel olarak RET konumuna getirilmesi gerekiyor.",
+    "title_tr": "kere spoiler var"
   },
   {
     "id": "s24",
-    "title": "Spoileron Mode The spoilerons operate automatically on the g…",
+    "title": "Spoileron Mode spoilerons",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Spoileron Mode The spoilerons operate automatically on the ground and in-flight to augment the ailerons whenever the pilot's control wheel is turned more than 5. ",
-    "caption_tr": ""
+    "caption_tr": "Spoileron Modu Spoileronlar, pilotun kontrol tekerleği 5'ten fazla çevrildiğinde kanatçıkları artırmak için yerde ve uçuş sırasında otomatik olarak çalışır.",
+    "title_tr": "Spoileron Mod spoileronları"
   },
   {
     "id": "s25",
-    "title": "With the aileron connected, a rotation of the pilot's contro…",
+    "title": "aileron rotation pilot's",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "With the aileron connected, a rotation of the pilot's control wheel more than 5 provides a roll input to the spoileron computer. The appropriate spoiler, left or right, extends to the commanded deflection while the other spoiler is commanded stowed. ",
-    "caption_tr": ""
+    "caption_tr": "Kanatçık bağlıyken, pilotun kontrol tekerleğinin 5'ten fazla dönmesi, bilgisayardaki spoiler'a bir dönüş girişi sağlar. Uygun spoiler, sol veya sağ, komut verilen sapmaya kadar uzanırken, diğer spoylere istifleme komutu verilir.",
+    "title_tr": "kanatçık dönüş pilotu"
   },
   {
     "id": "s26",
-    "title": "The spoilers operate in the pure spoileron mode if the spoil…",
+    "title": "spoilers operate pure",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "The spoilers operate in the pure spoileron mode if the spoilers have not been extended through the use of the spoiler lever. Note that the digital display is 0 since the spoiler leveris atRET. ",
-    "caption_tr": ""
+    "caption_tr": "Spoiler, spoiler kolu kullanılarak uzatılmamışsa, spoiler saf spoileron modunda çalışır. Rüzgarlık kolu RET konumunda olduğundan dijital ekranın 0 olduğuna dikkat edin.",
+    "title_tr": "spoiler saf çalışır"
   },
   {
     "id": "s27",
-    "title": "Note that the digital display is still 0 since the spoiler l…",
+    "title": "Note that digital",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "Note that the digital display is still 0 since the spoiler lever is at RET. However, the left spoiler pointer displays the actual spoiler deflection.",
-    "caption_tr": ""
+    "caption_tr": "Rüzgarlık kolu RET konumunda olduğundan dijital ekranın hala 0 olduğunu unutmayın. Ancak sol spoiler işaretçisi gerçek spoiler sapmasını görüntüler.",
+    "title_tr": "Dijital olduğunu unutmayın"
   },
   {
     "id": "s28",
-    "title": "Returning the control wheel to neutral will retract the left…",
+    "title": "control wheel neutral",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "Returning the control wheel to neutral will retract the left spoiler. ",
-    "caption_tr": ""
+    "caption_tr": "Kontrol tekerleğini boşa almak sol spoyleri geri çekecektir.",
+    "title_tr": "kontrol tekerleği nötr"
   },
   {
     "id": "s29",
-    "title": "Let us assume that the spoilers are manually extended to Bot…",
+    "title": "Let us assume",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "Let us assume that the spoilers are manually extended to Both the digital displays and the pointers will indicate the desired and actual spoiler extension.",
-    "caption_tr": ""
+    "caption_tr": "Spoilerlerin manuel olarak uzatıldığını varsayalım. Hem dijital ekranlar hem de işaretçiler istenen ve gerçek spoiler uzantısını gösterecektir.",
+    "title_tr": "Varsayalım"
   },
   {
     "id": "s30",
-    "title": "When the pilot executes a left bank, the spoileron computer …",
+    "title": "pilot executes left",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "When the pilot executes a left bank, the spoileron computer mix logic retracts the right spoiler first to give a differential necessary for the roll command. ",
-    "caption_tr": ""
+    "caption_tr": "Pilot bir sol yatış gerçekleştirdiğinde, bilgisayardaki spoiler karışımı mantığı, dönüş komutu için gerekli bir diferansiyeli sağlamak üzere ilk olarak sağ spoyleri geri çeker.",
+    "title_tr": "pilot sola doğru"
   },
   {
     "id": "s31",
-    "title": "Note that the digital displays remain at 15 since this is se…",
+    "title": "Note that digital",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "Note that the digital displays remain at 15 since this is selected by the spoiler lever.",
-    "caption_tr": ""
+    "caption_tr": "Bu, spoyler koluyla seçildiğinden dijital göstergelerin 15'te kaldığını unutmayın.",
+    "title_tr": "Dijital olduğunu unutmayın"
   },
   {
     "id": "s32",
-    "title": "Returning the control wheel to neutral will cause the left s…",
+    "title": "control wheel neutral",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "Returning the control wheel to neutral will cause the left spoiler to retract to 15 and the right spoiler will extend back to 15 too. ",
-    "caption_tr": ""
+    "caption_tr": "Kontrol tekerleğinin boşa alınması, sol rüzgarlığın 15'e geri çekilmesine ve sağ rüzgarlığın da 15'e kadar uzamasına neden olacaktır.",
+    "title_tr": "kontrol tekerleği nötr"
   },
   {
     "id": "s33",
-    "title": "Spoiler Monitor System The spoileron controller contains a m…",
+    "title": "Spoiler Monitor System",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "Spoiler Monitor System The spoileron controller contains a monitor system to prevent electrical or mechanical faults from causing the un-commanded extension or retraction of the spoilers. The controller always performs a self-test at power up. ",
-    "caption_tr": ""
+    "caption_tr": "Spoyler İzleme Sistemi Spoyler kontrolörü, spoylerin kontrolsüz şekilde uzatılmasına veya geri çekilmesine neden olan elektriksel veya mekanik arızaları önlemek için bir izleme sistemi içerir. Kontrol cihazı her zaman açılışta bir kendi kendine test gerçekleştirir.",
+    "title_tr": "Spoiler Monitör Sistemi"
   },
   {
     "id": "s34",
-    "title": "If it detects a self-test failure or fault during normal ope…",
+    "title": "it detects self-test",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "If it detects a self-test failure or fault during normal operation, the shut-off valve closes and the spoilers are blown down. However, if the monitor system does not stow the spoilers, depressing and holding the will also retract the spoilers but they may not fully retract. ",
-    "caption_tr": ""
+    "caption_tr": "Normal çalışma sırasında bir kendi kendine test arızası veya arıza tespit ederse, kesme vanası kapanır ve spoiler patlar. Ancak monitör sistemi spoilerleri yerleştirmezse, düğmeye basmak ve basılı tutmak spoilerleri de geri çekecektir ancak tamamen geri çekilmeyebilirler.",
+    "title_tr": "kendi kendine testi"
   },
   {
     "id": "s35",
-    "title": "Spoilers Fail When a malfunction causes the spoileron monito…",
+    "title": "Spoilers Fail malfunction",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "Spoilers Fail When a malfunction causes the spoileron monitor system to trip, a caution CAS message SPOILERS FAIL is displayed. If the maifunction was momentary or has cleared, it may be possible to reset the spoileron computer using the RESET position on the test knob. ",
-    "caption_tr": ""
+    "caption_tr": "Spoiler Arızası Bir arıza, spoiler monitör sisteminin alarm vermesine neden olduğunda, bir uyarı CAS mesajı SPOILERS FAIL görüntülenir. Arıza anlıksa veya düzeldiyse, test düğmesindeki RESET konumunu kullanarak bilgisayardaki spoyleri sıfırlamak mümkün olabilir.",
+    "title_tr": "Spoiler Arıza Arızası"
   },
   {
     "id": "s36",
-    "title": "However, if it is not possible to reset the system, there is…",
+    "title": "However it possible",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "However, if it is not possible to reset the system, there is an AFM requirement to descend to or below. This limitation is for the extended time required to make an emergency descent with spoilers inoperative. ",
-    "caption_tr": ""
+    "caption_tr": "Ancak sistemi sıfırlamak mümkün değilse, AFM'nin veya altına inme zorunluluğu vardır. Bu sınırlama, spoiler çalışmaz durumdayken acil iniş yapmak için gereken uzatılmış süre içindir.",
+    "title_tr": "Ancak mümkün"
   },
   {
     "id": "s37",
-    "title": "Spoiler Jam if the right spoiler is jammed, the spoileron co…",
+    "title": "Spoiler Jam right",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "Spoiler Jam if the right spoiler is jammed, the spoileron controller continues to operate the left spoiler. it also tries to retract the jammed right spoiler. A caution CAS message R SPOILER JAM is displayed.",
-    "caption_tr": ""
+    "caption_tr": "Spoyler Sıkışma Sağ spoyler sıkışırsa, spoiler üzerindeki kontrol cihazı sol spoyleri çalıştırmaya devam eder. aynı zamanda sıkışan sağ spoyleri de geri çekmeye çalışır. Bir uyarı CAS mesajı R SPOILER JAM görüntülenir.",
+    "title_tr": "Spoiler Sıkışma hakkı"
   },
   {
     "id": "s38",
-    "title": "Spoiler Electrical Power The spoileron controller is powered…",
+    "title": "Spoiler Electrical Power",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "Spoiler Electrical Power The spoileron controller is powered by the L Essential Bus for spoiler operation through the circuit breaker. The indicating system is powered by the R Essential Bus through the IND circuit breaker in the FLIGHT group. ",
-    "caption_tr": ""
+    "caption_tr": "Spoylerin Elektrik Gücü Spoyler kontrolörü, devre kesici aracılığıyla spoylerin çalışması için L Essential Bus'tan güç alır. Gösterge sistemi, FLIGHT grubundaki IND devre kesici aracılığıyla R Essential Bus tarafından çalıştırılır.",
+    "title_tr": "Spoylerin Elektrik Gücü"
   },
   {
     "id": "s39",
-    "title": "Bus cb) power to the spoileron computer is lost, the spoiler…",
+    "title": "Bus cb power",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "Bus cb) power to the spoileron computer is lost, the spoilers will retract and will be inoperative in all modes. if the R ESS Bus IND cb) power is lost, the spoilerons will be operational only in the aileron disconnect mode. ",
-    "caption_tr": ""
+    "caption_tr": "Bilgisayardaki spoylere giden veri yolu cb) gücü kaybolur, spoiler geri çekilir ve tüm modlarda çalışmaz hale gelir. R ESS Bus IND cb) gücü kaybolursa spoileronlar yalnızca kanatçık bağlantı kesme modunda çalışır durumda olacaktır.",
+    "title_tr": "Otobüs cb gücü"
   }
 ]

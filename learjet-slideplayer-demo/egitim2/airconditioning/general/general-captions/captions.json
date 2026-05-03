@@ -1,26 +1,29 @@
 [
   {
     "id": "s01",
-    "title": "For crew and passenger comfort, the air going into the cabin…",
+    "title": "crew passenger comfort",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "For crew and passenger comfort, the air going into the cabin and cockpit is cooled. This air is also used for cabin pressurization. The air-conditioning system uses the bleed air from the engines or APU and is available both on ground and in flight.",
-    "caption_tr": ""
+    "caption_tr": "Mürettebat ve yolcuların konforu için kabine ve kokpite giren hava soğutuluyor. Bu hava aynı zamanda kabin basınçlandırması için de kullanılır. İklimlendirme sistemi, motorlardan veya APU'dan gelen havayı kullanır ve hem yerde hem de uçuşta kullanılabilir.",
+    "title_tr": "mürettebat yolcu konforu"
   },
   {
     "id": "s02",
-    "title": "The air-conditioning system consists of a cooling system, a …",
+    "title": "air-conditioning system cooling",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The air-conditioning system consists of a cooling system, a temperature control system and a distribution system. The major components are located in the tailcone section while the system control switches and the temperature contro switches are located in front of the co-pilot.",
-    "caption_tr": ""
+    "caption_tr": "İklimlendirme sistemi bir soğutma sistemi, bir sıcaklık kontrol sistemi ve bir dağıtım sisteminden oluşur. Ana bileşenler kuyruk konisi bölümünde bulunurken, sistem kontrol anahtarları ve sıcaklık kontrol anahtarları yardımcı pilotun önünde bulunur.",
+    "title_tr": "klima sistemi soğutma"
   },
   {
     "id": "s03",
-    "title": "We will be using this schematic when describing the air-cond…",
+    "title": "We will this",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "We will be using this schematic when describing the air-conditioning system in this lesson.",
-    "caption_tr": ""
+    "caption_tr": "Bu dersimizde iklimlendirme sistemini anlatırken bu şemayı kullanacağız.",
+    "title_tr": "Bunu yapacağız"
   }
 ]

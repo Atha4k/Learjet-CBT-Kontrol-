@@ -1,210 +1,236 @@
 [
   {
     "id": "s01",
-    "title": "Additional waypoints can be inserted anywhere within the fli…",
+    "title": "Additional waypoints can",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Additional waypoints can be inserted anywhere within the flight plan.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş planının herhangi bir yerine ek ara noktalar eklenebilir.",
+    "title_tr": "Ek ara noktalar"
   },
   {
     "id": "s02",
-    "title": "In this example, a clearance is given to fly direct from PK(…",
+    "title": "this example clearance",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "In this example, a clearance is given to fly direct from PK(Pekan) to VKE (Kerteh), and there after to (Kota Bharu).",
-    "caption_tr": ""
+    "caption_tr": "Bu örnekte, doğrudan PK'dan (Pekan) VKE'ye (Kerteh) ve oradan da (Kota Bharu)'ya uçma izni verilmiştir.",
+    "title_tr": "Bu örnek gümrükleme"
   },
   {
     "id": "s03",
-    "title": "Since the clearance is to fly from PK to VKE, the below PK i…",
+    "title": "Since clearance fly",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Since the clearance is to fly from PK to VKE, the below PK is selected. A white cursor appears awaiting new data input. VKE is inserted and entered.",
-    "caption_tr": ""
+    "caption_tr": "İzin PK'dan VKE'ye uçmak olduğundan aşağıdaki PK seçilir. Yeni veri girişini bekleyen beyaz bir imleç görünür. VKE eklenir ve girilir.",
+    "title_tr": "Gümrükleme uçuşundan beri"
   },
   {
     "id": "s04",
-    "title": "Notice moves one line down. There are two ways to join VKE t…",
+    "title": "Notice moves one",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Notice moves one line down. There are two ways to join VKE to One way is to highlight and press DEL twice. This will delete Watch.",
-    "caption_tr": ""
+    "caption_tr": "Uyarı bir satır aşağıya taşınır. VKE'yi birleştirmenin iki yolu vardır. Tek yol, vurgulayıp DEL'e iki kez basmaktır. Bu Watch'u silecektir.",
+    "title_tr": "Dikkat hareket ediyor"
   },
   {
     "id": "s05",
-    "title": "Another way to do this is to highlight and insert 7, since i…",
+    "title": "Another way do",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Another way to do this is to highlight and insert 7, since is on waypoint 7. Entering 7 will replace with as shown in the graphic. The two methods just shown can also be used to delete any unwanted waypoints.",
-    "caption_tr": ""
+    "caption_tr": "Bunu yapmanın başka bir yolu da, yol noktası 7'de olduğundan 7'yi vurgulayıp eklemektir. 7'nin girilmesi, grafikte gösterildiği gibi ile değiştirilecektir. Az önce gösterilen iki yöntem, istenmeyen yol noktalarını silmek için de kullanılabilir.",
+    "title_tr": "Başka bir yol"
   },
   {
     "id": "s06",
-    "title": "If a waypoint identifier cannot be located in the navigation…",
+    "title": "waypoint identifier cannot",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "If a waypoint identifier cannot be located in the navigation data base, then this new waypoint can be defined by: - entering the latitude and longitude - radialdistance from a reference point",
-    "caption_tr": ""
+    "caption_tr": "Navigasyon veri tabanında bir yol noktası tanımlayıcısı bulunamazsa, bu yeni yol noktası şu şekilde tanımlanabilir: - enlem ve boylam girilerek - bir referans noktasından radyal mesafe",
+    "title_tr": "Ara nokta tanımlayıcısı"
   },
   {
     "id": "s07",
-    "title": "In the following example, waypoint AZZY cannot be located in…",
+    "title": "following example waypoint",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "In the following example, waypoint AZZY cannot be located in the navigational data base.",
-    "caption_tr": ""
+    "caption_tr": "Aşağıdaki örnekte, AZZY yol noktası navigasyon veri tabanında bulunamıyor.",
+    "title_tr": "Aşağıdaki örnek yol"
   },
   {
     "id": "s08",
-    "title": "Entering AZZY will bring up a new screen for you to enter th…",
+    "title": "Entering AZZY will",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Entering AZZY will bring up a new screen for you to enter the co-ordinates for defining this waypoint.",
-    "caption_tr": ""
+    "caption_tr": "AZZY'ye girdiğinizde bu yol noktasını tanımlamak için koordinatları girmeniz için yeni bir ekran açılacaktır.",
+    "title_tr": "AZZY'ye girmek"
   },
   {
     "id": "s09",
-    "title": "If the co-ordinates are known, the latitude and longitude ca…",
+    "title": "co-ordinates are latitude",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "If the co-ordinates are known, the latitude and longitude can be entered directly by using the alphanumeric keys.",
-    "caption_tr": ""
+    "caption_tr": "Koordinatlar biliniyorsa enlem ve boylam alfanümerik tuşlar kullanılarak doğrudan girilebilir.",
+    "title_tr": "Koordinatlar enlemdir"
   },
   {
     "id": "s10",
-    "title": "These co-ordinates can also be determined by the radialdista…",
+    "title": "These co-ordinates can",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "These co-ordinates can also be determined by the radialdistance method from a known reference point.",
-    "caption_tr": ""
+    "caption_tr": "Bu koordinatlar bilinen bir referans noktasından radyal uzaklık yöntemiyle de belirlenebilir.",
+    "title_tr": "Bu koordinatlar"
   },
   {
     "id": "s11",
-    "title": "Waypoints can also be created by using the joystick located …",
+    "title": "Waypoints can also",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Waypoints can also be created by using the joystick located behind the thrust levers. The joystick controls the movement of the designator on the Waypoints created this way are known as Radar Waypoints.",
-    "caption_tr": ""
+    "caption_tr": "İtme kollarının arkasında bulunan kumanda kolu kullanılarak da yol noktaları oluşturulabilir. Kumanda kolu, bu şekilde oluşturulan Yol Noktaları üzerindeki işaretleyicinin hareketini kontrol eder ve Radar Yol Noktaları olarak bilinir.",
+    "title_tr": "Yol noktaları aynı"
   },
   {
     "id": "s12",
-    "title": "When the designator is moved to the desired position and the…",
+    "title": "designator moved desired",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "When the designator is moved to the desired position and the ENT button is pressed on the bezel controller, the co-ordinates of this point are sent",
-    "caption_tr": ""
+    "caption_tr": "İşaretleyici istenilen konuma getirilip çerçeve kumandasındaki ENT butonuna basıldığında bu noktanın koordinatları gönderilir.",
+    "title_tr": "İşaretleyici istenilen yere"
   },
   {
     "id": "s13",
-    "title": "The will accept these co-ordinates as a radar waypoint and a…",
+    "title": "will accept these",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The will accept these co-ordinates as a radar waypoint and assign it a name R, where is a number between 1 and Hence, the maximum number of such waypoints is twenty-five.",
-    "caption_tr": ""
+    "caption_tr": "Bu koordinatları bir radar yol noktası olarak kabul edecek ve ona 1 ile 1 arasında bir sayı olan R adını atayacaktır. Dolayısıyla bu tür yol noktalarının maksimum sayısı yirmi beştir.",
+    "title_tr": "Bunları kabul edecek"
   },
   {
     "id": "s14",
-    "title": "The radar waypoints can be called up using the LIST button, …",
+    "title": "radar waypoints can",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The radar waypoints can be called up using the LIST button, on VOPPLT page. These waypoints may be used in the Direct To\" function or they may be added to the flight plan.",
-    "caption_tr": ""
+    "caption_tr": "Radar yol noktaları, VOPPLT sayfasındaki LIST düğmesi kullanılarak çağrılabilir. Bu yol noktaları Direct To\" işlevinde kullanılabilir veya uçuş planına eklenebilir.",
+    "title_tr": "Radar yol noktaları"
   },
   {
     "id": "s15",
-    "title": "Inserting the prompt with appropriate radar waypoint number …",
+    "title": "Inserting prompt appropriate",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Inserting the prompt with appropriate radar waypoint number and then ENTER will add this waypoint on the flight plan.",
-    "caption_tr": ""
+    "caption_tr": "Uygun radar yol noktası numarasını içeren istemin eklenmesi ve ardından ENTER, bu yol noktasını uçuş planına ekleyecektir.",
+    "title_tr": "Uygun bilgi istemi"
   },
   {
     "id": "s16",
-    "title": "For example, radar waypoint 1 is to be inserted after Highli…",
+    "title": "example radar waypoint",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "For example, radar waypoint 1 is to be inserted after Highlight number 3 as shown in the picture. Access the VORPLT page from LIST button and insert waypoint number 1 into the prompt. Pressing ENTER button will include radar waypoint into the flight plan.",
-    "caption_tr": ""
+    "caption_tr": "Örneğin, radar yol noktası 1, resimde gösterildiği gibi Vurgu numarası 3'ten sonra eklenecektir. LIST butonundan VORPLT sayfasına erişin ve komut istemine 1 numaralı ara noktayı ekleyin. ENTER tuşuna basıldığında radar yol noktası uçuş planına dahil edilecektir.",
+    "title_tr": "Örnek radar yol"
   },
   {
     "id": "s17",
-    "title": "All radar waypoints are automatically erased upon shutdown.",
+    "title": "radar waypoints are",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "All radar waypoints are automatically erased upon shutdown.",
-    "caption_tr": ""
+    "caption_tr": "Kapatma sonrasında tüm radar yol noktaları otomatik olarak silinir.",
+    "title_tr": "Radar geçiş noktaları"
   },
   {
     "id": "s18",
-    "title": "Normally automatic leg changes will occur before the TO wayp…",
+    "title": "Normally automatic leg",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Normally automatic leg changes will occur before the TO waypoint at a distance based upon ground speed, angle of turn, and roll steering bank limit for the present altitude. This is known as Smart Turn.",
-    "caption_tr": ""
+    "caption_tr": "Normalde otomatik bacak değişiklikleri, TO yol noktasından önce, mevcut irtifa için yer hızına, dönüş açısına ve yuvarlanma direksiyon yatış limitine bağlı olarak belli bir mesafede gerçekleşecektir. Bu, Akıllı Dönüş olarak bilinir.",
+    "title_tr": "Normalde otomatik bacak"
   },
   {
     "id": "s19",
-    "title": "A flyover waypoint is a waypoint which will cause the naviga…",
+    "title": "flyover waypoint which",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "A flyover waypoint is a waypoint which will cause the navigation computer to delay making an automatic leg change until the aircraft is over the waypoint.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş geçiş noktası, navigasyon bilgisayarının, uçak yol noktasının üzerine gelinceye kadar otomatik bacak değişikliği yapmayı geciktirmesine neden olacak bir geçiş noktasıdır.",
+    "title_tr": "Geçiş noktası"
   },
   {
     "id": "s20",
-    "title": "A flyover waypoint is indicated by an asterisk () following …",
+    "title": "flyover waypoint asterisk",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "A flyover waypoint is indicated by an asterisk () following the waypoint identifier.",
-    "caption_tr": ""
+    "caption_tr": "Bir geçiş yol noktası, yol noktası tanımlayıcısının ardından bir yıldız işareti () ile gösterilir.",
+    "title_tr": "Geçiş noktası yıldız"
   },
   {
     "id": "s21",
-    "title": "To insert the is used to position the cursor over the waypoi…",
+    "title": "insert position cursor",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "To insert the is used to position the cursor over the waypoint to be defined as a flyover waypoint. An () will appear after the waypoint identifier to indicates that it is a flyover waypoint when OVFLY is pressed. Please note that ( also appears when BACK key is used.",
-    "caption_tr": ""
+    "caption_tr": "Eklemek için, imleci geçiş noktası olarak tanımlanacak yol noktasının üzerine konumlandırmak için kullanılır. OVFLY'e basıldığında bunun bir geçiş yol noktası olduğunu belirtmek için yol noktası tanımlayıcısından sonra bir () görünecektir. Lütfen ( GERİ tuşu kullanıldığında da göründüğünü unutmayın.",
+    "title_tr": "Konum imlecini ekle"
   },
   {
     "id": "s22",
-    "title": "The insertion of asterisk on the waypoint changes OVFLY prom…",
+    "title": "insertion asterisk waypoint",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The insertion of asterisk on the waypoint changes OVFLY prompt to cancel over fly OVFLY). Selecting this will remove asterisk from the affect waypoint. The same result is achieved with the BACK key.",
-    "caption_tr": ""
+    "caption_tr": "Yol noktasına yıldız işaretinin eklenmesi, OVFLY üzerinden uçmayı iptal etme istemini değiştirir (OVFLY). Bunu seçmek, etkilenen yol noktasından yıldız işaretini kaldıracaktır. Aynı sonuç BACK tuşuyla da elde edilir.",
+    "title_tr": "Yıldız işareti ara"
   },
   {
     "id": "s23",
-    "title": "The DTO function key is used in flight to command a direct t…",
+    "title": "DTO function key",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "The DTO function key is used in flight to command a direct track from present position to a waypoint along the flight plan route. Let's fly direct from present position to (Hat Yai). To select touch DTO function key",
-    "caption_tr": ""
+    "caption_tr": "DTO fonksiyon tuşu, uçuşta mevcut konumdan uçuş planı rotası boyunca bir yol noktasına doğrudan bir rotayı komuta etmek için kullanılır. Şimdiki konumdan doğrudan (Hat Yai)'ye uçalım. Seçmek için DTO fonksiyon tuşuna dokunun",
+    "title_tr": "DTO işlev tuşu"
   },
   {
     "id": "s24",
-    "title": "Locate the reference number of the next desired direct-to wa…",
+    "title": "Locate reference number",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Locate the reference number of the next desired direct-to waypoints and enter the desired number. Select 10 keys and ENTER.",
-    "caption_tr": ""
+    "caption_tr": "Bir sonraki istenen doğrudan yol noktalarının referans numarasını bulun ve istenen numarayı girin. 10 tuşu seçin ve ENTER'a basın.",
+    "title_tr": "Referans numarasını bulun"
   },
   {
     "id": "s25",
-    "title": "The NAV page will be displayed with the track and distance o…",
+    "title": "NAV page will",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "The NAV page will be displayed with the track and distance of present position (PPOS) to Press to return to flight plan.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş planına dönmek için tuşuna bastığınızda, mevcut konumun yolu ve mesafesi (PPOS) ile birlikte NAV sayfası görüntülenecektir.",
+    "title_tr": "NAV sayfası"
   },
   {
     "id": "s26",
-    "title": "You will notice that the caret is now at and the associated …",
+    "title": "You will notice",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "You will notice that the caret is now at and the associated data has changed to magenta.",
-    "caption_tr": ""
+    "caption_tr": "İmlecin artık konumunda olduğunu ve ilgili verilerin macentaya dönüştüğünü fark edeceksiniz.",
+    "title_tr": "Fark edeceksin"
   }
 ]

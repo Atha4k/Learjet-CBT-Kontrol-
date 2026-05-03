@@ -1,58 +1,65 @@
 [
   {
     "id": "s01",
-    "title": "The APU control system ensures the safe operation of the APU…",
+    "title": "APU control system",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The APU control system ensures the safe operation of the APU. It consists of : 1. Electronic Control Unit (ECU) 2. APU cockpit control panel 3. APU maintenance panel (not shown in picture) ",
-    "caption_tr": ""
+    "caption_tr": "APU kontrol sistemi APU'nun güvenli çalışmasını sağlar. Şunlardan oluşur: 1. Elektronik Kontrol Ünitesi (ECU) 2. APU kokpit kontrol paneli 3. APU bakım paneli (resimde gösterilmemiştir)",
+    "title_tr": "APU kontrol sistemi"
   },
   {
     "id": "s02",
-    "title": "Electronic Control Unit (ECU) This is located in the tail-co…",
+    "title": "Electronic Control Unit",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Electronic Control Unit (ECU) This is located in the tail-cone section. The ECU commands the start and monitors the operation of the APU. itis also linked to the maintenance panel and cockpit panel.",
-    "caption_tr": ""
+    "caption_tr": "Elektronik Kontrol Ünitesi (ECU) Bu, kuyruk konisi bölümünde bulunur. ECU başlatma komutunu verir ve APU'nun çalışmasını izler. aynı zamanda bakım paneli ve kokpit paneline de bağlıdır.",
+    "title_tr": "Elektronik Kontrol Ünitesi"
   },
   {
     "id": "s03",
-    "title": "The ECU is a fully automatic, digital unit. it sends and rec…",
+    "title": "ECU fully automatic",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The ECU is a fully automatic, digital unit. it sends and receives electrical signals to safely operate the APU and shut down the APU when necessary. Before the APU is started, the ECU will perform a self-test. Its protective logic will prevent an APU start if it deems the APU operation not to be safe.",
-    "caption_tr": ""
+    "caption_tr": "ECU tam otomatik, dijital bir ünitedir. APU'yu güvenli bir şekilde çalıştırmak ve gerektiğinde APU'yu kapatmak için elektrik sinyalleri gönderip alır. APU başlatılmadan önce ECU bir kendi kendine test gerçekleştirecektir. Koruyucu mantığı, APU işleminin güvenli olmadığına karar verirse APU'nun başlatılmasını önleyecektir.",
+    "title_tr": "ECU tam otomatik"
   },
   {
     "id": "s04",
-    "title": "All operations of the APU are monitored by the ECU. These ar…",
+    "title": "APU are monitored",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "All operations of the APU are monitored by the ECU. These are listed above. ro rea am RE wri",
-    "caption_tr": ""
+    "caption_tr": "APU'nun tüm işlemleri ECU tarafından izlenir. Bunlar yukarıda listelenmiştir. ben gerçekten RE'yim",
+    "title_tr": "APU izleniyor"
   },
   {
     "id": "s05",
-    "title": "Any fault that adversely affect the APU operation will cause…",
+    "title": "Any fault that",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Any fault that adversely affect the APU operation will cause the ECU to automatically shut down the APU. These faults are listed above. The APU will automatically shutdown if the ECU is un-powered. ",
-    "caption_tr": ""
+    "caption_tr": "APU'nun çalışmasını olumsuz yönde etkileyen herhangi bir arıza, ECU'nun APU'yu otomatik olarak kapatmasına neden olacaktır. Bu arızalar yukarıda listelenmiştir. ECU'nun gücü kesildiğinde APU otomatik olarak kapanacaktır.",
+    "title_tr": "Herhangi bir hata"
   },
   {
     "id": "s06",
-    "title": "The APU maintenance panel is also located in the aft cone ar…",
+    "title": "APU maintenance panel",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The APU maintenance panel is also located in the aft cone area above the Electronic Control Unit (not shown in above picture ). It displays the condition of the APU and provides signals for safe operation of the APU. The maintenance crew uses this panel to monitor the APU health and condition.",
-    "caption_tr": ""
+    "caption_tr": "APU bakım paneli aynı zamanda Elektronik Kontrol Ünitesinin üzerindeki arka koni alanında da bulunur (yukarıdaki resimde gösterilmemiştir). APU'nun durumunu görüntüler ve APU'nun güvenli çalışması için sinyaller sağlar. Bakım ekibi bu paneli APU sağlığını ve durumunu izlemek için kullanır.",
+    "title_tr": "APU bakım paneli"
   },
   {
     "id": "s07",
-    "title": "This is located on the aft center pedestal. It is used to co…",
+    "title": "This located aft",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "This is located on the aft center pedestal. It is used to control the APU and monitor the electrical load of the startergenerator. The crew uses this panel to start and stop the APU.",
-    "caption_tr": ""
+    "caption_tr": "Bu, arka orta kaidenin üzerinde bulunur. APU'yu kontrol etmek ve marş jeneratörünün elektrik yükünü izlemek için kullanılır. Mürettebat bu paneli APU'yu başlatmak ve durdurmak için kullanıyor.",
+    "title_tr": "arkada yer alan"
   }
 ]

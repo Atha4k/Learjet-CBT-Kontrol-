@@ -1,386 +1,434 @@
 [
   {
     "id": "s01",
-    "title": "MFD main menu is the power-up default menu. This menu is als…",
+    "title": "MFD main menu",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "MFD main menu is the power-up default menu. This menu is also displayed upon returning from any submenu. Main menu consists of: system (SYS), multi-function display (MFD), checklist (CKLST), weather (WX), MAP/PLAN, and MAP/PLAN range.",
-    "caption_tr": ""
+    "caption_tr": "MFD ana menüsü açılışta varsayılan menüdür. Bu menü herhangi bir alt menüden dönüldüğünde de görüntülenir. Ana menü şunlardan oluşur: sistem (SYS), çok fonksiyonlu ekran (MFD), kontrol listesi (CKLST), hava durumu (WX), MAP/PLAN ve MAP/PLAN aralığı.",
+    "title_tr": "MFD ana menüsü"
   },
   {
     "id": "s02",
-    "title": "CKLST menus are not applicable on SIA's aircrafts.",
+    "title": "CHECK LIST menus are",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "CKLST menus are not applicable on SIA's aircrafts.",
-    "caption_tr": ""
+    "caption_en": "CHECK LIST menus are not applicable on REDSTAR's aircrafts.",
+    "caption_tr": "CHECK LIST menüleri REDSTAR uçaklarında geçerli değildir.",
+    "title_tr": "CHECK LIST menüleri"
   },
   {
     "id": "s03",
-    "title": "The main menu can be broken further into several submenus as…",
+    "title": "main menu can",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The main menu can be broken further into several submenus as shown above.",
-    "caption_tr": ""
+    "caption_tr": "Ana menü yukarıda gösterildiği gibi birkaç alt menüye ayrılabilir.",
+    "title_tr": "ana menü"
   },
   {
     "id": "s04",
-    "title": "Anytime one of these sub-menu is displayed and RTN menu butt…",
+    "title": "Anytime one these",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Anytime one of these sub-menu is displayed and RTN menu button is pressed, it will change that sub-menu to main",
-    "caption_tr": ""
+    "caption_tr": "Bu alt menülerden herhangi biri görüntülendiğinde ve RTN menü tuşuna basıldığında, o alt menü ana menüye dönüşecektir.",
+    "title_tr": "Bunlardan herhangi biri"
   },
   {
     "id": "s05",
-    "title": "Let us now concentrate on the main menu. MAP mode and SUMRY …",
+    "title": "Let us concentrate",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Let us now concentrate on the main menu. MAP mode and SUMRY page are displayed by default on power-up.Therefore, SYS and MAP menus are boxed.",
-    "caption_tr": ""
+    "caption_tr": "Şimdi ana menüye odaklanalım. MAP modu ve SUMRY sayfası, açılışta varsayılan olarak görüntülenir. Bu nedenle SYS ve MAP menüleri kutuludur.",
+    "title_tr": "Konsantre olalım"
   },
   {
     "id": "s06",
-    "title": "If the weather radar is ON, pushing the WX menu button selec…",
+    "title": "weather radar pushing",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "If the weather radar is ON, pushing the WX menu button select weather display on MFD. At the same time, WX menu is boxed and MP RNG menu is removed. This means that the range knob function is disabled.",
-    "caption_tr": ""
+    "caption_tr": "Hava durumu radarı AÇIK ise, WX menü düğmesine basılarak MFD'deki hava durumu ekranı seçilir. Aynı zamanda WX menüsü kutulu olup MP RNG menüsü kaldırılmıştır. Bu, aralık düğmesi fonksiyonunun devre dışı bırakıldığı anlamına gelir.",
+    "title_tr": "hava durumu radarı"
   },
   {
     "id": "s07",
-    "title": "When weather is selected on the MFD, range control is by ran…",
+    "title": "weather selected MFD",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "When weather is selected on the MFD, range control is by range buttons on the weather radar control panel. The UP arrow increases the range and the down arrow decreases the range. Maximum range selectable is 300 NM. Range is defaulted to 50 NM if weather radar is off.",
-    "caption_tr": ""
+    "caption_tr": "MFD'de hava durumu seçildiğinde menzil kontrolü, hava durumu radarı kontrol panelindeki menzil düğmeleriyle yapılır. YUKARI ok aralığı artırır, aşağı ok ise aralığı azaltır. Seçilebilen maksimum aralık 300 NM'dir. Hava durumu radarı kapalıysa menzil varsayılan olarak 50 NM'dir.",
+    "title_tr": "hava durumu seçildi"
   },
   {
     "id": "s08",
-    "title": "If WX menu is selected and now MAPPLAN button is pushed, it …",
+    "title": "WX menu selected",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "If WX menu is selected and now MAPPLAN button is pushed, it will change MAP to PLAN display and 1) PLAN menu is boxed, 2) WX menu box is removed, and 3) MP RNG knob is enabled.",
-    "caption_tr": ""
+    "caption_tr": "WX menüsü seçilmişse ve şimdi MAPPLAN düğmesine basılmışsa, MAP, PLAN ekranına değişecektir ve 1) PLAN menüsü kutulanır, 2) WX menü kutusu kaldırılır ve 3) MP RNG düğmesi etkinleştirilir.",
+    "title_tr": "WX menüsü seçildi"
   },
   {
     "id": "s09",
-    "title": "Pushing MAPPLAN button again reverts to MAP mode with weathe…",
+    "title": "Pushing MAPPLAN button",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Pushing MAPPLAN button again reverts to MAP mode with weather display. MAP mode is also obtained if the existing display is PLAN and WX button is pushed.",
-    "caption_tr": ""
+    "caption_tr": "MAPPLAN düğmesine tekrar basıldığında hava durumu göstergeli MAP moduna geri dönülür. Mevcut ekranın PLAN olması ve WX butonuna basılması durumunda da MAP modu elde edilir.",
+    "title_tr": "MAPPLAN düğmesine basmak"
   },
   {
     "id": "s10",
-    "title": "Weather deselection is done by depressing the menu button wi…",
+    "title": "Weather deselection done",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Weather deselection is done by depressing the menu button with the boxed WX. Do that.",
-    "caption_tr": ""
+    "caption_tr": "Hava durumu seçiminin kaldırılması, kutulu WX ile menü düğmesine basılarak yapılır. Bunu yap.",
+    "title_tr": "Hava durumu seçimi"
   },
   {
     "id": "s11",
-    "title": "Weather deselection is done by depressing the menu button wi…",
+    "title": "Weather deselection done",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Weather deselection is done by depressing the menu button with the boxed WX. Do that.",
-    "caption_tr": ""
+    "caption_tr": "Hava durumu seçiminin kaldırılması, kutulu WX ile menü düğmesine basılarak yapılır. Bunu yap.",
+    "title_tr": "Hava durumu seçimi"
   },
   {
     "id": "s12",
-    "title": "SUMRY is a system page which is displayed on power up. There…",
+    "title": "SUMRY system page",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "SUMRY is a system page which is displayed on power up. Therefore, on the MFD main menu, SYS menu is boxed. Pushing SYS button removes SUMRY display and the box on SYS.",
-    "caption_tr": ""
+    "caption_tr": "SUMRY, açılışta görüntülenen bir sistem sayfasıdır. Bu nedenle MFD ana menüsünde SYS menüsü kutuludur. SYS düğmesine basıldığında SUMRY ekranı ve SYS üzerindeki kutucuk kaldırılır.",
+    "title_tr": "ÖZET sistem sayfası"
   },
   {
     "id": "s13",
-    "title": "SUMRY is a system page which is displayed on power up. There…",
+    "title": "SUMRY system page",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "SUMRY is a system page which is displayed on power up. Therefore, on the MFD main menu, SYS menu is boxed. Pushing SYS button removes SUMRY display and the box on SYS.",
-    "caption_tr": ""
+    "caption_tr": "SUMRY, açılışta görüntülenen bir sistem sayfasıdır. Bu nedenle MFD ana menüsünde SYS menüsü kutuludur. SYS düğmesine basıldığında SUMRY ekranı ve SYS üzerindeki kutucuk kaldırılır.",
+    "title_tr": "ÖZET sistem sayfası"
   },
   {
     "id": "s14",
-    "title": "If the SYS button is pressed again, SUMRY is brought back an…",
+    "title": "SYS button pressed",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "If the SYS button is pressed again, SUMRY is brought back and the main menu is replaced by system submenu.",
-    "caption_tr": ""
+    "caption_tr": "SYS tuşuna tekrar basıldığında SUMRY geri gelir ve ana menünün yerini sistem alt menüsü alır.",
+    "title_tr": "SYS düğmesine basıldı"
   },
   {
     "id": "s15",
-    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
+    "title": "Except menu RTN",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
-    "caption_tr": ""
+    "caption_tr": "RTN ve MP RNG menüsü haricinde MFD sistemi alt menüsünün işlevi EICAS'ınkinden farklı değildir. Bu menülerden her birinin seçilmesi ilgili sistem sayfalarını görüntüleyecektir. RTN menüsünün seçildiğinde menüyü takip ettiğine dikkat edin.",
+    "title_tr": "Menü RTN'si hariç"
   },
   {
     "id": "s16",
-    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
+    "title": "Except menu RTN",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
-    "caption_tr": ""
+    "caption_tr": "RTN ve MP RNG menüsü haricinde MFD sistemi alt menüsünün işlevi EICAS'ınkinden farklı değildir. Bu menülerden her birinin seçilmesi ilgili sistem sayfalarını görüntüleyecektir. RTN menüsünün seçildiğinde menüyü takip ettiğine dikkat edin.",
+    "title_tr": "Menü RTN'si hariç"
   },
   {
     "id": "s17",
-    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
+    "title": "Except menu RTN",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
-    "caption_tr": ""
+    "caption_tr": "RTN ve MP RNG menüsü haricinde MFD sistemi alt menüsünün işlevi EICAS'ınkinden farklı değildir. Bu menülerden her birinin seçilmesi ilgili sistem sayfalarını görüntüleyecektir. RTN menüsünün seçildiğinde menüyü takip ettiğine dikkat edin.",
+    "title_tr": "Menü RTN'si hariç"
   },
   {
     "id": "s18",
-    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
+    "title": "Except menu RTN",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
-    "caption_tr": ""
+    "caption_tr": "RTN ve MP RNG menüsü haricinde MFD sistemi alt menüsünün işlevi EICAS'ınkinden farklı değildir. Bu menülerden her birinin seçilmesi ilgili sistem sayfalarını görüntüleyecektir. RTN menüsünün seçildiğinde menüyü takip ettiğine dikkat edin.",
+    "title_tr": "Menü RTN'si hariç"
   },
   {
     "id": "s19",
-    "title": "Except for the menu RTN and MP RNG, the function of the MFD …",
+    "title": "Except menu RTN",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Except for the menu RTN and MP RNG, the function of the MFD system submenu is no different to that of EICAS. Selecting each of these menu will display the relevant system pages. Notice that the RTN menu follows the menu when itis selected.",
-    "caption_tr": ""
+    "caption_tr": "RTN ve MP RNG menüsü haricinde MFD sistemi alt menüsünün işlevi EICAS'ınkinden farklı değildir. Bu menülerden her birinin seçilmesi ilgili sistem sayfalarını görüntüleyecektir. RTN menüsünün seçildiğinde menüyü takip ettiğine dikkat edin.",
+    "title_tr": "Menü RTN'si hariç"
   },
   {
     "id": "s20",
-    "title": "The above picture shows fuel is selcted on the menu. If FUEL…",
+    "title": "above picture fuel",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "The above picture shows fuel is selcted on the menu. If FUEL button is pushed, systems menu will switch to main menu. Fuel schematic remains displayed on the MFD. However, SYS menu is boxed to indicate the presence of the schematic on the MFD.",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki resimde yakıtın menüden seçildiği görülmektedir. YAKIT butonuna basıldığında sistem menüsünden ana menüye geçiş yapılır. Yakıt şeması MFD'de görüntülenmeye devam eder. Ancak SYS menüsü, MFD'de şematik varlığını belirtmek için kutulanmıştır.",
+    "title_tr": "yukarıdaki resmin yakıtı"
   },
   {
     "id": "s21",
-    "title": "If the SYS button is pushed, it will remove the last selecte…",
+    "title": "SYS button pushed",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "If the SYS button is pushed, it will remove the last selected system on display and at the same time, the box on the SYS disappears.",
-    "caption_tr": ""
+    "caption_tr": "SYS butonuna basıldığında ekranda en son seçilen sistem kaldırılır ve aynı zamanda SYS üzerindeki kutucuk kaybolur.",
+    "title_tr": "SYS butonuna basıldı"
   },
   {
     "id": "s22",
-    "title": "Pushing MFD button on the main menu opens up submenu consist…",
+    "title": "Pushing MFD button",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "Pushing MFD button on the main menu opens up submenu consisting of RTN, speeds (SPDS), joystick (JS TK), navigation (NAV) and airport (APT), DATA and MP RNG.",
-    "caption_tr": ""
+    "caption_tr": "Ana menüdeki MFD butonuna basıldığında RTN, hızlar (SPDS), joystick (JS TK), navigasyon (NAV) ve havaalanı (APT), DATA ve MP RNG'den oluşan alt menü açılır.",
+    "title_tr": "MFD düğmesine basmak"
   },
   {
     "id": "s23",
-    "title": "The NAV and APT menus are not boxed initially. Pushing the a…",
+    "title": "NAV APT menus",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "The NAV and APT menus are not boxed initially. Pushing the associate button box up the NAV",
-    "caption_tr": ""
+    "caption_tr": "NAV ve APT menüleri başlangıçta kutulu değildir. İlişkilendirme düğmesi kutusunu NAV'da yukarıya doğru itmek",
+    "title_tr": "NAV APT menüleri"
   },
   {
     "id": "s24",
-    "title": "With NAV boxed, NAV is annunciated in green on the right. MF…",
+    "title": "NAV boxed annunciated",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "With NAV boxed, NAV is annunciated in green on the right. MFD is provided with up to eight closest VORVORTACSs or NDBs in relation to the airplane. This is further limited to a maximum of four VORVORTACSs and four ADFs. Each navaid has an identifier. All symbols and identifiers are in green.",
-    "caption_tr": ""
+    "caption_tr": "NAV kutulu olduğunda NAV sağda yeşil renkle gösterilir. MFD, uçakla ilgili olarak sekiz adede kadar en yakın VORVORTACS veya NDB ile sağlanır. Bu ayrıca maksimum dört VORVORTACS ve dört ADF ile sınırlıdır. Her navigasyon yardımcısının bir tanımlayıcısı vardır. Tüm semboller ve tanımlayıcılar yeşil renktedir.",
+    "title_tr": "NAV kutulu duyuruldu"
   },
   {
     "id": "s25",
-    "title": "Pushing the same the second time remove the box on NAV and b…",
+    "title": "Pushing same second",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Pushing the same the second time remove the box on NAV and box up APT menu. With APT boxed, APT is annunciated in cyan. MFD is provided with up to four closest airport symbols and identifiers. Symbols and identifiers are in cyan.",
-    "caption_tr": ""
+    "caption_tr": "Aynı tuşa ikinci kez bastığınızda NAV üzerindeki kutuyu kaldırın ve APT menüsünü kutulayın. APT kutulu olduğunda APT camgöbeği rengiyle belirtilir. MFD, en yakın dört havaalanı sembolü ve tanımlayıcısıyla sağlanır. Semboller ve tanımlayıcılar camgöbeği rengindedir.",
+    "title_tr": "Aynı saniye basıyorum"
   },
   {
     "id": "s26",
-    "title": "At the third push, both NAV and APT are boxed. This time bot…",
+    "title": "third push NAV",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "At the third push, both NAV and APT are boxed. This time both navaids and airports are called up for display on the MFD.",
-    "caption_tr": ""
+    "caption_tr": "Üçüncü basışta hem NAV hem de APT kutulanır. Bu sefer hem navigasyon yardımcıları hem de havalimanları MFD'de görüntülenmek üzere çağrılıyor.",
+    "title_tr": "üçüncü basış NAV"
   },
   {
     "id": "s27",
-    "title": "Pushing the button the fourth time removes the box and all n…",
+    "title": "Pushing button fourth",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "Pushing the button the fourth time removes the box and all navaids and airports displays are cleared from the MFD.",
-    "caption_tr": ""
+    "caption_tr": "Düğmeye dördüncü kez basıldığında kutu kaldırılır ve tüm navigasyon yardımcıları ve havaalanı ekranları MFD'den temizlenir.",
+    "title_tr": "Dördüncü düğmeye basılıyor"
   },
   {
     "id": "s28",
-    "title": "The DATA button allows for selection or deselection of NAVAI…",
+    "title": "DATA button allows",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The DATA button allows for selection or deselection of NAVAIDNDB and airport idents. The power-up default is ident ON. Pushing DATA button will remove these idents.",
-    "caption_tr": ""
+    "caption_tr": "VERİ düğmesi, NAVAIDNDB ve havaalanı kimliklerinin seçilmesine veya seçiminin kaldırılmasına olanak tanır. Açılış varsayılanı özdeş AÇIK'tır. DATA butonuna basıldığında bu kimlikler kaldırılacaktır.",
+    "title_tr": "VERİ düğmesi izin"
   },
   {
     "id": "s29",
-    "title": "The picture shows Vspeeds submenu when SPDS button is select…",
+    "title": "picture Vspeeds submenu",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "The picture shows Vspeeds submenu when SPDS button is selected. A boxed FMS indicates FMS is the source for the Vspeeds computation. The pilot programmes the FMS with valid data and the dashes turn to digital values that are received from FMS.",
-    "caption_tr": ""
+    "caption_tr": "Resimde SPDS düğmesi seçildiğinde Vspeeds alt menüsü gösterilmektedir. Kutulu bir FMS, Vspeeds hesaplamasının kaynağının FMS olduğunu gösterir. Pilot, FMS'yi geçerli verilerle programlar ve çizgiler, FMS'den alınan dijital değerlere dönüşür.",
+    "title_tr": "resim Vspeeds alt"
   },
   {
     "id": "s30",
-    "title": "The computed Vspeeds are displayed on the menu and at the bo…",
+    "title": "computed Vspeeds are",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "The computed Vspeeds are displayed on the menu and at the bottom of speed tape on both PFDs. V1 speed is displayed in white, VR in cyan and V2 in green in colour.",
-    "caption_tr": ""
+    "caption_tr": "Hesaplanan Vhızları her iki PFD'de menüde ve hız bandının altında görüntülenir. V1 hızı beyaz renkte, VR camgöbeği renkte ve V2 yeşil renkte görüntülenir.",
+    "title_tr": "hesaplanan Vhızları"
   },
   {
     "id": "s31",
-    "title": "FMS Vspeeds may be overridden by setting the Vspeeds manuall…",
+    "title": "FMS Vspeeds may",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "FMS Vspeeds may be overridden by setting the Vspeeds manually. In setting Vspeeds manually, it is not necessary to set Vspeed in sequence i.e. V1 followed by VR and then V2. However, in the steps given below, Vspeeds are set sequentially.",
-    "caption_tr": ""
+    "caption_tr": "FMS Vhızları, Vhızları manuel olarak ayarlayarak geçersiz kılınabilir. Vspeed'leri manuel olarak ayarlarken, Vspeed'i sırayla ayarlamak gerekli değildir; yani V1, ardından VR ve ardından V2. Ancak aşağıda verilen adımlarda Vspeed'ler sıralı olarak ayarlanır.",
+    "title_tr": "FMS Vhızları"
   },
   {
     "id": "s32",
-    "title": "Step 1): Referring to the picture above, there are two ways …",
+    "title": "Referring picture above",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "Step 1): Referring to the picture above, there are two ways to navigate from page 1 to page 3, the page in which Vspeeds are manually selected. On page 3, SET is seen above the rotary knob. The rotary knob is used to set Vspeeds. So, with V1 value surrounded with two boxes, the value can be changed by the SET knob.",
-    "caption_tr": ""
+    "caption_tr": "Adım 1): Yukarıdaki resme bakıldığında, Vspeed'lerin manuel olarak seçildiği sayfa 1'den sayfa 3'e gitmenin iki yolu vardır. 3. sayfada döner düğmenin üzerinde SET görülmektedir. Döner düğme Vhızlarını ayarlamak için kullanılır. Böylece, V1 değeri iki kutu ile çevrelendiğinde, değer SET düğmesi ile değiştirilebilir.",
+    "title_tr": "Yukarıdaki resme atıfta"
   },
   {
     "id": "s33",
-    "title": "Step 2): Having changed V1, VR button is pushed next. This w…",
+    "title": "Having changed V1",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "Step 2): Having changed V1, VR button is pushed next. This will leave V1 with a single box and VR value with two boxes. Turning the SET knob changes the VR value. Now, touch the highlighted knob to simulate changing",
-    "caption_tr": ""
+    "caption_tr": "Adım 2): V1 değiştirildikten sonra VR butonuna basılır. Bu, V1'i tek bir kutuyla ve VR değerini iki kutuyla bırakacaktır. SET düğmesinin çevrilmesi VR değerini değiştirir. Şimdi, değişimi simüle etmek için vurgulanan düğmeye dokunun",
+    "title_tr": "V1'i değiştirdikten sonra"
   },
   {
     "id": "s34",
-    "title": "Step 3): Pushing V2 button allows V2 speed to be set by the …",
+    "title": "Pushing V2 button",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "Step 3): Pushing V2 button allows V2 speed to be set by the knob.",
-    "caption_tr": ""
+    "caption_tr": "Adım 3): V2 düğmesine basmak, V2 hızının düğmeyle ayarlanmasına olanak tanır.",
+    "title_tr": "V2 düğmesine basmak"
   },
   {
     "id": "s35",
-    "title": "When the V2 speed has been set, V2 button is pressed again t…",
+    "title": "V2 speed has",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "When the V2 speed has been set, V2 button is pressed again to remove the inner box. And now all the Vspeeds are boxed with a single box.",
-    "caption_tr": ""
+    "caption_tr": "V2 hızı ayarlandığında iç kutuyu çıkarmak için V2 düğmesine tekrar basılır. Ve artık tüm Vspeed'ler tek bir kutuda kutulanıyor.",
+    "title_tr": "V2 hızı var"
   },
   {
     "id": "s36",
-    "title": "If it is decided to revert to FMS Vspeeds, then the FMS VSPD…",
+    "title": "it decided revert",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "If it is decided to revert to FMS Vspeeds, then the FMS VSPDS button is pushed. This boxes FMS VSPDS and recalls all FMS computed Vspeeds. Manual Vspeeds are lost and SET disappears above the knob.",
-    "caption_tr": ""
+    "caption_tr": "FMS Vspeeds'e dönülmesine karar verilirse FMS VSPDS düğmesine basılır. Bu, FMS VSPDS'yi kutular ve tüm FMS tarafından hesaplanan Vhızlarını geri çağırır. Manüel V hızları kaybolur ve düğmenin üzerinde SET kaybolur.",
+    "title_tr": "dönmeye karar verdi"
   },
   {
     "id": "s37",
-    "title": "Pushing JSTK button on the MFD menu selects the joystick sub…",
+    "title": "Pushing JSTK button",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "Pushing JSTK button on the MFD menu selects the joystick submenu.",
-    "caption_tr": ""
+    "caption_tr": "MFD menüsünde JSTK düğmesine basıldığında joystick alt menüsü seçilir.",
+    "title_tr": "JSTK düğmesine basmak"
   },
   {
     "id": "s38",
-    "title": "Joystick submenu buttons are used in conjunction with joysti…",
+    "title": "Joystick submenu buttons",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "Joystick submenu buttons are used in conjunction with joystick located just aft of the thrust levers. The joystick controls the designator on the MFD map or plan view.",
-    "caption_tr": ""
+    "caption_tr": "Kumanda kolu alt menü düğmeleri, itme kollarının hemen arkasında bulunan kumanda koluyla birlikte kullanılır. Kumanda kolu, MFD haritası veya plan görünümündeki tanımlayıcıyı kontrol eder.",
+    "title_tr": "Kumanda kolu alt"
   },
   {
     "id": "s39",
-    "title": "In the map display, the designator orignates from airplane s…",
+    "title": "map designator orignates",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "In the map display, the designator orignates from airplane symbol (home position). It moves around the symbol by moving the joystick.",
-    "caption_tr": ""
+    "caption_tr": "Harita ekranında, tanımlayıcı uçak sembolünden (ana konum) kaynaklanır. Joystick'i hareket ettirerek sembolün etrafında hareket eder.",
+    "title_tr": "harita belirleyicisi ortaya"
   },
   {
     "id": "s40",
-    "title": "In the plan display, designator is fixed at the center of th…",
+    "title": "plan designator fixed",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "In the plan display, designator is fixed at the center of the circle, but the airplane symbol moves around the designator.",
-    "caption_tr": ""
+    "caption_tr": "Plan görünümünde işaretleyici dairenin merkezine sabitlenmiştir ancak uçak sembolü işaretleyicinin etrafında hareket eder.",
+    "title_tr": "plan belirleyici düzeltildi"
   },
   {
     "id": "s41",
-    "title": "In either display, whenever designator is displaced from its…",
+    "title": "either whenever designator",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "In either display, whenever designator is displaced from its home position, distance and bearing of the designator to the aircraft are displayed on the right side of the MFD.",
-    "caption_tr": ""
+    "caption_tr": "Her iki ekranda da, tanımlayıcı ana konumundan çıkarıldığında, tanımlayıcının uçağa olan mesafesi ve yönü MFD'nin sağ tarafında görüntülenir.",
+    "title_tr": "durumda da belirleyici"
   },
   {
     "id": "s42",
-    "title": "On power-up, the designator is co-located with the aircraft …",
+    "title": "power-up designator co-located",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "On power-up, the designator is co-located with the aircraft symbol. When the designator is parked at the aircraft symbol, it is not shown.",
-    "caption_tr": ""
+    "caption_tr": "Güç verildiğinde, tanımlayıcı uçak sembolüyle aynı yerde bulunur. Tanımlayıcı uçak sembolüne park edildiğinde gösterilmez.",
+    "title_tr": "güç açma göstergesi"
   },
   {
     "id": "s43",
-    "title": "To displace the designator from its home position, the joyst…",
+    "title": "displace designator its",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "To displace the designator from its home position, the joystick is moved UPIDOWNILEFTRIGHT and the designator will move correspondingly. Now, touch the UP arrow and watch. Touch right arrow",
-    "caption_tr": ""
+    "caption_tr": "Göstericiyi ana konumundan çıkarmak için joystick YUKARI-SOL SAĞA hareket ettirilir ve gösterge de buna uygun şekilde hareket eder. Şimdi YUKARI oka dokunun ve izleyin. Sağ oka dokunun",
+    "title_tr": "belirleyicinin yerini değiştir"
   },
   {
     "id": "s44",
-    "title": "Whenever designator is displaced, it can be recalled to its …",
+    "title": "Whenever designator displaced",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "Whenever designator is displaced, it can be recalled to its home position by pressing RCL button. Watch",
-    "caption_tr": ""
+    "caption_tr": "Tanımlayıcının yeri değiştirildiğinde, RCL düğmesine basılarak ana konumuna geri çağrılabilir. Kol saati",
+    "title_tr": "Tanımlayıcı her değiştirildiğinde"
   },
   {
     "id": "s45",
-    "title": "Whenever designator is displaced, it can be recalled to its …",
+    "title": "Whenever designator displaced",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "Whenever designator is displaced, it can be recalled to its home position by pressing RCL button. Watch",
-    "caption_tr": ""
+    "caption_tr": "Tanımlayıcının yeri değiştirildiğinde, RCL düğmesine basılarak ana konumuna geri çağrılabilir. Kol saati",
+    "title_tr": "Tanımlayıcı her değiştirildiğinde"
   },
   {
     "id": "s46",
-    "title": "With designator at home position, pressing SKP button repeat…",
+    "title": "designator home position",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "With designator at home position, pressing SKP button repeatedly skips designator from one waypoint to another. At the tenth waypoint pushing SKP will bring designator back to home position again. This feature enables crew to view and verify the flight plan.",
-    "caption_tr": ""
+    "caption_tr": "İşaretleyici ana konumdayken, SKP düğmesine basıldığında işaretleyici bir ara noktadan diğerine tekrar tekrar atlanır. Onuncu geçiş noktasında SKP'ye basmak, belirleyiciyi tekrar başlangıç ​​konumuna getirecektir. Bu özellik mürettebatın uçuş planını görüntülemesine ve doğrulamasına olanak tanır.",
+    "title_tr": "işaretleyicinin ana konumu"
   },
   {
     "id": "s47",
-    "title": "When the designator is offset, pushing ENT button causes the…",
+    "title": "designator offset pushing",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "When the designator is offset, pushing ENT button causes the latitude and longitude of the designator to be transmitted to the FMS as radar waypoint. Up to a maximum of 25 radar waypoints can be stored temporary in the FMS on that flight, after which all stored radar waypoints will be erased upon FMS shutdown.",
-    "caption_tr": ""
+    "caption_tr": "İşaretleyici ofsetlendiğinde ENT düğmesine basılması, işaretleyicinin enlem ve boylamının radar yol noktası olarak FMS'ye iletilmesine neden olur. Söz konusu uçuşta FMS'de maksimum 25'e kadar radar yol noktası geçici olarak saklanabilir; bundan sonra FMS kapatıldığında saklanan tüm radar yol noktaları silinecektir.",
+    "title_tr": "işaretleyici ofset itme"
   },
   {
     "id": "s48",
-    "title": "Radar waypoints are designated in the FMS as R1, R2 , etc ri…",
+    "title": "Radar waypoints are",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "Radar waypoints are designated in the FMS as R1, R2 , etc right up to R 25. They are accessible from the LIST function. Any of these waypoint can be retreived from the LIST function and make active on the flight plan.",
-    "caption_tr": ""
+    "caption_tr": "Radar yol noktaları FMS'de R25'e kadar R1, R2 vb. olarak belirlenir. Bunlara LIST işlevinden erişilebilir. Bu yol noktalarından herhangi biri LIST fonksiyonundan alınıp uçuş planında aktif hale getirilebilir.",
+    "title_tr": "Radar geçiş noktaları"
   }
 ]

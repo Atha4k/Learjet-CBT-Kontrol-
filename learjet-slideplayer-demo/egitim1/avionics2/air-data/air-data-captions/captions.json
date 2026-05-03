@@ -1,186 +1,209 @@
 [
   {
     "id": "s01",
-    "title": "Dual air data computers (known as ADCs 1 and 2) provide inde…",
+    "title": "Dual air data",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Dual air data computers (known as ADCs 1 and 2) provide independent, yet redundant air data information. The two digital ADCs, located in the nose section, are physically and functionally isolated from each other. The ADCs are sometimes referred to as micro ADCs.",
-    "caption_tr": ""
+    "caption_tr": "İkili hava veri bilgisayarları (ADC 1 ve 2 olarak bilinir) bağımsız ancak yedekli hava veri bilgisi sağlar. Burun kısmında bulunan iki dijital ADC fiziksel ve fonksiyonel olarak birbirinden izole edilmiştir. ADC'lere bazen mikro ADC'ler denir.",
+    "title_tr": "Çift hava verileri"
   },
   {
     "id": "s02",
-    "title": "The ADC receives pitot and static inputs from the main pitot…",
+    "title": "ADC receives pitot",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The ADC receives pitot and static inputs from the main pitot-static system, total air temperature from the dual element temperature probe and barometric correction input via the BARO set knob on the corresponding bezel controller.",
-    "caption_tr": ""
+    "caption_tr": "ADC, ana pitot-statik sistemden pitot ve statik girişleri, çift elemanlı sıcaklık probundan toplam hava sıcaklığını ve karşılık gelen çerçeve denetleyicisindeki BARO ayar düğmesi aracılığıyla barometrik düzeltme girişini alır.",
+    "title_tr": "ADC pitot alır"
   },
   {
     "id": "s03",
-    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "title": "ADC IC-600 following",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach,",
-    "caption_tr": ""
+    "caption_tr": "ADC, IC-600'e -1ASMach'a dağıtım için aşağıdaki girişleri sağlar,",
+    "title_tr": "ADC IC-600 takip"
   },
   {
     "id": "s04",
-    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "title": "ADC IC-600 following",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach, - maximum operating speed.VmoMmo,",
-    "caption_tr": ""
+    "caption_tr": "ADC, IC-600'e -1ASMach, - maksimum çalışma hızına dağıtım için aşağıdaki girişleri sağlar.VmoMmo,",
+    "title_tr": "ADC IC-600 takip"
   },
   {
     "id": "s05",
-    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "title": "ADC IC-600 following",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach, - maximum operating speed.VmoMmo, - barometric altitude, and",
-    "caption_tr": ""
+    "caption_tr": "ADC, IC-600'e -1ASMach'a dağıtım için aşağıdaki girişleri sağlar, - maksimum çalışma hızı.VmoMmo, - barometrik yükseklik ve",
+    "title_tr": "ADC IC-600 takip"
   },
   {
     "id": "s06",
-    "title": "The ADC supplies the IC-600 with the following inputs for di…",
+    "title": "ADC IC-600 following",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The ADC supplies the IC-600 with the following inputs for dissemination to -1ASMach, - maximum operating speed.VmoMmo, - barometric altitude, and - - vertical speed. Nerten Secuity Avionics 2 Menu Air Data Computer(ADC) 4D",
-    "caption_tr": ""
+    "caption_tr": "ADC, IC-600'e -1ASMach, - maksimum çalışma hızı, - barometrik yükseklik ve - - dikey hıza dağıtım için aşağıdaki girişleri sağlar. Nerten Secuity Avionics 2 Menü Hava Veri Bilgisayarı (ADC) 4D",
+    "title_tr": "ADC IC-600 takip"
   },
   {
     "id": "s07",
-    "title": "The ADC supplies TAS and SAT information to EICAS and for di…",
+    "title": "ADC TAS SAT",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The ADC supplies TAS and SAT information to EICAS and for display. SAT readout on EICAS is from ADC 1. SAT and TAS readouts on are from ADC 2.",
-    "caption_tr": ""
+    "caption_tr": "ADC, EICAS'a ve görüntülenmek üzere TAS ve SAT bilgilerini sağlar. EICAS'taki SAT okumaları ADC 1'dendir. SAT ve TAS okumaları ADC 2'dendir.",
+    "title_tr": "ADC TAS SAT"
   },
   {
     "id": "s08",
-    "title": "The above picture shows the aircraft systems that rely on AD…",
+    "title": "above picture aircraft",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The above picture shows the aircraft systems that rely on ADC inputs for operation.",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki resim, operasyon için ADC girişlerine dayanan uçak sistemlerini göstermektedir.",
+    "title_tr": "yukarıdaki resimdeki uçak"
   },
   {
     "id": "s09",
-    "title": "ADC 1 is powered by left essential bus, and ADC 2 by right e…",
+    "title": "ADC 1 powered",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "ADC 1 is powered by left essential bus, and ADC 2 by right essential bus.",
-    "caption_tr": ""
+    "caption_tr": "ADC 1 soldaki temel veriyolundan, ADC 2 ise sağdaki temel veriyolundan güç alır.",
+    "title_tr": "ADC 1 destekli"
   },
   {
     "id": "s10",
-    "title": "An ADC reversion selector on system reversion panel determin…",
+    "title": "ADC reversion selector",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "An ADC reversion selector on system reversion panel determines which ADC is used to provide air data for display in the cockpit. The selector has three positions: 1, ADC NORM and 2.",
-    "caption_tr": ""
+    "caption_tr": "Sistem geri döndürme panelindeki bir ADC tersine çevirme seçici, kokpitte görüntülenmek üzere hava verilerini sağlamak için hangi ADC'nin kullanılacağını belirler. Seçicinin üç konumu vardır: 1, ADC NORM ve 2.",
+    "title_tr": "ADC tersine çevirme"
   },
   {
     "id": "s11",
-    "title": "In the NORM position pilot's and EICAS receive air data from…",
+    "title": "NORM position pilot's",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "In the NORM position pilot's and EICAS receive air data from ADC 1; co-pilot's and receive data from ADC 2. The ADC information goes into respective IC-600s for processing before they are disseminated to the appropriate DUs for display.",
-    "caption_tr": ""
+    "caption_tr": "NORM pozisyonunda pilot ve EICAS, hava verilerini ADC 1'den alır; yardımcı pilottur ve ADC 2'den veri alır. ADC bilgileri, görüntülenmek üzere uygun DU'lara dağıtılmadan önce işlenmek üzere ilgili IC-600'lere gider.",
+    "title_tr": "NORM pozisyonu pilotunun"
   },
   {
     "id": "s12",
-    "title": "If an ADC fails, assuming it is the pilot's, air data inform…",
+    "title": "ADC fails assuming",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "If an ADC fails, assuming it is the pilot's, air data information will be lost to pilot's and EICAS.",
-    "caption_tr": ""
+    "caption_tr": "Bir ADC arızalanırsa (bunun pilota ait olduğu varsayılırsa), hava verileri bilgileri pilotun ve EICAS'ın eline geçecektir.",
+    "title_tr": "ADC varsaymakta başarısız"
   },
   {
     "id": "s13",
-    "title": "Failure of ADC is recognised by red crosses on airspeed and …",
+    "title": "Failure ADC recognised",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Failure of ADC is recognised by red crosses on airspeed and altitude tapes on the Also, a red VS flag appears on the vertical speed display. The push button and BARO SET knob on the bezel controller are inoperative.",
-    "caption_tr": ""
+    "caption_tr": "ADC'nin arızası, hava hızı ve irtifa şeritleri üzerindeki kırmızı çarpılarla tanınır. Ayrıca, dikey hız ekranında kırmızı bir VS bayrağı görünür. Çerçeve denetleyicisindeki basma düğmesi ve BARO SET düğmesi çalışmıyor.",
+    "title_tr": "Arıza ADC'si tanındı"
   },
   {
     "id": "s14",
-    "title": "On the EICAS, amber dashed lines is seen against SAT. There …",
+    "title": "EICAS amber dashed",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "On the EICAS, amber dashed lines is seen against SAT. There is no CAS message which is directly associated with failure of ADC.",
-    "caption_tr": ""
+    "caption_tr": "EICAS'ta SAT'a karşı sarı kesikli çizgiler görülüyor. ADC arızasıyla doğrudan ilişkilendirilen bir CAS mesajı yoktur.",
+    "title_tr": "EICAS kehribar rengi"
   },
   {
     "id": "s15",
-    "title": "The stall warning system 1, digital electronic engine contro…",
+    "title": "stall warning system",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "The stall warning system 1, digital electronic engine control (DEEC) 1 and flight director system 1 which rely on ADC 1 input for operation are also affected if ADC 1 fails. These systems receive no backup from ADC 2.",
-    "caption_tr": ""
+    "caption_tr": "Çalışma için ADC 1 girişine dayanan durma uyarı sistemi 1, dijital elektronik motor kontrolü (DEEC) 1 ve uçuş yönlendirme sistemi 1 de ADC 1'in arızalanması durumunda etkilenir. Bu sistemler ADC 2'den yedekleme almaz.",
+    "title_tr": "durak uyarı sistemi"
   },
   {
     "id": "s16",
-    "title": "To rectify this abnormality, ADC reversion selector is posit…",
+    "title": "rectify this abnormality",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "To rectify this abnormality, ADC reversion selector is positioned to 2.",
-    "caption_tr": ""
+    "caption_tr": "Bu anormalliği düzeltmek için ADC ters çevirme seçicisi 2'ye konumlandırılır.",
+    "title_tr": "bu anormalliği düzeltin"
   },
   {
     "id": "s17",
-    "title": "With ADC reversion selector on position 2, ADC 2 will provid…",
+    "title": "ADC reversion selector",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "With ADC reversion selector on position 2, ADC 2 will provide air data information to both pilots DUs. This is ADC reversion.",
-    "caption_tr": ""
+    "caption_tr": "ADC ters çevirme seçicisi konum 2'deyken ADC 2, her iki pilotun DU'suna hava verileri bilgisi sağlayacaktır. Bu ADC'nin tersine çevrilmesidir.",
+    "title_tr": "ADC tersine çevirme"
   },
   {
     "id": "s18",
-    "title": "Under this condition, baro correction must be set on co-pilo…",
+    "title": "Under this condition",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Under this condition, baro correction must be set on co-pilot's bezel controller as the pilot's BARO SET knob and push button are inoperative.",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda, pilotun BARO SET düğmesi ve basma düğmesi çalışmadığından, yardımcı pilotun çerçeve denetleyicisinde baro düzeltmesi ayarlanmalıdır.",
+    "title_tr": "Bu şart altında"
   },
   {
     "id": "s19",
-    "title": "Similarly, if a reversion is carried out with the ADC select…",
+    "title": "Similarly reversion carried",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Similarly, if a reversion is carried out with the ADC selector switch to position 1, ADC 1 will be used to provide air data information to both sides.",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, ADC seçici anahtarı konum 1'deyken bir geri dönüş gerçekleştirilirse, her iki tarafa da hava verileri bilgisi sağlamak için ADC 1 kullanılacaktır.",
+    "title_tr": "Benzer şekilde de"
   },
   {
     "id": "s20",
-    "title": "When ADC reversion selector is in 1 or 2 position, an amber …",
+    "title": "ADC reversion selector",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "When ADC reversion selector is in 1 or 2 position, an amber ADC 1 or 2 annunciation is displayed at top left corner of ADI on both the PFDs. In the above ADC 2 is annunciated to indicate that ADC 2 is providing air data to both sides.",
-    "caption_tr": ""
+    "caption_tr": "ADC ters çevirme seçicisi 1 veya 2 konumunda olduğunda, her iki PFD'de ADI'nin sol üst köşesinde sarı renkli bir ADC 1 veya 2 bildirimi görüntülenir. Yukarıdaki ADC 2'de, ADC 2'nin her iki tarafa da hava verisi sağladığını belirtmek için duyurulmaktadır.",
+    "title_tr": "ADC tersine çevirme"
   },
   {
     "id": "s21",
-    "title": "The ADC TEST SWITCH is located on SYSTEM TEST rotary switch …",
+    "title": "ADC TEST SWITCH",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The ADC TEST SWITCH is located on SYSTEM TEST rotary switch in the forward pedestal. The test is only effective if aircraft is on the ground and airspeed is less than 50 knots.",
-    "caption_tr": ""
+    "caption_tr": "ADC TEST ANAHTARI ön kaidedeki SİSTEM TEST döner anahtarının üzerinde bulunur. Test yalnızca uçağın yerde olması ve hava hızının 50 deniz milinin altında olması durumunda etkilidir.",
+    "title_tr": "ADC TEST ANAHTARı"
   },
   {
     "id": "s22",
-    "title": "The following indications occur when ADC TEST SWITCH is pres…",
+    "title": "following indications occur",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The following indications occur when ADC TEST SWITCH is pressed and held. L) Nerten Security Avionics 2 Menu Air Data ComputerADC)",
-    "caption_tr": ""
+    "caption_tr": "ADC TEST ANAHTARI basılı tutulduğunda aşağıdaki belirtiler ortaya çıkar. L) Nerten Security Avionics 2 Menü Hava Veri BilgisayarıADC)",
+    "title_tr": "Aşağıdaki belirtiler ortaya"
   },
   {
     "id": "s23",
-    "title": "On the TAS and Celsius SAT are displayed.",
+    "title": "TAS Celsius SAT",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "On the TAS and -45 Celsius SAT are displayed.",
-    "caption_tr": ""
+    "caption_tr": "TAS ve -45 Santigrat SAT görüntülenir.",
+    "title_tr": "TAS Santigrat SAT"
   }
 ]

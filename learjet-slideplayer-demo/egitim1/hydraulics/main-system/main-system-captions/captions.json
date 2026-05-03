@@ -1,8 +1,8 @@
 [
   {
     "id": "s01",
-    "title": "Engine Driven Pumps Supplying the Main Hydraulic System",
-    "title_tr": "Ana Hidrolik Sistemi Besleyen Motor Tahrikli Pompalar",
+    "title": "Engine Driven Pumps",
+    "title_tr": "Ana Hidrolik Sistemi",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The 2 engine driven pumps (EDP) supply the main hydraulic system.",
@@ -10,8 +10,8 @@
   },
   {
     "id": "s02",
-    "title": "Main Hydraulic System Flow Indication",
-    "title_tr": "Ana Hidrolik Sistem Akış Göstergesi",
+    "title": "Main Hydraulic System",
+    "title_tr": "Ana Hidrolik Sistem",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "For training purposes, the main hydraulic system flow is illustrated in green. If the engines are not running, the 2 EDP symbols are amber. Once the engines are started and when the hydraulic pressure is above psi, they will turn cyan.",
@@ -19,8 +19,8 @@
   },
   {
     "id": "s03",
-    "title": "Normal Hydraulic Pressure and Surge Accumulator",
-    "title_tr": "Normal Hidrolik Basınç ve Surge Akümülatörü",
+    "title": "Normal Hydraulic Pressure",
+    "title_tr": "Normal Hidrolik Basınç",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Normal system pressure is 3000 psi. The main system pressure surges produced by the 2 EDPs are absorbed by the surge accumulator to prevent damage to the hydraulic components.",
@@ -28,8 +28,8 @@
   },
   {
     "id": "s04",
-    "title": "Main Hydraulic System Powered Components",
-    "title_tr": "Ana Hidrolik Sistemle Çalışan Bileşenler",
+    "title": "Main Hydraulic System",
+    "title_tr": "Ana Hidrolik Sistemle",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The main system pressurises the thrust reversers, spoilers and spoilerons. The landing gears and flaps are normally pressurised by the main system. If the main system pressure is low, the gear and flap systems can be pressurised by the auxiliary system via the hydraulic cross-flow valve.",
@@ -37,8 +37,8 @@
   },
   {
     "id": "s05",
-    "title": "Main System Supply for the Normal Brake System",
-    "title_tr": "Normal Fren Sisteminin Ana Sistem Tarafından Beslenmesi",
+    "title": "Main System Normal",
+    "title_tr": "Normal Fren Sistemi",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The normal brake system is also pressurised by the main system via a shuttle valve. This shuttle valve allows the auxiliary system to pressurise the brakes if the main system pressure is low. Normal braking is referred to as braking using the brake pedals.",

@@ -1,18 +1,20 @@
 [
   {
     "id": "s01",
-    "title": "This procedure applies when passengers are carried. After de…",
+    "title": "This procedure applies",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "This procedure applies when passengers are carried. After descent to a safe altitude, and conditions permitting, check the condition of the passengers. If required, use the portable oxygen bottle and mask located in the aft compartment. After donning the mask and confirming proper flow, check the condition of the passengers.",
-    "caption_tr": ""
+    "caption_tr": "Bu prosedür yolcu taşındığında geçerlidir. Güvenli bir yüksekliğe indikten ve koşullar izin verdiğinde yolcuların durumunu kontrol edin. Gerektiğinde arka bölmede bulunan portatif oksijen tüpünü ve maskeyi kullanın. Maskeyi taktıktan ve akışın uygun olduğunu doğruladıktan sonra yolcuların durumunu kontrol edin.",
+    "title_tr": "Bu prosedür geçerlidir"
   },
   {
     "id": "s02",
-    "title": "Caution passengers that in flight with the low differential …",
+    "title": "Caution passengers that",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Caution passengers that in flight with the low differential pressure, operating the handle of the entry door or the hatch may cause them to be opened.",
-    "caption_tr": ""
+    "caption_tr": "Düşük diferansiyel basınçla uçuş sırasında giriş kapısının veya ambar kapağının kolunun çalıştırılmasının bunların açılmasına neden olabileceği konusunda yolculara dikkat edin.",
+    "title_tr": "Yolculara dikkat"
   }
 ]

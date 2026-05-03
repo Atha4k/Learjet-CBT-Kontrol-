@@ -1,178 +1,200 @@
 [
   {
     "id": "s01",
-    "title": "The FMS-CDU houses the systems central processing unit and t…",
+    "title": "FMS-CDU houses systems",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The FMS-CDU houses the systems central processing unit and the associated interface units for the receivers, fuel flow sensors, flight guidance system and navigation data base.",
-    "caption_tr": ""
+    "caption_tr": "FMS-CDU, sistemin merkezi işlem birimini ve alıcılar, yakıt akış sensörleri, uçuş yönlendirme sistemi ve navigasyon veri tabanı için ilgili arayüz birimlerini barındırır.",
+    "title_tr": "FMS-CDU ev sistemleri"
   },
   {
     "id": "s02",
-    "title": "The internal data base is permanently stored in non-volatile…",
+    "title": "internal data base",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The internal data base is permanently stored in non-volatile memory to provide the system with information on over navaids, IFR intersections, airports, pilot defined locations, SIDs, STARS, airports and runways.The has also reserved space for pilot self defined locations waypoints and flight plan routes.",
-    "caption_tr": ""
+    "caption_tr": "Dahili veri tabanı, sisteme navigasyon yardımcıları, IFR kavşakları, havalimanları, pilot tarafından tanımlanan konumlar, SID'ler, STARS, havalimanları ve pistler hakkında bilgi sağlamak için kalıcı bellekte kalıcı olarak depolanır. Ayrıca pilotun kendi tanımladığı konumlar, yol noktaları ve uçuş planı rotaları için de alan ayırmıştır.",
+    "title_tr": "dahili veri tabanı"
   },
   {
     "id": "s03",
-    "title": "The consists of Jeppesen data base, also known as navigation…",
+    "title": "Jeppesen data base",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The consists of Jeppesen data base, also known as navigation data. 2 sets of navigation data are stored in the - one is the active set, the other is the standby set. The active set is the current navigation data in use.",
-    "caption_tr": ""
+    "caption_tr": "Navigasyon verileri olarak da bilinen Jeppesen veri tabanından oluşur. 2 set navigasyon verisi depolanır - biri aktif set, diğeri bekleme setidir. Aktif grup, kullanımda olan mevcut navigasyon verileridir.",
+    "title_tr": "Jeppesen veri tabanı"
   },
   {
     "id": "s04",
-    "title": "When the active set expires, it is replaced automatically by…",
+    "title": "active set expires",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "When the active set expires, it is replaced automatically by the standby set.",
-    "caption_tr": ""
+    "caption_tr": "Aktif setin süresi dolduğunda otomatik olarak yedek setle değiştirilir.",
+    "title_tr": "aktif setin süresi"
   },
   {
     "id": "s05",
-    "title": "Navigation data base expiry date is shown on Initialization …",
+    "title": "Navigation data base",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Navigation data base expiry date is shown on Initialization page. It is the crew's responsibility to check that he is always flying on the most current navigation data.",
-    "caption_tr": ""
+    "caption_tr": "Navigasyon veri tabanının son kullanma tarihi Başlatma sayfasında gösterilir. Her zaman en güncel navigasyon verileriyle uçtuğunu kontrol etmek mürettebatın sorumluluğundadır.",
+    "title_tr": "Navigasyon veri tabanı"
   },
   {
     "id": "s06",
-    "title": "The navigation data base is updated every 28 days. Updating …",
+    "title": "navigation data base",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The navigation data base is updated every 28 days. Updating of data base is via the data transfer unit (DTU) which is located below pilot's seat.",
-    "caption_tr": ""
+    "caption_tr": "Navigasyon veri tabanı her 28 günde bir güncellenir. Veri tabanının güncellenmesi pilot koltuğunun altında bulunan veri aktarım ünitesi (DTU) aracılığıyla yapılmaktadır.",
+    "title_tr": "navigasyon veri tabanı"
   },
   {
     "id": "s07",
-    "title": "The Control Display Unit (CDU), located on the pedestal, pro…",
+    "title": "Control Unit located",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The Control Display Unit (CDU), located on the pedestal, provides the pilot with all the controls necessary to communicate with the navigation computer and associated navigational equipment.",
-    "caption_tr": ""
+    "caption_tr": "Kaide üzerinde bulunan Kontrol Ekranı Birimi (CDU), pilota navigasyon bilgisayarı ve ilgili navigasyon ekipmanı ile iletişim kurmak için gerekli tüm kontrolleri sağlar.",
+    "title_tr": "Kontrol Ünitesi Bulundu"
   },
   {
     "id": "s08",
-    "title": "A dimmable colour flat panel CDU uses two character sizes an…",
+    "title": "dimmable colour flat",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "A dimmable colour flat panel CDU uses two character sizes and displays text in various colours to differentiate the type of date being displayed.",
-    "caption_tr": ""
+    "caption_tr": "Kısılabilir renkli düz panel CDU, iki karakter boyutu kullanır ve görüntülenen tarihin türünü ayırt etmek için metni çeşitli renklerde görüntüler.",
+    "title_tr": "kısılabilir renk düz"
   },
   {
     "id": "s09",
-    "title": "Line Select Keys or LSKs are located on both sides of the CD…",
+    "title": "Line Select Keys",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Line Select Keys or LSKs are located on both sides of the CDU for manual data entry. The keys on the left are known as 4L and 5L from top to bottom, and similarly on the right they are 4R and",
-    "caption_tr": ""
+    "caption_tr": "Hat Seçim Tuşları veya LSK'lar, manuel veri girişi için CDU'nun her iki yanında bulunur. Soldaki tuşlar yukarıdan aşağıya 4L ve 5L olarak bilinir ve sağdaki de benzer şekilde 4R ve",
+    "title_tr": "Hat Seçme Tuşları"
   },
   {
     "id": "s10",
-    "title": "There are eight function keys or mode select keys located im…",
+    "title": "There are eight",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "There are eight function keys or mode select keys located immediately below the CDU.",
-    "caption_tr": ""
+    "caption_tr": "CDU'nun hemen altında sekiz adet fonksiyon tuşu veya mod seçme tuşu bulunmaktadır.",
+    "title_tr": "Sekiz tane var"
   },
   {
     "id": "s11",
-    "title": "These keys are used to select the operating modes of the sys…",
+    "title": "These keys are",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "These keys are used to select the operating modes of the systems for data entry or command inputs. When one of the function keys has been pressed, the CDU will immediately change to the first display page of the selected mode.",
-    "caption_tr": ""
+    "caption_tr": "Bu tuşlar, sistemlerin veri girişi veya komut girişleri için çalışma modlarını seçmek amacıyla kullanılır. Fonksiyon tuşlarından birine basıldığında CDU hemen seçilen modun ilk ekran sayfasına geçecektir.",
+    "title_tr": "Bu anahtarlar"
   },
   {
     "id": "s12",
-    "title": "The LIST key is used to provide a list of options appropriat…",
+    "title": "LIST key options",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The LIST key is used to provide a list of options appropriate to the data to be entered, depressing the LIST key presents a list of selections appropriate to the entry being made.",
-    "caption_tr": ""
+    "caption_tr": "LIST tuşu, girilecek verilere uygun seçeneklerin bir listesini sağlamak için kullanılır; LIST tuşuna basıldığında, yapılan girişe uygun seçimlerin bir listesi sunulur.",
+    "title_tr": "LİSTE tuş seçenekleri"
   },
   {
     "id": "s13",
-    "title": "The MENU key is used to present a list of alternate formats …",
+    "title": "MENU key present",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The MENU key is used to present a list of alternate formats or options for INIT, FUEL and Flight Plan mode being displayed. A small \"m\" in a box will appear on the title line of any page in which the MENU key is active.",
-    "caption_tr": ""
+    "caption_tr": "MENU tuşu, görüntülenen INIT, FUEL ve Uçuş Planı modu için alternatif formatların veya seçeneklerin bir listesini sunmak için kullanılır. MENU tuşunun aktif olduğu herhangi bir sayfanın başlık satırında bir kutu içinde küçük bir \"m\" görünecektir.",
+    "title_tr": "MENÜ tuşu mevcut"
   },
   {
     "id": "s14",
-    "title": "PREV and NEXT keys are used to cycle backwards and forwards,…",
+    "title": "PREV NEXT keys",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "PREV and NEXT keys are used to cycle backwards and forwards, one page at a time, through multiple pages of the same mode.",
-    "caption_tr": ""
+    "caption_tr": "ÖNCEKİ ve SONRAKİ tuşları, aynı modun birden fazla sayfası arasında, her seferinde bir sayfa olmak üzere, ileri ve geri gitmek için kullanılır.",
+    "title_tr": "ÖNCEKİ SONRAKİ tuşları"
   },
   {
     "id": "s15",
-    "title": "The alpha numeric keys are used for data entry.",
+    "title": "alpha numeric keys",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "The alpha numeric keys are used for data entry.",
-    "caption_tr": ""
+    "caption_tr": "Alfa sayısal tuşlar veri girişi için kullanılır.",
+    "title_tr": "alfa sayısal tuşlar"
   },
   {
     "id": "s16",
-    "title": "When the white prompt box or cursor is over a data field, th…",
+    "title": "white prompt box",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "When the white prompt box or cursor is over a data field, the BACK key serves as a delete or backspace key to correct an error in the event of a wrong entry. Touch the BACK key repeatedly until is deleted.",
-    "caption_tr": ""
+    "caption_tr": "Beyaz bilgi istemi kutusu veya imleç bir veri alanının üzerindeyken, GERİ tuşu, yanlış giriş durumunda hatayı düzeltmek için silme veya geri silme tuşu görevi görür. Silinene kadar GERİ tuşuna art arda dokunun.",
+    "title_tr": "beyaz istem kutusu"
   },
   {
     "id": "s17",
-    "title": "The \"\" key or \"State Change Key\" is used in conjunction with…",
+    "title": "key State Change",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "The \"\" key or \"State Change Key\" is used in conjunction with alpha numeric keys to enter data. It charges to- Nto S, E toWandL toR. ltis also used in strictly alpha fields as dash or period.",
-    "caption_tr": ""
+    "caption_tr": "\"\" tuşu veya \"Durum Değiştirme Tuşu\", veri girmek için alfa sayısal tuşlarla birlikte kullanılır. N'den S'ye, E'den W'ye ve L'den R'ye şarj olur. Ayrıca kesinlikle alfa alanlarında tire veya nokta olarak da kullanılır.",
+    "title_tr": "Anahtar Durum Değişikliği"
   },
   {
     "id": "s18",
-    "title": "Data Transfer Unit is installed below the pilot's seat",
+    "title": "Data Transfer Unit",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Data Transfer Unit is installed below the pilot's seat",
-    "caption_tr": ""
+    "caption_tr": "Veri Aktarım Birimi pilot koltuğunun altına monte edilmiştir",
+    "title_tr": "Veri Aktarım Birimi"
   },
   {
     "id": "s19",
-    "title": "This DTU is a inch floppy drive unit which is used to update…",
+    "title": "This DTU inch",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "This DTU is a inch floppy drive unit which is used to update the UNS-1C navigation data base. This data base is updated every 28 days.",
-    "caption_tr": ""
+    "caption_tr": "Bu DTU, UNS-1C navigasyon veri tabanını güncellemek için kullanılan inçlik bir disket sürücü ünitesidir. Bu veri tabanı her 28 günde bir güncellenmektedir.",
+    "title_tr": "Bu DTU inç"
   },
   {
     "id": "s20",
-    "title": "The flight plan route which has been loaded in the respectiv…",
+    "title": "flight plan route",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "The flight plan route which has been loaded in the respective can be displayed on the following indicators: - Primary Flight Display - Multi Function Display",
-    "caption_tr": ""
+    "caption_tr": "İlgili bölüme yüklenen uçuş planı rotası aşağıdaki göstergelerde görüntülenebilir: - Birincil Uçuş Ekranı - Çok Fonksiyonlu Ekran",
+    "title_tr": "uçuş planı rotası"
   },
   {
     "id": "s21",
-    "title": "The displays the flight plan route when the navigation sourc…",
+    "title": "displays flight plan",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The displays the flight plan route when the navigation source annunciation is and the display format is MAP mode. The number of waypoints that can be displayed is limited to four.",
-    "caption_tr": ""
+    "caption_tr": "Navigasyon kaynağı bildirimi ve ekran formatı MAP modu olduğunda uçuş planı rotasını görüntüler. Görüntülenebilecek yol noktalarının sayısı dört ile sınırlıdır.",
+    "title_tr": "uçuş planını görüntüler"
   },
   {
     "id": "s22",
-    "title": "The can display the same flight plan route in the Map and Pl…",
+    "title": "can same flight",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The can display the same flight plan route in the Map and Plan modes. In the PLAN mode the flight plan route is rotated to align with the True North. In both Map and Plan modes, the number of waypoints that can be displayed is limited to ten.",
-    "caption_tr": ""
+    "caption_tr": "Harita ve Plan modlarında aynı uçuş planı rotasını görüntüleyebilir. PLAN modunda uçuş planı rotası Gerçek Kuzey ile hizalanacak şekilde döndürülür. Hem Harita hem de Plan modlarında görüntülenebilecek yol noktalarının sayısı on ile sınırlıdır.",
+    "title_tr": "aynı uçuş olabilir"
   }
 ]

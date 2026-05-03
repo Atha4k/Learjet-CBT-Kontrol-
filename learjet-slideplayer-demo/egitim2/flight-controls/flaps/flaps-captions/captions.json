@@ -1,202 +1,227 @@
 [
   {
     "id": "s01",
-    "title": "There are 2 flap segments, one on each wing. They are the fo…",
+    "title": "There are 2",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "There are 2 flap segments, one on each wing. They are the fowler-type, single-siotted flaps and are electrically controlled and hydraulically operated. Each flap is supported by 3 flap tracks.",
-    "caption_tr": ""
+    "caption_tr": "Her kanatta bir tane olmak üzere 2 flap segmenti vardır. Fowler tipi, tek yuvalı flaplardır ve elektrikle kontrol edilip hidrolik olarak çalıştırılırlar. Her flap 3 flap yolu ile desteklenmektedir.",
+    "title_tr": "2 tane var"
   },
   {
     "id": "s02",
-    "title": "Extension and retraction of the flaps is through the 2 jacks…",
+    "title": "Extension retraction flaps",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Extension and retraction of the flaps is through the 2 jackscrew actuators per flap. The flaps move aft and downwards. Un-commanded retraction due to airloads is prevented by the irreversibility of each actuator. ",
-    "caption_tr": ""
+    "caption_tr": "Kanatların uzatılması ve geri çekilmesi, kanat başına 2 kriko aktüatörü aracılığıyla gerçekleştirilir. Kanatlar arkaya ve aşağıya doğru hareket eder. Hava yüklerinden kaynaklanan komutsuz geri çekilme, her bir aktüatörün geri döndürülemezliği sayesinde önlenir.",
+    "title_tr": "Uzatma çekme kapakları"
   },
   {
     "id": "s03",
-    "title": "Flaps Lever The flap selector lever has 4 positions - UP, 8,…",
+    "title": "Flaps Lever flap",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Flaps Lever The flap selector lever has 4 positions - UP, 8, 20 and with detents at the 8 and 20 positions. When retracting the flaps, there is a gate at the 20 position and the selector lever must be pulled out slightly to raise it above that setting. ",
-    "caption_tr": ""
+    "caption_tr": "Kanat Kolu Kanat seçme kolunun 4 konumu vardır - YUKARI, 8, 20 ve 8 ve 20 konumlarında mandallar bulunur. Kanatları geri çekerken 20 konumunda bir kapı vardır ve bu ayarın üzerine çıkarmak için vites kolunun hafifçe dışarı çekilmesi gerekir.",
+    "title_tr": "Kanatlar Kol kanadı"
   },
   {
     "id": "s04",
-    "title": "The selector lever is attached to 2 Ts which transmit select…",
+    "title": "selector lever attached",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The selector lever is attached to 2 Ts which transmit selected positions to the flap control unit or FCU. The AFM states that flaps must not be extended above FL",
-    "caption_tr": ""
+    "caption_tr": "Vites kolu, seçilen konumları kanat kontrol ünitesine veya FCU'ya ileten 2 T'ye takılıdır. AFM, flapların FL'nin üzerine uzatılmaması gerektiğini belirtiyor",
+    "title_tr": "seçme kolu takılı"
   },
   {
     "id": "s05",
-    "title": "Normal Flap Operation Normally, the flaps are extended by th…",
+    "title": "Normal Flap Normally",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Normal Flap Operation Normally, the flaps are extended by the main hydraulic system. Selecting the flap lever to 8 for take-off, causes the RVDTSs to signal the FCU. The arming solenoid valve opens when commanded by the FCU to port fluid to the servo valve.",
-    "caption_tr": ""
+    "caption_tr": "Normal Flap Çalışması Normalde flaplar ana hidrolik sistem tarafından açılır. Kalkış için flap kolunun 8 olarak seçilmesi RVDTS'lerin FCU'ya sinyal göndermesine neden olur. Kurma solenoid valfı, FCU tarafından sıvıyı servo valfa aktarma komutu verildiğinde açılır.",
+    "title_tr": "Normal Flap Normalde"
   },
   {
     "id": "s06",
-    "title": "The servo valve directs the hydraulic fluid to the flap driv…",
+    "title": "servo valve directs",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The servo valve directs the hydraulic fluid to the flap drive motor to extend the flaps simultaneously. Flexible drive shafts, routed along the wing rear spar, transmit the rotary motion of the flaps drive motor to the input shaft of each ballscrew actuator. Ts mounted on each flap, feed back to the FCU and the flap indicating unit.",
-    "caption_tr": ""
+    "caption_tr": "Servo valf, kanatları aynı anda uzatmak için hidrolik sıvıyı kanat tahrik motoruna yönlendirir. Kanat arka direği boyunca yönlendirilen esnek tahrik milleri, flap tahrik motorunun dönme hareketini her bir bilyalı vidalı aktüatörün giriş miline iletir. Her bir kanada monte edilen T'ler, FCU'ya ve kanat gösterge ünitesine geri bildirim sağlar.",
+    "title_tr": "servo valf yönlendirir"
   },
   {
     "id": "s07",
-    "title": "Moving the flap lever also energizes a time-delay relay with…",
+    "title": "Moving flap lever",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Moving the flap lever also energizes a time-delay relay within the flap control unit. if the flaps fail to reach the desired selection in 75 seconds, the arming solenoid valve will close. This stops the flap drive motor operation. The normal flap extension from Up to takes about 10 seconds. ",
-    "caption_tr": ""
+    "caption_tr": "Kanat kolunun hareket ettirilmesi aynı zamanda kanat kontrol ünitesi içindeki zaman geciktirme rölesine de enerji verir. Eğer flaplar 75 saniye içerisinde istenilen seçime ulaşamazsa, kurma solenoid valfi kapanacaktır. Bu, flap tahrik motorunun çalışmasını durdurur. Yukarı'dan normal flap uzatması yaklaşık 10 saniye sürer.",
+    "title_tr": "Hareketli flap kolu"
   },
   {
     "id": "s08",
-    "title": "Alternate Flaps Extension if the main hydraulic system fails…",
+    "title": "Alternate Flaps Extension",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Alternate Flaps Extension if the main hydraulic system fails, the flaps can be operated by using the auxiliary hydraulic system. This involves selecting the hydraulic cross-flow valve switch XFLLOW) and moving the flap lever as desired. regen) ",
-    "caption_tr": ""
+    "caption_tr": "Alternatif Kanat Uzantısı Ana hidrolik sistemin arızalanması durumunda, yardımcı hidrolik sistem kullanılarak kanatlar çalıştırılabilir. Bu, hidrolik çapraz akış valfi anahtarının (XFLLOW) seçilmesini ve kanat kolunun istenildiği gibi hareket ettirilmesini içerir. yenilenme)",
+    "title_tr": "Alternatif Flap Uzantısı"
   },
   {
     "id": "s09",
-    "title": "However, the maximum flap extension called for by the AFM wh…",
+    "title": "However maximum flap",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "However, the maximum flap extension called for by the AFM when using the XFLOW is Flaps Also, when using XFLOW extension, it takes up to 60 seconds to lower the flaps from UP to This is due to the smaller capacity of the AUX pump. Again, note that the servo valve will close if the flaps are not in the desired position by 75 secs.",
-    "caption_tr": ""
+    "caption_tr": "Bununla birlikte, XFLOW kullanılırken AFM tarafından çağrılan maksimum kanat uzantısı Flaps'tır. Ayrıca, XFLOW uzantısını kullanırken kanatların UP'tan UP'a indirilmesi 60 saniyeye kadar sürer. Bu, AUX pompasının daha küçük kapasitesinden kaynaklanmaktadır. Yine, eğer flaplar 75 saniye boyunca istenilen konumda olmazsa servo valfin kapanacağını unutmayın.",
+    "title_tr": "Ancak maksimum flap"
   },
   {
     "id": "s10",
-    "title": "The flap indications are shown on -the EICAS page as 0 to 40…",
+    "title": "flap indications are",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The flap indications are shown on -the EICAS page as 0 to 40 (digital format) -the EICAS-FLT page in an analog and pointer format the RMU page 1 in a digital format. - the RMU page 1 in a digital format.",
-    "caption_tr": ""
+    "caption_tr": "Kanat göstergeleri, -EICAS sayfasında 0 ila 40 arasında (dijital format) -EICAS-FLT sayfasında analog ve işaretçi formatında, RMU sayfa 1'de dijital formatta gösterilir. - dijital formatta RMU sayfası 1.",
+    "title_tr": "kapak göstergeleri şunlardır"
   },
   {
     "id": "s11",
-    "title": "Let us assume that the flaps are at 8. When we move the flap…",
+    "title": "Let us assume",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Let us assume that the flaps are at 8. When we move the flap lever to the target magenta line will first indicate the desired flap selection. The digital displays on the EICAS page and the RMU will show 20 . The flaps digital display on the EICAS page will be boxed as the flaps are not yetin the selected 20 position. ",
-    "caption_tr": ""
+    "caption_tr": "Flapların 8'de olduğunu varsayalım. Flap kolunu hedef macenta çizgisine getirdiğimizde ilk olarak istenilen flap seçimi belirtilecektir. EICAS sayfasındaki ve RMU'daki dijital ekranlar 20 değerini gösterecektir. Kanatlar henüz seçilen 20 konumunda olmadığından, EICAS sayfasındaki kanat dijital ekranı kutulu olacaktır.",
+    "title_tr": "Varsayalım"
   },
   {
     "id": "s12",
-    "title": "Then the 2 flap pointers will move as the flaps extend to Wh…",
+    "title": "2 flap pointers",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Then the 2 flap pointers will move as the flaps extend to When the flaps have moved to the selected position, the pointers should overlay the magenta line and the white box on the EICAS page will disappear.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra 2 kanat işaretçisi, kanatlar aşağıdaki konuma doğru genişledikçe hareket edecektir. Kanatlar seçilen konuma taşındığında, işaretçiler macenta çizginin üzerine gelmelidir ve EICAS sayfasındaki beyaz kutu kaybolacaktır.",
+    "title_tr": "2 adet flap"
   },
   {
     "id": "s13",
-    "title": "The normal take-off flaps setting is either 8 or The flaps d…",
+    "title": "normal take-off flaps",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The normal take-off flaps setting is either 8 or The flaps digital display on the EICAS page will have a white box around it anytime - the flaps are notin the selected position or - the airplane is on the ground and the flaps are not set for take-off. ",
-    "caption_tr": ""
+    "caption_tr": "Normal kalkış flapları ayarı ya 8'dir ya da EICAS sayfasındaki flap dijital ekranının etrafında herhangi bir zamanda beyaz bir kutu olacaktır - flaplar seçilen konumda değildir ya da - uçak yerdedir ve flaplar kalkış için ayarlanmamıştır.",
+    "title_tr": "normal kalkış flapları"
   },
   {
     "id": "s14",
-    "title": "Advancing the thrust levers beyond with the flaps not in tak…",
+    "title": "Advancing thrust levers",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Advancing the thrust levers beyond with the flaps not in take-off position will cause the take-off warnings to be activated. All the flap indications will turn red. The aural CONFIGURATION voice warning will also sound.",
-    "caption_tr": ""
+    "caption_tr": "Flaplar kalkış konumunda değilken itme kollarını ileri doğru ilerletmek, kalkış uyarılarının devreye girmesine neden olacaktır. Tüm flap göstergeleri kırmızıya dönecektir. Ayrıca sesli KONFİGÜRASYON sesli uyarısı da duyulacaktır.",
+    "title_tr": "İtme kollarını ilerletme"
   },
   {
     "id": "s15",
-    "title": "During flight, the spoilers should not be manually extended …",
+    "title": "flight spoilers should",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "During flight, the spoilers should not be manually extended if the flaps are extended, except as specified in the EMERGENCY andor ABNORMAL procedures section of the AFM. A caution CAS message SPOILERS EXT is displayed if the spoilers are manually deployed with the flaps extended at 3 or more. ",
-    "caption_tr": ""
+    "caption_tr": "Uçuş sırasında, AFM'nin ACİL DURUM ve/veya ANORMAL prosedürler bölümünde belirtilenler dışında flaplar açılırsa spoiler manuel olarak uzatılmamalıdır. Kanatlar 3 veya daha fazla açıkken spoiler manuel olarak açılırsa, bir CAS uyarı mesajı SPOILERS EXT görüntülenir.",
+    "title_tr": "Uçuş spoilerleri"
   },
   {
     "id": "s16",
-    "title": "Both the digital spoiler indications and the analog scale po…",
+    "title": "digital spoiler indications",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Both the digital spoiler indications and the analog scale pointers will also turn amber anytime the spoilers are manually deployed with the flaps extended at 3 or more. ",
-    "caption_tr": ""
+    "caption_tr": "Hem dijital spoyler göstergeleri hem de analog ölçek işaretçileri, kanatlar 3 veya daha fazla açıkken spoiler manuel olarak açıldığında sarıya dönecektir.",
+    "title_tr": "dijital spoiler göstergeleri"
   },
   {
     "id": "s17",
-    "title": "Flap Operating Speeds These flap speed limits are placarded …",
+    "title": "Flap Operating Speeds",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Flap Operating Speeds These flap speed limits are placarded next to the flap selector lever. The over-speed indication on the airspeed scale automatically adjusts to indicate the maximum speed for each flap setting. pn epi mov see own ug aa i wri",
-    "caption_tr": ""
+    "caption_tr": "Flap Çalışma Hızları Bu flap hız limitleri flap seçme kolunun yanında belirtilmiştir. Hava hızı ölçeğindeki aşırı hız göstergesi, her flap ayarı için maksimum hızı gösterecek şekilde otomatik olarak ayarlanır. pn epi mov kendi ug'ını gör aa i wri",
+    "title_tr": "Flap Çalışma Hızları"
   },
   {
     "id": "s18",
-    "title": "Flap Monitor System The flap control unit performs a self-te…",
+    "title": "Flap Monitor System",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Flap Monitor System The flap control unit performs a self-test at power up and monitors for fauitsifailures within the system at all times. Additionally, the AFM requires the crew to perform a flap pre-flight test using the system test knob at the FLAPS position. ",
-    "caption_tr": ""
+    "caption_tr": "Flap İzleme Sistemi Flap kontrol ünitesi, açılışta kendi kendini test eder ve sistemdeki arızaları her zaman izler. Ek olarak AFM, mürettebatın FLAPS konumundaki sistem test düğmesini kullanarak bir flap uçuş öncesi testi gerçekleştirmesini gerektirir.",
+    "title_tr": "Flap Monitör Sistemi"
   },
   {
     "id": "s19",
-    "title": "The FLAPS position on the system test knob is used during pr…",
+    "title": "FLAPS position system",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "The FLAPS position on the system test knob is used during pre-flight to check - the asymmetry monitoring system - the uncommanded movements monitoring system and - to verify the shut down circuits for the flap system. ",
-    "caption_tr": ""
+    "caption_tr": "Sistem test düğmesindeki FLAPS konumu, uçuş öncesi sırasında aşağıdakileri kontrol etmek için kullanılır: asimetri izleme sistemi, komutsuz hareketler izleme sistemi ve - flap sistemi için kapatma devrelerini doğrulamak.",
+    "title_tr": "FLAPS pozisyon sistemi"
   },
   {
     "id": "s20",
-    "title": "To test the system, place the system test knob to the FLAPS …",
+    "title": "test system place",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "To test the system, place the system test knob to the FLAPS position and depress the test button. A satisfactory testis indicated by the display of the caution CAS messages FLAPS FAIL and the FLAPS FAULT. This FLAPS position on the system test knob is inhibited when the airplane is airborne. ",
-    "caption_tr": ""
+    "caption_tr": "Sistemi test etmek için sistem test düğmesini FLAPS konumuna getirin ve test düğmesine basın. Testin tatmin edici olduğu, CAS FLAPS FAIL ve FLAPS FAULT uyarı mesajlarının görüntülenmesiyle gösterilir. Sistem test düğmesindeki bu FLAPS konumu, uçak havadayken engellenir.",
+    "title_tr": "test sistemi yeri"
   },
   {
     "id": "s21",
-    "title": "The flaps should still be operational in this case, but may …",
+    "title": "flaps should still",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The flaps should still be operational in this case, but may operate in a degraded mode and at a reduced rate. Note that the indications and pointers are amber. ",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda kanatların hala çalışır durumda olması gerekir, ancak bozulmuş bir modda ve azaltılmış bir hızda çalışabilirler. Göstergelerin ve işaretçilerin sarı renkte olduğunu unutmayın.",
+    "title_tr": "flaplar hala olmalı"
   },
   {
     "id": "s22",
-    "title": "if the fault conditions clears, this fault may be reset by p…",
+    "title": "fault conditions clears",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "if the fault conditions clears, this fault may be reset by positioning the test knob to FLAP RESET and depressing it.",
-    "caption_tr": ""
+    "caption_tr": "arıza koşulları ortadan kalkarsa, test düğmesini FLAP RESET konumuna getirip basmak suretiyle bu arıza sıfırlanabilir.",
+    "title_tr": "Arıza koşulları temizlenir"
   },
   {
     "id": "s23",
-    "title": "With this failure, the arming solenoid valve will close and …",
+    "title": "this failure arming",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "With this failure, the arming solenoid valve will close and all extendretract commands to the flap control unit will be disabled. The entire flap system is now inoperative. ",
-    "caption_tr": ""
+    "caption_tr": "Bu arıza ile kurma solenoid valfı kapanacak ve flap kontrol ünitesine verilen tüm uzatma geri çekme komutları devre dışı kalacaktır. Artık tüm flap sistemi çalışmıyor.",
+    "title_tr": "bu başarısızlık silahlanma"
   },
   {
     "id": "s24",
-    "title": "Once a failure is detected, the flaps will freeze at the tim…",
+    "title": "Once failure detected",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Once a failure is detected, the flaps will freeze at the time of failure and its pointers and indications will turn red. One malfunction that will cause this is flap asymmetry. This will occur if the FCU detects the flaps split by more than 2 to 7, depending on flap speed. Uncommanded movement of the flaps will also shut down the flaps system. ",
-    "caption_tr": ""
+    "caption_tr": "Bir arıza tespit edildiğinde, flaplar arıza anında donacak ve işaretçileri ve göstergeleri kırmızıya dönecektir. Buna neden olacak arızalardan biri de flap asimetrisidir. Bu, FCU, flap hızına bağlı olarak flapların 2 ila 7'den fazla bölündüğünü tespit ederse meydana gelecektir. Kanatların kontrolsüz hareketi de kanat sistemini kapatacaktır.",
+    "title_tr": "Arıza tespit edildikten"
   },
   {
     "id": "s25",
-    "title": "The crew cannot reset the flap system after a flap asymmetry…",
+    "title": "crew cannot reset",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "The crew cannot reset the flap system after a flap asymmetry or uncommanded movement malfunction.",
-    "caption_tr": ""
+    "caption_tr": "Mürettebat, flap asimetrisi veya kumandasız hareket arızası sonrasında flap sistemini sıfırlayamaz.",
+    "title_tr": "mürettebat sıfırlanamıyor"
   }
 ]

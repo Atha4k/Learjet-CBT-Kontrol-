@@ -1,986 +1,1109 @@
 [
   {
     "id": "s01",
-    "title": "Data page 1 is the data base menu page. It allows access to …",
+    "title": "Data page 1",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Data page 1 is the data base menu page. It allows access to the JEPPESEN DATA BASE, PILOT DATA BASE and Data Transfer Unit (DTU) operation. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Veri sayfası 1, veri tabanı menü sayfasıdır. JEPPESEN VERİ TABANINA, PİLOT VERİ TABANINA ve Veri Aktarım Biriminin (DTU) çalışmasına erişim sağlar. ben de FR _",
+    "title_tr": "Veri sayfası 1"
   },
   {
     "id": "s02",
-    "title": "Data page 2 is the sensor summary page. The status of all se…",
+    "title": "Data page 2",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Data page 2 is the sensor summary page. The status of all sensors is displayed here and access to sensors for control and more detailed information is through this page. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Veri sayfası 2, sensör özeti sayfasıdır. Tüm sensörlerin durumları burada görüntülenmekte olup, kontrol amaçlı sensörlere erişim ve daha detaylı bilgiye bu sayfa üzerinden ulaşılabilmektedir. Joo FR _",
+    "title_tr": "Veri sayfası 2"
   },
   {
     "id": "s03",
-    "title": "Data page 3 is the position summary page. position may be co…",
+    "title": "Data page 3",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Data page 3 is the position summary page. position may be compared to any sensor listed by pressing the appropriate line select key. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Veri sayfası 3 konum özeti sayfasıdır. konumu, uygun satır seçme tuşuna basılarak listelenen herhangi bir sensörle karşılaştırılabilir. Joo FR _",
+    "title_tr": "Veri sayfası 3"
   },
   {
     "id": "s04",
-    "title": "Data page 4 is the general data page. Date and time entry ca…",
+    "title": "Data page 4",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Data page 4 is the general data page. Date and time entry can be updated here after initialization. A manual heading entry can be made here in the event of a power failure. Roll command output and software versions of various components are also displayed. oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Veri sayfası 4 genel veri sayfasıdır. Tarih ve saat girişi, başlatma sonrasında buradan güncellenebilir. Elektrik kesintisi durumunda buraya manuel yön girişi yapılabilir. Çeşitli bileşenlerin yuvarlanma komutu çıktısı ve yazılım sürümleri de görüntülenir. oo FR _",
+    "title_tr": "Veri sayfası 4"
   },
   {
     "id": "s05",
-    "title": "To interrogate the contents of the Jeppesen Data Base, press…",
+    "title": "interrogate contents Jeppesen",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "To interrogate the contents of the Jeppesen Data Base, press the NAV DATA line select key. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Jeppesen Veri Tabanının içeriğini sorgulamak için NAV DATA hattı seçme tuşuna basın. ben de FR _",
+    "title_tr": "İçeriği sorgula Jeppesen"
   },
   {
     "id": "s06",
-    "title": "The NAV Data Menu page allows access to waypoints by identif…",
+    "title": "NAV Data Menu",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The NAV Data Menu page allows access to waypoints by identifier, SIDs, STARs, APPROACHES, RUNWAYS and AIRWAYS. The currently installed data base region and expiration date are displayed. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "NAV Veri Menüsü sayfası, tanımlayıcıya, SID'lere, YILDIZLARA, YAKLAŞIMLARA, PİSTLERE ve HAVA YOLLARINA göre yol noktalarına erişime izin verir. Şu anda kurulu olan veri tabanı bölgesi ve son kullanma tarihi görüntülenir. Joo FR _",
+    "title_tr": "NAV Veri Menüsü"
   },
   {
     "id": "s07",
-    "title": "For example, to interrogate NAV DATA about Singapore Changi …",
+    "title": "example interrogate NAV",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "For example, to interrogate NAV DATA about Singapore Changi Airport Runways: Press 4L Select W and ENTER I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Örneğin, Singapur Changi Havaalanı Pistlerine ilişkin NAV VERİLERİNİ sorgulamak için: 4L'ye basın W'yi seçin ve ENTER I oo FR _'ye basın.",
+    "title_tr": "Örnek NAV'ı sorgula"
   },
   {
     "id": "s08",
-    "title": "For example, to interrogate NAV DATA about Singapore Changi …",
+    "title": "example interrogate NAV",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "For example, to interrogate NAV DATA about Singapore Changi Airport Runways: Press 4L Select W and ENTER I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Örneğin, Singapur Changi Havaalanı Pistlerine ilişkin NAV VERİLERİNİ sorgulamak için: 4L'ye basın W'yi seçin ve ENTER I oo FR _'ye basın.",
+    "title_tr": "Örnek NAV'ı sorgula"
   },
   {
     "id": "s09",
-    "title": "The display shows the Runways available in Changi Internatio…",
+    "title": "Runways available Changi",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The display shows the Runways available in Changi International Airport. Now select 1 into the cursor and ENTER. Detailed information of Runway is now shown. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Ekranda Changi Uluslararası Havalimanı'ndaki mevcut Pistler gösterilmektedir. Şimdi imleçte 1'i seçin ve ENTER'a basın. Pist'in ayrıntılı bilgileri artık gösteriliyor. Joo FR _",
+    "title_tr": "Mevcut pistler Changi"
   },
   {
     "id": "s10",
-    "title": "The display shows the Runways available in Changi Internatio…",
+    "title": "Runways available Changi",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The display shows the Runways available in Changi International Airport. Now select 1 into the cursor and ENTER. Detailed information of Runway is now shown. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Ekranda Changi Uluslararası Havalimanı'ndaki mevcut Pistler gösterilmektedir. Şimdi imleçte 1'i seçin ve ENTER'a basın. Pist'in ayrıntılı bilgileri artık gösteriliyor. Joo FR _",
+    "title_tr": "Mevcut pistler Changi"
   },
   {
     "id": "s11",
-    "title": "Likewise, information on SID, STAR, APPROACH and AIRWAY of a…",
+    "title": "Likewise information SID",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Likewise, information on SID, STAR, APPROACH and AIRWAY of a particular Airport can be called up in a similar manner. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, belirli bir Havaalanının SID, STAR, APPROACH ve AIRWAY bilgileri de benzer şekilde çağrılabilir. Joo FR _",
+    "title_tr": "Aynı şekilde SID"
   },
   {
     "id": "s12",
-    "title": "Page 2 of DATANAV shows the active set of navigation data an…",
+    "title": "Page 2 DATANAV",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Page 2 of DATANAV shows the active set of navigation data and its expiry date. The inactive navigation data has the \"ACTIVATE\" prompt. This page allows the crew to activate the standby set in case the active set fails to drop off upon expiry. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "DATANAV'ın 2. sayfasında aktif navigasyon verileri seti ve son kullanma tarihi gösterilmektedir. Etkin olmayan navigasyon verilerinde \"ETKİNLEŞTİR\" istemi bulunur. Bu sayfa, aktif setin süresi dolduğunda bırakılmaması durumunda mürettebatın yedek seti etkinleştirmesine olanak tanır. IR veya FR _",
+    "title_tr": "Sayfa 2 DATANAV"
   },
   {
     "id": "s13",
-    "title": "The system can store up to pilot created flight plan routes …",
+    "title": "system can store",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The system can store up to pilot created flight plan routes comprised of up to 98 waypoints each, and up to pilot defined waypoints, arrivalsdepartures, approaches, runways, airports, alignment points and 25 radar waypoints. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Sistem, her biri en fazla 98 yol noktasından oluşan pilot tarafından oluşturulan uçuş planı rotalarını ve pilot tarafından tanımlanan en fazla yol noktalarını, varış-kalkış noktalarını, yaklaşmaları, pistleri, havalimanlarını, hizalama noktalarını ve 25 radar yol noktasını depolayabilir. ben de FR _",
+    "title_tr": "Sistem saklayabilir"
   },
   {
     "id": "s14",
-    "title": "Stored Pilot Routes can be called up and route copied on the…",
+    "title": "Stored Pilot Routes",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Stored Pilot Routes can be called up and route copied on the Flight Plan page. Selecting the copy RTE key displays a page consisting a list of stored Pilot Routes. Selecting the number of the desired route will paste that route onto Flight Plan page as the active route. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Saklanan Pilot Rotaları çağrılabilir ve rota Uçuş Planı sayfasında kopyalanabilir. RTE kopyala tuşunun seçilmesi, saklanan Pilot Rotaların listesini içeren bir sayfayı görüntüler. İstenilen rotanın numarasının seçilmesi, o rotayı Uçuş Planı sayfasına aktif rota olarak yapıştıracaktır. IR veya FR _",
+    "title_tr": "Saklanan Pilot Rotalar"
   },
   {
     "id": "s15",
-    "title": "They are meant for maintenance personnel. IR oo FR _",
+    "title": "They are meant",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "They are meant for maintenance personnel. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bakım personeli için tasarlanmıştır. IR veya FR _",
+    "title_tr": "Onlar kastediliyor"
   },
   {
     "id": "s16",
-    "title": "The HOLD POS, when selected, captures the instantaneous posi…",
+    "title": "HOLD POS selected",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The HOLD POS, when selected, captures the instantaneous position. Data in the HOLD POS page is the same as DATA page 3 of 4. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "HOLD POS seçildiğinde anlık konumu yakalar. HOLD POS sayfasındaki veriler DATA sayfası 3/4 ile aynıdır. I oo FR _",
+    "title_tr": "POS'U BEKLEME seçildi"
   },
   {
     "id": "s17",
-    "title": "Pressing the FUEL key will access the first FUEL page for in…",
+    "title": "Pressing FUEL key",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Pressing the FUEL key will access the first FUEL page for initialization of fuel data. This is the page which must be filled up during pre-flight. IE oo FR _",
-    "caption_tr": ""
+    "caption_tr": "YAKIT tuşuna basıldığında, yakıt verilerinin başlatılması için ilk YAKIT sayfasına erişilecektir. Uçuş öncesi doldurulması gereken sayfadır. IE oo FR _",
+    "title_tr": "YAKIT tuşuna basılması"
   },
   {
     "id": "s18",
-    "title": "The empty weight displayed here is stored in the configurati…",
+    "title": "empty weight here",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The empty weight displayed here is stored in the configuration module programmed at the time of installation. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Burada görüntülenen boş ağırlık, kurulum sırasında programlanan konfigürasyon modülünde saklanır. IR veya FR _",
+    "title_tr": "Boş ağırlık burada"
   },
   {
     "id": "s19",
-    "title": "Entries made in the PAX field will be calculated at the weig…",
+    "title": "Entries made PAX",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Entries made in the PAX field will be calculated at the weight displayed. In SIAs operation, the crew numbers are inserted in this field to obtain the PAX weight. This field is to input cargo weight. The is automatically calculated based upon the prior entries. may be directly entered, if desired. IE oo FR _",
-    "caption_tr": ""
+    "caption_tr": "PAX alanına yapılan girişler görüntülenen ağırlık üzerinden hesaplanacaktır. SIA operasyonunda, PAX ağırlığını elde etmek için mürettebat numaraları bu alana girilir. Bu alan kargo ağırlığının girilmesi içindir. Önceki girişlere göre otomatik olarak hesaplanır. İstenildiği takdirde doğrudan girilebilir. IE oo FR _",
+    "title_tr": "Yapılan girişler PAX"
   },
   {
     "id": "s20",
-    "title": "The GROSS WT is the sum of the and FUEL ONBOARD values. Gros…",
+    "title": "GROSS WT sum",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "The GROSS WT is the sum of the and FUEL ONBOARD values. Gross weight will not be calculated until FUEL ONBOARD entry is made or confirmed. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "BRÜT AĞR ve ARAÇTA YAKIT değerlerinin toplamıdır. Brüt ağırlık, GEMİDE YAKIT girişi yapılana veya onaylanana kadar hesaplanmayacaktır. IR veya FR _",
+    "title_tr": "BRÜT AĞR toplamı"
   },
   {
     "id": "s21",
-    "title": "The ALTERNATE is the fuel required to the alternate landing …",
+    "title": "ALTERNATE fuel required",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The ALTERNATE is the fuel required to the alternate landing field. HOLD is the fuel loaded for holding at the destination. EXTRA is the additional reserve fuel loaded beyond that for alternate landing field and holding. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "ALTERNATİF, alternatif iniş sahası için gereken yakıttır. TUTMA, varış noktasında bekletilmek üzere yüklenen yakıttır. EKSTRA, alternatif iniş alanı ve bekletme için bunun ötesinde yüklenen ilave yedek yakıttır. IR veya FR _",
+    "title_tr": "ALTERNATİF yakıt gerekli"
   },
   {
     "id": "s22",
-    "title": "The Total Reserves value is automatically calculated based u…",
+    "title": "Total Reserves value",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The Total Reserves value is automatically calculated based upon the three prior reserve fuel entries. If desired, this value may be directly entered. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Toplam Rezerv değeri, önceki üç yedek yakıt girişine göre otomatik olarak hesaplanır. İstenirse bu değer doğrudan girilebilir. ben de FR _",
+    "title_tr": "Toplam Rezerv değeri"
   },
   {
     "id": "s23",
-    "title": "Fuel on entry should be made as accurately as possible to pr…",
+    "title": "Fuel entry should",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Fuel on entry should be made as accurately as possible to provide the best fuel predictions. Confirmation is required following initialization. Touch ENTER to accept 2700kg as the fuel onboard. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "En iyi yakıt tahminlerini sağlamak için girişteki yakıt mümkün olduğunca doğru yapılmalıdır. Başlatmanın ardından onay gereklidir. 2700 kg'ı gemideki yakıt olarak kabul etmek için GİRİŞ'e dokunun. TR veya FR _",
+    "title_tr": "Yakıt girişi"
   },
   {
     "id": "s24",
-    "title": "Touch the MENU key. I oo FR _",
+    "title": "Touch MENU key",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Touch the MENU key. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "MENÜ tuşuna dokunun. ben de FR _",
+    "title_tr": "MENÜ tuşuna dokunun"
   },
   {
     "id": "s25",
-    "title": "This page contains fuel units conversion calculator. By pres…",
+    "title": "This page contains",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "This page contains fuel units conversion calculator. By pressing the line select keys on the left, conversion are made automatically. Touch type and ENTER. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu sayfada yakıt birimi dönüşüm hesaplayıcısı yer almaktadır. Sol taraftaki hat seçme tuşlarına basılarak dönüşüm otomatik olarak yapılır. Yazıma ve ENTER'a dokunun. TR veya FR _",
+    "title_tr": "Bu sayfa şunları içerir:"
   },
   {
     "id": "s26",
-    "title": "This page contains fuel units conversion calculator. By pres…",
+    "title": "This page contains",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "This page contains fuel units conversion calculator. By pressing the line select keys on the left, conversion are made automatically. Touch type and ENTER. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu sayfada yakıt birimi dönüşüm hesaplayıcısı yer almaktadır. Sol taraftaki hat seçme tuşlarına basılarak dönüşüm otomatik olarak yapılır. Yazıma ve ENTER'a dokunun. TR veya FR _",
+    "title_tr": "Bu sayfa şunları içerir:"
   },
   {
     "id": "s27",
-    "title": "The FUEL ENTRY allows for fuel entries to be made for each t…",
+    "title": "FUEL ENTRY allows",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "The FUEL ENTRY allows for fuel entries to be made for each tank or total. Normally, fuelling is BY TOTAL. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "YAKIT GİRİŞİ her tank veya toplam yakıt girişi yapılmasına olanak sağlar. Normalde yakıt ikmali TOPLAM'a göre yapılır. ben de FR _",
+    "title_tr": "YAKIT GİRİŞİ izin"
   },
   {
     "id": "s28",
-    "title": "The second page of FUEL is displayed by pressing the NEXT bu…",
+    "title": "second page FUEL",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The second page of FUEL is displayed by pressing the NEXT button. Actually flight plan information is imported to this display, however, manual input of ground speed and fuel flow estimates may be entered to compute fuel estimates, which may be useful before flight. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "NEXT butonuna basıldığında YAKIT sayfasının ikinci sayfası görüntülenir. Aslında uçuş planı bilgileri bu ekrana aktarılır, ancak uçuştan önce faydalı olabilecek yakıt tahminlerini hesaplamak için yer hızı ve yakıt akışı tahminlerinin manuel girişi girilebilir. ben de FR _",
+    "title_tr": "İkinci sayfa YAKIT"
   },
   {
     "id": "s29",
-    "title": "Once airborne, the information is replaced with real-time da…",
+    "title": "Once airborne information",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "Once airborne, the information is replaced with real-time data. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Havaya uçtuktan sonra bilgiler gerçek zamanlı verilerle değiştirilir. ben de FR _",
+    "title_tr": "Kez havadan bilgi"
   },
   {
     "id": "s30",
-    "title": "FUEL page 3 consists of summary information. I oo FR _",
+    "title": "FUEL page 3",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "FUEL page 3 consists of summary information. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "YAKIT sayfa 3 özet bilgilerden oluşmaktadır. ben de FR _",
+    "title_tr": "YAKIT sayfa 3"
   },
   {
     "id": "s31",
-    "title": "FUEL page 4 consists of summary of aircraft weight informati…",
+    "title": "FUEL page 4",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "FUEL page 4 consists of summary of aircraft weight information. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "YAKIT sayfa 4, uçak ağırlık bilgilerinin özetini içermektedir. ben de FR _",
+    "title_tr": "YAKIT sayfa 4"
   },
   {
     "id": "s32",
-    "title": "FUEL page 5 displays the fuel flow (kghr) inputs received fr…",
+    "title": "FUEL page 5",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "FUEL page 5 displays the fuel flow (kghr) inputs received from each engine, and the total fuel used. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "YAKIT sayfa 5, her motordan alınan yakıt akışı (kgsaat) girişlerini ve kullanılan toplam yakıtı görüntüler. ben de FR _",
+    "title_tr": "YAKIT sayfa 5"
   },
   {
     "id": "s33",
-    "title": "Should an input fail or be inaccurate, manual fuel flow entr…",
+    "title": "Should input fail",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "Should an input fail or be inaccurate, manual fuel flow entries can be made here by pressing the appropriate line select key. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bir girişin başarısız olması veya hatalı olması durumunda, uygun satır seçme tuşuna basılarak buradan manuel yakıt akışı girişleri yapılabilir. IR veya FR _",
+    "title_tr": "Giriş başarısız olursa"
   },
   {
     "id": "s34",
-    "title": "When airborne, performance Page 11 will provide a synopsis o…",
+    "title": "airborne performance Page",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "When airborne, performance Page 11 will provide a synopsis of inflight information found on the fuel and flight plan pages. Manual entries may not be made on this page. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Havadayken performans sayfası, yakıt ve uçuş planı sayfalarında bulunan uçuş içi bilgilerin bir özetini sağlayacaktır. Bu sayfada manuel giriş yapılamaz. TR veya FR _",
+    "title_tr": "Havadaki performans Sayfası"
   },
   {
     "id": "s35",
-    "title": "The NAV page is accessed from any mode by pressing the NAV k…",
+    "title": "NAV page accessed",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "The NAV page is accessed from any mode by pressing the NAV key. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "NAV sayfasına herhangi bir moddan NAV tuşuna basılarak erişilebilir. IR veya FR _",
+    "title_tr": "NAV sayfasına erişildi"
   },
   {
     "id": "s36",
-    "title": "Page 1 of NAV provides complete information about the curren…",
+    "title": "Page 1 NAV",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "Page 1 of NAV provides complete information about the current and next navigation legs, and allows the pilot to alter the current navigation leg or select another lateral guidance mode. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "NAV'ın 1. Sayfası, mevcut ve sonraki navigasyon ayakları hakkında eksiksiz bilgi sağlar ve pilotun mevcut navigasyon ayağını değiştirmesine veya başka bir yan yönlendirme modunu seçmesine olanak tanır. TR veya FR _",
+    "title_tr": "Sayfa 1 NAV"
   },
   {
     "id": "s37",
-    "title": "The first line consists of from waypoint identifier and the …",
+    "title": "first line waypoint",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "The first line consists of from waypoint identifier and the time overhead the FR waypoint, or the takeoff time for the first flight. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "İlk satır, yol noktası tanımlayıcısından ve FR yol noktası üzerindeki süreden veya ilk uçuşun kalkış saatinden oluşur. ben de FR _",
+    "title_tr": "İlk hat geçiş"
   },
   {
     "id": "s38",
-    "title": "This is the desired track (course) between the FR and the TO…",
+    "title": "This desired track",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "This is the desired track (course) between the FR and the TO waypoint. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu, FR ve TO yol noktası arasında istenen rotadır (rota). Joo FR _",
+    "title_tr": "Bu istenen parça"
   },
   {
     "id": "s39",
-    "title": "The distance in the box is the great circle distance express…",
+    "title": "distance box great",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "The distance in the box is the great circle distance expressed in nautical miles, between the aircraft's present position and the TO waypoint. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Kutudaki mesafe, uçağın mevcut konumu ile TO yol noktası arasındaki deniz mili cinsinden ifade edilen büyük daire mesafesidir. IR veya FR _",
+    "title_tr": "Mesafe kutusu harika"
   },
   {
     "id": "s40",
-    "title": "The estimated time enroute (ETE) is displayed in hours and m…",
+    "title": "estimated time enroute",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "The estimated time enroute (ETE) is displayed in hours and minutes between the aircraft's present position and the TO waypoint. J oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Tahmini yol süresi (ETE), uçağın mevcut konumu ile TO yol noktası arasındaki saat ve dakika cinsinden görüntülenir. Joo FR _",
+    "title_tr": "Tahmini yolculuk süresi"
   },
   {
     "id": "s41",
-    "title": "The TO line consists of TO waypoint identifier and the Estim…",
+    "title": "line waypoint identifier",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "The TO line consists of TO waypoint identifier and the Estimated Time of Arrival (ETA). Below is the great circle distance, course, and the ETE between the TO and the NX waypoints. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "TO hattı, TO yol noktası tanımlayıcısından ve Tahmini Varış Süresinden (ETA) oluşur. Aşağıda TO ve NX yol noktaları arasındaki büyük daire mesafesi, rota ve ETE verilmiştir. IR veya FR _",
+    "title_tr": "Hat geçiş noktası"
   },
   {
     "id": "s42",
-    "title": "This is the next waypoint on the flight plan after the curre…",
+    "title": "This next waypoint",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "This is the next waypoint on the flight plan after the current leg and the ETA for that waypoints. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu, mevcut etaptan ve o ara noktalar için ETA'dan sonraki uçuş planındaki bir sonraki ara noktadır. IR veya FR _",
+    "title_tr": "Sonraki geçiş noktası"
   },
   {
     "id": "s43",
-    "title": "Crosstrack is lateral distance in NM left or right of the ex…",
+    "title": "Crosstrack lateral distance",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "Crosstrack is lateral distance in NM left or right of the extended course centerline between the FR and TO waypoints, a maximum of maybe displayed. 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Çapraz iz, FR ve TO yol noktaları arasındaki uzatılmış rota merkez çizgisinin solunda veya sağında NM cinsinden yanal mesafedir; maksimum görüntülenebilir. 100.000 FR _",
+    "title_tr": "Çapraz hat yan"
   },
   {
     "id": "s44",
-    "title": "Against the are three annunciations: - E for enroute - T for…",
+    "title": "- E enroute",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "Against the are three annunciations: - E for enroute - T for terminal - A for approach 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bunun karşısında üç duyuru vardır: - Yoldayken E - Terminalde T - 1 oo'ya yaklaşma için A FR _",
+    "title_tr": "Yoldayken"
   },
   {
     "id": "s45",
-    "title": "(E) represents enroute scaling of i.e dots on the HSI latera…",
+    "title": "represents enroute scaling",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "(E) represents enroute scaling of i.e dots on the HSI lateral deviation scale. 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "(E), HSI yanal sapma ölçeğindeki noktaların yol boyunca ölçeklendirilmesini temsil eder. 100.000 FR _",
+    "title_tr": "Yol boyunca ölçeklendirmeyi"
   },
   {
     "id": "s46",
-    "title": "represents terminal scaling of i.e 1INM2 dots. 1 oo FR _",
+    "title": "represents terminal scaling",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "represents terminal scaling of i.e 1INM2 dots. 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "yani 1INM2 noktaların terminal ölçeklendirmesini temsil eder. 100.000 FR _",
+    "title_tr": "Terminal ölçeklendirmesini eder"
   },
   {
     "id": "s47",
-    "title": "(A) represents approach scaling of i.e dots. 1 oo FR _",
+    "title": "represents approach scaling",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "(A) represents approach scaling of i.e dots. 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "(A), yani noktaların yaklaşım ölçeklendirmesini temsil eder. 100.000 FR _",
+    "title_tr": "Yaklaşım ölçeklendirmesini eder"
   },
   {
     "id": "s48",
-    "title": "Other information on page 1 of NAV include - Wind - Ground s…",
+    "title": "Other information page",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "Other information on page 1 of NAV include - Wind - Ground speed - Bearing and - Track angle error",
-    "caption_tr": ""
+    "caption_tr": "NAV'ın 1. sayfasındaki diğer bilgiler arasında - Rüzgar - Yer hızı - Yön ve - Palet açısı hatası yer alır",
+    "title_tr": "Diğer bilgi sayfası"
   },
   {
     "id": "s49",
-    "title": "The Quality Factor Q is a measurement of a systems probable …",
+    "title": "Quality Factor Q",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "The Quality Factor Q is a measurement of a systems probable error in tenths of a nautical mile. Based on a 95 probability, a Q of 1 would represent a maximum position error of 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Kalite Faktörü Q, deniz milinin onda biri cinsinden olası sistem hatasının ölçümüdür. 95 olasılığa dayalı olarak, Q'nun 1 olması, 1oo FR _ maksimum konum hatasını temsil eder",
+    "title_tr": "Kalite Faktörü Q"
   },
   {
     "id": "s50",
-    "title": "When two sensors have nearly equal weighting in the NAV solu…",
+    "title": "two sensors have",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
     "caption_en": "When two sensors have nearly equal weighting in the NAV solution, they will be displayed as GPSDME. 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "NAV çözümünde iki sensör neredeyse eşit ağırlığa sahip olduğunda GPSDME olarak görüntülenecektir. 100.000 FR _",
+    "title_tr": "İki sensör var"
   },
   {
     "id": "s51",
-    "title": "Also available are line select keys for -UPDATE SENSORS - SE…",
+    "title": "Also available are",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
     "caption_en": "Also available are line select keys for -UPDATE SENSORS - SENSORS, and -HOLD POSITION 1 oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Ayrıca -GÜNCELLEME SENSÖRLERİ - SENSÖRLER ve -HOLD POSITION 1 oo FR _ için hat seçme tuşları da mevcuttur.",
+    "title_tr": "Ayrıca mevcut"
   },
   {
     "id": "s52",
-    "title": "Lets look at the various NAV maneuver options that are avail…",
+    "title": "Lets look various",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
     "caption_en": "Lets look at the various NAV maneuver options that are available. Touch the NAV function key. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Mevcut çeşitli NAV manevra seçeneklerine bakalım. NAV fonksiyon tuşuna dokunun. IR veya FR _",
+    "title_tr": "Çeşitli bakalım"
   },
   {
     "id": "s53",
-    "title": "Touch the IR oo FR _",
+    "title": "Touch IR oo",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
     "caption_en": "Touch the IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "IR oo FR _'ye dokunun",
+    "title_tr": "IR oo'ya dokunun"
   },
   {
     "id": "s54",
-    "title": "The various options will now be discussed: - HOLDING DEFN -P…",
+    "title": "- HOLDING DEFN",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
     "caption_en": "The various options will now be discussed: - HOLDING DEFN -PVOR -",
-    "caption_tr": ""
+    "caption_tr": "Şimdi çeşitli seçenekler tartışılacaktır: - HOLDING DEFN -PVOR -",
+    "title_tr": "DEFN'İ TUTMAK"
   },
   {
     "id": "s55",
-    "title": "This parallel track is selected from the NAV page. Touch the…",
+    "title": "This parallel track",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
     "caption_en": "This parallel track is selected from the NAV page. Touch the NAV function key. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu paralel yol NAV sayfasından seçilir. NAV fonksiyon tuşuna dokunun. IR veya FR _",
+    "title_tr": "Bu paralel yol"
   },
   {
     "id": "s56",
-    "title": "The crosstrack selection is selected by pressing the or key …",
+    "title": "crosstrack selection selected",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
     "caption_en": "The crosstrack selection is selected by pressing the or key as shown above. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Çapraz yol seçimi yukarıda gösterildiği gibi veya tuşuna basılarak seçilir. ben de FR _",
+    "title_tr": "Çapraz yol seçimi"
   },
   {
     "id": "s57",
-    "title": "When selected crosstrack is executed, the airplance will dev…",
+    "title": "selected crosstrack executed",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
     "caption_en": "When selected crosstrack is executed, the airplance will deviate from its current position and make a 45 intercept on the selected crosstrack. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Seçilen çapraz yol yürütüldüğünde, uçak mevcut konumundan sapacak ve seçilen çapraz yolda 45°'lik bir önleme yapacaktır. IR veya FR _",
+    "title_tr": "Seçilen çapraz yol"
   },
   {
     "id": "s58",
-    "title": "The above picture shows airplane is on the selected crosstra…",
+    "title": "above picture airplane",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
     "caption_en": "The above picture shows airplane is on the selected crosstrack. The crosstrack which has moves one line upward; indicates 0, while the reminds the crew that selected crosstrack is in progress. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki resim uçağın seçilen çapraz yolda olduğunu göstermektedir. Bir sıra yukarıya doğru hareket eden kavşak; 0'ı gösterirken mürettebata seçilen çapraz yolun devam ettiğini hatırlatır. ben de FR _",
+    "title_tr": "Yukarıdaki resimdeki uçak"
   },
   {
     "id": "s59",
-    "title": "will be annunicated on the HSI to indicate that crosstrack s…",
+    "title": "will annunicated HSI",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
     "caption_en": "will be annunicated on the HSI to indicate that crosstrack selection has been selected. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Çapraz yol seçiminin seçildiğini belirtmek için HSI'da duyurulacaktır. IR veya FR _",
+    "title_tr": "HSI'yi açıklayacak"
   },
   {
     "id": "s60",
-    "title": "Automatic leg change will occur abeam the next waypoint when…",
+    "title": "Automatic leg change",
     "imgSrc": "slides/s60.png",
     "audioSrc": "audio/s60.mp3",
     "caption_en": "Automatic leg change will occur abeam the next waypoint when flying a Crosstrack. The aircraft resumes its normal track in the next leg. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Crosstrack ile uçarken bir sonraki geçiş noktasında otomatik bacak değişimi gerçekleşecektir. Uçak bir sonraki etapta normal yoluna devam ediyor. IR veya FR _",
+    "title_tr": "Otomatik bacak değiştirme"
   },
   {
     "id": "s61",
-    "title": "Selected crosstrack cancellation is done by the same method …",
+    "title": "Selected crosstrack cancellation",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
     "caption_en": "Selected crosstrack cancellation is done by the same method by entering a zero as the offset. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Seçilen çapraz iz iptali, ofset olarak sıfır girilerek aynı yöntemle yapılır. IR veya FR _",
+    "title_tr": "Seçilen çapraz yol"
   },
   {
     "id": "s62",
-    "title": "Cancellation of can also be effected on the MANEUVER page by…",
+    "title": "Cancellation can also",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
     "caption_en": "Cancellation of can also be effected on the MANEUVER page by pressing cancel selected crosstrack line select key. The appearance of is the result of selecting earlier on. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "MANEVRA sayfasında seçilen çapraz hat seçme tuşuna basılarak da iptal işlemi gerçekleştirilebilir. Görünümü daha önce yapılan seçimin sonucudur. ben de FR _",
+    "title_tr": "İptal de olabilir"
   },
   {
     "id": "s63",
-    "title": "Selected Crosstrack is not available on Direct-To or Pseudo …",
+    "title": "Selected Crosstrack available",
     "imgSrc": "slides/s63.png",
     "audioSrc": "audio/s63.mp3",
     "caption_en": "Selected Crosstrack is not available on Direct-To or Pseudo VOR (PVOR) legs. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Seçilen Crosstrack, Direct-To veya Pseudo VOR (PVOR) bacaklarında kullanılamaz. IR veya FR _",
+    "title_tr": "Seçilen Çapraz Yol"
   },
   {
     "id": "s64",
-    "title": "Maneuver page. Touch the Holding defn IR oo FR _",
+    "title": "Maneuver page Touch",
     "imgSrc": "slides/s64.png",
     "audioSrc": "audio/s64.mp3",
     "caption_en": "Maneuver page. Touch the Holding defn IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Manevra sayfası. Tutma tanımı IR oo FR _'ye dokunun",
+    "title_tr": "Manevra sayfası Dokunma"
   },
   {
     "id": "s65",
-    "title": "The \"HOLD FIX\" will always be filled in with the \"TO\" waypoi…",
+    "title": "HOLD FIX will",
     "imgSrc": "slides/s65.png",
     "audioSrc": "audio/s65.mp3",
     "caption_en": "The \"HOLD FIX\" will always be filled in with the \"TO\" waypoint. Assuming holding is to be done over number 6 must be selected into the prompt, and then ENTER. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "\"HOLD FIX\" her zaman \"TO\" yol noktasıyla doldurulacaktır. Tutma işleminin yapılacağını varsayarsak istemde 6 rakamının seçilmesi ve ardından ENTER tuşuna basılması gerekir. ben de FR _",
+    "title_tr": "TUTUN DÜZELTME"
   },
   {
     "id": "s66",
-    "title": "The inbound (INBD) will be the current Desired track to that…",
+    "title": "inbound will current",
     "imgSrc": "slides/s66.png",
     "audioSrc": "audio/s66.mp3",
     "caption_en": "The inbound (INBD) will be the current Desired track to that fix. - TURN will defauit to right hand hold - TIME will default to minute These parameters may be changed by the pilot. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Gelen (INBD), bu düzeltmenin mevcut İstenilen yolu olacaktır. - TURN varsayılan olarak sağ el tutuşuna geçecektir - TIME varsayılan olarak dakikaya dönecektir. Bu parametreler pilot tarafından değiştirilebilir. ben de FR _",
+    "title_tr": "Gelen akım geçerli"
   },
   {
     "id": "s67",
-    "title": "The type of ENTRY - direct, parallel or teardrop - is determ…",
+    "title": "type ENTRY -",
     "imgSrc": "slides/s67.png",
     "audioSrc": "audio/s67.mp3",
     "caption_en": "The type of ENTRY - direct, parallel or teardrop - is determined by the parameters just discussed. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "GİRİŞ türü - doğrudan, paralel veya gözyaşı - az önce tartışılan parametrelere göre belirlenir. ben de FR _",
+    "title_tr": "GİRİŞ yazın -"
   },
   {
     "id": "s68",
-    "title": "When the parameters of the holding pattern are defined, line…",
+    "title": "parameters holding pattern",
     "imgSrc": "slides/s68.png",
     "audioSrc": "audio/s68.mp3",
     "caption_en": "When the parameters of the holding pattern are defined, line selecting ARM HOLD Key will allow the aircraft to fly the active flight plan and then automatically activate the holding pattern upon reaching which is the holding FIX. Touch ARM HOLD L SK to arm holding pattern. IE oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bekleme düzeninin parametreleri tanımlandığında, ARM HOLD Tuşunun hat seçimi, uçağın aktif uçuş planında uçmasına olanak tanıyacak ve ardından bekleme FIX'i olan bekleme düzenini otomatik olarak etkinleştirecektir. Tutma düzenini kola almak için KOL TUTMA L SK'ya dokunun. IE oo FR _",
+    "title_tr": "Desen tutan parametreler"
   },
   {
     "id": "s69",
-    "title": "The ARM HOLD changes to Direct-to HOLD (DTO HOLD). This prom…",
+    "title": "ARM HOLD changes",
     "imgSrc": "slides/s69.png",
     "audioSrc": "audio/s69.mp3",
     "caption_en": "The ARM HOLD changes to Direct-to HOLD (DTO HOLD). This prompt may be used if the intention is to proceed straight from present position to holding FIX, but let's disregard this. Touch RETURN IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "ARM HOLD, Doğrudan HOLD'a (DTO HOLD) dönüşür. Bu istem, amaç mevcut konumdan doğrudan FIX'i tutmaya devam etmekse kullanılabilir, ancak bunu göz ardı edelim. GERİ DÖN IR oo FR _'ye dokunun",
+    "title_tr": "KOL TUTMA değişiklikleri"
   },
   {
     "id": "s70",
-    "title": "This page has a HOLD ARMED below its title. This page also a…",
+    "title": "This page has",
     "imgSrc": "slides/s70.png",
     "audioSrc": "audio/s70.mp3",
     "caption_en": "This page has a HOLD ARMED below its title. This page also allows the crew to disarm holding pattern prior to reaching holding FIX. Pushing DISARM HOLD L SK cancel all holding definitions. Let's disregard this. Touch RETURN IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu sayfanın başlığının altında HOLD ARMED yazısı bulunmaktadır. Bu sayfa aynı zamanda mürettebatın bekleme FIX'ine ulaşmadan önce bekleme düzenini devre dışı bırakmasına da olanak tanır. DISARM HOLD L SK düğmesine basıldığında tüm bekletme tanımları iptal edilir. Bunu göz ardı edelim. GERİ DÖN IR oo FR _'ye dokunun",
+    "title_tr": "Bu sayfada"
   },
   {
     "id": "s71",
-    "title": "An asterisk is seem against This reminds the crew that holdi…",
+    "title": "asterisk seem against",
     "imgSrc": "slides/s71.png",
     "audioSrc": "audio/s71.mp3",
     "caption_en": "An asterisk is seem against This reminds the crew that holding is armed at It is also confirmed by the word \"HOLD\" enclosed in a bracket in the NX field. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Karşısında bir yıldız işareti görünüyor Bu, mürettebata beklemenin hazır olduğunu hatırlatır. Aynı zamanda NX alanında parantez içine alınmış \"HOLD\" kelimesiyle de doğrulanır. IR veya FR _",
+    "title_tr": "Yıldız işareti karşı"
   },
   {
     "id": "s72",
-    "title": "The \"HOLD ARMED\" feature is also shown on the flight plan pa…",
+    "title": "HOLD ARMED feature",
     "imgSrc": "slides/s72.png",
     "audioSrc": "audio/s72.mp3",
     "caption_en": "The \"HOLD ARMED\" feature is also shown on the flight plan page. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Uçuş planı sayfasında \"SİLAHLI TUT\" özelliği de gösterilmektedir. IR veya FR _",
+    "title_tr": "SİLAHLI TUT özelliği"
   },
   {
     "id": "s73",
-    "title": "Upon reaching the NAV display will show (HOLD) as the TO way…",
+    "title": "Upon reaching NAV",
     "imgSrc": "slides/s73.png",
     "audioSrc": "audio/s73.mp3",
     "caption_en": "Upon reaching the NAV display will show (HOLD) as the TO waypoint and the NX field will be dashed. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "NAV ekranına ulaşıldığında TO yol noktası olarak (HOLD) gösterilecek ve NX alanı kesikli çizgiyle gösterilecektir. IR veya FR _",
+    "title_tr": "NAV'a ulaşıldığında"
   },
   {
     "id": "s74",
-    "title": "The estimated time of arrival (ETA) over the inbound fix is …",
+    "title": "estimated time arrival",
     "imgSrc": "slides/s74.png",
     "audioSrc": "audio/s74.mp3",
     "caption_en": "The estimated time of arrival (ETA) over the inbound fix is shown on NAV and HOLDING pages. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Gelen düzeltme üzerinden tahmini varış zamanı (ETA), NAV ve HOLDING sayfalarında gösterilir. IR veya FR _",
+    "title_tr": "Tahmini varış zamanı"
   },
   {
     "id": "s75",
-    "title": "The PROCEED L SK is now available on the MANEUVER page. Pres…",
+    "title": "PROCEED L SK",
     "imgSrc": "slides/s75.png",
     "audioSrc": "audio/s75.mp3",
     "caption_en": "The PROCEED L SK is now available on the MANEUVER page. Pressing this function will cause the aircraft to continue the holding until crossing the FIX, then it will proceed on course as the flight plan directs. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "PROCEED L SK artık MANEVRA sayfasında mevcuttur. Bu fonksiyona basılması, uçağın FIX'i geçene kadar beklemeye devam etmesine neden olacak, daha sonra uçuş planının yönlendirdiği şekilde rotasına devam edecektir. ben de FR _",
+    "title_tr": "DEVAM L SK"
   },
   {
     "id": "s76",
-    "title": "If the intention is to exit the holding quickly, DTO key sho…",
+    "title": "intention exit holding",
     "imgSrc": "slides/s76.png",
     "audioSrc": "audio/s76.mp3",
     "caption_en": "If the intention is to exit the holding quickly, DTO key should be used. Touch DTO key. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Eğer amaç holdingten hızlı bir şekilde çıkmak ise DTO tuşu kullanılmalıdır. DTO tuşuna dokunun. ben de FR _",
+    "title_tr": "Niyet çıkış tutma"
   },
   {
     "id": "s77",
-    "title": "Inserting the desired direct-to waypoint in this case) into …",
+    "title": "Inserting desired direct-to",
     "imgSrc": "slides/s77.png",
     "audioSrc": "audio/s77.mp3",
     "caption_en": "Inserting the desired direct-to waypoint in this case) into the cursor and ENTER will cause the aircraft to make the shortest turn and exit the holding pattern. Touch ENTER key to proceed to IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda istenen doğrudan yol noktasına) imlece ve ENTER'a eklemek, uçağın en kısa dönüşü yapmasına ve bekleme düzeninden çıkmasına neden olacaktır. IR oo FR _'ye ilerlemek için ENTER tuşuna dokunun",
+    "title_tr": "İstenilen doğrudan ekleme"
   },
   {
     "id": "s78",
-    "title": "Inserting the desired direct-to waypoint in this case) into …",
+    "title": "Inserting desired direct-to",
     "imgSrc": "slides/s78.png",
     "audioSrc": "audio/s78.mp3",
     "caption_en": "Inserting the desired direct-to waypoint in this case) into the cursor and ENTER will cause the aircraft to make the shortest turn and exit the holding pattern. Touch ENTER key to proceed to IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda istenen doğrudan yol noktasına) imlece ve ENTER'a eklemek, uçağın en kısa dönüşü yapmasına ve bekleme düzeninden çıkmasına neden olacaktır. IR oo FR _'ye ilerlemek için ENTER tuşuna dokunun",
+    "title_tr": "İstenilen doğrudan ekleme"
   },
   {
     "id": "s79",
-    "title": "To accomplish this maneuver without changing the flight guid…",
+    "title": "accomplish this maneuver",
     "imgSrc": "slides/s79.png",
     "audioSrc": "audio/s79.mp3",
     "caption_en": "To accomplish this maneuver without changing the flight guidance controller to heading mode, we can simply press the on the NAV or MANEUVER page. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yönlendirme kontrol cihazını yön moduna değiştirmeden bu manevrayı gerçekleştirmek için NAV veya MANEVRA sayfasındaki tuşuna basabiliriz. ben de FR _",
+    "title_tr": "Bu manevrayı başar"
   },
   {
     "id": "s80",
-    "title": "The overlay will be displayed and the cursor will be filled …",
+    "title": "overlay will cursor",
     "imgSrc": "slides/s80.png",
     "audioSrc": "audio/s80.mp3",
     "caption_en": "The overlay will be displayed and the cursor will be filled with the present heading. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Kaplama görüntülenecek ve imleç mevcut başlıkla doldurulacaktır. IR veya FR _",
+    "title_tr": "Kaplama imleç olacaktır"
   },
   {
     "id": "s81",
-    "title": "Two heading mode options are available. If a clearance is re…",
+    "title": "Two heading mode",
     "imgSrc": "slides/s81.png",
     "audioSrc": "audio/s81.mp3",
     "caption_en": "Two heading mode options are available. If a clearance is received to turn left or right X\" degrees, this may be commanded by pressing the or key while the cursor is over the data field. The field will change to read TURN L or TURN R, as selected, and entry of the turn in degrees may be made. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "İki başlık modu seçeneği mevcuttur. X\" derece sola veya sağa dönme izni alınırsa, imleç veri alanı üzerindeyken veya tuşuna basılarak bu komut verilebilir. Alan, seçildiği gibi TURN L veya TURN R şeklinde değişecek ve dönüş girişi derece cinsinden yapılabilir. IR oo FR _",
+    "title_tr": "İki başlık modu"
   },
   {
     "id": "s82",
-    "title": "If the clearance is to turn to a specific heading, enter the…",
+    "title": "clearance turn specific",
     "imgSrc": "slides/s82.png",
     "audioSrc": "audio/s82.mp3",
     "caption_en": "If the clearance is to turn to a specific heading, enter the heading directly. Enter under and press ENTER twice. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Belirli bir istikamete dönüş yapılacaksa direkt istikameti girin. Altına girin ve iki kez ENTER tuşuna basın. ben de FR _",
+    "title_tr": "Geçiş dönüşüne özel"
   },
   {
     "id": "s83",
-    "title": "Pressing ENTER second time will confirm the entry and the wi…",
+    "title": "Pressing ENTER second",
     "imgSrc": "slides/s83.png",
     "audioSrc": "audio/s83.mp3",
     "caption_en": "Pressing ENTER second time will confirm the entry and the will steer the aircraft to the selected heading. If the autopilot is engaged, it will follow the command bars. SEL mode will be annunciated below the NAV page header and the TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "ENTER'a ikinci kez basıldığında giriş onaylanacak ve hava aracı seçilen istikamete yönlendirilecektir. Otopilot devredeyse komut çubuklarını takip edecektir. SEL modu, NAV sayfa başlığının ve TR oo FR _ başlığının altında duyurulacaktır.",
+    "title_tr": "ENTER'a ikinci kez"
   },
   {
     "id": "s84",
-    "title": "The NAV page will display NO INTCPT in the overlay window, i…",
+    "title": "NAV page will",
     "imgSrc": "slides/s84.png",
     "audioSrc": "audio/s84.mp3",
     "caption_en": "The NAV page will display NO INTCPT in the overlay window, indicating that this heading will not intercept the current NAV leg. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "NAV sayfası, kaplama penceresinde NO INTCPT görüntüleyecektir; bu, bu istikamette mevcut NAV ayağını kesmeyeceğini gösterir. ben de FR _",
+    "title_tr": "NAV sayfası"
   },
   {
     "id": "s85",
-    "title": "Using the same process as before, we simply type the new hea…",
+    "title": "same process we",
     "imgSrc": "slides/s85.png",
     "audioSrc": "audio/s85.mp3",
     "caption_en": "Using the same process as before, we simply type the new heading command and the aircraft is directed to the new heading. Notice that the INTERCEPT prompt appears against If the INTERCEPT key is not selected, the will continue to fly mode indefinitely. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Önceki işlemin aynısını kullanarak yeni yön komutunu yazıyoruz ve uçak yeni istikamete yönlendiriliyor. INTERCEPT komutunun karşıda göründüğüne dikkat edin. INTERCEPT tuşu seçilmezse, uçuş modu süresiz olarak devam edecektir. TR veya FR _",
+    "title_tr": "Biz de aynı"
   },
   {
     "id": "s86",
-    "title": "If the clearance by the controller is to resume normal navig…",
+    "title": "clearance controller resume",
     "imgSrc": "slides/s86.png",
     "audioSrc": "audio/s86.mp3",
     "caption_en": "If the clearance by the controller is to resume normal navigation, then the INTERCEPT key must be selected. Touch the INTERCEPT key. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Kontrolörün izniyle normal navigasyona devam edilecekse, KESME tuşu seçilmelidir. KESME tuşuna dokunun. ben de FR _",
+    "title_tr": "Gümrükleme kontrolörü özgeçmişi"
   },
   {
     "id": "s87",
-    "title": "When the INTERCEPT mode is selected, it will be annunciated …",
+    "title": "INTERCEPT mode selected",
     "imgSrc": "slides/s87.png",
     "audioSrc": "audio/s87.mp3",
     "caption_en": "When the INTERCEPT mode is selected, it will be annunciated below the NAV page header, and the SEL prompt appears. The will cause the aircraft to fly the until intercepting the original flight plan route. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "INTERCEPT modu seçildiğinde, NAV sayfa başlığının altında duyurulacak ve SEL istemi görünecektir. Bu, uçağın orijinal uçuş planı rotasını kesene kadar uçmasına neden olacaktır. ben de FR _",
+    "title_tr": "KESİŞME modu seçildi"
   },
   {
     "id": "s88",
-    "title": "If cancel heading is selected, the will automatically set up…",
+    "title": "heading selected will",
     "imgSrc": "slides/s88.png",
     "audioSrc": "audio/s88.mp3",
     "caption_en": "If cancel heading is selected, the will automatically set up to 45 intercept to the current NAV LEG. With crosstrack less than 12 the will make a smart turn onto the current NAV LEG. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Eğer rotayı iptal et seçilirse, mevcut NAV LEG'e otomatik olarak 45'e kadar kesişme ayarlanacaktır. Çapraz iz 12'den az olduğunda mevcut NAV LEG'e akıllı bir dönüş yapılacaktır. ben de FR _",
+    "title_tr": "Seçilen başlık"
   },
   {
     "id": "s89",
-    "title": "The PVOR page provides the capability to track to or from an…",
+    "title": "PVOR page capability",
     "imgSrc": "slides/s89.png",
     "audioSrc": "audio/s89.mp3",
     "caption_en": "The PVOR page provides the capability to track to or from any know waypoint on a programmed radial. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "PVOR sayfası, programlanmış bir radyal üzerinde bilinen herhangi bir yol noktasına gidiş veya dönüş noktasını takip etme yeteneği sağlar. ben de FR _",
+    "title_tr": "PVOR sayfa özelliği"
   },
   {
     "id": "s90",
-    "title": "The PVOR page is accessed from: -DTO page and line selecting…",
+    "title": "-DTO page line",
     "imgSrc": "slides/s90.png",
     "audioSrc": "audio/s90.mp3",
     "caption_en": "The PVOR page is accessed from: -DTO page and line selecting PVOR - NAV page, MANEUVER option selected Touch the highlighted PVOR I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "PVOR sayfasına şuradan erişilir: -DTO sayfası ve PVOR seçilerek satır - NAV sayfası, MANEVRA seçeneği seçili Vurgulanan PVOR'a dokunun I oo FR _",
+    "title_tr": "DTO sayfa satırı"
   },
   {
     "id": "s91",
-    "title": "The PVOR definition page will display the current TO waypoin…",
+    "title": "PVOR definition page",
     "imgSrc": "slides/s91.png",
     "audioSrc": "audio/s91.mp3",
     "caption_en": "The PVOR definition page will display the current TO waypoint from the flight plan, and the subsequent waypoints will be displayed in a list. The desired PVOR point may be chosen from the list, manually entered at the cursor, or the LIST feature may be used. Let's insert waypoint 6 and ENTER I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "PVOR tanımlama sayfası, uçuş planındaki mevcut TO yol noktasını görüntüleyecek ve sonraki yol noktaları bir listede görüntülenecektir. İstenilen PVOR noktası listeden seçilebilir, imleç kullanılarak manuel olarak girilebilir veya LIST özelliği kullanılabilir. Ara nokta 6'yı ekleyelim ve ENTER I oo FR _",
+    "title_tr": "PVOR tanım sayfası"
   },
   {
     "id": "s92",
-    "title": "After the waypoint is identified, the cursor will move to th…",
+    "title": "waypoint identified cursor",
     "imgSrc": "slides/s92.png",
     "audioSrc": "audio/s92.mp3",
     "caption_en": "After the waypoint is identified, the cursor will move to the DESIRED TRACK field. The desired track may be entered directly, or an inbound or outbound radial may be defined and the desired track will be calculated. Use the keypad and type and ENTER. Touch ACCEPT key. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Yol noktası tanımlandıktan sonra imleç İSTENEN İZ alanına hareket edecektir. İstenilen parkur doğrudan girilebileceği gibi, gelen veya giden bir radyal tanımlanarak istenilen parkur hesaplanacaktır. Tuş takımını kullanın ve yazın ve ENTER tuşuna basın. KABUL tuşuna dokunun. ben de FR _",
+    "title_tr": "Ara nokta tanımlanmış"
   },
   {
     "id": "s93",
-    "title": "Pressing Accept will change the current NAV leg to the PVOR …",
+    "title": "Pressing Accept will",
     "imgSrc": "slides/s93.png",
     "audioSrc": "audio/s93.mp3",
     "caption_en": "Pressing Accept will change the current NAV leg to the PVOR and a 45 intercept to the defined radial will be steered. The mode may be sued to fly the intercept if desired. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Kabul Et'e basıldığında mevcut NAV ayağı PVOR olarak değiştirilecek ve tanımlanan radyale 45'lik bir kesişme yönlendirilecektir. İstenirse, modun engellemeyi uçurması için dava açılabilir. TR veya FR _",
+    "title_tr": "Kabul Et'e basmak"
   },
   {
     "id": "s94",
-    "title": "On reaching PVOR function is terminated and the aircraft res…",
+    "title": "reaching PVOR function",
     "imgSrc": "slides/s94.png",
     "audioSrc": "audio/s94.mp3",
     "caption_en": "On reaching PVOR function is terminated and the aircraft resumes its course to the next waypoint. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "PVOR'a ulaşıldığında fonksiyon sonlandırılır ve uçak bir sonraki yol noktasına doğru rotasına devam eder. ben de FR _",
+    "title_tr": "PVOR işlevine ulaşma"
   },
   {
     "id": "s95",
-    "title": "The PVOR mode can be deleted by performing a DIRECT TO (DTO)…",
+    "title": "PVOR mode can",
     "imgSrc": "slides/s95.png",
     "audioSrc": "audio/s95.mp3",
     "caption_en": "The PVOR mode can be deleted by performing a DIRECT TO (DTO), making a manual leg change, or selecting the approach mode. TR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "PVOR modu, DIRECT TO (DTO) gerçekleştirilerek, manuel bacak değişikliği yapılarak veya yaklaşma modu seçilerek silinebilir. TR veya FR _",
+    "title_tr": "PVOR modu şunları yapabilir:"
   },
   {
     "id": "s96",
-    "title": "When a PVOR outbound is defined, the next leg will be undefi…",
+    "title": "PVOR outbound defined",
     "imgSrc": "slides/s96.png",
     "audioSrc": "audio/s96.mp3",
     "caption_en": "When a PVOR outbound is defined, the next leg will be undefined. It will be up to the pilot to exit PVOR by a manual leg change, DTO or selecting approach arm when available. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Bir PVOR çıkışı tanımlandığında sonraki bacak tanımsız olacaktır. PVOR'dan manuel bacak değişimiyle, DTO'yla veya mevcut olduğunda yaklaşma kolunu seçerek çıkmak pilotun sorumluluğunda olacaktır. ben de FR _",
+    "title_tr": "PVOR giden tanımlı"
   },
   {
     "id": "s97",
-    "title": "Nine waypoints (present position and eight defined VNAV wayp…",
+    "title": "Nine waypoints present",
     "imgSrc": "slides/s97.png",
     "audioSrc": "audio/s97.mp3",
     "caption_en": "Nine waypoints (present position and eight defined VNAV waypoints) are available under the VNAV function. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "VNAV fonksiyonu altında dokuz yol noktası (mevcut konum ve sekiz tanımlı VNAV yol noktası) mevcuttur. ben de FR _",
+    "title_tr": "Dokuz ara nokta"
   },
   {
     "id": "s98",
-    "title": "Up to eight VNAV waypoints are automatically prefilled in re…",
+    "title": "eight VNAV waypoints",
     "imgSrc": "slides/s98.png",
     "audioSrc": "audio/s98.mp3",
     "caption_en": "Up to eight VNAV waypoints are automatically prefilled in reference to flight plan waypoints. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Uçuş planı yol noktalarına göre en fazla sekiz VNAV yol noktası otomatik olarak önceden doldurulur. ben de FR _",
+    "title_tr": "Sekiz VNAV ara"
   },
   {
     "id": "s99",
-    "title": "The VNAYV page will display the vertical speed required base…",
+    "title": "VNAYV page will",
     "imgSrc": "slides/s99.png",
     "audioSrc": "audio/s99.mp3",
     "caption_en": "The VNAYV page will display the vertical speed required based on present groundspeed to obtain the target altitudes at the VNAYV waypoints. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "VNAYV sayfası, VNAYV yol noktalarındaki hedef irtifaları elde etmek için mevcut yer hızına bağlı olarak gereken dikey hızı gösterecektir. ben de FR _",
+    "title_tr": "VNAYV sayfası"
   },
   {
     "id": "s100",
-    "title": "Aircraft deviation from the vertical flight path is output t…",
+    "title": "Aircraft deviation vertical",
     "imgSrc": "slides/s100.png",
     "audioSrc": "audio/s100.mp3",
     "caption_en": "Aircraft deviation from the vertical flight path is output to the flight guidance system VNAV deviation pointer. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Uçağın dikey uçuş yolundan sapması, uçuş yönlendirme sistemi VNAV sapma işaretçisine aktarılır. ben de FR _",
+    "title_tr": "Uçak sapması dikey"
   },
   {
     "id": "s101",
-    "title": "Enroute VNAYV profile may be flown while couple to the fligh…",
+    "title": "Enroute VNAYV profile",
     "imgSrc": "slides/s101.png",
     "audioSrc": "audio/s101.mp3",
     "caption_en": "Enroute VNAYV profile may be flown while couple to the flight guidance system. The computes a vertical pitch command which is recognised when VNAV is selected on the flight guidance controller. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Yol boyunca VNAYV profili, uçuş rehberlik sistemine bağlıyken uçulabilir. Uçuş yönlendirme kontrol cihazında VNAV seçildiğinde tanınan dikey eğim komutunu hesaplar. ben de FR _",
+    "title_tr": "VNAYV profilini yönlendir"
   },
   {
     "id": "s102",
-    "title": "VNAV mode will be exited and all vertical waypoints will be …",
+    "title": "VNAV mode will",
     "imgSrc": "slides/s102.png",
     "audioSrc": "audio/s102.mp3",
     "caption_en": "VNAV mode will be exited and all vertical waypoints will be cancelled under any of the conditions listed above. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıda listelenen koşulların herhangi biri altında VNAV modundan çıkılacak ve tüm dikey yol noktaları iptal edilecektir. ben de FR _",
+    "title_tr": "VNAV modu"
   },
   {
     "id": "s103",
-    "title": "Should any target vertical speed value be rejected, a messag…",
+    "title": "Should any target",
     "imgSrc": "slides/s103.png",
     "audioSrc": "audio/s103.mp3",
     "caption_en": "Should any target vertical speed value be rejected, a message will be displayed top of the path VNAV page giving the reason. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Herhangi bir hedef dikey hız değerinin reddedilmesi durumunda, VNAV yolunun üst kısmında nedenini belirten bir mesaj görüntülenecektir. ben de FR _",
+    "title_tr": "Herhangi hedef olmalı"
   },
   {
     "id": "s104",
-    "title": "Press the VNAV button to display VNAV definition display. TO…",
+    "title": "Press VNAV button",
     "imgSrc": "slides/s104.png",
     "audioSrc": "audio/s104.mp3",
     "caption_en": "Press the VNAV button to display VNAV definition display. TO waypoint, and subsequent flight plan waypoint (maximum of 8) will follow. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "VNAV tanımı ekranını görüntülemek için VNAV düğmesine basın. K yol noktası ve sonraki uçuş planı yol noktası (maksimum 8) takip edecektir. ben de FR _",
+    "title_tr": "VNAV düğmesine basın"
   },
   {
     "id": "s105",
-    "title": "Press the VNAV button to display VNAV definition display. TO…",
+    "title": "Press VNAV button",
     "imgSrc": "slides/s105.png",
     "audioSrc": "audio/s105.mp3",
     "caption_en": "Press the VNAV button to display VNAV definition display. TO waypoint, and subsequent flight plan waypoint (maximum of 8) will follow. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "VNAV tanımı ekranını görüntülemek için VNAV düğmesine basın. K yol noktası ve sonraki uçuş planı yol noktası (maksimum 8) takip edecektir. ben de FR _",
+    "title_tr": "VNAV düğmesine basın"
   },
   {
     "id": "s106",
-    "title": "Our descent plan is to cross at at and to cross before at ft…",
+    "title": "Our descent plan",
     "imgSrc": "slides/s106.png",
     "audioSrc": "audio/s106.mp3",
     "caption_en": "Our descent plan is to cross at at and to cross before at ft. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "İniş planımız ft. IR oo FR _ noktasından geçmek ve daha önce geçmektir.",
+    "title_tr": "İniş planımız"
   },
   {
     "id": "s107",
-    "title": "The list page allows us to select 3 for from the list. Selec…",
+    "title": "list page allows",
     "imgSrc": "slides/s107.png",
     "audioSrc": "audio/s107.mp3",
     "caption_en": "The list page allows us to select 3 for from the list. Select 3 and ENTER. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Liste sayfası listeden 3 tanesini seçmemizi sağlar. 3'ü seçin ve ENTER'a basın. ben de FR _",
+    "title_tr": "Liste sayfası izin"
   },
   {
     "id": "s108",
-    "title": "The cursor remains over to allow an offset to be entered if …",
+    "title": "cursor remains over",
     "imgSrc": "slides/s108.png",
     "audioSrc": "audio/s108.mp3",
     "caption_en": "The cursor remains over to allow an offset to be entered if desired. Since the clearance is to cross at offset does not apply. Press ENTER. IE oo FR _",
-    "caption_tr": ""
+    "caption_tr": "İstenirse bir ofsetin girilmesine izin vermek için imleç üzerinde kalır. Açıklık ofsetten geçmek olduğundan geçerli değildir. ENTER'a basın. IE oo FR _",
+    "title_tr": "İmleç üzerinde kalır"
   },
   {
     "id": "s109",
-    "title": "Type and ENTER. I oo FR _",
+    "title": "Type ENTER I",
     "imgSrc": "slides/s109.png",
     "audioSrc": "audio/s109.mp3",
     "caption_en": "Type and ENTER. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Yazın ve ENTER'a basın. ben de FR _",
+    "title_tr": "ENTER I yazın"
   },
   {
     "id": "s110",
-    "title": "Entry of and ENTER will designate the altitude entry as The …",
+    "title": "Entry ENTER will",
     "imgSrc": "slides/s110.png",
     "audioSrc": "audio/s110.mp3",
     "caption_en": "Entry of and ENTER will designate the altitude entry as The distance and vertical speed required will be displayed and the cursor will move to the VS field. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Girişi ve ENTER, rakım girişini şu şekilde belirleyecektir: Gerekli mesafe ve dikey hız görüntülenecek ve imleç VS alanına hareket edecektir. ben de FR _",
+    "title_tr": "ENTER girişi yapılacak"
   },
   {
     "id": "s111",
-    "title": "The computed Top Of Descent distance and the flight path ang…",
+    "title": "computed Top Descent",
     "imgSrc": "slides/s111.png",
     "audioSrc": "audio/s111.mp3",
     "caption_en": "The computed Top Of Descent distance and the flight path angle (FPA) of will be displayed. The picture on the right is representation of the data on the display. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Hesaplanan Tepe İniş mesafesi ve uçuş yolu açısı (FPA) görüntülenecektir. Sağdaki resim ekrandaki verilerin temsilidir. ben de FR _",
+    "title_tr": "Bilgisayarlı Üst İniş"
   },
   {
     "id": "s112",
-    "title": "In a similar manner on the VNAV page, is designated with ft …",
+    "title": "similar manner VNAV",
     "imgSrc": "slides/s112.png",
     "audioSrc": "audio/s112.mp3",
     "caption_en": "In a similar manner on the VNAV page, is designated with ft altitude constraint. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde VNAV sayfasında da ft yükseklik kısıtlaması ile belirtilir. ben de FR _",
+    "title_tr": "Benzer şekilde VNAV"
   },
   {
     "id": "s113",
-    "title": "As for since the clearance is ft 10 NM before an offset of N…",
+    "title": "since clearance ft",
     "imgSrc": "slides/s113.png",
     "audioSrc": "audio/s113.mp3",
     "caption_en": "As for since the clearance is ft 10 NM before an offset of NM is placed on the field after Entering these information will arm the for a step-down flight profile. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Açıklık ft 10 NM olduğundan, sahaya NM ofseti yerleştirilmeden önce, bu bilgilerin girilmesi, alçaltıcı uçuş profilini devreye sokacaktır. IR veya FR _",
+    "title_tr": "temizlendiğinden beri ft"
   },
   {
     "id": "s114",
-    "title": "If the clearance is to cross after at ft, then an offset of …",
+    "title": "clearance cross ft",
     "imgSrc": "slides/s114.png",
     "audioSrc": "audio/s114.mp3",
     "caption_en": "If the clearance is to cross after at ft, then an offset of is inserted against I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Eğer açıklık ft'den sonra kesilecekse, o zaman I oo FR _'ye karşı bir ofset eklenir.",
+    "title_tr": "Boşluk çapraz ft"
   },
   {
     "id": "s115",
-    "title": "When the aircraft is 2 minutes from the Top of Descent captu…",
+    "title": "aircraft 2 minutes",
     "imgSrc": "slides/s115.png",
     "audioSrc": "audio/s115.mp3",
     "caption_en": "When the aircraft is 2 minutes from the Top of Descent capture point the light flashes and the message TOP OF DESCENT ALERT appears on the page. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Uçak, İniş Tepesi yakalama noktasından 2 dakika uzakta olduğunda ışık yanıp söner ve sayfada TOP OF DSCENT ALARMI mesajı görünür. IR veya FR _",
+    "title_tr": "Uçak 2 dakika"
   },
   {
     "id": "s116",
-    "title": "During the 2-minutes period the pilot may arm VNAV on the Pl…",
+    "title": "2-minutes period pilot",
     "imgSrc": "slides/s116.png",
     "audioSrc": "audio/s116.mp3",
     "caption_en": "During the 2-minutes period the pilot may arm VNAV on the Please note that Altitude Preselect must be setto an altitude defined in the IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "2 dakikalık süre boyunca pilot, VNAV'ı şu şekilde devreye alabilir: Yükseklik Ön Seçiminin IR oo FR _'de tanımlanan bir yüksekliğe ayarlanması gerektiğini lütfen unutmayın.",
+    "title_tr": "2 dakikalık dönem"
   },
   {
     "id": "s117",
-    "title": "At seconds to TOD or any other vertical waypoints, will flas…",
+    "title": "seconds TOD any",
     "imgSrc": "slides/s117.png",
     "audioSrc": "audio/s117.mp3",
     "caption_en": "At seconds to TOD or any other vertical waypoints, will flash again and \"VERTICAL ALERT\" appears on the message page. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "TOD'a veya diğer herhangi bir dikey ara noktaya saniyeler kala tekrar yanıp sönecek ve mesaj sayfasında \"DİKEY UYARI\" belirecektir. ben de FR _",
+    "title_tr": "saniye TOD herhangi"
   },
   {
     "id": "s118",
-    "title": "The vertical deviation at capture is dependent upon aircraft…",
+    "title": "vertical deviation capture",
     "imgSrc": "slides/s118.png",
     "audioSrc": "audio/s118.mp3",
     "caption_en": "The vertical deviation at capture is dependent upon aircraft speed and the path angle. IE oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Yakalama sırasındaki dikey sapma, uçağın hızına ve yol açısına bağlıdır. IE oo FR _",
+    "title_tr": "Dikey sapma yakalama"
   },
   {
     "id": "s119",
-    "title": "On the VNAYV page, a Vertical Direct To (VTO) feature allows…",
+    "title": "VNAYV page Vertical",
     "imgSrc": "slides/s119.png",
     "audioSrc": "audio/s119.mp3",
     "caption_en": "On the VNAYV page, a Vertical Direct To (VTO) feature allows the aircraft to by-pass any altitude constraints. I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "VNAYV sayfasındaki Dikey Doğrudan Hedef (VTO) özelliği, uçağın her türlü irtifa kısıtlamasını atlamasını sağlar. ben de FR _",
+    "title_tr": "VNAYV sayfası Dikey"
   },
   {
     "id": "s120",
-    "title": "Selecting VTO key leads to VERTICAL TO list page which consi…",
+    "title": "VTO key leads",
     "imgSrc": "slides/s120.png",
     "audioSrc": "audio/s120.mp3",
     "caption_en": "Selecting VTO key leads to VERTICAL TO list page which consists of all the defined VNAV waypoints. Assuming that the clearance now is to cancel the altitude constraint at we will select 2, which is into the cursor. Type 2 and ENTER I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "VTO ​​tuşunun seçilmesi, tanımlanmış tüm VNAV yol noktalarından oluşan VERTICAL TO liste sayfasına yönlendirir. Artık açıklığın yükseklik kısıtlamasını iptal etmek olduğunu varsayarak imlecin içindeki 2'yi seçeceğiz. 2 yazın ve ENTER I oo FR _",
+    "title_tr": "VTO önemli potansiyel"
   },
   {
     "id": "s121",
-    "title": "The VIS will be the vertical speed required which was displa…",
+    "title": "VIS will vertical",
     "imgSrc": "slides/s121.png",
     "audioSrc": "audio/s121.mp3",
     "caption_en": "The VIS will be the vertical speed required which was displayed when VTO was selected. However, when VIS is re-selected, will re-calculate TOD from the present position. This is shown on on the right. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "VIS, VTO seçildiğinde görüntülenen gerekli dikey hız olacaktır. Ancak VIS yeniden seçildiğinde TOD'u mevcut konumdan yeniden hesaplayacaktır. Bu sağda gösterilmektedir. IR veya FR _",
+    "title_tr": "VIS dikey olacak"
   },
   {
     "id": "s122",
-    "title": "Pressing the line select key at any time will cause the mode…",
+    "title": "Pressing line select",
     "imgSrc": "slides/s122.png",
     "audioSrc": "audio/s122.mp3",
     "caption_en": "Pressing the line select key at any time will cause the mode to cancel and VNAYV display will go invalid. IR oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Herhangi bir zamanda hat seçme tuşuna basılması modun iptal edilmesine ve VNAYV ekranının geçersiz olmasına neden olacaktır. IR veya FR _",
+    "title_tr": "Satır seçme tuşuna"
   },
   {
     "id": "s123",
-    "title": "The entire VNAYV profile can be deleted by the following ste…",
+    "title": "entire VNAYV profile",
     "imgSrc": "slides/s123.png",
     "audioSrc": "audio/s123.mp3",
     "caption_en": "The entire VNAYV profile can be deleted by the following steps: 1)Press any TO or NX 2)Enter the number The vertical flight profile is deleted and VNAV pages will be filled with the next 9 waypoints on the I oo FR _",
-    "caption_tr": ""
+    "caption_tr": "Tüm VNAYV profili aşağıdaki adımlarla silinebilir: 1) Herhangi bir TO veya NX'e basın 2) Numarayı girin Dikey uçuş profili silinir ve VNAV sayfaları I oo FR _ üzerindeki sonraki 9 yol noktasıyla doldurulacaktır.",
+    "title_tr": "VNAYV profilinin tamamı"
   }
 ]

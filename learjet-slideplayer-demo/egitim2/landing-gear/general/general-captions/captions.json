@@ -1,202 +1,227 @@
 [
   {
     "id": "s01",
-    "title": "The Learjet 45 landing gear system consists of 2 main gears …",
+    "title": "Learjet 45 landing",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Learjet 45 landing gear system consists of 2 main gears and 1 nose gear. The retractable landing gears are electrically controlled and hydraulically operated. The controls and the gear status lights are located on the GEAR control panel.",
-    "caption_tr": ""
+    "caption_tr": "Learjet 45 iniş takımı sistemi 2 ana dişli ve 1 burun dişlisinden oluşur. Geri çekilebilir iniş takımları elektrikle kontrol edilir ve hidrolik olarak çalıştırılır. Kontroller ve vites durum ışıkları GEAR kontrol panelinde bulunur.",
+    "title_tr": "Learjet 45'in inişi"
   },
   {
     "id": "s02",
-    "title": "Control Panel This is located at the forward center instrume…",
+    "title": "Control Panel This",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Control Panel This is located at the forward center instrument panel.",
-    "caption_tr": ""
+    "caption_tr": "Kontrol Paneli Bu, ön orta gösterge panelinde bulunur.",
+    "title_tr": "Kontrol Paneli Bu"
   },
   {
     "id": "s03",
-    "title": "The other switch indicators on this panel are for the Nose W…",
+    "title": "other switch indicators",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The other switch indicators on this panel are for the Nose Wheel Steering system, Anti-Skid system, the Auxiliary hydraulic pump and the Hydraulic Cross Flow valve XFLOW).",
-    "caption_tr": ""
+    "caption_tr": "Bu paneldeki diğer anahtar göstergeleri Burun Tekerleği Dümenleme sistemi, Kaymayı Önleyici sistem, Yardımcı hidrolik pompa ve Hidrolik Çapraz Akış valfi XFLOW içindir.",
+    "title_tr": "diğer anahtar göstergeleri"
   },
   {
     "id": "s04",
-    "title": "Nose Gear The nose gear consists of an air-hydraulic shock s…",
+    "title": "Nose Gear air-hydraulic",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Nose Gear The nose gear consists of an air-hydraulic shock strut with an internal self - centering device.",
-    "caption_tr": ""
+    "caption_tr": "Burun Dişlisi Burun dişlisi, dahili bir otomatik merkezleme cihazına sahip havalı-hidrolik şok payandasından oluşur.",
+    "title_tr": "Burun Dişlisi hava-hidrolik"
   },
   {
     "id": "s05",
-    "title": "An internal mechanical lock inside the actuator holds the ge…",
+    "title": "internal mechanical lock",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "An internal mechanical lock inside the actuator holds the gear extended if hydraulic pressure is relieved or lost. Once engaged, the internal lock can only be unlocked by applying hydraulic pressure to the retract side of the actuator.",
-    "caption_tr": ""
+    "caption_tr": "Aktüatörün içindeki dahili bir mekanik kilit, hidrolik basıncın azalması veya kaybolması durumunda dişliyi uzatılmış halde tutar. Dahili kilit devreye girdikten sonra yalnızca aktüatörün geri çekme tarafına hidrolik basınç uygulanarak açılabilir.",
+    "title_tr": "dahili mekanik kilit"
   },
   {
     "id": "s06",
-    "title": "The nose gear strut has a self-centering mechanism consistin…",
+    "title": "nose gear strut",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The nose gear strut has a self-centering mechanism consisting of 2 cams.",
-    "caption_tr": ""
+    "caption_tr": "Burun dişlisi desteği 2 kamdan oluşan otomatik merkezleme mekanizmasına sahiptir.",
+    "title_tr": "burun dişlisi dikmesi"
   },
   {
     "id": "s07",
-    "title": "An up-lock roller is attached on the forward side of the nos…",
+    "title": "up-lock roller attached",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "An up-lock roller is attached on the forward side of the nose gear strut. When the nose landing gear is retracted, a spring-loaded up-lock hook engages this up-lock roller.",
-    "caption_tr": ""
+    "caption_tr": "Burun dişlisi desteğinin ön tarafına bir yukarı kilitleme silindiri takılmıştır. Burun iniş takımı geri çekildiğinde, yay yüklü bir yukarı kilit kancası bu yukarı kilit silindirine geçer.",
+    "title_tr": "yukarı kilit silindiri"
   },
   {
     "id": "s08",
-    "title": "The up-lock hook is released hydraulically during normal ext…",
+    "title": "up-lock hook released",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The up-lock hook is released hydraulically during normal extension and mechanically via cables during a free-fall extension.",
-    "caption_tr": ""
+    "caption_tr": "Yukarı kilitleme kancası, normal uzatma sırasında hidrolik olarak, serbest düşüşlü uzatma sırasında ise kablolar aracılığıyla mekanik olarak serbest bırakılır.",
+    "title_tr": "kilitleme kancası serbest"
   },
   {
     "id": "s09",
-    "title": "The 2 nose gear doors are mechanically linked to the shock s…",
+    "title": "2 nose gear",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The 2 nose gear doors are mechanically linked to the shock strut and move with the nose gear. The tubeless nose wheel tire has dual chines.",
-    "caption_tr": ""
+    "caption_tr": "2 burun dişlisi kapısı amortisör desteğine mekanik olarak bağlıdır ve burun dişlisi ile birlikte hareket eder. İç lastiksiz burun tekerleği lastiği çift çeneye sahiptir.",
+    "title_tr": "2 burun dişlisi"
   },
   {
     "id": "s10",
-    "title": "Main Gear Each main gear has an air- hydraulic shock strut, …",
+    "title": "Main Gear has",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Main Gear Each main gear has an air- hydraulic shock strut, 2 wheels and 2 squat switches.",
-    "caption_tr": ""
+    "caption_tr": "Ana Dişli Her ana dişlide havalı hidrolik amortisör, 2 tekerlek ve 2 adet bodur anahtar bulunur.",
+    "title_tr": "Ana Dişli var"
   },
   {
     "id": "s11",
-    "title": "An internal mechanical lock inside each gear actuator holds …",
+    "title": "internal mechanical lock",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "An internal mechanical lock inside each gear actuator holds the gear down and locked if hydraulic pressure is relieved or lost. Once in place, the internal lock can only be unlocked by applying hydraulic pressure to the retract side of the actuator.",
-    "caption_tr": ""
+    "caption_tr": "Her dişli aktüatörünün içindeki dahili bir mekanik kilit, hidrolik basıncın azalması veya kaybolması durumunda dişliyi aşağıda tutar ve kilitler. Yerine yerleştirildikten sonra dahili kilidin kilidi yalnızca aktüatörün geri çekme tarafına hidrolik basınç uygulanarak açılabilir.",
+    "title_tr": "dahili mekanik kilit"
   },
   {
     "id": "s12",
-    "title": "Main Gear Doors When the main gears are retracted, the inboa…",
+    "title": "Main Gear Doors",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Main Gear Doors When the main gears are retracted, the inboard and outboard doors enclose them.",
-    "caption_tr": ""
+    "caption_tr": "Ana Dişli Kapıları Ana dişliler geri çekildiğinde iç ve dış kapılar onları çevreler.",
+    "title_tr": "Ana Dişli Kapıları"
   },
   {
     "id": "s13",
-    "title": "The inboard doors are electrically controlled and hydraulica…",
+    "title": "inboard doors are",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The inboard doors are electrically controlled and hydraulically operated by an inboard door actuator. The inboard doors are held latched by a door hook. The hook holds the door in place when hydraulic pressure is removed from the door actuator. The hook can be unlocked hydraulically or mechanically.",
-    "caption_tr": ""
+    "caption_tr": "İç kapılar, bir iç kapı aktüatörü tarafından elektrikle kontrol edilir ve hidrolik olarak çalıştırılır. İç kapılar bir kapı kancasıyla mandallanır. Kanca, kapı aktüatöründen hidrolik basınç kaldırıldığında kapıyı yerinde tutar. Kancanın kilidi hidrolik veya mekanik olarak açılabilir.",
+    "title_tr": "iç kapılar"
   },
   {
     "id": "s14",
-    "title": "Wheel Assembly Each main gear has 2 aluminium wheel assembli…",
+    "title": "Wheel Assembly main",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Wheel Assembly Each main gear has 2 aluminium wheel assemblies. Each wheel assembly has a brake unit. 3 fusible plugs are installed on each wheel hub and they melt at a temperature of C.",
-    "caption_tr": ""
+    "caption_tr": "Tekerlek Grubu Her ana dişlide 2 adet alüminyum tekerlek grubu bulunur. Her tekerlek düzeneğinin bir fren ünitesi vardır. Her tekerlek göbeğine 3 adet eriyebilir tapa takılıdır ve bunlar C sıcaklıkta erir.",
+    "title_tr": "Tekerlek Grubu ana"
   },
   {
     "id": "s15",
-    "title": "If the wheel assembly temperature exceeds C after a heavy br…",
+    "title": "wheel assembly temperature",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "If the wheel assembly temperature exceeds C after a heavy braking, the 3 fusible plugs will melt. This will cause the tire to deflate, preventing a tire blow-out.",
-    "caption_tr": ""
+    "caption_tr": "Eğer sert bir frenleme sonrasında tekerlek grubu sıcaklığı C'yi aşarsa, 3 eriyebilir buji eriyecektir. Bu, lastiğin havasının inmesine neden olacak ve lastiğin patlamasını önleyecektir.",
+    "title_tr": "tekerlek montaj sıcaklığı"
   },
   {
     "id": "s16",
-    "title": "Squat Switch System Some airplane systems operate only on th…",
+    "title": "Squat Switch System",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Squat Switch System Some airplane systems operate only on the ground while some operate only in the air.",
-    "caption_tr": ""
+    "caption_tr": "Squat Switch Sistemi Bazı uçak sistemleri sadece yerde çalışırken bazıları ise sadece havada çalışmaktadır.",
+    "title_tr": "Çömelme Anahtar Sistemi"
   },
   {
     "id": "s17",
-    "title": "When the airplane is on the ground and the struts are compre…",
+    "title": "airplane ground struts",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "When the airplane is on the ground and the struts are compressed, the squat switches provide a ground mode signal. When the airplane lifts off, the main landing gear struts extend and the squat switches send an air mode signal.",
-    "caption_tr": ""
+    "caption_tr": "Uçak yerdeyken ve payandalar sıkıştırıldığında, çömelme anahtarları yer modu sinyali sağlar. Uçak havalandığında ana iniş takımı destekleri uzar ve çömelme anahtarları bir hava modu sinyali gönderir.",
+    "title_tr": "uçak yer dikmeleri"
   },
   {
     "id": "s18",
-    "title": "The squat switches provide ground or air signals directly to…",
+    "title": "squat switches ground",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The squat switches provide ground or air signals directly to the thrust reversers system, spoiler system, landing gear control, brake control unit and the squat switch relay panel",
-    "caption_tr": ""
+    "caption_tr": "Çömelme anahtarları, itme ters çevirici sistemine, rüzgarlık sistemine, iniş takımı kontrolüne, fren kontrol ünitesine ve çömelme anahtarı röle paneline doğrudan yer veya hava sinyalleri sağlar",
+    "title_tr": "çömelme zemini değiştirir"
   },
   {
     "id": "s19",
-    "title": "The in turn, provides airground signals to many systems. The…",
+    "title": "turn airground signals",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "The in turn, provides airground signals to many systems. They include the digital electronic engine computers (DEEC) for idle schedules, stall warning system, nose wheel steering system, cabin pressurisation system, crew warning panel and the weather radar.",
-    "caption_tr": ""
+    "caption_tr": "Buna karşılık, birçok sisteme hava alanı sinyalleri sağlar. Bunlar, rölanti programları için dijital elektronik motor bilgisayarlarını (DEEC), durma uyarı sistemini, burun tekerleği yönlendirme sistemini, kabin basınçlandırma sistemini, mürettebat uyarı panelini ve hava durumu radarını içerir.",
+    "title_tr": "hava alanı sinyallerini"
   },
   {
     "id": "s20",
-    "title": "Landing Gear Indications The landing gear operations are seq…",
+    "title": "Landing Gear Indications",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "Landing Gear Indications The landing gear operations are sequenced through the landing gear control valve module. This module is powered by the DC Emergency Battery bus through the GEAR circuit breaker.",
-    "caption_tr": ""
+    "caption_tr": "İniş Takımı Göstergeleri İniş takımı işlemleri, iniş takımı kontrol valf modülü aracılığıyla sıralanır. Bu modüle, GEAR devre kesici aracılığıyla DC Acil Durum Akü veri yolu tarafından güç verilir.",
+    "title_tr": "İniş Takımı Göstergeleri"
   },
   {
     "id": "s21",
-    "title": "The emergency battery bus power enables a normal gear extens…",
+    "title": "emergency battery bus",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The emergency battery bus power enables a normal gear extension in the event of a dual generator failure. The gear control switch and gear status indications are on the GEAR control panel.",
-    "caption_tr": ""
+    "caption_tr": "Acil durum akü veriyolu gücü, ikili jeneratör arızası durumunda normal vites uzatmasına olanak sağlar. Vites kontrol anahtarı ve vites durumu göstergeleri GEAR kontrol panelindedir.",
+    "title_tr": "acil akülü otobüs"
   },
   {
     "id": "s22",
-    "title": "The gear position indicating system consists of 3 split indi…",
+    "title": "gear position indicating",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The gear position indicating system consists of 3 split indicators that shows the status of the nose and main gears. The top half of each indicator is the gear advisory annunciator. A gear down and locked indication is shown above.",
-    "caption_tr": ""
+    "caption_tr": "Vites konumu gösterge sistemi, burun ve ana dişlilerin durumunu gösteren 3 bölünmüş göstergeden oluşur. Her göstergenin üst yarısı vites tavsiye göstergesidir. Yukarıda vites küçültme ve kilitleme göstergesi gösterilmektedir.",
+    "title_tr": "vites konumu göstergesi"
   },
   {
     "id": "s23",
-    "title": "Gear Advisory Annunciator ( black and white diagonal stripes…",
+    "title": "Gear Advisory Annunciator",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Gear Advisory Annunciator ( black and white diagonal stripes ) For the Nose Gear, this is displayed when the gear is in transit, that is - when the nose gear is Not Up and Locked or - is Not Down and Locked.",
-    "caption_tr": ""
+    "caption_tr": "Dişli Uyarı Uyarı Cihazı (siyah ve beyaz çapraz şeritler) Burun Dişlisi için bu, dişli hareket halindeyken, yani burun dişlisi Yukarı Değil ve Kilitli olduğunda veya - Aşağı Değil ve Kilitli olduğunda görüntülenir.",
+    "title_tr": "Dişli Tavsiye Uyarı"
   },
   {
     "id": "s24",
-    "title": "For the Main Gear, the respective annunciation is displayed …",
+    "title": "Main Gear respective",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "For the Main Gear, the respective annunciation is displayed if - its main gear inboard door is Not Closed and Latched or - the main gear actual position disagrees with the landing gear control switch selection.",
-    "caption_tr": ""
+    "caption_tr": "Ana Dişli için ilgili bildirim şu durumlarda görüntülenir: - ana dişli iç kapısı Kapalı ve Kilitli değilse veya - ana dişlinin gerçek konumu iniş takımı kontrol anahtarı seçimiyle uyuşmuyorsa.",
+    "title_tr": "Ana Dişli ilgili"
   },
   {
     "id": "s25",
-    "title": "A DOWN green light on the bottom half indicates that the gea…",
+    "title": "DOWN green light",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "A DOWN green light on the bottom half indicates that the gear is down and locked.",
-    "caption_tr": ""
+    "caption_tr": "Alt yarıdaki AŞAĞI yeşil ışık, vitesin aşağıda ve kilitli olduğunu gösterir.",
+    "title_tr": "AŞAĞI yeşil ışık"
   }
 ]

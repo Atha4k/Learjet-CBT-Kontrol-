@@ -1,346 +1,389 @@
 [
   {
     "id": "s01",
-    "title": "The moveable horizontal stabilizer is attached to the vertic…",
+    "title": "moveable horizontal stabilizer",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The moveable horizontal stabilizer is attached to the vertical fin at the forward and aft attachment points. The aft point iis the pivot and the forward point is attached to the horizontal stabilizer actuator. The position of the stabilizer is controlled through 2 pitch trim systems, the primary and the secondary trim systems. ",
-    "caption_tr": ""
+    "caption_tr": "Hareketli yatay stabilizatör, ileri ve geri bağlantı noktalarındaki dikey kanatçığa bağlanır. Arka nokta pivottur ve ileri nokta yatay stabilizatör aktüatörüne bağlanır. Dengeleyicinin konumu, birincil ve ikincil trim sistemleri olmak üzere 2 adımlı trim sistemi aracılığıyla kontrol edilir.",
+    "title_tr": "hareketli yatay stabilizatör"
   },
   {
     "id": "s02",
-    "title": "The pitch trim system relieves control column (elevator) loa…",
+    "title": "pitch trim system",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The pitch trim system relieves control column (elevator) loads by moving the horizontal stabilizer. Two trim motors, primary (PRI) and secondary (SEC), and a jackscrew actuator moves the leading edge of the stabilizer up or down in response to pitch trim inputs.",
-    "caption_tr": ""
+    "caption_tr": "Hatve trim sistemi, yatay dengeleyiciyi hareket ettirerek kontrol kolonu (asansör) yüklerini hafifletir. Birincil (PRI) ve ikincil (SEC) olmak üzere iki trim motoru ve bir kriko aktüatörü, hatve trim girişlerine yanıt olarak stabilizatörün ön kenarını yukarı veya aşağı hareket ettirir.",
+    "title_tr": "saha trim sistemi"
   },
   {
     "id": "s03",
-    "title": "Pitch Trim Selector Switch This 3 - position switch is locat…",
+    "title": "Pitch Trim Selector",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Pitch Trim Selector Switch This 3 - position switch is located on the center pedestal. The 3 positions are labeled PRI, OFF and SEC. It allows the crew to select either primary or secondary trim operation or to switch off both systems in the event of a matfunction.",
-    "caption_tr": ""
+    "caption_tr": "Pitch Trim Seçici Anahtar Bu 3 konumlu anahtar orta kaide üzerinde bulunur. 3 konum PRI, OFF ve SEC olarak etiketlenmiştir. Mürettebatın birincil veya ikincil trim işlemini seçmesine veya bir çalışma durumunda her iki sistemi de kapatmasına olanak tanır.",
+    "title_tr": "Perde Kırpma Seçici"
   },
   {
     "id": "s04",
-    "title": "The system is powered through the PRI PITCH circuit breaker.…",
+    "title": "system powered through",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The system is powered through the PRI PITCH circuit breaker. prone epi mov see own ug am Seer sen vm mg wp wri",
-    "caption_tr": ""
+    "caption_tr": "Sisteme PRI PITCH devre kesici aracılığıyla güç verilir. eğilimli epi mov kendi ug am Seer sen vm mg wp wri'yi gör",
+    "title_tr": "sistem üzerinden güç"
   },
   {
     "id": "s05",
-    "title": "An advisory CAS message SEC PITCH TRIM is also displayed. Th…",
+    "title": "advisory CAS message",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "An advisory CAS message SEC PITCH TRIM is also displayed. The system is powered through the SEC PITCH circuit breaker. When selected, the is deactivated. ",
-    "caption_tr": ""
+    "caption_tr": "Ayrıca bir tavsiye niteliğindeki CAS mesajı SEC PITCH TRIM görüntülenir. Sisteme SEC PITCH devre kesici aracılığıyla güç verilir. Seçildiğinde devre dışı bırakılır.",
+    "title_tr": "tavsiye niteliğinde CAS"
   },
   {
     "id": "s06",
-    "title": "Seer sen vm mg wp wri",
+    "title": "Seer sen vm",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "",
-    "caption_tr": ""
+    "caption_en": "OFF- when selected, both the trim switches and the trim system are deactivated and an advisory CAS message PITCH TRIM OFF is displayed. ",
+    "caption_tr": "KAPALI - seçildiğinde, hem trim anahtarları hem de trim sistemi devre dışı bırakılır ve PITCH TRIM OFF tavsiye niteliğinde bir CAS mesajı görüntülenir.",
+    "title_tr": "Gören sen vm"
   },
   {
     "id": "s07",
-    "title": "The crew can also disable both primary and secondary trim by…",
+    "title": "crew can also",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The crew can also disable both primary and secondary trim by depressing and holding the control wheel master switch or by pulling the PRI PITCH or SEC PITCH circuit breaker.",
-    "caption_tr": ""
+    "caption_tr": "Mürettebat ayrıca kontrol tekerleği ana anahtarına basıp basılı tutarak veya PRI PITCH veya SEC PITCH devre kesiciyi çekerek hem birincil hem de ikincil trimi devre dışı bırakabilir.",
+    "title_tr": "mürettebat da olabilir"
   },
   {
     "id": "s08",
-    "title": "Trim Motors The 2 trim motors, primary (PRI) and secondary (…",
+    "title": "Trim Motors 2",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Trim Motors The 2 trim motors, primary (PRI) and secondary (SEC) are electrically controlled and operated. Only 1 motor clutch can engage at any one time and this depends on the trim selector switch position or auto-pilot engagement.",
-    "caption_tr": ""
+    "caption_tr": "Trim Motorları Birincil (PRI) ve ikincil (SEC) olmak üzere 2 trim motoru elektrikle kontrol edilir ve çalıştırılır. Aynı anda yalnızca 1 motor kavraması devreye girebilir ve bu, trim seçici anahtarın konumuna veya otomatik pilotun devreye girmesine bağlıdır.",
+    "title_tr": "Trim Motorları 2"
   },
   {
     "id": "s09",
-    "title": "The primary motor is engaged with the trim selector switch a…",
+    "title": "primary motor engaged",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The primary motor is engaged with the trim selector switch at PRI and actuated through the control wheel trim switch Its operation is normally controlled by the 1 IC-600. ",
-    "caption_tr": ""
+    "caption_tr": "Birincil motor, PRI'daki trim seçme anahtarına bağlanır ve kontrol tekerleği trim anahtarı aracılığıyla çalıştırılır. Çalışması normalde 1 IC-600 tarafından kontrol edilir.",
+    "title_tr": "birincil motor devrede"
   },
   {
     "id": "s10",
-    "title": "The secondary motor operation is provided as a back-up for t…",
+    "title": "secondary motor provided",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The secondary motor operation is provided as a back-up for the the trim system. It is engaged with the trim selector switch at SEC and is controlled through the airplane secondary pitch trim switch (crew actuated). The auto-pilot trim system also uses this motor. ",
-    "caption_tr": ""
+    "caption_tr": "İkincil motor çalışması, trim sistemine destek olarak sağlanır. SEC'deki trim seçici anahtarına bağlanır ve uçağın ikincil eğim trim anahtarı (mürettebat tarafından çalıştırılan) aracılığıyla kontrol edilir. Otomatik pilot trim sistemi de bu motoru kullanır.",
+    "title_tr": "sağlanan ikincil motor"
   },
   {
     "id": "s11",
-    "title": "Both the trim motors continuously monitor trim operations fo…",
+    "title": "trim motors continuously",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Both the trim motors continuously monitor trim operations for a number of possible malfunctions. This includes uncommanded trim, incorrect trim rate and trimming in the wrong direction. If any of these faults is detected, the trim motor operation stops.",
-    "caption_tr": ""
+    "caption_tr": "Her iki trim motoru da bir takım olası arızalara karşı trim işlemlerini sürekli olarak izler. Bu, komutsuz kesmeyi, yanlış kesme hızını ve yanlış yönde kesmeyi içerir. Bu hatalardan herhangi biri tespit edilirse trim motorunun çalışması durur.",
+    "title_tr": "motorları sürekli düzelt"
   },
   {
     "id": "s12",
-    "title": "The 1 I1C-600 is activated with the trim selector at PRI. lt…",
+    "title": "1 I1C-600 activated",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The 1 I1C-600 is activated with the trim selector at PRI. lt receives trim signals from the and commands the PRI motor to move the stabilizer. It also controls and trims the airplane for the Configuration trim and the Mach trim systems. ",
-    "caption_tr": ""
+    "caption_tr": "1 I1C-600, PRI'daki trim seçiciyle etkinleştirilir. Trim sinyallerini alır ve PRI motoruna stabilizatörü hareket ettirmesi komutunu verir. Aynı zamanda Konfigürasyon trimi ve Mach trim sistemleri için uçağı kontrol eder ve trimler.",
+    "title_tr": "1 I1C-600 etkinleştirildi"
   },
   {
     "id": "s13",
-    "title": "The 2 IC-600 houses the control and monitor circuits for aut…",
+    "title": "2 IC-600 houses",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The 2 IC-600 houses the control and monitor circuits for auto-pilot operations. it controls the operation of the secondary trim motor with auto-pilot engaged. For auto-pilot operations, the trim selector switch can be at either the PRI or SEC position. ",
-    "caption_tr": ""
+    "caption_tr": "2 IC-600, otomatik pilot işlemleri için kontrol ve izleme devrelerini barındırır. otomatik pilot devredeyken ikincil trim motorunun çalışmasını kontrol eder. Otomatik pilot operasyonları için trim seçme anahtarı PRI veya SEC konumunda olabilir.",
+    "title_tr": "2 IC-600 evi"
   },
   {
     "id": "s14",
-    "title": "Both the 1 and 2 IC-600 continuously monitor themselves for …",
+    "title": "1 2 IC-600",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Both the 1 and 2 IC-600 continuously monitor themselves for a number of possible malfunctions. This includes uncommanded trim commands, incorrect trim rate and trimming in the wrong direction. If any of these fauits is detected, trimming through them is disabled.",
-    "caption_tr": ""
+    "caption_tr": "Hem 1 hem de 2 IC-600, bir takım olası arızalara karşı sürekli olarak kendilerini izler. Buna komutsuz kesme komutları, yanlış kesme hızı ve yanlış yönde kesme dahildir. Bu hatalardan herhangi biri tespit edilirse, bunların üzerinden düzeltme devre dışı bırakılır.",
+    "title_tr": "1 2 IC-600"
   },
   {
     "id": "s15",
-    "title": "The Primary pitch trim system uses the 1 and the primary or …",
+    "title": "Primary pitch trim",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "The Primary pitch trim system uses the 1 and the primary or PRI motor. The Secondary pitch trim system uses the secondary or SEC motor only. The auto-pilot system uses the 2 and the secondary or SEC motor. We will begin with the primary pitch trim system.",
-    "caption_tr": ""
+    "caption_tr": "Birincil adım düzeltme sistemi 1 ve birincil veya PRI motorunu kullanır. İkincil adım trim sistemi yalnızca ikincil veya SEC motoru kullanır. Otomatik pilot sistemi 2 ve ikincil veya SEC motorunu kullanır. Birincil perde trim sistemiyle başlayacağız.",
+    "title_tr": "Birincil adım trimi"
   },
   {
     "id": "s16",
-    "title": "Primary Manual Pitch Trim System The PRI motor is engaged wi…",
+    "title": "Primary Manual Pitch",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Primary Manual Pitch Trim System The PRI motor is engaged with the pitch trim selector switch at PRI position. This enables the L ESS Bus to power both the control wheel trim switches through the PRI PITCH TRIM circuit breaker. Moving either forward or aft sends pitch signals to the 1",
-    "caption_tr": ""
+    "caption_tr": "Birincil Manuel Adım Düzeltme Sistemi PRI motoru, PRI konumunda adım düzeltme seçici anahtarına bağlanır. Bu, L ESS Bus'ın PRI PITCH TRIM devre kesici aracılığıyla her iki kontrol tekerleği trim anahtarına güç vermesini sağlar. İleri veya geri hareket etmek 1'e perde sinyalleri gönderir",
+    "title_tr": "Birincil Manuel Adım"
   },
   {
     "id": "s17",
-    "title": "The 1 IC-600 then sends primary trim commands to the primary…",
+    "title": "1 IC-600 sends",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "The 1 IC-600 then sends primary trim commands to the primary trim motor. The primary trim motor also sends feedback signals to the 1 for position indications. Primary trim speed is variable and is automatically controlled by the 1 IC-600 based on indicated airspeed or dynamic pressure (q).",
-    "caption_tr": ""
+    "caption_tr": "1 IC-600 daha sonra birincil trim motoruna birincil trim komutlarını gönderir. Birincil trim motoru ayrıca konum göstergeleri için 1'e geri bildirim sinyalleri gönderir. Birincil trim hızı değişkendir ve belirtilen hava hızına veya dinamik basınca (q) bağlı olarak 1 IC-600 tarafından otomatik olarak kontrol edilir.",
+    "title_tr": "1 IC-600 gönderir"
   },
   {
     "id": "s18",
-    "title": "Configuration Trim The 1 receives spoiler information from t…",
+    "title": "Configuration Trim 1",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Configuration Trim The 1 receives spoiler information from the DAUSs for configuration trim. When the spoilers are deployed, the 1 IC-600 commands the primary trim motor to move the stabilizer a preset amount to account for the change in pitch attitude.",
-    "caption_tr": ""
+    "caption_tr": "Konfigürasyon Trimi 1, konfigürasyon trimi için DAUS'lardan spoiler bilgisini alır. Spoyler açıldığında, 1 IC-600, ana trim motoruna, eğim tutumundaki değişikliği hesaba katacak şekilde dengeleyiciyi önceden belirlenmiş bir miktarda hareket ettirmesi komutunu verir.",
+    "title_tr": "Yapılandırma Trimi 1"
   },
   {
     "id": "s19",
-    "title": "The stabilizer moves at a rate to match the pitch moment cau…",
+    "title": "stabilizer moves rate",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "The stabilizer moves at a rate to match the pitch moment caused by the movement of the spoilers. This trim mode is only available with the trim selector switch in PRI and the auto-pilot is not engaged. Trim commands from either will have priority over the configuration trim commands. ",
-    "caption_tr": ""
+    "caption_tr": "Dengeleyici, spoylerin hareketinin neden olduğu eğim momentine uyacak bir hızda hareket eder. Bu trim modu yalnızca PRI'daki trim seçme anahtarıyla kullanılabilir ve otomatik pilot devrede değildir. Her ikisinden de gelen trim komutları, konfigürasyon trim komutlarına göre öncelikli olacaktır.",
+    "title_tr": "stabilizatörün hareket hızı"
   },
   {
     "id": "s20",
-    "title": "Mach Trim Mach trim is a fully automated system to increase …",
+    "title": "Mach Trim fully",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "Mach Trim Mach trim is a fully automated system to increase longitudinal stability and to counteract a nose down tendency (Mach tuck) at high mach numbers.",
-    "caption_tr": ""
+    "caption_tr": "Mach Trim Mach trim, uzunlamasına stabiliteyi artıran ve yüksek makine sayılarında burun aşağı eğilimini (Mach tuck) ortadan kaldıran tam otomatik bir sistemdir.",
+    "title_tr": "Mach Tamamen Kırp"
   },
   {
     "id": "s21",
-    "title": "The 1 IC-600 uses the airspeed information from the 2 ADCs t…",
+    "title": "1 IC-600 uses",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The 1 IC-600 uses the airspeed information from the 2 ADCs to compute and commands the primary trim motor to apply trim as necessary. The pitch trim selector switch must be at PRI for the Mach trim to be functional and the auto-pilot must be disengaged for the Mach trim system to be active.",
-    "caption_tr": ""
+    "caption_tr": "1 IC-600, hesaplamak için 2 ADC'den gelen hava hızı bilgilerini kullanır ve gerektiği şekilde trim uygulaması için birincil trim motoruna komut verir. Mach triminin işlevsel olması için perde trim seçme anahtarının PRI konumunda olması ve Mach trim sisteminin aktif olması için otomatik pilotun devreden çıkarılması gerekir.",
+    "title_tr": "1 IC-600 kullanımı"
   },
   {
     "id": "s22",
-    "title": "Mach trim automatically becomes active at mach. Airplane nos…",
+    "title": "Mach trim automatically",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "Mach trim automatically becomes active at mach. Airplane nose up trim will be applied as mach increases and nose down trim as mach decreases. When the stabilizer position changes, mach trim sensors apply feedback signals to the 1 Mach trim is interrupted whenever the manual trim is activated. ",
-    "caption_tr": ""
+    "caption_tr": "Mach trimi Mach'ta otomatik olarak aktif hale gelir. Mach arttıkça uçak burun yukarı trimi, mach azaldıkça burun aşağı trim uygulanacaktır. Stabilizatörün konumu değiştiğinde, mach trim sensörleri, manuel trim etkinleştirildiğinde 1 Mach trimin kesintiye uğraması için geri bildirim sinyalleri uygular.",
+    "title_tr": "Mach otomatik kırpma"
   },
   {
     "id": "s23",
-    "title": "Mach trim system function, and the - the airspeed is below M…",
+    "title": "Mach trim system",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Mach trim system function, and the - the airspeed is below Mach, - an advisory CAS message MACH TRIM FAIL will be displayed.",
-    "caption_tr": ""
+    "caption_tr": "Mach trim sistemi fonksiyonu ve - hava hızı Mach'ın altındaysa - tavsiye niteliğinde bir CAS mesajı MACH TRIM FAIL görüntülenecektir.",
+    "title_tr": "Mach düzeltme sistemi"
   },
   {
     "id": "s24",
-    "title": "When the advisory CAS message MACH TRIM FAIL is displayed, t…",
+    "title": "advisory CAS message",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "When the advisory CAS message MACH TRIM FAIL is displayed, the Overspeed cue on the airspeed indicator will also be adjusted to indicate a mach limit of Mach.",
-    "caption_tr": ""
+    "caption_tr": "Tavsiye niteliğinde CAS mesajı MACH TRIM FAIL görüntülendiğinde, hava hızı göstergesindeki Aşırı Hız işareti de Mach limitini gösterecek şekilde ayarlanacaktır.",
+    "title_tr": "tavsiye niteliğinde CAS"
   },
   {
     "id": "s25",
-    "title": "Mach trim system function, and the - the airspeed is above M…",
+    "title": "Mach trim system",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Mach trim system function, and the - the airspeed is above Mach, - a caution CAS message MACH TRIM FAIL will be displayed instead. ",
-    "caption_tr": ""
+    "caption_tr": "Mach trim sistemi fonksiyonu ve - hava hızı Mach'ın üzerindeyse - bunun yerine bir uyarı CAS mesajı MACH TRIM FAIL görüntülenecektir.",
+    "title_tr": "Mach düzeltme sistemi"
   },
   {
     "id": "s26",
-    "title": "The primary trim system automatically reverts to the primary…",
+    "title": "primary trim system",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "The primary trim system automatically reverts to the primary bypass trim mode. ",
-    "caption_tr": ""
+    "caption_tr": "Birincil trim sistemi otomatik olarak birincil bypass trim moduna geri döner.",
+    "title_tr": "birincil trim sistemi"
   },
   {
     "id": "s27",
-    "title": "In this primary bypass mode, the commands go directly to the…",
+    "title": "this primary bypass",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "In this primary bypass mode, the commands go directly to the primary trim motor, bypassing the 1 IC-600 circuits. All the 1 trim functions including 1 IC-600 controlledmonitored primary trim, configuration trim and Mach trim systems will not be available. ",
-    "caption_tr": ""
+    "caption_tr": "Bu birincil bypass modunda komutlar, 1 IC-600 devresini bypass ederek doğrudan birincil trim motoruna gider. 1 IC-600 kontrollü izlenen birincil trim, konfigürasyon trimi ve Mach trim sistemleri de dahil olmak üzere 1 trim fonksiyonunun tümü kullanılamayacaktır.",
+    "title_tr": "bu birincil bypass"
   },
   {
     "id": "s28",
-    "title": "When operating in the primary bypass trim mode, the primary …",
+    "title": "operating primary bypass",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "When operating in the primary bypass trim mode, the primary trim motor operates at only 2 speeds - high or iow. The speed depends on the flap positions. Both left and right flap signals must indicate flaps greater than 3 for the motor to operate at a high rate. When the flaps are up ( the primary bypass trim will be at a slow rate. ",
-    "caption_tr": ""
+    "caption_tr": "Birincil bypass trim modunda çalışırken, birincil trim motoru yalnızca 2 hızda çalışır - yüksek veya düşük. Hız, flap konumlarına bağlıdır. Motorun yüksek hızda çalışabilmesi için hem sol hem de sağ flap sinyallerinin 3'ten büyük flapları göstermesi gerekir. Kanatlar yukarıdayken (birincil bypass trimi yavaş bir hızda olacaktır.",
+    "title_tr": "birincil bypass'ı çalıştırma"
   },
   {
     "id": "s29",
-    "title": "In this primary bypass mode, the primary trim motor continue…",
+    "title": "this primary bypass",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "In this primary bypass mode, the primary trim motor continues to monitor for uncommanded trim and incorrect trim direction. it also monitors the correct trim rate based on the flaps position.",
-    "caption_tr": ""
+    "caption_tr": "Bu birincil bypass modunda, birincil trim motoru, komutsuz trim ve yanlış trim yönünü izlemeye devam eder. aynı zamanda flapların konumuna göre doğru trim hızını da izler.",
+    "title_tr": "bu birincil bypass"
   },
   {
     "id": "s30",
-    "title": "We will now use the secondary trim system to trim the stabil…",
+    "title": "We will secondary",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "We will now use the secondary trim system to trim the stabilizer. ",
-    "caption_tr": ""
+    "caption_tr": "Artık dengeleyiciyi düzeltmek için ikincil trim sistemini kullanacağız.",
+    "title_tr": "İkincil olacağız"
   },
   {
     "id": "s31",
-    "title": "Secondary Pitch Trim The secondary pitch trim system can be …",
+    "title": "Secondary Pitch Trim",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "Secondary Pitch Trim The secondary pitch trim system can be selected anytime but is normally used to trim the airplane in the eventof a primary trim system failure. In this trim mode, the configuration trim and the Mach trim systems are not available.",
-    "caption_tr": ""
+    "caption_tr": "İkincil Pitch Trim İkincil pitch trim sistemi herhangi bir zamanda seçilebilir ancak normalde birincil trim sistemi arızası durumunda uçağı trim etmek için kullanılır. Bu trim modunda konfigürasyon trimi ve Mach trim sistemleri mevcut değildir.",
+    "title_tr": "İkincil Pitch Trim"
   },
   {
     "id": "s32",
-    "title": "The SEC motor is engaged with the trim selector switch at SE…",
+    "title": "SEC motor engaged",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "The SEC motor is engaged with the trim selector switch at SEC position. With SEC selected, an advisory CAS message SEC PITCH TRIM is displayed. This also enables the R ESS Bus to power the 2 segment SEC trim switch via the SEC PITCH TRIM circuit breaker.",
-    "caption_tr": ""
+    "caption_tr": "SEC motoru, trim seçici anahtarla SEC konumunda devreye girer. SEC seçildiğinde, bir tavsiye niteliğindeki CAS mesajı SEC PITCH TRIM görüntülenir. Bu aynı zamanda R ESS Bus'ın SEC PITCH TRIM devre kesici aracılığıyla 2 segmentli SEC trim anahtarına güç vermesini sağlar.",
+    "title_tr": "SEC motoru devrede"
   },
   {
     "id": "s33",
-    "title": "Moving both the segments simultaneously sends a pitch signal…",
+    "title": "Moving segments simultaneously",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "Moving both the segments simultaneously sends a pitch signal directly to the secondary motor. The secondary motor then moves the stabilizer accordingly. The stabilizer position feedback signals are sent back to the 2 for stabilizer trim indications. ",
-    "caption_tr": ""
+    "caption_tr": "Her iki bölümün aynı anda hareket ettirilmesi, doğrudan ikincil motora bir adım sinyali gönderir. İkincil motor daha sonra dengeleyiciyi buna göre hareket ettirir. Stabilizatör konumu geri bildirim sinyalleri, stabilizatör trim göstergeleri için 2'ye geri gönderilir.",
+    "title_tr": "Segmentleri aynı anda"
   },
   {
     "id": "s34",
-    "title": "The secondary pitch trim motor has monitor functions similar…",
+    "title": "secondary pitch trim",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "The secondary pitch trim motor has monitor functions similar to the primary motor. it performs a power-up check and if any faults are detected, an advisory CAS message SEC TRIM FAULT is displayed. However, the secondary trim system still operates normally. ",
-    "caption_tr": ""
+    "caption_tr": "İkincil adım trim motoru, birincil motora benzer izleme işlevlerine sahiptir. bir açılış kontrolü gerçekleştirir ve herhangi bir arıza tespit edilirse, bir tavsiye niteliğinde CAS mesajı SEC TRIM FAULT görüntülenir. Ancak ikincil trim sistemi hala normal şekilde çalışıyor.",
+    "title_tr": "ikincil adım trimi"
   },
   {
     "id": "s35",
-    "title": "The secondary pitch trim motor also monitors for uncommanded…",
+    "title": "secondary pitch trim",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "The secondary pitch trim motor also monitors for uncommanded trim, trim in wrong direction and incorrect trim rate. If any of these malfunctions is detected, a caution CAS message SEC TRIM FAIL is displayed and the secondary motor is disabled. ",
-    "caption_tr": ""
+    "caption_tr": "İkincil adım düzeltme motoru aynı zamanda komutsuz düzeltmeyi, yanlış yönde kesmeyi ve hatalı kesme hızını da izler. Bu arızalardan herhangi biri tespit edilirse bir uyarı CAS mesajı SEC TRIM FAIL görüntülenir ve ikincil motor devre dışı bırakılır.",
+    "title_tr": "ikincil adım trimi"
   },
   {
     "id": "s36",
-    "title": "Auto-pilot Pitch Trim The 2 IC-600 houses the control and mo…",
+    "title": "Auto-pilot Pitch Trim",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "Auto-pilot Pitch Trim The 2 IC-600 houses the control and monitor circuit for auto-pilot operation. For auto-pilot pitch trim control, the trim selector switch can be at either PRI or SEC. The auto-pilot trims the stabilizer through the SEC motor. ",
-    "caption_tr": ""
+    "caption_tr": "Otomatik Pilot Pitch Trim 2 IC-600, otomatik pilot çalışması için kontrol ve izleme devresini barındırır. Otomatik pilot perde trim kontrolü için trim seçme anahtarı PRI veya SEC konumunda olabilir. Otomatik pilot, dengeleyiciyi SEC motoru aracılığıyla düzeltir.",
+    "title_tr": "Otomatik pilotlu Pitch"
   },
   {
     "id": "s37",
-    "title": "When the auto-pilot is engaged, it controls the airplane pit…",
+    "title": "auto-pilot engaged it",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "When the auto-pilot is engaged, it controls the airplane pitch attitude using the pitch servo and the secondary trim motor. When the auto-pilot energizes the secondary trim motor for more than 3 seconds continuously, a series of audible clacker sounds is transmitted through the audio system. ",
-    "caption_tr": ""
+    "caption_tr": "Otomatik pilot devreye girdiğinde, eğim servosunu ve ikincil trim motorunu kullanarak uçağın eğim tutumunu kontrol eder. Otomatik pilot, ikincil trim motoruna 3 saniyeden fazla sürekli olarak enerji verdiğinde, ses sistemi üzerinden bir dizi duyulabilir takırtı sesi iletilir.",
+    "title_tr": "otomatik pilot onu"
   },
   {
     "id": "s38",
-    "title": "Unusually long periods of auto-piiot trimming may indicate a…",
+    "title": "Unusually long periods",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "Unusually long periods of auto-piiot trimming may indicate a trim runaway. The trim-in-motion clacker works only for auto-pilot trimming. ",
-    "caption_tr": ""
+    "caption_tr": "Alışılmadık derecede uzun süreli otomatik piiot trimleme, trimin kaçtığını gösterebilir. Hareket halinde kırpma takırtısı yalnızca otomatik pilot düzeltme için çalışır.",
+    "title_tr": "Alışılmadık derecede uzun"
   },
   {
     "id": "s39",
-    "title": "Even during auto-pilot operations, the 2 IC-600 continually …",
+    "title": "Even auto-pilot 2",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "Even during auto-pilot operations, the 2 IC-600 continually monitors for uncommanded trim, incorrect trim direction and incorrect trim rate. If either trim switch or SEC trim) is activated with the auto-pilot engaged, the auto-pilot will automatically disengaged.",
-    "caption_tr": ""
+    "caption_tr": "Otomatik pilot operasyonları sırasında bile, 2 IC-600 sürekli olarak komutsuz trim, yanlış trim yönü ve yanlış trim hızını izler. Otomatik pilot devredeyken trim anahtarı veya SEC trimi etkinleştirilirse, otomatik pilot otomatik olarak devreden çıkacaktır.",
+    "title_tr": "Hatta otomatik pilot"
   },
   {
     "id": "s40",
-    "title": "The secondary motor also monitors for un-commanded trim and …",
+    "title": "secondary motor also",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "The secondary motor also monitors for un-commanded trim and wrong trim direction. if the secondary motor detects either fault during the auto-pilot operation, a caution CAS message SEC TRIM FAIL is displayed and the secondary motor is disabled. This means that auto-pilot pitch trim function is not available anymore. ",
-    "caption_tr": ""
+    "caption_tr": "İkincil motor aynı zamanda komutsuz trim ve yanlış trim yönünü de izler. otomatik pilot çalışması sırasında ikincil motor herhangi bir arızayı tespit ederse, bir CAS mesajı SEC TRIM FAIL (SEC TRIM FAIL) uyarısı görüntülenir ve ikincil motor devre dışı bırakılır. Bu, otomatik pilot perde düzeltme fonksiyonunun artık mevcut olmadığı anlamına gelir.",
+    "title_tr": "ayrıca ikincil motor"
   },
   {
     "id": "s41",
-    "title": "The stabilizer pitch trim indications are shown on -the SUMR…",
+    "title": "stabilizer pitch trim",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "The stabilizer pitch trim indications are shown on -the SUMRY page as 0 to 10 (digital format) -the EICAS - page in digital format and also in an analog and pointer format -the RMU page 2 in a digital format.",
-    "caption_tr": ""
+    "caption_tr": "Stabilizatör perde trim göstergeleri -SUMRY sayfasında 0 ila 10 arasında (dijital format) -EICAS - sayfasında dijital formatta ve ayrıca analog ve işaretçi formatında -RMU sayfasında 2 dijital formatta gösterilir.",
+    "title_tr": "stabilizatör perde trimi"
   },
   {
     "id": "s42",
-    "title": "The stabilizer takeoff trim band is between and units. The t…",
+    "title": "stabilizer takeoff trim",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "The stabilizer takeoff trim band is between and units. The trim setting for the stabilizer must be within this white takeoff band for takeoff. if the trim is out of the band for take-off, the pitch trim unit will be boxed and an advisory CAS message TAKE OFF TRIM is displayed. ",
-    "caption_tr": ""
+    "caption_tr": "Dengeleyici kalkış trim bandı ve birimleri arasındadır. Dengeleyicinin trim ayarı, kalkış için bu beyaz kalkış bandı dahilinde olmalıdır. trim kalkış için bandın dışındaysa, eğim trim ünitesi kutuya konulacak ve tavsiye niteliğinde bir CAS mesajı TAKE OFF TRIM görüntülenecektir.",
+    "title_tr": "stabilizatör kalkış trimi"
   },
   {
     "id": "s43",
-    "title": "Advancing the throtties beyond will cause the take-off warni…",
+    "title": "Advancing throtties beyond",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "Advancing the throtties beyond will cause the take-off warnings to be activated. The advisory CAS message TAKE OFF TRIM and all the pitch trim indications will tum red. The aural CONFIGURATION voice warning will also sound. ",
-    "caption_tr": ""
+    "caption_tr": "Kısmaların daha ileri götürülmesi kalkış uyarılarının devreye girmesine neden olacaktır. Tavsiye niteliğinde CAS mesajı KALKIŞ TRIM'i ve tüm eğim trim göstergeleri kırmızıya dönecektir. Ayrıca sesli KONFİGÜRASYON sesli uyarısı da duyulacaktır.",
+    "title_tr": "Kısıtlamaların ötesine geçmek"
   }
 ]

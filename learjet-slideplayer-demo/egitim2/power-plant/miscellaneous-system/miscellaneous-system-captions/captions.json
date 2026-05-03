@@ -1,114 +1,128 @@
 [
   {
     "id": "s01",
-    "title": "Engine speeds which are not synchronised may cause annoying …",
+    "title": "Engine speeds which",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Engine speeds which are not synchronised may cause annoying cabin noise levels.",
-    "caption_tr": ""
+    "caption_tr": "Senkronize olmayan motor hızları rahatsız edici kabin gürültüsü seviyelerine neden olabilir.",
+    "title_tr": "Motor hızları"
   },
   {
     "id": "s02",
-    "title": "An engine sychronisation system allows either the or shafts …",
+    "title": "engine sychronisation system",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "An engine sychronisation system allows either the or shafts to be sychronised to reduce cabin noise levels.",
-    "caption_tr": ""
+    "caption_tr": "Motor senkronizasyon sistemi, kabin gürültü seviyelerini azaltmak için şaftların veya şaftların senkronize edilmesine olanak tanır.",
+    "title_tr": "motor senkronizasyon sistemi"
   },
   {
     "id": "s03",
-    "title": "An Engine Sync switch is located at the control stand. This …",
+    "title": "Engine Sync switch",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "An Engine Sync switch is located at the control stand. This has three positions, OFF, and The system should not be used for takeoff or landing.",
-    "caption_tr": ""
+    "caption_tr": "Kontrol standında bir Motor Senkronizasyon anahtarı bulunur. Bunun üç konumu vardır: KAPALI ve Sistem kalkış veya iniş için kullanılmamalıdır.",
+    "title_tr": "Motor Senkronizasyon anahtarı"
   },
   {
     "id": "s04",
-    "title": "Selecting the switch to either the N1 or N2 positions will a…",
+    "title": "switch either N1",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Selecting the switch to either the N1 or N2 positions will allow the system to synchronise the N1 or N2 shaft speeds if the thrust levers are lined up.",
-    "caption_tr": ""
+    "caption_tr": "Anahtarın N1 veya N2 konumlarına seçilmesi, itme kolları aynı hizadaysa sistemin N1 veya N2 şaft hızlarını senkronize etmesine olanak tanır.",
+    "title_tr": "N1'den birini değiştir"
   },
   {
     "id": "s05",
-    "title": "A green annunciator will be displayed on EICAS between the N…",
+    "title": "green annunciator will",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "A green annunciator will be displayed on EICAS between the N1 indicators or above the N2 title.",
-    "caption_tr": ""
+    "caption_tr": "EICAS'ta N1 göstergeleri arasında veya N2 başlığının üzerinde yeşil bir uyarı işareti görüntülenecektir.",
+    "title_tr": "yeşil haberci olacak"
   },
   {
     "id": "s06",
-    "title": "The annunciator will change to amber if the landing gear is …",
+    "title": "annunciator will change",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The annunciator will change to amber if the landing gear is lowered when the system has not been switched off. This reminds the pilot that the sync system should not be left on for landing.",
-    "caption_tr": ""
+    "caption_tr": "Sistem kapatılmadan iniş takımı indirilirse uyarı cihazı sarıya dönüşecektir. Bu pilota iniş için senkronizasyon sisteminin açık bırakılmaması gerektiğini hatırlatır.",
+    "title_tr": "spiker değişecek"
   },
   {
     "id": "s07",
-    "title": "Certain engine parameters are monitored by the respective en…",
+    "title": "Certain engine parameters",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Certain engine parameters are monitored by the respective engine DEEC. A memory in the DEEC is able to record the engine parameters when signalled by the pilot.",
-    "caption_tr": ""
+    "caption_tr": "Belirli motor parametreleri ilgili motor DEEC tarafından izlenir. DEEC'deki bir hafıza, pilot tarafından sinyal verildiğinde motor parametrelerini kaydedebilir.",
+    "title_tr": "Belirli motor parametreleri"
   },
   {
     "id": "s08",
-    "title": "An EDS RECORD pushbutton is located at the aft end of the co…",
+    "title": "EDS RECORD pushbutton",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "An EDS RECORD pushbutton is located at the aft end of the control pedestal.",
-    "caption_tr": ""
+    "caption_tr": "Kontrol kaidesinin arka ucunda bir EDS KAYIT düğmesi bulunur.",
+    "title_tr": "EDS KAYIT butonu"
   },
   {
     "id": "s09",
-    "title": "Depressing the EDS RECORD button will record parameters whic…",
+    "title": "Depressing EDS RECORD",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Depressing the EDS RECORD button will record parameters which occurred 4 minutes before the button is pushed to the next 1 miniute.",
-    "caption_tr": ""
+    "caption_tr": "EDS RECORD butonuna basıldığında, butona basılmadan 4 dakika önce oluşan parametreler bir sonraki 1 dakikaya kadar kaydedilecektir.",
+    "title_tr": "İç karartıcı EDS"
   },
   {
     "id": "s10",
-    "title": "A left or right CHECK EDS advisory message will appear on CA…",
+    "title": "left right CHECK",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "A left or right CHECK EDS advisory message will appear on CAS if there is a fault in the system or if the memory is full.",
-    "caption_tr": ""
+    "caption_tr": "Sistemde bir arıza olması veya hafızanın dolu olması durumunda CAS'ta sol veya sağ tarafta EDS'yi KONTROL EDİN uyarı mesajı görünecektir.",
+    "title_tr": "sol sağ KONTROL"
   },
   {
     "id": "s11",
-    "title": "Maintenance personnel will be able to download the recorded …",
+    "title": "Maintenance personnel will",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Maintenance personnel will be able to download the recorded information using test equipment to facilitate troubleshooting.",
-    "caption_tr": ""
+    "caption_tr": "Bakım personeli, sorun gidermeyi kolaylaştırmak için test ekipmanını kullanarak kaydedilen bilgileri indirebilecektir.",
+    "title_tr": "Bakım personeli alınacaktır"
   },
   {
     "id": "s12",
-    "title": "Each engine has an engine vibration sensor mounted on the en…",
+    "title": "engine has vibration",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Each engine has an engine vibration sensor mounted on the engine casing.",
-    "caption_tr": ""
+    "caption_tr": "Her motorda, motor gövdesine monte edilmiş bir motor titreşim sensörü bulunur.",
+    "title_tr": "motorda titreşim var"
   },
   {
     "id": "s13",
-    "title": "The vibration level of the engine is recorded in an Engine V…",
+    "title": "vibration level engine",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The vibration level of the engine is recorded in an Engine Vibration Monitor.",
-    "caption_tr": ""
+    "caption_tr": "Motorun titreşim seviyesi, Motor Titreşim Monitörüne kaydedilir.",
+    "title_tr": "titreşim seviyeli motor"
   },
   {
     "id": "s14",
-    "title": "If the engine vibration exceeds preset levels, a Left or Rig…",
+    "title": "engine vibration exceeds",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "If the engine vibration exceeds preset levels, a Left or Right Engine Vibration Monitor advisory message is displayed on CAS.",
-    "caption_tr": ""
+    "caption_tr": "Motor titreşimi önceden ayarlanmış seviyeleri aşarsa CAS'ta Sol veya Sağ Motor Titreşim Monitörü uyarı mesajı görüntülenir.",
+    "title_tr": "motor titreşimi aşıyor"
   }
 ]

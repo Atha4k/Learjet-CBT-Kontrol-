@@ -1,322 +1,362 @@
 [
   {
     "id": "s01",
-    "title": "We will begin by looking at the brake system and its protect…",
+    "title": "We will begin",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "We will begin by looking at the brake system and its protection features.",
-    "caption_tr": ""
+    "caption_tr": "Fren sistemine ve koruma özelliklerine bakarak başlayacağız.",
+    "title_tr": "Başlayacağız"
   },
   {
     "id": "s02",
-    "title": "Brakes The Learjet 45 has a brake-by-wire system that electr…",
+    "title": "Brakes Learjet 45",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Brakes The Learjet 45 has a brake-by-wire system that electronically controls the hydraulic pressure that is applied to the brakes. Each main gear has 2 self-adjusting carbon brake assemblies. The brakes are known as left or right inboard or outboard brakes.",
-    "caption_tr": ""
+    "caption_tr": "Frenler Learjet 45, frenlere uygulanan hidrolik basıncı elektronik olarak kontrol eden bir tel fren sistemine sahiptir. Her ana dişlide 2 adet kendinden ayarlı karbon fren tertibatı bulunur. Frenler sol veya sağ içten veya dıştan takmalı frenler olarak bilinir.",
+    "title_tr": "Frenler Learjet 45"
   },
   {
     "id": "s03",
-    "title": "Each pilot has 2 brake pedals and 2 pedal actuated transduce…",
+    "title": "pilot has 2",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Each pilot has 2 brake pedals and 2 pedal actuated transducers. The amount of brake pressure sent to the brakes depends on the force on the pedals. By stepping on the pedals, signals are sent to the Brake Control Unit or BCU via the transducers.",
-    "caption_tr": ""
+    "caption_tr": "Her pilotun 2 fren pedalı ve 2 pedalla çalıştırılan dönüştürücüsü vardır. Frenlere gönderilen fren basıncı miktarı, pedallara uygulanan kuvvete bağlıdır. Pedallara basıldığında sinyaller dönüştürücüler aracılığıyla Fren Kontrol Ünitesine veya BCU'ya gönderilir.",
+    "title_tr": "pilotta 2 tane"
   },
   {
     "id": "s04",
-    "title": "Brake Control Unit ( BCU ) The BCU is the 'brains of the bra…",
+    "title": "Brake Control Unit",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Brake Control Unit ( BCU ) The BCU is the 'brains of the brake system.",
-    "caption_tr": ""
+    "caption_tr": "Fren Kontrol Ünitesi (BCU) BCU, fren sisteminin beynidir.",
+    "title_tr": "Fren Kontrol Ünitesi"
   },
   {
     "id": "s05",
-    "title": "Inputs to the BCU include signals from the squat switch for …",
+    "title": "Inputs BCU signals",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Inputs to the BCU include signals from the squat switch for air or ground mode, the anti-skid switch, wheel speeds transducers and brake hydraulic pressures transducers.",
-    "caption_tr": ""
+    "caption_tr": "BCU'ya yapılan girişler, hava veya zemin modu için çömelme anahtarından, kaymayı önleyici anahtardan, tekerlek hızı dönüştürücülerinden ve fren hidrolik basınç dönüştürücülerinden gelen sinyalleri içerir.",
+    "title_tr": "BCU sinyallerini girer"
   },
   {
     "id": "s06",
-    "title": "Anti-Skid Protection The BCU provides anti-skid protection, …",
+    "title": "Anti-Skid Protection BCU",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Anti-Skid Protection The BCU provides anti-skid protection, which permits the airplane to stop in the shortest possible distance under all runway conditions without skidding.",
-    "caption_tr": ""
+    "caption_tr": "Kaymayı Önleyici Koruma BCU, uçağın tüm pist koşullarında kaymadan mümkün olan en kısa mesafede durmasına olanak tanıyan kaymayı önleyici koruma sağlar.",
+    "title_tr": "Kaymayı Önleyici Koruma"
   },
   {
     "id": "s07",
-    "title": "This protection is available with normal braking only. Norma…",
+    "title": "This protection available",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "This protection is available with normal braking only. Normal braking is referred to as braking using the brake pedals. Thus anti-skid protection is not available with the emergency brake system.",
-    "caption_tr": ""
+    "caption_tr": "Bu koruma yalnızca normal frenlemeyle mümkündür. Normal frenleme, fren pedallarını kullanarak frenleme olarak adlandırılır. Bu nedenle acil fren sisteminde kaymayı önleyici koruma mevcut değildir.",
+    "title_tr": "Bu koruma mevcut"
   },
   {
     "id": "s08",
-    "title": "The anti-skid protection function is selected via the ANTI-S…",
+    "title": "anti-skid protection function",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The anti-skid protection function is selected via the ANTI-SKID switch located on the GEAR control panel. When the system is off, an OFF light is displayed on the switch. When the system is selected on, the switch will be blank.",
-    "caption_tr": ""
+    "caption_tr": "Kaymayı önleme fonksiyonu, GEAR kontrol panelinde bulunan ANTI-SKID anahtarı aracılığıyla seçilir. Sistem kapalıyken anahtar üzerinde bir KAPALI ışığı görüntülenir. Sistem açık seçildiğinde anahtar boş olacaktır.",
+    "title_tr": "kaymayı önleyici koruma"
   },
   {
     "id": "s09",
-    "title": "With the anti-skid selected on and the brakes applied, the B…",
+    "title": "anti-skid selected brakes",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "With the anti-skid selected on and the brakes applied, the BCU receives and analyses the brake pedal signals, wheel speeds and brake line pressures.",
-    "caption_tr": ""
+    "caption_tr": "Patinaj önleme özelliği açıkken ve frenler uygulanmışken BCU, fren pedalı sinyallerini, tekerlek hızlarını ve fren hattı basınçlarını alır ve analiz eder.",
+    "title_tr": "kaymayı önleyici seçilmiş"
   },
   {
     "id": "s10",
-    "title": "The BCU also provides touchdown protection. This prevents br…",
+    "title": "BCU also touchdown",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The BCU also provides touchdown protection. This prevents braking pressure from being sent to the brakes until the wheel speed is greater than 50 knots or 3 seconds after touch down. This prevents landing with the brakes applied and enables the airplane to establish traction prior to braking action.",
-    "caption_tr": ""
+    "caption_tr": "BCU aynı zamanda konma koruması da sağlar. Bu, tekerlek hızı 50 knot'un üzerine çıkana kadar veya yere temastan 3 saniye sonra fren basıncının frenlere gönderilmesini önler. Bu, frenler uygulanmış haldeyken inişi önler ve uçağın frenleme eyleminden önce çekiş oluşturmasını sağlar.",
+    "title_tr": "BCU da gol"
   },
   {
     "id": "s11",
-    "title": "Locked-wheel protection removes brake pressure to an inboard…",
+    "title": "Locked-wheel protection removes",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Locked-wheel protection removes brake pressure to an inboard wheel if its wheel speed is more than 30 slower than the speed of the opposite inboard wheel. The same applies to an outboard wheel if it is more than 30 slower than the speed of its opposite outboard wheel.",
-    "caption_tr": ""
+    "caption_tr": "Kilitli tekerlek koruması, tekerlek hızı karşı taraftaki iç tekerleğin hızından 30 kat daha yavaşsa, iç tekerleğe uygulanan fren basıncını kaldırır. Aynı durum, karşı taraftaki dış tekerleğin hızından 30'dan fazla daha yavaşsa dıştan takmalı tekerlek için de geçerlidir.",
+    "title_tr": "Kilitli tekerlek koruması"
   },
   {
     "id": "s12",
-    "title": "In-flight braking is provided for the main gear brakes. Once…",
+    "title": "In-flight braking provided",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "In-flight braking is provided for the main gear brakes. Once airborne, when the gear control switch is selected UP, the BCU commands a psi braking pressure to be applied for a few seconds to stop the main wheels rotation. There is a brake pad to stop the nose wheel rotation.",
-    "caption_tr": ""
+    "caption_tr": "Ana dişli frenleri için uçuş sırasında frenleme sağlanmıştır. Havaya uçtuktan sonra vites kontrol anahtarı YUKARI seçildiğinde BCU, ana tekerleklerin dönüşünü durdurmak için birkaç saniye süreyle psi frenleme basıncı uygulanması komutunu verir. Burun tekerleğinin dönüşünü durdurmak için fren balatası bulunmaktadır.",
+    "title_tr": "Uçuş frenleme sağlandı"
   },
   {
     "id": "s13",
-    "title": "The brake systems are classified under: - normal brakes - pe…",
+    "title": "- normal brakes",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The brake systems are classified under: - normal brakes - pedal braking using main hydraulic system or auxiliary system - emergency brakes - braking using the brake accumulator - parking brake system",
-    "caption_tr": ""
+    "caption_tr": "Fren sistemleri şu şekilde sınıflandırılır: - normal frenler - ana hidrolik sistem veya yardımcı sistem kullanılarak pedalla frenleme - acil durum frenleri - fren akümülatörü kullanılarak frenleme - park freni sistemi",
+    "title_tr": "- normal frenler"
   },
   {
     "id": "s14",
-    "title": "The inboard brake control valves are powered by the DC Emerg…",
+    "title": "inboard brake control",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The inboard brake control valves are powered by the DC Emergency battery bus through the INBD BRAKES circuit breaker located on the pilots CB panel. The outboard brake control valves are powered by the right essential bus through the OUTBD BRAKES circuit breaker.",
-    "caption_tr": ""
+    "caption_tr": "İçten takmalı fren kontrol valfleri, pilotun CB panelinde bulunan INBD FRENLER devre kesicisi aracılığıyla DC Acil Durum akü veri yolu tarafından çalıştırılır. Dıştan takmalı motor fren kontrol valfleri, OUTBD BRAKES devre kesici aracılığıyla doğru temel veri yolundan güç alır.",
+    "title_tr": "içten fren kontrolü"
   },
   {
     "id": "s15",
-    "title": "Normal Brake System The normal brake system is via the brake…",
+    "title": "Normal Brake System",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Normal Brake System The normal brake system is via the brake pedals.",
-    "caption_tr": ""
+    "caption_tr": "Normal Fren Sistemi Normal fren sistemi fren pedalları aracılığıyla sağlanır.",
+    "title_tr": "Normal Fren Sistemi"
   },
   {
     "id": "s16",
-    "title": "Depressing either set of brake pedals sends an electronic si…",
+    "title": "Depressing either set",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Depressing either set of brake pedals sends an electronic signal proportional to pedal deflection to the BCU. The BCU also receives wheel speed signals from the 4 axle mounted wheel speed transducers and the squat switches.",
-    "caption_tr": ""
+    "caption_tr": "Fren pedallarından herhangi birine basıldığında, BCU'ya pedal sapmasına orantılı bir elektronik sinyal gönderilir. BCU ayrıca 4 aksa monte tekerlek hızı dönüştürücülerinden ve çömelme anahtarlarından tekerlek hızı sinyallerini alır.",
+    "title_tr": "sete de baskı"
   },
   {
     "id": "s17",
-    "title": "The BCU then commands the brake shut-off valves ( brake sov …",
+    "title": "BCU commands brake",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "The BCU then commands the brake shut-off valves ( brake sov to open, porting hydraulic pressure to the inboard and outboard brake control valves.",
-    "caption_tr": ""
+    "caption_tr": "BCU daha sonra fren kapatma valflerine (fren sov'un açılması) komut verir ve hidrolik basıncı iç ve dış fren kontrol valflerine iletir.",
+    "title_tr": "BCU frene komut"
   },
   {
     "id": "s18",
-    "title": "The outboard brake control valve operates the left and the r…",
+    "title": "outboard brake control",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The outboard brake control valve operates the left and the right outboard brakes. The inboard brake control valve operates the left and right inboard brakes. Therefore, a single control valve failure cannot cause an asymmetric braking condition or more than 50 loss of braking.",
-    "caption_tr": ""
+    "caption_tr": "Dıştan takmalı motor fren kontrol valfi, sol ve sağ dıştan takmalı motor frenlerini çalıştırır. İç fren kontrol valfi sol ve sağ iç frenleri çalıştırır. Bu nedenle tek bir kontrol valfi arızası asimetrik bir frenleme durumuna veya %50'den fazla frenleme kaybına neden olamaz.",
+    "title_tr": "dıştan takmalı fren"
   },
   {
     "id": "s19",
-    "title": "From the brake control valves, hydraulic pressure flows to t…",
+    "title": "brake control valves",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "From the brake control valves, hydraulic pressure flows to the brakes through the brake fuses. The wheel speed transducers sent the wheel speeds back to the BCU. BCU controls the braking on each main gear wheel independently. This allows maximum braking under all runway conditions without tire skidding.",
-    "caption_tr": ""
+    "caption_tr": "Fren kontrol valflerinden hidrolik basınç, fren sigortaları aracılığıyla frenlere akar. Tekerlek hızı dönüştürücüleri tekerlek hızlarını BCU'ya geri gönderdi. BCU her ana dişli çarktaki frenlemeyi bağımsız olarak kontrol eder. Bu, lastiklerin kayması olmadan tüm pist koşullarında maksimum frenlemeye olanak sağlar.",
+    "title_tr": "fren kontrol valfleri"
   },
   {
     "id": "s20",
-    "title": "Main Hydraulic System Loss If the main hydraulic system fail…",
+    "title": "Main Hydraulic System",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "Main Hydraulic System Loss If the main hydraulic system fails, the auxiliary system pressurises the brake system via the shuttle valve. Normal braking with anti-skid protection is still available.",
-    "caption_tr": ""
+    "caption_tr": "Ana Hidrolik Sistem Kaybı Ana hidrolik sistemin arızalanması durumunda yardımcı sistem, mekik valf vasıtasıyla fren sistemine basınç uygular. Kaymayı önleyen normal frenleme hala mevcuttur.",
+    "title_tr": "Ana Hidrolik Sistem"
   },
   {
     "id": "s21",
-    "title": "Emergency Brake System The emergency brake system is used wh…",
+    "title": "Emergency Brake System",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "Emergency Brake System The emergency brake system is used when both the main and auxiliary hydraulic systems are not available. This system is powered by the brake accumulator.",
-    "caption_tr": ""
+    "caption_tr": "Acil Durum Fren Sistemi Acil durum fren sistemi, hem ana hem de yardımcı hidrolik sistemlerin mevcut olmadığı durumlarda kullanılır. Bu sistem, fren akümülatörü tarafından çalıştırılır.",
+    "title_tr": "Acil Fren Sistemi"
   },
   {
     "id": "s22",
-    "title": "Dual Hydraulic Systems Failure If the back-up auxiliary brak…",
+    "title": "Dual Hydraulic Systems",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "Dual Hydraulic Systems Failure If the back-up auxiliary brake pressure is also lost, the normal brake system will become inoperative. The normal brake system pressure switch will send a signal to the BCU to indicate that normal brake pressure is not available.",
-    "caption_tr": ""
+    "caption_tr": "Çift Hidrolik Sistem Arızası Yedek yardımcı fren basıncı da kaybolursa normal fren sistemi çalışmaz hale gelecektir. Normal fren sistemi basınç anahtarı BCU'ya normal fren basıncının mevcut olmadığını belirten bir sinyal gönderecektir.",
+    "title_tr": "Çift Hidrolik Sistemler"
   },
   {
     "id": "s23",
-    "title": "The crew will be alerted by the following :- - Master Warn L…",
+    "title": "- Master Warn",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "The crew will be alerted by the following :- - Master Warn Lights illuminate and warning chime sounds - NORMAL BRAKES FAIL and NORM FAIL ( CAS) - Brakes Fail... Brakes Fail... Brakes Fail ( mutable aural warning )",
-    "caption_tr": ""
+    "caption_tr": "Mürettebat aşağıdakilerle uyarılacaktır:- - Usta Uyarı Işıkları yanıyor ve uyarı sesi duyuluyor - NORMAL FRENLER ARIZASI ve NORM ARIZASI (CAS) - Frenler Arızalı... Frenler Arızalı... Frenler Arızalı (değişken sesli uyarı)",
+    "title_tr": "- Usta Uyarısı"
   },
   {
     "id": "s24",
-    "title": "Since normal braking is not available, emergency braking is …",
+    "title": "Since normal braking",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Since normal braking is not available, emergency braking is provided by the emergency brake accumulator. It is activated by pulling the emergency parking brake handle to apply braking action.",
-    "caption_tr": ""
+    "caption_tr": "Normal frenleme yapılamadığından acil frenleme acil fren akümülatörü tarafından sağlanır. Frenleme işlemini uygulamak için acil park freni kolunun çekilmesiyle etkinleştirilir.",
+    "title_tr": "Normal frenlemeden yana"
   },
   {
     "id": "s25",
-    "title": "Brake Accumulator This disposable type accumulator is locate…",
+    "title": "Brake Accumulator This",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Brake Accumulator This disposable type accumulator is located in the left wing root. It is pre-charged with dry air or nitrogen to psi. Notice that the brake accumulator can only be charged hydraulically by the auxiliary pump to psi. Its function is to provide hydraulic pressure for emergency brake operation and for parking brake operations.",
-    "caption_tr": ""
+    "caption_tr": "Fren Akümülatörü Bu tek kullanımlık tip akümülatör sol kanat kökünde bulunmaktadır. Kuru hava veya nitrojen ile psi'ye kadar önceden şarj edilir. Fren akümülatörünün yalnızca yardımcı pompa tarafından psi'ye kadar hidrolik olarak şarj edilebildiğine dikkat edin. İşlevi, acil fren işlemi ve park freni işlemleri için hidrolik basınç sağlamaktır.",
+    "title_tr": "Fren Akümülatörü Bu"
   },
   {
     "id": "s26",
-    "title": "It can also hold the parking brake pressure for approximatel…",
+    "title": "It can also",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "It can also hold the parking brake pressure for approximately 48 hours. The emergency braking system does not provide differential braking and anti-skid protection.",
-    "caption_tr": ""
+    "caption_tr": "Ayrıca park freni basıncını yaklaşık 48 saat tutabilir. Acil durum frenleme sistemi diferansiyel frenleme ve kaymayı önleme koruması sağlamaz.",
+    "title_tr": "Ayrıca"
   },
   {
     "id": "s27",
-    "title": "To use the emergency brakes, pull the Emergency Park Brake h…",
+    "title": "emergency brakes pull",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "To use the emergency brakes, pull the Emergency Park Brake handle. This opens the parking brake shut- off valve and allows the pressurised brake accumulator fluid to the brakes via a brake fuse. Brake pressure to the brakes is proportional to the amount the handle is pulled.",
-    "caption_tr": ""
+    "caption_tr": "Acil durum frenlerini kullanmak için Acil Durum Park Freni kolunu çekin. Bu, park freni kapatma valfını açar ve basınçlı fren akümülatör sıvısının bir fren sigortası aracılığıyla frenlere gitmesini sağlar. Frenlere uygulanan fren basıncı, kolun çekilme miktarıyla orantılıdır.",
+    "title_tr": "acil fren çekme"
   },
   {
     "id": "s28",
-    "title": "Parking Brake System The brake accumulator also provides pre…",
+    "title": "Parking Brake System",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "Parking Brake System The brake accumulator also provides pressure for the parking brakes system.",
-    "caption_tr": ""
+    "caption_tr": "Park Freni Sistemi Fren akümülatörü ayrıca park freni sistemine basınç sağlar.",
+    "title_tr": "Park Freni Sistemi"
   },
   {
     "id": "s29",
-    "title": "The parking brake is set by pulling the Emergency Park Brake…",
+    "title": "parking brake set",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "The parking brake is set by pulling the Emergency Park Brake handle aft and rotating it left or right 90 to the locked position.",
-    "caption_tr": ""
+    "caption_tr": "Park freni, Acil Durum Park Freni kolunun arkaya çekilmesi ve sola veya sağa 90 kilitli konuma döndürülmesiyle ayarlanır.",
+    "title_tr": "park freni seti"
   },
   {
     "id": "s30",
-    "title": "This action holds the parking brake shut-off valve open and …",
+    "title": "This action holds",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "This action holds the parking brake shut-off valve open and the hydraulic pressure is maintained to the brakes.",
-    "caption_tr": ""
+    "caption_tr": "Bu işlem, park freni kapatma valfini açık tutar ve frenlere giden hidrolik basınç korunur.",
+    "title_tr": "Bu eylem tutar"
   },
   {
     "id": "s31",
-    "title": "With the parking brakes set, the advisory CAS message EMER P…",
+    "title": "parking brakes set",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "With the parking brakes set, the advisory CAS message EMER PARK is displayed. However, this message will turn red if the thrust levers are advanced for take-off with the parking brakes set.",
-    "caption_tr": ""
+    "caption_tr": "Park frenleri çekiliyken, CAS tavsiye mesajı ACİL PARK görüntülenir. Ancak park frenleri çekiliyken itme kolları kalkış için ilerletilirse bu mesaj kırmızıya dönecektir.",
+    "title_tr": "park freni seti"
   },
   {
     "id": "s32",
-    "title": "The main hydraulic system pressure is indicated on: - the SU…",
+    "title": "- SU",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "The main hydraulic system pressure is indicated on: - the SUMRY page as MAIN - the EICAS-HYD page within the MAIN PSI indication - the Radio Management Unit (RMU)",
-    "caption_tr": ""
+    "caption_tr": "Ana hidrolik sistem basıncı şu yerde gösterilir: - ANA olarak ÖZET sayfası - ANA PSI göstergesi içindeki EICAS-HYD sayfası - Radyo Yönetim Birimi (RMU)",
+    "title_tr": "- SU"
   },
   {
     "id": "s33",
-    "title": "The brake accumulator pressure is indicated on: - the SUMRY …",
+    "title": "- SUMRY",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "The brake accumulator pressure is indicated on: - the SUMRY page as B - ACUM - the RMU as - the EICAS-HYD page within the BRAKE ACCUM indication and on the tape display.",
-    "caption_tr": ""
+    "caption_tr": "Fren akümülatör basıncı şu şekilde gösterilir: - ÖZET sayfası B olarak - ACUM - RMU olarak - FREN BİRİKİMİ göstergesi içindeki ve bant ekranında EICAS-HYD sayfası.",
+    "title_tr": "- ÖZET"
   },
   {
     "id": "s34",
-    "title": "If the brake accumulator pressure falls below psi or increas…",
+    "title": "brake accumulator pressure",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "If the brake accumulator pressure falls below psi or increases above psi, the digital readouts will turn amber and will be boxed. Note that there will be no box in the RMU. The tape indicator pointer will also turn amber and will indicate the actual pressure.",
-    "caption_tr": ""
+    "caption_tr": "Fren akümülatör basıncı psi'nin altına düşerse veya psi'nin üzerine çıkarsa dijital göstergeler sarıya dönecek ve kutulanacaktır. RMU'da kutu olmayacağını unutmayın. Şerit gösterge işaretçisi de kehribar rengine dönecek ve gerçek basıncı gösterecektir.",
+    "title_tr": "fren akümülatör basıncı"
   },
   {
     "id": "s35",
-    "title": "We will now look at the brake system malfunctions and their …",
+    "title": "We will look",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "We will now look at the brake system malfunctions and their indications.",
-    "caption_tr": ""
+    "caption_tr": "Şimdi fren sistemi arızalarına ve bunların göstergelerine bakacağız.",
+    "title_tr": "bakacağız"
   },
   {
     "id": "s36",
-    "title": "This caution CAS message indicates that the anti-skid protec…",
+    "title": "This caution CAS",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "This caution CAS message indicates that the anti-skid protection system has been disabled, either through the pilot manual selection or by loss of anti-skid function to the brakes. Landing performance will be affected. The OFF light will be illuminated.",
-    "caption_tr": ""
+    "caption_tr": "Bu uyarı CAS mesajı, pilotun manuel seçimi veya frenlerdeki patinaj önleme fonksiyonunun kaybı nedeniyle patinaj önleme sisteminin devre dışı bırakıldığını gösterir. İniş performansı etkilenecektir. KAPALI ışığı yanacaktır.",
+    "title_tr": "Bu uyarı CAS"
   },
   {
     "id": "s37",
-    "title": "During normal brake operation, the brake pressure to every b…",
+    "title": "normal brake pressure",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "During normal brake operation, the brake pressure to every brake unit is monitored by the BCU through their pressure transducers. If a leak occurs at a brake unit, its respective fuse will close to prevent further fluid loss.",
-    "caption_tr": ""
+    "caption_tr": "Normal fren çalışması sırasında, her fren ünitesine giden fren basıncı, basınç dönüştürücüleri aracılığıyla BCU tarafından izlenir. Fren ünitesinde bir sızıntı meydana gelirse, daha fazla sıvı kaybını önlemek için ilgili sigorta kapanacaktır.",
+    "title_tr": "normal fren basıncı"
   },
   {
     "id": "s38",
-    "title": "The brake pressure loss will signal the BCU to bring on the …",
+    "title": "brake pressure loss",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "The brake pressure loss will signal the BCU to bring on the respective caution CAS message. Landing performance will also be affected.",
-    "caption_tr": ""
+    "caption_tr": "Fren basıncı kaybı, BCU'ya ilgili CAS uyarı mesajını vermesi için sinyal verecektir. İniş performansı da etkilenecektir.",
+    "title_tr": "fren basıncı kaybı"
   },
   {
     "id": "s39",
-    "title": "If any of the pilot's pedal transducers becomes inoperative,…",
+    "title": "any pilot's pedal",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "If any of the pilot's pedal transducers becomes inoperative, the caution CAS message FAULT will be displayed. Use the Co-pilot's pedals for braking.",
-    "caption_tr": ""
+    "caption_tr": "Pilotun pedal dönüştürücülerinden herhangi biri çalışmaz hale gelirse, CAS uyarı mesajı FAULT görüntülenecektir. Fren yapmak için Yardımcı pilotun pedallarını kullanın.",
+    "title_tr": "herhangi pilot pedalı"
   },
   {
     "id": "s40",
-    "title": "As the airplane accelerates for the take-off, the steering c…",
+    "title": "airplane accelerates take-off",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "As the airplane accelerates for the take-off, the steering command decreases to 0 at 80 knots.",
-    "caption_tr": ""
+    "caption_tr": "Uçak kalkış için hızlandıkça direksiyon komutu 80 knot'ta 0'a düşer.",
+    "title_tr": "uçak kalkışı hızlandırır"
   }
 ]

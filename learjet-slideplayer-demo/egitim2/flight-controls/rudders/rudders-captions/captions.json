@@ -1,122 +1,137 @@
 [
   {
     "id": "s01",
-    "title": "The rudder is attached to the vertical stabilizer at 3 hinge…",
+    "title": "rudder attached vertical",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The rudder is attached to the vertical stabilizer at 3 hinge points. The rudder trim tab is attached to the trailing edge of the rudder. The rudder pedals enable the pilots to operate the rudder via a cable system.",
-    "caption_tr": ""
+    "caption_tr": "Dümen dikey dengeleyiciye 3 menteşe noktasından bağlanır. Dümen trim tırnağı dümenin arka kenarına takılıdır. Dümen pedalları pilotların dümeni bir kablo sistemi aracılığıyla kontrol etmesini sağlar.",
+    "title_tr": "dümen dikey takılı"
   },
   {
     "id": "s02",
-    "title": "The pilot's cable is routed along the bottom of the airplane…",
+    "title": "pilot's cable routed",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The pilot's cable is routed along the bottom of the airplane. The co-pilots cable is identical except along the rotor burst zone. Here, the cable is routed upwards to the ceiling. This prevents both the cables from being cut by shrapnel in the event of an engine burst. ",
-    "caption_tr": ""
+    "caption_tr": "Pilotun kablosu uçağın alt kısmı boyunca yönlendirilir. Yardımcı pilotun kablosu, rotor patlama bölgesi dışında aynıdır. Burada kablo tavana doğru yönlendirilir. Bu, motorun patlaması durumunda her iki kablonun da şarapnel tarafından kesilmesini önler.",
+    "title_tr": "pilotun kablosu çekildi"
   },
   {
     "id": "s03",
-    "title": "The rudder pedals are used to operate the rudder, brakes and…",
+    "title": "rudder pedals are",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The rudder pedals are used to operate the rudder, brakes and the nose wheel steering systems. The pedals position can be adjusted forward and aft through a toggle switch which is located on the lower switch panel. Connected to each pedal are 2 force transducers.",
-    "caption_tr": ""
+    "caption_tr": "Dümen pedalları dümeni, frenleri ve burun tekerleği yönlendirme sistemlerini çalıştırmak için kullanılır. Pedalların konumu, alt anahtar panelinde bulunan bir mafsallı anahtar aracılığıyla ileri ve geri ayarlanabilir. Her pedala 2 adet kuvvet transdüseri bağlanmıştır.",
+    "title_tr": "dümen pedalları"
   },
   {
     "id": "s04",
-    "title": "An electrical actuator repositions this trim tab through 2 p…",
+    "title": "electrical actuator repositions",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "An electrical actuator repositions this trim tab through 2 push rods. This actuator is powered by the Right Essential Bus through the TRIM-RUD circuit breaker in the FLIGHT group. ",
-    "caption_tr": ""
+    "caption_tr": "Elektrikli bir aktüatör, bu trim tırnağını 2 itme çubuğu aracılığıyla yeniden konumlandırır. Bu aktüatöre, FLIGHT grubundaki TRIM-RUD devre kesici aracılığıyla Sağ Temel Veriyolu tarafından güç sağlanır.",
+    "title_tr": "elektrikli aktüatör yeniden"
   },
   {
     "id": "s06",
-    "title": "The rudder trim indications are shown on -the SUMRY page as …",
+    "title": "rudder trim indications",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The rudder trim indications are shown on -the SUMRY page as or R1-R10digital format) -the EICAS - page in digital format and also in an analog and pointer format -the RMU page 2 in a digital format por) ",
-    "caption_tr": ""
+    "caption_tr": "Dümen trim göstergeleri -SUMRY sayfasında veya R1-R10dijital formatta) -EICAS sayfasında - dijital formatta ve ayrıca analog ve işaretçi formatında -RMU sayfa 2'de dijital formatta (por) gösterilir.",
+    "title_tr": "dümen trim göstergeleri"
   },
   {
     "id": "s07",
-    "title": "The rudder takeoff trim band is between L1 and The trim sett…",
+    "title": "rudder takeoff trim",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The rudder takeoff trim band is between L1 and The trim setting for the rudder must be within this takeoff band for takeoff. If the trim setting is out of the band for take-off, the trim unit will be boxed and an advisory CAS message TAKE OFF TRIM is displayed. ",
-    "caption_tr": ""
+    "caption_tr": "Dümen kalkış trim bandı L1 ile L1 arasındadır. Kalkış için dümenin trim ayarı bu kalkış bandı dahilinde olmalıdır. Trim ayarı kalkış bandının dışındaysa, trim ünitesi kutuya konulacak ve tavsiye niteliğinde bir CAS mesajı TAKE OFF TRIM görüntülenecektir.",
+    "title_tr": "dümen kalkış trimi"
   },
   {
     "id": "s08",
-    "title": "Advancing the throttles beyond will cause the take-off warni…",
+    "title": "Advancing throttles beyond",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Advancing the throttles beyond will cause the take-off warnings to be activated. The advisory CAS message TAKE OFF TRIM and all the rudder trim indications will turn red. pen) ",
-    "caption_tr": ""
+    "caption_tr": "Gaz kelebeğinin daha ileri götürülmesi kalkış uyarılarının devreye girmesine neden olacaktır. Tavsiye niteliğindeki CAS mesajı KALKIŞ TRIM'i ve tüm dümen trim göstergeleri kırmızıya dönecektir. dolma kalem)",
+    "title_tr": "Kısmaların ötesine geçilmesi"
   },
   {
     "id": "s09",
-    "title": "Un-commanded rudder trim can be stopped by depressing and ho…",
+    "title": "Un-commanded rudder trim",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Un-commanded rudder trim can be stopped by depressing and holding either Control Wheel Master switch Also, the AFM procedure for a Yaw Axis Malfunction calls for pulling the TRIM-RUD circuit breaker if the malfunction is isolated to the rudder trim system. ",
-    "caption_tr": ""
+    "caption_tr": "Komutsuz dümen trimi, Kontrol Tekerleği Ana anahtarına basılarak ve basılı tutularak durdurulabilir. Ayrıca, Yaw Eksen Arızası için AFM prosedürü, arıza dümen trim sisteminden izole edilmişse TRIM-RUD devre kesicinin çekilmesini gerektirir.",
+    "title_tr": "Komutsuz dümen trimi"
   },
   {
     "id": "s11",
-    "title": "This yaw servo can be manually overridden by depressing the …",
+    "title": "This yaw servo",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "This yaw servo can be manually overridden by depressing the - Depressing the will disconnect the yaw damper. - Depressing and holding the will disable the rudder boost. The yaw servo receives electrical power from the AFCS SERVOS circuit breaker in the FLIGHT group. ",
-    "caption_tr": ""
+    "caption_tr": "Bu yalpalama servosu, tuşuna basılarak manuel olarak geçersiz kılınabilir. - tuşuna basıldığında yalpalama sönümleyicinin bağlantısı kesilir. - Düğmeye basmak ve basılı tutmak dümen desteğini devre dışı bırakacaktır. Yalpalama servosu, FLIGHT grubundaki AFCS SERVOS devre kesiciden elektrik gücünü alır.",
+    "title_tr": "Bu yalpalama servosu"
   },
   {
     "id": "s12",
-    "title": "Rudder Boost System This system is activated to assist the c…",
+    "title": "Rudder Boost System",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Rudder Boost System This system is activated to assist the crew when a heavy rudder pedal force is required to maintain directional control, such as engine failure during take off. When activated, it will defiect the rudder proportional to the force applied on rudder pedals. ",
-    "caption_tr": ""
+    "caption_tr": "Dümen Takviye Sistemi Bu sistem, kalkış sırasında motor arızası gibi yön kontrolünü korumak için ağır bir dümen pedalı kuvveti gerektiğinde mürettebata yardımcı olmak üzere etkinleştirilir. Etkinleştirildiğinde, dümen pedallarına uygulanan kuvvetle orantılı olarak dümeni saptıracaktır.",
+    "title_tr": "Dümen Takviye Sistemi"
   },
   {
     "id": "s13",
-    "title": "The 2 - 1IC600 computer provides all the computational aspec…",
+    "title": "2 - 1IC600",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The 2 - 1IC600 computer provides all the computational aspects for the rudder boost system. Inputs to the computer come from the rudder pedal force transducers and the Rudder Boost arm switch. This arming switch is located on the center forward pedestal. ",
-    "caption_tr": ""
+    "caption_tr": "2 - 1IC600 bilgisayarı, dümen takviye sisteminin tüm hesaplamalı yönlerini sağlar. Bilgisayara yapılan girişler, dümen pedalı kuvveti dönüştürücülerinden ve Dümen Takviye kolu anahtarından gelir. Bu etkinleştirme anahtarı orta ön kaide üzerinde bulunur.",
+    "title_tr": "2 - 1IC600"
   },
   {
     "id": "s14",
-    "title": "The Rudder Boost System is armed when - the Rudder Boost swi…",
+    "title": "Rudder Boost System",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The Rudder Boost System is armed when - the Rudder Boost switch is selected on - the flaps is extended beyond 3 and - the airspeed is less than knots. por) ",
-    "caption_tr": ""
+    "caption_tr": "Dümen Takviye Sistemi aşağıdaki durumlarda devreye girer: - Dümen Takviyesi anahtarı açık olduğunda - flaplar 3'ün üzerine uzatıldığında ve - hava hızı deniz milinin altında olduğunda. por)",
+    "title_tr": "Dümen Takviye Sistemi"
   },
   {
     "id": "s15",
-    "title": "Following an engine failure, the Rudder Boost System is acti…",
+    "title": "Following engine failure",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Following an engine failure, the Rudder Boost System is activated when - a rudder pedal force exceeding 23 kgs is sensed by the force transducers. This pedal force can be from either the pilot's pedals, co-pilot's pedals or the sum of the pilot and co-pilots rudder pedals. A green RB also appears on the",
-    "caption_tr": ""
+    "caption_tr": "Bir motor arızasının ardından Dümen Takviye Sistemi şu durumlarda etkinleştirilir: kuvvet dönüştürücüler tarafından 23 kg'ı aşan bir dümen pedalı kuvveti algılandığında. Bu pedal kuvveti pilotun pedallarından, yardımcı pilotun pedallarından veya pilot ve yardımcı pilotun dümen pedallarının toplamından olabilir. Ayrıca ekranda yeşil bir RB de belirir.",
+    "title_tr": "Motor arızasının ardından"
   },
   {
     "id": "s16",
-    "title": "When activated, the system will deflect the rudder and the d…",
+    "title": "activated system will",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "When activated, the system will deflect the rudder and the deflection is proportional to the pedal force. The rudder boost system will deactivate automatically, if the airspeed exceeds knots or if the flaps are retracted to less than 3, eveniif the pedal force applied is more than 23 kgs. pen) ",
-    "caption_tr": ""
+    "caption_tr": "Etkinleştirildiğinde sistem dümeni saptıracak ve sapma pedal kuvvetiyle orantılı olacaktır. Dümen takviye sistemi, hava hızının deniz milini aşması veya flapların 3'ün altına çekilmesi durumunda, uygulanan pedal kuvveti 23 kg'dan fazla olsa bile otomatik olarak devre dışı kalacaktır. dolma kalem)",
+    "title_tr": "etkinleştirilen sistem"
   },
   {
     "id": "s17",
-    "title": "An advisory CAS message RUD BOOST INOP will be displayed if …",
+    "title": "advisory CAS message",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "An advisory CAS message RUD BOOST INOP will be displayed if - the rudder boost switch is OFF or - the system is disabled due to a malfunction in the 2 - IC600 or - any of the rudder pedal force sensors fail. ",
-    "caption_tr": ""
+    "caption_tr": "Aşağıdaki durumlarda tavsiye niteliğinde bir CAS mesajı RUD BOOST INOP görüntülenecektir: - dümen takviye anahtarı KAPALI ise veya - 2 - IC600'deki bir arıza nedeniyle sistem devre dışı bırakılırsa veya - dümen pedalı kuvvet sensörlerinden herhangi biri arızalanırsa.",
+    "title_tr": "tavsiye niteliğinde CAS"
   }
 ]

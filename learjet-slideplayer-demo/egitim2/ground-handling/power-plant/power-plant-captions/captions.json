@@ -1,66 +1,74 @@
 [
   {
     "id": "s01",
-    "title": "Item Visually inspect the fire extinguisher bottle thermal d…",
+    "title": "Item Visually inspect",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Item Visually inspect the fire extinguisher bottle thermal discharge (red) and manual discharge (yellow) indicators for integrity. Inform the maintenance crew if any of the discs is missing or discoloured. JR So _",
-    "caption_tr": ""
+    "caption_tr": "Madde Yangın söndürücü şişe termal boşaltma (kırmızı) ve manuel boşaltma (sarı) göstergelerinin bütünlüğünü görsel olarak kontrol edin. Herhangi bir diskin eksik veya renk değiştirmiş olması durumunda bakım ekibini bilgilendirin. JR So _",
+    "title_tr": "Öğe Görsel inceley"
   },
   {
     "id": "s02",
-    "title": "Item Check the extinguisher pressure gauge for proper pressu…",
+    "title": "Item Check extinguisher",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Item Check the extinguisher pressure gauge for proper pressure. The 2 engine fire extinguisher containers are located in the Tail-cone Equipment Bay. The extinguishing agent, Halon is stored under pressure. Depending on the compartment temperature, the normal pressure should be between - psi. JR So _",
-    "caption_tr": ""
+    "caption_tr": "Madde Yangın söndürücü basınç göstergesini doğru basınç için kontrol edin. 2 motor yangın söndürücü kapları, Kuyruk-koni Ekipman Bölgesi'nde yer alır. Yangın söndürme ajanı, Halon basınç altında saklanır. Bölgenin sıcaklığına bağlı olarak, normal basınç - psi arasında olmalıdır. JR So _",
+    "title_tr": "Öğe Kontrolü söndürücü"
   },
   {
     "id": "s03",
-    "title": "Item Check engine oil quantity gauges and service engine oil…",
+    "title": "Item Check engine",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Item Check engine oil quantity gauges and service engine oil if necessary within one hour of engine shutdown. Record uplift in fuel and oil log. If oil level is not checked within 1 hour after engine shutdown, perform a normal engine start and allow engine to run up at least 5 minutes. Then check engine oil quantity. JR So _",
-    "caption_tr": ""
+    "caption_tr": "Madde Motor yağı miktarı göstergelerini kontrol edin ve gerekli durumlarda motor yağını hizmet edin. Motor kapalı olduktan sonra bir saat içinde bu işlemi yapın. Yakıt ve yağı günlüğüne yüklemeyi kaydedin. Yağ seviyesi motor kapalı olduktan sonra 1 saat içinde kontrol edilmezse, normal bir motor başlatması yapın ve motora en az 5 dakika çalıştırın. Daha sonra motor yağı miktarını kontrol edin. JR So _",
+    "title_tr": "Öğe Kontrol motoru"
   },
   {
     "id": "s04",
-    "title": "Open the engine oil access door. Note that on the left engin…",
+    "title": "Open engine oil",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Open the engine oil access door. Note that on the left engine, there is only one dip stick. The right engine has 2 types of dip sticks. J JR So _",
-    "caption_tr": ""
+    "caption_tr": "Madde Motor yağı erişim kapısını açın. Sol motorun sadece bir adet kontak çubuğu olduğunu unutmayın. Sağ motorun 2 tip kontak çubuğu vardır. J JR So _",
+    "title_tr": "Motor yağını açın"
   },
   {
     "id": "s05",
-    "title": "Use only approved engine oil for servicing. We use Mobil Jet…",
+    "title": "approved engine oil",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Use only approved engine oil for servicing. We use Mobil Jet Oil Type 2 for this engine. J JR So _",
-    "caption_tr": ""
+    "caption_tr": "Madde Sadece onaylı motor yağını kullanın. Bu motor için Mobil Jet Oil Type 2 kullanıyoruz. J JR So _",
+    "title_tr": "onaylı motor yağı"
   },
   {
     "id": "s06",
-    "title": "Oil servicing - Left Engine 1. Remove the dipstick after pus…",
+    "title": "Oil servicing -",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Oil servicing - Left Engine 1. Remove the dipstick after pushing it down and rotating counterclockwise. 2. Check oil level against markings on dipstick. 3. If oil level indication is below FULL, add oil. 4. After servicing, re-install the dipstick and close the oil access door. J JR So _",
-    "caption_tr": ""
+    "caption_tr": "Madde Yağ hizmeti - Sol Motor 1. Dipstick'i aşağı itip saat yönünde döndürdükten sonra çıkarın. 2. Yağ seviyesini dipstick üzerindeki işaretlere göre kontrol edin. 3. Eğer yağ seviyesi FULL'un altındaysa, yağ ekleyin. 4. Hizmet tamamlandığında, dipstick'i yeniden takın ve yağ erişim kapısını kapatın. J JR So _",
+    "title_tr": "Yağ servisi -"
   },
   {
     "id": "s07",
-    "title": "Qil servicing - Right Engine 1. Remove the dipstick by flipp…",
+    "title": "Qil servicing -",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "Qil servicing - Right Engine 1. Remove the dipstick by flipping the yellow tab and rotating it counterclockwise. 2. Check oil level against markings on dipstick. 3. If oil level indication is below FULL, add oil. 4. After servicing, re-install the dipstick and close the oil access door. I JR So _",
-    "caption_tr": ""
+    "caption_en": "Oil servicing - Right Engine 1. Remove the dipstick by flipping the yellow tab and rotating it counterclockwise. 2. Check oil level against markings on dipstick. 3. If oil level indication is below FULL, add oil. 4. After servicing, re-install the dipstick and close the oil access door. I JR So _",
+    "caption_tr": "Madde Yağ hizmeti - Sağ Motor 1. Dipstick'i sarı tab'ı çevirerek ve saat yönünde döndürerek çıkarın. 2. Yağ seviyesini dipstick üzerindeki işaretlere göre kontrol edin. 3. Eğer yağ seviyesi FULL'un altındaysa, yağ ekleyin. 4. Hizmet tamamlandığında, dipstick'i yeniden takın ve yağ erişim kapısını kapatın. I JR So _",
+    "title_tr": "Qil servisi -"
   },
   {
     "id": "s08",
-    "title": "Record the oil uplift into the Fuel Oil log. J JR So _",
+    "title": "Record oil uplift",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Record the oil uplift into the Fuel Oil log. J JR So _",
-    "caption_tr": ""
+    "caption_tr": "Madde yağ yüklemesini Yakıt Yağ günlüğüne kaydedin. J JR So _",
+    "title_tr": "Petrol yükselişini kaydedin"
   }
 ]

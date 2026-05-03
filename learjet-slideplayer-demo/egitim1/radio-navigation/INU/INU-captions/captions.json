@@ -1,258 +1,290 @@
 [
   {
     "id": "s01",
-    "title": "Two integrated navigation units (INU) are located in the nos…",
+    "title": "Two integrated navigation",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Two integrated navigation units (INU) are located in the nose avionics bay.",
-    "caption_tr": ""
+    "caption_tr": "Burun aviyonik bölmesinde iki entegre navigasyon ünitesi (INU) bulunur.",
+    "title_tr": "İki entegre navigasyon"
   },
   {
     "id": "s02",
-    "title": "The INU is a complete self-contained navigation system. It c…",
+    "title": "INU complete self-contained",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The INU is a complete self-contained navigation system. It contains the VOR, localizer, glideslope and marker beacon receiver module, the ADF module and a six-channel scanning DME module. Each module has its own independent housing and power supply.",
-    "caption_tr": ""
+    "caption_tr": "INU tam bir bağımsız navigasyon sistemidir. VOR, konumlayıcı, kayma eğimi ve işaretleyici işaret alıcı modülü, ADF modülü ve altı kanallı tarama DME modülünü içerir. Her modülün kendi bağımsız muhafazası ve güç kaynağı vardır.",
+    "title_tr": "INU tam bağımsız"
   },
   {
     "id": "s03",
-    "title": "The NAV receiver module consists of VORLocalizer (LOC) recei…",
+    "title": "NAV receiver module",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The NAV receiver module consists of VORLocalizer (LOC) receiver, glideslope receiver and marker beacon receiver.",
-    "caption_tr": ""
+    "caption_tr": "NAV alıcı modülü, VORLocalizer (LOC) alıcısı, kayma eğimi alıcısı ve işaretleyici işaret alıcısından oluşur.",
+    "title_tr": "NAV alıcı modülü"
   },
   {
     "id": "s04",
-    "title": "The VOR system operates with a frequency range of to MHz. Th…",
+    "title": "VOR system operates",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The VOR system operates with a frequency range of to MHz. The LOC frequency range is to MHz. Both have channel spacing of 50 KHz.",
-    "caption_tr": ""
+    "caption_tr": "VOR sistemi MHz'e kadar frekans aralığında çalışır. LOC frekans aralığı MHz'dir. Her ikisinin de kanal aralığı 50 KHz'dir.",
+    "title_tr": "VOR sistemi çalışıyor"
   },
   {
     "id": "s05",
-    "title": "The VORLOC antennas are mounted on each side of the vertical…",
+    "title": "VORLOC antennas are",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The VORLOC antennas are mounted on each side of the vertical fin. The left antenna is connected to VORLOC receiver 1, and the right antenna to VORLOC receiver 2.",
-    "caption_tr": ""
+    "caption_tr": "VORLOC antenleri dikey kanadın her iki tarafına monte edilmiştir. Sol anten VORLOC alıcısı 1'e, sağ anten ise VORLOC alıcısı 2'ye bağlanır.",
+    "title_tr": "VORLOC antenleri"
   },
   {
     "id": "s06",
-    "title": "The glideslope receiver provides 40-channel glideslope opera…",
+    "title": "glideslope receiver 40-channel",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The glideslope receiver provides 40-channel glideslope operation for convention ILS system. It has frequency range of to MHz with channel spacing of KHz. The glideslope antenna is located inside the radome.",
-    "caption_tr": ""
+    "caption_tr": "Kayma eğimi alıcısı, geleneksel ILS sistemi için 40 kanallı kayma eğimi işlemi sağlar. KHz kanal aralığıyla MHz'e kadar frekans aralığına sahiptir. Süzülme eğimi anteni anten kaportasının içinde bulunur.",
+    "title_tr": "Glideslope alıcısı 40"
   },
   {
     "id": "s07",
-    "title": "Included in the NAV receiver module is a 75 MHz marker beaco…",
+    "title": "Included NAV receiver",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Included in the NAV receiver module is a 75 MHz marker beacon receiver. This conventional marker receiver used in ILS provides for detecting the three tones of the marker beacon.",
-    "caption_tr": ""
+    "caption_tr": "NAV alıcı modülüne 75 MHz'lik bir işaretleyici işaret alıcısı dahildir. ILS'de kullanılan bu geleneksel işaretleyici alıcı, işaretleyici işaret ışığının üç tonunun algılanmasını sağlar.",
+    "title_tr": "NAV alıcısı dahil"
   },
   {
     "id": "s08",
-    "title": "This single-channel fixed-frequency receiver is highly selec…",
+    "title": "This single-channel fixed-frequency",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "This single-channel fixed-frequency receiver is highly selective and will provide marker beacon annunciations on the PFDs and audio. The marker beacon annunciation appears flashing in a white box below ADI and slightly to the right. The marker beacon audio can be heard on the headset and through cockpit speaker by appropriate selection on the audio control panel.",
-    "caption_tr": ""
+    "caption_tr": "Bu tek kanallı sabit frekanslı alıcı son derece seçicidir ve PFD'ler ve ses üzerinde işaretleyici işaret uyarıları sağlayacaktır. İşaretleyici işaret ışığı duyurusu, ADI'nin altında ve hafifçe sağda beyaz bir kutuda yanıp sönerek görünür. İşaretleyici işaret ışığı sesi, ses kontrol panelindeki uygun seçimle kulaklıktan ve kokpit hoparlöründen duyulabilir.",
+    "title_tr": "tek kanallı sabit"
   },
   {
     "id": "s09",
-    "title": "The Nav receiver module frequency is selected on RMU in the …",
+    "title": "Nav receiver module",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The Nav receiver module frequency is selected on RMU in the NAV window. The top frequency is the active frequency and the bottom, the preset frequency.",
-    "caption_tr": ""
+    "caption_tr": "Nav alıcı modülü frekansı, NAV penceresindeki RMU'da seçilir. Üst frekans aktif frekanstır ve alt frekans önceden ayarlanmış frekanstır.",
+    "title_tr": "Nav alıcı modülü"
   },
   {
     "id": "s10",
-    "title": "When a VOR frequency is selected active, the VOR receiver is…",
+    "title": "VOR frequency selected",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "When a VOR frequency is selected active, the VOR receiver is activated to provide navigation data to The crew, however, must select the navigation source on the by depressing the NAV button on the on-side display controller. Touch the NAV button on the display controller.",
-    "caption_tr": ""
+    "caption_tr": "Bir VOR frekansı aktif olarak seçildiğinde VOR alıcısı, navigasyon verilerini sağlamak üzere etkinleştirilir. Bununla birlikte mürettebat, yan ekran denetleyicisindeki NAV düğmesine basarak navigasyon kaynağını seçmelidir. Ekran denetleyicisindeki NAV düğmesine dokunun.",
+    "title_tr": "VOR frekansı seçildi"
   },
   {
     "id": "s11",
-    "title": "Pressing the NAV button select VOR as the navigation source …",
+    "title": "Pressing NAV button",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Pressing the NAV button select VOR as the navigation source as shown. The will provide the crew with lateral guidance into and out of VOR station on a selected radial.",
-    "caption_tr": ""
+    "caption_tr": "NAV düğmesine basıldığında gösterildiği gibi navigasyon kaynağı olarak VOR'u seçin. Mürettebata seçilen bir radyal üzerinde VOR istasyonuna giriş ve çıkışta yanal rehberlik sağlayacaktır.",
+    "title_tr": "NAV düğmesine basmak"
   },
   {
     "id": "s12",
-    "title": "If the PFDs receive navigation data from their respective VO…",
+    "title": "PFDs receive navigation",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "If the PFDs receive navigation data from their respective VOR receivers, the desired course, VOR navigation source, DME distance, course pointer and the deviation indicator are green in colour.",
-    "caption_tr": ""
+    "caption_tr": "PFD'ler ilgili VOR alıcılarından navigasyon verilerini alıyorsa, istenen rota, VOR navigasyon kaynağı, DME mesafesi, rota işaretçisi ve sapma göstergesi yeşil renktedir.",
+    "title_tr": "PFD'ler navigasyonu alır"
   },
   {
     "id": "s13",
-    "title": "If a common VOR receiver is used on both PFDs, the desired c…",
+    "title": "common VOR receiver",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "If a common VOR receiver is used on both PFDs, the desired course, navigation source, DME distance, course pointer and the deviation indicator are amber in colour. This was discussed in the Avionics Part 1, under display controller.",
-    "caption_tr": ""
+    "caption_tr": "Her iki PFD'de ortak bir VOR alıcısı kullanılıyorsa, istenen rota, navigasyon kaynağı, DME mesafesi, rota işaretçisi ve sapma göstergesi kehribar renginde olur. Bu, Aviyonik Bölüm 1'de ekran denetleyicisi altında tartışılmıştır.",
+    "title_tr": "ortak VOR alıcısı"
   },
   {
     "id": "s14",
-    "title": "The bearing selectors, in the NAV position, provide bearing …",
+    "title": "bearing selectors NAV",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The bearing selectors, in the NAV position, provide bearing pointers on the compass. Bearing pointer 1 (in cyan) is from VOR receiver 1 and bearing pointer 2 (in white), VOR receiver 2. Bearing pointer annunciations appear at the left bottom of the The pointers will not appear if the signals are invalid or not received.",
-    "caption_tr": ""
+    "caption_tr": "NAV konumundaki yön seçiciler pusula üzerinde yön işaretçileri sağlar. Yön işaretçisi 1 (mavi renkte) VOR alıcısı 1'den ve yön işaretçisi 2'den (beyaz), VOR alıcısı 2'dendir. Yön işaretçisi bildirimleri ekranın sol alt kısmında görünür. Sinyaller geçersizse veya alınmazsa işaretçiler görünmeyecektir.",
+    "title_tr": "rulman seçiciler NAV"
   },
   {
     "id": "s15",
-    "title": "If the frequency is ILS, the LOC, GS and receivers are tuned…",
+    "title": "frequency ILS LOC",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "If the frequency is ILS, the LOC, GS and receivers are tuned for ILS approach. In this case, the navigation source is ILS. The will provide localizer and glideslope guidance. If the navigation sources are independent, navigation display is green, as is seen above. If the navigation source is common, navigation display is yellow. Click Advance to see the picture.",
-    "caption_tr": ""
+    "caption_tr": "Frekans ILS ise LOC, GS ve alıcılar ILS yaklaşımına göre ayarlanır. Bu durumda navigasyon kaynağı ILS'dir. Yerelleştirici ve kayma eğimi rehberliği sağlayacaktır. Navigasyon kaynakları bağımsız ise navigasyon ekranı yukarıda görüldüğü gibi yeşil renktedir. Navigasyon kaynağı ortaksa navigasyon ekranı sarıdır. Resmi görmek için Gelişmiş'i tıklayın.",
+    "title_tr": "frekans ILS LOC"
   },
   {
     "id": "s16",
-    "title": "The pictures above show red crosses on the if the VOR and IL…",
+    "title": "pictures above show",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The pictures above show red crosses on the if the VOR and ILS signals are invalid.",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki resimlerde VOR ve ILS sinyallerinin geçersiz olması durumunda kırmızı çarpı işaretleri gösterilmektedir.",
+    "title_tr": "yukarıdaki resimler gösteriliyor"
   },
   {
     "id": "s17",
-    "title": "Distance measuring equipment (DME) is a six-channel scanning…",
+    "title": "Distance measuring equipment",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Distance measuring equipment (DME) is a six-channel scanning DME that simultaneously tracks four selected DME channels for distance, groundspeed, and time to station. It also tracks additional two channels for IDENT function. These channels are not used as they are meant for preset VOR channel.",
-    "caption_tr": ""
+    "caption_tr": "Mesafe ölçüm ekipmanı (DME), seçilen dört DME kanalını mesafe, yer hızı ve istasyona kadar geçen süre açısından eşzamanlı olarak izleyen altı kanallı bir tarama DME'sidir. Ayrıca IDENT işlevi için ek iki kanalı da izler. Bu kanallar, önceden ayarlanmış VOR kanalına yönelik oldukları şekilde kullanılmaz.",
+    "title_tr": "Mesafe ölçüm ekipmanları"
   },
   {
     "id": "s18",
-    "title": "Two of the four channels are controlled by the pilot for IDE…",
+    "title": "Two four channels",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Two of the four channels are controlled by the pilot for IDENT, distance, time-to-station, and groundspeed. The other two channels are dedicated to the",
-    "caption_tr": ""
+    "caption_tr": "Dört kanaldan ikisi IDENT, mesafe, istasyona ulaşma süresi ve yer hızı açısından pilot tarafından kontrol edilir. Diğer iki kanal ise",
+    "title_tr": "İki dört kanal"
   },
   {
     "id": "s19",
-    "title": "The antennas are located at the belly of the aircraft. Forwa…",
+    "title": "antennas are located",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "The antennas are located at the belly of the aircraft. Forward antenna is for DME receiver 1 and the aft antenna is for DME receiver 2.",
-    "caption_tr": ""
+    "caption_tr": "Antenler uçağın göbeğinde bulunur. Ön anten DME alıcısı 1 içindir ve arka anten DME alıcısı 2 içindir.",
+    "title_tr": "antenler bulunur"
   },
   {
     "id": "s20",
-    "title": "The DME station used in civilian aviation is normally co-loc…",
+    "title": "DME station civilian",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "The DME station used in civilian aviation is normally co-located with VORLOCIILS facility. Selecting a VORLOCIILS frequency will automatically tune the DME receiver. The DME has a range capability",
-    "caption_tr": ""
+    "caption_tr": "Sivil havacılıkta kullanılan DME istasyonu normalde VORLOCIILS tesisiyle aynı konumdadır. Bir VORLOCIILS frekansının seçilmesi DME alıcısını otomatik olarak ayarlayacaktır. DME'nin menzil kapasitesi vardır",
+    "title_tr": "DME istasyonu sivil"
   },
   {
     "id": "s21",
-    "title": "The DME distance readout is indicated on the below the navig…",
+    "title": "DME distance readout",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The DME distance readout is indicated on the below the navigation source annunciation. It has the same colour as the navigation source.",
-    "caption_tr": ""
+    "caption_tr": "DME mesafe okuması navigasyon kaynağı bildiriminin altında gösterilir. Navigasyon kaynağıyla aynı renge sahiptir.",
+    "title_tr": "DME mesafe okuması"
   },
   {
     "id": "s22",
-    "title": "The DME system on this aircraft has a DME hold function. Thi…",
+    "title": "DME system this",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The DME system on this aircraft has a DME hold function. This function allows VOR and DME frequencies to be selected separately into their respective receivers. When the DME hold is activated, the DME distance readout on the is followed by an amber H. This indicates to the crew that the distance readout on the may not be referenced to the VOR station that the crew is tracking.",
-    "caption_tr": ""
+    "caption_tr": "Bu uçaktaki DME sisteminin bir DME tutma işlevi vardır. Bu işlev, VOR ve DME frekanslarının ilgili alıcılara ayrı ayrı seçilmesine olanak tanır. DME tutma etkinleştirildiğinde, üzerindeki DME mesafe okumasının ardından sarı renkli bir H gelir. Bu, mürettebata, üzerindeki mesafe okumasının mürettebatın takip ettiği VOR istasyonuna referans verilmeyebileceğini belirtir.",
+    "title_tr": "DME sistemi bu"
   },
   {
     "id": "s23",
-    "title": "In the above example, the VOR receiver is tuned to VOR, but …",
+    "title": "above example VOR",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "In the above example, the VOR receiver is tuned to VOR, but the DME distance on the is from VOR.",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki örnekte, VOR alıcısı VOR'a ayarlanmıştır ancak üzerindeki DME mesafesi VOR'dandır.",
+    "title_tr": "yukarıdaki örnek VOR"
   },
   {
     "id": "s24",
-    "title": "It is recommended that operating in DME hold during VOR capt…",
+    "title": "It recommended that",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "It is recommended that operating in DME hold during VOR capture and tracking operation should be avoided. When in DME hold, the flight director computer cannot use DME distance for lateral gain programming.",
-    "caption_tr": ""
+    "caption_tr": "VOR yakalama ve izleme işlemi sırasında DME tutma konumunda çalışmaktan kaçınılması önerilir. DME beklemedeyken uçuş yöneticisi bilgisayarı, yan kazanç programlaması için DME mesafesini kullanamaz.",
+    "title_tr": "Bunu tavsiye etti"
   },
   {
     "id": "s25",
-    "title": "The DME system is equipped with facility to receive distance…",
+    "title": "DME system facility",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "The DME system is equipped with facility to receive distance from TACAN. These are old DME station transmitting only distance information to the aircraft. The frequencies are in channels, e.g. channel as shown in the RMU. The distance readout is on the An amber H is also shown after the distance.",
-    "caption_tr": ""
+    "caption_tr": "DME sistemi TACAN'dan mesafe alma olanağıyla donatılmıştır. Bunlar uçağa yalnızca mesafe bilgisini ileten eski DME istasyonudur. Frekanslar kanallardadır, ör. RMU'da gösterildiği gibi kanal. Mesafe okuması, mesafenin ardından sarı renkli bir H ile gösterilir.",
+    "title_tr": "DME sistemi tesisi"
   },
   {
     "id": "s26",
-    "title": "An invalid DME signal is indicated by amber dashed line as s…",
+    "title": "invalid DME signal",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "An invalid DME signal is indicated by amber dashed line as shown.",
-    "caption_tr": ""
+    "caption_tr": "Geçersiz bir DME sinyali gösterildiği gibi sarı kesikli çizgiyle gösterilir.",
+    "title_tr": "geçersiz DME sinyali"
   },
   {
     "id": "s27",
-    "title": "The integrated navigation unit consists of an ADF receiver m…",
+    "title": "integrated navigation unit",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "The integrated navigation unit consists of an ADF receiver module. The system provides crew with continuous relative bearing readout to low-frequency homing stations, radio beacon, and broadcast stations.",
-    "caption_tr": ""
+    "caption_tr": "Entegre navigasyon ünitesi bir ADF alıcı modülünden oluşur. Sistem, mürettebata düşük frekanslı hedef belirleme istasyonlarına, radyo işaretlerine ve yayın istasyonlarına sürekli göreceli yön okuması sağlar.",
+    "title_tr": "entegre navigasyon ünitesi"
   },
   {
     "id": "s28",
-    "title": "The ADF antenna is installed on top of the aircraft. It rece…",
+    "title": "ADF antenna top",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The ADF antenna is installed on top of the aircraft. It receives signals in the frequency range of KHz to KHz and provides the signals to the module. The receiver processes the signals into audio and bearing",
-    "caption_tr": ""
+    "caption_tr": "ADF anteni uçağın üstüne kuruludur. KHz ila KHz frekans aralığındaki sinyalleri alır ve modüle sinyalleri sağlar. Alıcı, sinyalleri ses ve yön olarak işler",
+    "title_tr": "ADF anteni üst"
   },
   {
     "id": "s29",
-    "title": "The ADF has four modes of operation: In the ANT mode, ADF re…",
+    "title": "ANT mode ADF",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "The ADF has four modes of operation: In the ANT mode, ADF receives only audio signal; it does not compute bearing. In ADF mode, ADF receives signal and computes relative bearing to station. In BFO, ADF adds a beat frequency oscillation for reception of carrier wave signals. In VOICE mode, ADF opens the IF bandwidth for better aural reception. This mode is not used for navigation.",
-    "caption_tr": ""
+    "caption_tr": "ADF'nin dört çalışma modu vardır: ANT modunda, ADF yalnızca ses sinyalini alır; rulmanı hesaplamaz. ADF modunda, ADF sinyali alır ve istasyona göre göreceli yönü hesaplar. BFO'da ADF, taşıyıcı dalga sinyallerinin alınması için bir vuruş frekansı salınımı ekler. SES modunda ADF, daha iyi işitsel alım için IF bant genişliğini açar. Bu mod navigasyon için kullanılmaz.",
+    "title_tr": "ANT modu ADF"
   },
   {
     "id": "s30",
-    "title": "Selecting the left knob to ADF position causes bearing point…",
+    "title": "left knob ADF",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "Selecting the left knob to ADF position causes bearing pointer 1 (in cyan) to appear on the compass; and selecting right knob to ADF causes bearing pointer 2 (in white) to be displayed also. Bearing pointer 1 is from ADF receiver 1 and bearing 2, from ADF receiver 2.",
-    "caption_tr": ""
+    "caption_tr": "Sol düğmenin ADF konumuna seçilmesi pusula üzerinde yön işaretçisi 1'in (mavi renkte) görünmesine neden olur; ve ADF'ye doğru sağ düğmenin seçilmesi yön işaretçisi 2'nin (beyaz) da görüntülenmesine neden olur. Yön işaretçisi 1, ADF alıcısı 1'den ve yön işaretçisi 2, ADF alıcısı 2'dendir.",
+    "title_tr": "sol düğme ADF"
   },
   {
     "id": "s31",
-    "title": "Selection of bearing pointers is accompanied by the appropri…",
+    "title": "Selection bearing pointers",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "Selection of bearing pointers is accompanied by the appropriate annunciations displayed below the If the signals received are invalid, the pointers will disappear from the compass. Watch.",
-    "caption_tr": ""
+    "caption_tr": "Yön işaretçilerinin seçimine, simgesinin altında görüntülenen uygun bildirimler eşlik eder. Alınan sinyaller geçersizse, işaretçiler pusuladan kaybolacaktır. Kol saati.",
+    "title_tr": "Seçim yönü işaretçileri"
   },
   {
     "id": "s32",
-    "title": "This will be discussed in RMU operation.",
+    "title": "This will discussed",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "This will be discussed in RMU operation.",
-    "caption_tr": ""
+    "caption_tr": "Bu, RMU operasyonunda tartışılacaktır.",
+    "title_tr": "Bu tartışılacak"
   }
 ]

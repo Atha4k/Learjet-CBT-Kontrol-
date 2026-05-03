@@ -1,34 +1,38 @@
 [
   {
     "id": "s01",
-    "title": "To power down the system, touch the ONOFF-DIM key.",
+    "title": "power down system",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "To power down the system, touch the ONOFF-DIM key.",
-    "caption_tr": ""
+    "caption_tr": "Sistemi kapatmak için ONOFF-DIM tuşuna dokunun.",
+    "title_tr": "güç kapatma sistemi"
   },
   {
     "id": "s02",
-    "title": "The dimming control window will be displayed. Touch the OFF",
+    "title": "dimming control window",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The dimming control window will be displayed. Touch the OFF",
-    "caption_tr": ""
+    "caption_tr": "Karartma kontrol penceresi görüntülenecektir. KAPALI'ya dokunun",
+    "title_tr": "karartma kontrol penceresi"
   },
   {
     "id": "s03",
-    "title": "The system will now shut down when you touch the CONFIRM OFF",
+    "title": "system will shut",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The system will now shut down when you touch the CONFIRM OFF",
-    "caption_tr": ""
+    "caption_tr": "ONAYLA KAPAT tuşuna dokunduğunuzda sistem artık kapanacaktır.",
+    "title_tr": "sistem kapanacak"
   },
   {
     "id": "s04",
-    "title": "The system is now turned off.",
+    "title": "system turned off",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The system is now turned off.",
-    "caption_tr": ""
+    "caption_tr": "Sistem artık kapalıdır.",
+    "title_tr": "sistem kapatıldı"
   }
 ]

@@ -1,106 +1,119 @@
 [
   {
     "id": "s01",
-    "title": "The Learjet 45 pressurization system maintains a cabin altit…",
+    "title": "Learjet 45 pressurization",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Learjet 45 pressurization system maintains a cabin altitude much lower than actual airplane altitude. This is accomplished by controlling the outflow of air that has been provided to the cockpit and cabin through the pneumatic, air-conditioning and ventilation distribution systems.",
-    "caption_tr": ""
+    "caption_tr": "Learjet 45 basınçlandırma sistemi, kabin yüksekliğini gerçek uçak yüksekliğinden çok daha düşük tutar. Bu, kokpite ve kabine sağlanan havanın çıkışının pnömatik, iklimlendirme ve havalandırma dağıtım sistemleri aracılığıyla kontrol edilmesiyle gerçekleştirilir.",
+    "title_tr": "Learjet 45 basınçlandırma"
   },
   {
     "id": "s02",
-    "title": "Only the cockpit and the passenger cabin sections are pressu…",
+    "title": "cockpit passenger cabin",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Only the cockpit and the passenger cabin sections are pressurized. The forward pressure bulkhead separates the cockpit from the nose avionics bay. The aft pressure bulkhead separates the passenger cabin from the fuselage fuel tank.",
-    "caption_tr": ""
+    "caption_tr": "Sadece kokpit ve yolcu kabini bölümleri basınçlıdır. İleri basınç bölmesi, kokpiti burun aviyonik bölmesinden ayırır. Arka basınç bölmesi, yolcu kabinini gövde yakıt deposundan ayırır.",
+    "title_tr": "kokpit yolcu kabini"
   },
   {
     "id": "s03",
-    "title": "OutFlow Valves The 2 outflow valves, Primary (PRI) and Secon…",
+    "title": "OutFlow Valves 2",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "OutFlow Valves The 2 outflow valves, Primary (PRI) and Secondary (SEC) are located on the forward pressure bulkhead. They are controlled by the Cabin Pressurization Controller or to modulate the outflow of air from the pressurized fuselage.",
-    "caption_tr": ""
+    "caption_tr": "Çıkış Valfleri 2 çıkış valfi, Birincil (PRI) ve İkincil (SEC), ileri basınç bölmesinde bulunur. Kabin Basınçlandırma Kontrol Cihazı tarafından kontrol edilirler veya basınçlı gövdeden hava çıkışını modüle ederler.",
+    "title_tr": "Çıkış Valfleri 2"
   },
   {
     "id": "s04",
-    "title": "They are spring-loaded closed and their control chambers are…",
+    "title": "They are spring-loaded",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "They are spring-loaded closed and their control chambers are inter-connected such that they operate in tandem. An electro-pneumatic torque motor controls the operating pressure. Ambient pressure, cabin pressure, spring pressure and vacuum (negative pressure) are all factors affecting the position of the outflow valve.",
-    "caption_tr": ""
+    "caption_tr": "Yaylı kapalı olup, kontrol odaları birbiri ile bağlantılı olup tandemde çalışacak şekildedirler. Elektro-pnömatik bir tork motoru çalışma basıncını kontrol eder. Ortam basıncı, kabin basıncı, yay basıncı ve vakum (negatif basınç), çıkış valfinin konumunu etkileyen faktörlerdir.",
+    "title_tr": "Onlar yay yüklü"
   },
   {
     "id": "s05",
-    "title": "Cabin-to-atmospheric differential pressure (Delta P) relief …",
+    "title": "Cabin-to-atmospheric differential pressure",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Cabin-to-atmospheric differential pressure (Delta P) relief valves are located on each outflow valve to limit cabin pressure if a system malfunction causes over-pressurization. The Delta P limiters operate pneumatically and are independent of all other operating modes.",
-    "caption_tr": ""
+    "caption_tr": "Sistem arızasının aşırı basınca neden olması durumunda kabin basıncını sınırlamak için her çıkış valfinde kabin-atmosfer diferansiyel basıncı (Delta P) tahliye valfleri bulunur. Delta P sınırlayıcılar pnömatik olarak çalışır ve diğer tüm çalışma modlarından bağımsızdır.",
+    "title_tr": "Kabinden atmosfere fark"
   },
   {
     "id": "s06",
-    "title": "The outflow valves will open when the differential pressure …",
+    "title": "outflow valves will",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The outflow valves will open when the differential pressure (Delta P) reaches psid at nominal airflows. If one of the Delta P limiter fails, the remaining Delta P limiter will limit differential pressure to slightly higher than psid.",
-    "caption_tr": ""
+    "caption_tr": "Nominal hava akışlarında diferansiyel basınç (Delta P) psid'e ulaştığında çıkış valfleri açılacaktır. Delta P sınırlayıcılardan biri arızalanırsa, geri kalan Delta P sınırlayıcı diferansiyel basıncı psid'den biraz daha yükseğe sınırlayacaktır.",
+    "title_tr": "çıkış vanaları"
   },
   {
     "id": "s07",
-    "title": "Each outflow valve has a cabin altitude limiter. If the cabi…",
+    "title": "outflow valve has",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Each outflow valve has a cabin altitude limiter. If the cabin altitude climbs and reaches feet for whatever reason, the altitude limiters will pneumatically close the outflow valves in an attempt to keep the cabin altitude from climbing any higher.",
-    "caption_tr": ""
+    "caption_tr": "Her çıkış valfinin bir kabin yükseklik sınırlayıcısı vardır. Kabin irtifası herhangi bir nedenle yükselir ve 1 feet'e ulaşırsa, irtifa sınırlayıcılar kabin irtifasının daha fazla yükselmesini önlemek amacıyla çıkış valflerini pnömatik olarak kapatacaktır.",
+    "title_tr": "çıkış valfi vardır"
   },
   {
     "id": "s08",
-    "title": "Negative Pressure Relief The outflow valves are designed to …",
+    "title": "Negative Pressure Relief",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Negative Pressure Relief The outflow valves are designed to keep pressure in the cabin. But if the outside atmospheric pressure is greater than the inside cabin pressure by psid (negative pressure), both the outflow valves will open.",
-    "caption_tr": ""
+    "caption_tr": "Negatif Basınç Tahliyesi Çıkış valfleri basıncı kabinde tutacak şekilde tasarlanmıştır. Ancak dış atmosfer basıncı kabin içi basıncından psid (negatif basınç) kadar yüksekse her iki çıkış valfi de açılacaktır.",
+    "title_tr": "Negatif Basınç Tahliyesi"
   },
   {
     "id": "s09",
-    "title": "Cabin Pressure Controller System The cabin pressure controll…",
+    "title": "Cabin Pressure Controller",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Cabin Pressure Controller System The cabin pressure controller or is located in front of the co-pilot. itis a dual channel controller and regulates the pressurization system. The pressurization circuit breakers are found under the Environmental group.",
-    "caption_tr": ""
+    "caption_tr": "Kabin Basınç Kontrol Sistemi Kabin basınç kontrol cihazı veya yardımcı pilotun önünde bulunur. çift ​​kanallı bir kontrol cihazıdır ve basınçlandırma sistemini düzenler. Basınçlandırma devre kesicileri Çevre grubu altında bulunur.",
+    "title_tr": "Kabin Basınç Kontrol"
   },
   {
     "id": "s10",
-    "title": "The left or primary channel controls the PRI outflow valve o…",
+    "title": "left primary channel",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The left or primary channel controls the PRI outflow valve only. It is powered by the Left Main Bus via the PRI PRESS circuit breaker. The right or secondary channel controls the SEC outflow valve only. It is powered by the Emergency Battery Bus via the SEC PRESS circuit breaker.",
-    "caption_tr": ""
+    "caption_tr": "Sol veya birincil kanal yalnızca PRI çıkış valfini kontrol eder. PRI PRESS devre kesici aracılığıyla Sol Ana Veri Yolundan güç alır. Sağ veya ikincil kanal yalnızca SEC çıkış valfini kontrol eder. SEC PRESS devre kesici aracılığıyla Acil Durum Akü Veriyolundan güç alır.",
+    "title_tr": "sol birincil kanal"
   },
   {
     "id": "s11",
-    "title": "The primary or left channel normally provides the pressuriza…",
+    "title": "primary left channel",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The primary or left channel normally provides the pressurization control functions, but either channel can provide all automatic or manual pressurization control functions with a power failure to the other channel. The inter-connecting line enables both outflow valves to operate with either channel in control.",
-    "caption_tr": ""
+    "caption_tr": "Birincil veya sol kanal normalde basınçlandırma kontrol fonksiyonlarını sağlar, ancak her iki kanal da diğer kanala elektrik kesintisi olduğunda tüm otomatik veya manuel basınçlandırma kontrol fonksiyonlarını sağlayabilir. Ara bağlantı hattı, her iki çıkış valfinin her iki kanal da kontrol altındayken çalışmasını sağlar.",
+    "title_tr": "birincil sol kanal"
   },
   {
     "id": "s12",
-    "title": "The switches and indications associated with pressurization …",
+    "title": "switches indications associated",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The switches and indications associated with pressurization are as shown within the 2 yellow boxes. These are the ALT selector, MAN PRESS switch and MANUAL rate selector, EMER PRESS switch, EMER DEPRESS switch and the displays for CAB RATE, DELTAP and CABALT.",
-    "caption_tr": ""
+    "caption_tr": "Basınçlandırmayla ilgili anahtarlar ve göstergeler 2 sarı kutunun içinde gösterilmiştir. Bunlar ALT seçici, MAN PRESS düğmesi ve MANUAL hız seçici, EMER PRESS düğmesi, EMER DEPRESS düğmesi ve CAB RATE, DELTAP ve CABALT göstergeleridir.",
+    "title_tr": "ilgili göstergeleri değiştirir"
   },
   {
     "id": "s13",
-    "title": "There are 3 modes of pressurization, namely - the automatic …",
+    "title": "There are 3",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
-    "caption_en": "There are 3 modes of pressurization, namely - the automatic mode,",
-    "caption_tr": ""
+    "caption_en": "There are 3 modes of pressurization, namely - the automatic mode, -Manual mode, -Emergency mode.",
+    "caption_tr": "3 basınçlandırma modu vardır, yani - otomatik mod, -Manuel mod, -Acil durum modu.",
+    "title_tr": "3 tane var"
   }
 ]

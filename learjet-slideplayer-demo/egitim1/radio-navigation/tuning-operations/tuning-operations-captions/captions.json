@@ -1,522 +1,587 @@
 [
   {
     "id": "s01",
-    "title": "Each RMU has a primary and secondary power sources. The RMU …",
+    "title": "RMU has primary",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Each RMU has a primary and secondary power sources. The RMU 1 primary power source is the Left Essential bus and secondary power is Emergency Battery bus. The RMU 2 primary power source is Right Main Avionics bus; the secondary power is Right Essential bus.",
-    "caption_tr": ""
+    "caption_tr": "Her RMU'nun birincil ve ikincil güç kaynakları vardır. RMU 1 birincil güç kaynağı Sol Temel veriyoludur ve ikincil güç Acil Durum Batarya veriyoludur. RMU 2'nin birincil güç kaynağı Sağ Ana Aviyonik veriyoludur; ikincil güç Right Essential veriyoludur.",
+    "title_tr": "RMU'nun birincil"
   },
   {
     "id": "s02",
-    "title": "If the primary power source is not available, the RMU will a…",
+    "title": "primary power source",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "If the primary power source is not available, the RMU will automatically switch to the secondary power source.",
-    "caption_tr": ""
+    "caption_tr": "Birincil güç kaynağı mevcut değilse RMU otomatik olarak ikincil güç kaynağına geçecektir.",
+    "title_tr": "birincil güç kaynağı"
   },
   {
     "id": "s03",
-    "title": "The radio system has an extensive built-in-test. A test is i…",
+    "title": "radio system has",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The radio system has an extensive built-in-test. A test is initiated when power is turned on. This is known as power-on self-test, or POST, in short. If errors are detected during POST, results will be displayed on a Test Results window. The display will not proceed further unless the function key is pressed to continue.",
-    "caption_tr": ""
+    "caption_tr": "Radyo sistemi kapsamlı bir yerleşik teste sahiptir. Güç açıldığında bir test başlatılır. Bu, açılışta kendi kendini sınama veya kısaca POST olarak bilinir. POST sırasında hatalar tespit edilirse sonuçlar Test Sonuçları penceresinde görüntülenecektir. Devam etmek için fonksiyon tuşuna basılmadığı sürece ekran daha fazla ilerlemeyecektir.",
+    "title_tr": "radyo sistemi var"
   },
   {
     "id": "s04",
-    "title": "If no errors are detected, the RMU will display the radio tu…",
+    "title": "no errors are",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "If no errors are detected, the RMU will display the radio tuning page as shown.",
-    "caption_tr": ""
+    "caption_tr": "Hiçbir hata algılanmazsa RMU, radyo ayarlama sayfasını gösterildiği gibi görüntüleyecektir.",
+    "title_tr": "hiçbir hata yok"
   },
   {
     "id": "s05",
-    "title": "If an error message is listed, the pilot should note the mod…",
+    "title": "error message listed",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "If an error message is listed, the pilot should note the module associated with the error message and verify acceptable operation of that module by performing a pilot-activated self-test or PAST. In the picture above, a COM 1 RADIO\" message is displayed on the System Test Results page. The crew may perform a PAST to confirm the serviceability of COM 1 radio.",
-    "caption_tr": ""
+    "caption_tr": "Bir hata mesajı listeleniyorsa pilot, hata mesajıyla ilişkili modülü not etmeli ve pilot tarafından etkinleştirilen bir kendi kendine test veya PAST gerçekleştirerek bu modülün kabul edilebilir şekilde çalıştığını doğrulamalıdır. Yukarıdaki resimde, Sistem Test Sonuçları sayfasında bir COM 1 RADYO\" mesajı gösterilmektedir. Mürettebat, COM 1 telsizinin kullanılabilirliğini doğrulamak için bir PAST işlemi gerçekleştirebilir.",
+    "title_tr": "hata mesajı listelendi"
   },
   {
     "id": "s06",
-    "title": "To perform a PAST on COM 1: - Position the cursor in the COM…",
+    "title": "- Position cursor",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "To perform a PAST on COM 1: - Position the cursor in the COM window. Verify that AUX ON is not annunciated on top. - Push and hold the button. The word TEST will appear in the COM window.",
-    "caption_tr": ""
+    "caption_tr": "COM 1'de PAST gerçekleştirmek için: - İmleci COM penceresine konumlandırın. AUX ON'un üstte bildirilmediğini doğrulayın. - Düğmeye basın ve basılı tutun. COM penceresinde TEST kelimesi görünecektir.",
+    "title_tr": "- İmleci konumlandır"
   },
   {
     "id": "s07",
-    "title": "Continue holding the button. The words COM TEST will be disp…",
+    "title": "Continue holding button",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Continue holding the button. The words COM TEST will be displayed, indicating that the COM is performing a self-test.",
-    "caption_tr": ""
+    "caption_tr": "Düğmeyi basılı tutmaya devam edin. COM'un kendi kendini test ettiğini belirten COM TEST sözcükleri görüntülenecektir.",
+    "title_tr": "Düğmeyi basılı tutmaya"
   },
   {
     "id": "s08",
-    "title": "Continue holding the button. Upon completion of the self-tes…",
+    "title": "Continue holding button",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Continue holding the button. Upon completion of the self-test, the words COM PASS in green will appear in the COM window if no error is detected.",
-    "caption_tr": ""
+    "caption_tr": "Düğmeyi basılı tutmaya devam edin. Kendi kendine testin tamamlanmasının ardından, herhangi bir hata algılanmazsa COM penceresinde yeşil renkli COM PASS yazısı görünecektir.",
+    "title_tr": "Düğmeyi basılı tutmaya"
   },
   {
     "id": "s09",
-    "title": "If error is detected, then COM ERR in red will appear. The e…",
+    "title": "error detected COM",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "If error is detected, then COM ERR in red will appear. The errors identified by PAST indicate one or more internal parameters were found to be outside the test limits but may not necessarily indicate non-operation of the function. Pilot should verify operation of the function.",
-    "caption_tr": ""
+    "caption_tr": "Hata tespit edilirse kırmızı renkte COM ERR görünecektir. PAST tarafından tanımlanan hatalar, bir veya daha fazla dahili parametrenin test limitlerinin dışında bulunduğunu gösterir ancak işlevin çalışmadığını göstermeyebilir. Pilot fonksiyonun çalışmasını doğrulamalıdır.",
+    "title_tr": "hata algılandı COM"
   },
   {
     "id": "s10",
-    "title": "The Com frequency select is in the upper left corner of the …",
+    "title": "Com frequency select",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The Com frequency select is in the upper left corner of the radio tuning page. The COM window has two lines, displaying COM frequency. The top line is the active frequency, while the line below is the preset frequency.",
-    "caption_tr": ""
+    "caption_tr": "Com frekansı seçimi radyo ayarlama sayfasının sol üst köşesindedir. COM penceresinde COM frekansını gösteren iki satır bulunur. Üstteki çizgi aktif frekanstır, alttaki çizgi ise önceden ayarlanmış frekanstır.",
+    "title_tr": "İletişim frekansı seçimi"
   },
   {
     "id": "s11",
-    "title": "Upon pressing the line select key adjacent to the preset fre…",
+    "title": "Upon pressing line",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Upon pressing the line select key adjacent to the preset frequency, a yellow cursor will move to enclose that frequency. This step is not always necessary since the cursor is normally parked over the COM preset frequency.",
-    "caption_tr": ""
+    "caption_tr": "Önceden ayarlanmış frekansın yanındaki hat seçme tuşuna basıldığında, sarı imleç o frekansı kapsayacak şekilde hareket edecektir. İmleç normal olarak COM ön ayarlı frekansının üzerine park edildiğinden bu adım her zaman gerekli değildir.",
+    "title_tr": "Çizgiye basıldığında"
   },
   {
     "id": "s12",
-    "title": "When the cursor is overlaying the preset frequency, the freq…",
+    "title": "cursor overlaying preset",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "When the cursor is overlaying the preset frequency, the frequency can be changed by adjusting the tuning knobs. Touch the tuning knob to simulate changing",
-    "caption_tr": ""
+    "caption_tr": "İmleç önceden ayarlanmış frekansın üzerine geldiğinde, ayar düğmeleri ayarlanarak frekans değiştirilebilir. Değişimi simüle etmek için ayar düğmesine dokunun",
+    "title_tr": "imleç kaplama ön"
   },
   {
     "id": "s13",
-    "title": "Pushing the transfer key flip flop the preset to active and …",
+    "title": "Pushing transfer key",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Pushing the transfer key flip flop the preset to active and the active frequency now occupies the preset frequency.",
-    "caption_tr": ""
+    "caption_tr": "Transfer tuşuna basıldığında ön ayar etkin konuma getirilir ve aktif frekans artık ön ayarlı frekansı işgal eder.",
+    "title_tr": "Aktarım anahtarına basılıyor"
   },
   {
     "id": "s14",
-    "title": "Below the preset frequency is the word TEMP in green followe…",
+    "title": "Below preset frequency",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Below the preset frequency is the word TEMP in green followed by a number. In the above graphic, TEMP-3 is displayed in the COM window. If the store (STO) button is pushed, TEMP-3 will change to MEMORY-3 and the preset frequency will be stored in COM memory and in position number 3 of the 12 memories. Touch STO button to store",
-    "caption_tr": ""
+    "caption_tr": "Ön ayarlı frekansın altında yeşil renkte TEMP kelimesi ve ardından bir sayı bulunur. Yukarıdaki grafikte COM penceresinde TEMP-3 gösterilmektedir. Kaydetme (STO) butonuna basıldığında TEMP-3, MEMORY-3 olarak değişecek ve önceden ayarlanan frekans, COM hafızasında ve 12 hafızanın 3 numaralı pozisyonunda saklanacaktır. Depolamak için STO düğmesine dokunun",
+    "title_tr": "Önceden ayarlanmış frekans"
   },
   {
     "id": "s15",
-    "title": "With the cursor still on the preset, pressing line select ke…",
+    "title": "cursor still preset",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "With the cursor still on the preset, pressing line select key against the cursor changes TEMP to MEMORY and the cursor encloses the MEMORY nomenclature.",
-    "caption_tr": ""
+    "caption_tr": "İmleç hala ön ayarın üzerindeyken, imlecin karşısında satır seçme tuşuna basıldığında TEMP, MEMORY olarak değişir ve imleç, MEMORY terminolojisini içine alır.",
+    "title_tr": "imleç h l"
   },
   {
     "id": "s16",
-    "title": "The MEMORY function is now electronically linked to the tuni…",
+    "title": "MEMORY function electronically",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The MEMORY function is now electronically linked to the tuning knob. Turning the knob scrolls through all the 12 stored frequencies in the memory. For each appearance of the MEMORY and position number, the corresponding stored frequency is called up and displayed on the preset frequency line. Watch. Preset frequencies can also be viewed by selecting COM MEMORY on RMU PGE MENU. This was discussed earlier.",
-    "caption_tr": ""
+    "caption_tr": "MEMORY fonksiyonu artık elektronik olarak ayar düğmesine bağlıdır. Düğmeyi çevirmek, hafızadaki kayıtlı 12 frekansın tümünü kaydırır. BELLEK ve konum numarasının her görünümünde, karşılık gelen kayıtlı frekans çağrılır ve önceden ayarlanmış frekans satırında görüntülenir. Kol saati. Önceden ayarlanmış frekanslar RMU PGE MENÜSÜ'nde COM MEMORY seçilerek de görüntülenebilir. Bu daha önce tartışılmıştı.",
+    "title_tr": "BELLEK işlevi elektronik"
   },
   {
     "id": "s17",
-    "title": "When the desired frequency is displayed, pressing the transf…",
+    "title": "desired frequency pressing",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "When the desired frequency is displayed, pressing the transfer key will swap the active with preset frequency. When the swap has taken place, MEMORY changes back to TEMP again.",
-    "caption_tr": ""
+    "caption_tr": "İstenilen frekans görüntülendiğinde transfer tuşuna basıldığında aktif frekans önceden ayarlanmış frekansla değiştirilecektir. Değiştirme işlemi gerçekleştiğinde MEMORY tekrar TEMP olarak değişir.",
+    "title_tr": "İstenilen frekansa basma"
   },
   {
     "id": "s18",
-    "title": "Another function available on the COM window is direct tunin…",
+    "title": "Another function available",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Another function available on the COM window is direct tuning. By pressing the line select key next to the preset frequency and holding it depressed for approximately two seconds, the preset frequency will disappear, and the yellow cursor box will now enclose the active frequency. With the cursor on the active frequency, it can be changed by the tuning knob.",
-    "caption_tr": ""
+    "caption_tr": "COM penceresinde bulunan diğer bir işlev doğrudan ayarlamadır. Ön ayarlı frekansın yanındaki hat seçme tuşuna basıldığında ve yaklaşık iki saniye basılı tutulduğunda, ön ayarlı frekans kaybolacak ve sarı imleç kutusu artık aktif frekansı içine alacaktır. İmleç aktif frekans üzerindeyken ayar düğmesiyle değiştirilebilir.",
+    "title_tr": "Başka işlev mevcut"
   },
   {
     "id": "s19",
-    "title": "Normal display is restored if line select key next to COM pr…",
+    "title": "Normal restored line",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Normal display is restored if line select key next to COM preset frequency is depressed for about 2 seconds.",
-    "caption_tr": ""
+    "caption_tr": "COM ön ayar frekansının yanındaki hat seçme tuşuna yaklaşık 2 saniye süreyle basılırsa normal görüntüye geri dönülür.",
+    "title_tr": "Normal restore edilmiş"
   },
   {
     "id": "s20",
-    "title": "An amber TX will appear at the top of the COM window when th…",
+    "title": "amber TX will",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "An amber TX will appear at the top of the COM window when the associated radio is transmitting. Its purpose is to indicate to the crew that the transmitter is on.",
-    "caption_tr": ""
+    "caption_tr": "İlgili radyo iletim yaparken COM penceresinin üst kısmında sarı renkli bir TX görünecektir. Amacı mürettebata vericinin açık olduğunu belirtmektir.",
+    "title_tr": "amber TX olacak"
   },
   {
     "id": "s21",
-    "title": "When the microphone is stuck for approximately 2 minutes, a …",
+    "title": "microphone stuck approximately",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "When the microphone is stuck for approximately 2 minutes, a beep will sound on the audio and a red MIC message will replace 10 seconds after that, the selected transmitter will automatically turn off, however, the receiving function of the COM is not affected.",
-    "caption_tr": ""
+    "caption_tr": "Mikrofon yaklaşık 2 dakika boyunca takılı kaldığında seste bir bip sesi duyulacak ve bundan 10 saniye sonra yerini kırmızı bir MIC mesajı alacak, seçilen verici otomatik olarak kapanacaktır, ancak COM'un alım işlevi etkilenmez.",
+    "title_tr": "mikrofon yaklaşık sıkışmış"
   },
   {
     "id": "s22",
-    "title": "If the microphone switch releases, the system resets and the…",
+    "title": "microphone switch releases",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "If the microphone switch releases, the system resets and the MIC annunciation disappears. By incorporating this microphone jammed feature in the system, it allows the affected frequency to be used by other aircraft to communicate with the controller.",
-    "caption_tr": ""
+    "caption_tr": "Mikrofon anahtarı serbest bırakılırsa sistem sıfırlanır ve MIC bildirimi kaybolur. Bu mikrofon sıkışması özelliğini sisteme dahil ederek, etkilenen frekansın diğer uçaklar tarafından kullanılmasına ve kontrolör ile iletişim kurmasına olanak sağlar.",
+    "title_tr": "mikrofon anahtarı bültenleri"
   },
   {
     "id": "s23",
-    "title": "Depressing the SQ (squelch) function key at the bottom of th…",
+    "title": "Depressing SQ function",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Depressing the SQ (squelch) function key at the bottom of the RMU causes the COM radio to open its squelch and allows any noise or signal present in the receiver to be heard. When selected, a SQ will appear at the top of the COM window. Pressing the button a second time closes the squelch and remove the annunciation.",
-    "caption_tr": ""
+    "caption_tr": "RMU'nun altındaki SQ (susturma) fonksiyon tuşuna basılması, COM radyonun susturucusunu açmasına neden olur ve alıcıda mevcut olan herhangi bir gürültü veya sinyalin duyulmasına olanak tanır. Seçildiğinde COM penceresinin üst kısmında bir SQ görünecektir. Düğmeye ikinci kez basıldığında susturucu kapatılır ve duyuru kaldırılır.",
+    "title_tr": "SQ işlevine basılması"
   },
   {
     "id": "s24",
-    "title": "A green narrow-band or wide-band annunciation will appear at…",
+    "title": "green narrow-band wide-band",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "A green narrow-band or wide-band annunciation will appear at the top of the COM window to indicate narrow bandwidth or wide bandwidth is selected.",
-    "caption_tr": ""
+    "caption_tr": "Dar bant genişliğinin veya geniş bant genişliğinin seçildiğini belirtmek için COM penceresinin üst kısmında yeşil bir dar bant veya geniş bant bildirimi görünecektir.",
+    "title_tr": "yeşil dar bant"
   },
   {
     "id": "s25",
-    "title": "Pressing the top right transfer key on the COM memory page w…",
+    "title": "Pressing top right",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Pressing the top right transfer key on the COM memory page will toggle the receiver bandwidth from narrow to wide in the COM window and COM memory page. The power-up setting will be the same as what was selected at power-down.",
-    "caption_tr": ""
+    "caption_tr": "COM hafıza sayfasında sağ üstteki transfer tuşuna basmak, COM penceresinde ve COM hafıza sayfasında alıcı bant genişliğini dardan genişe değiştirecektir. Güç açma ayarı, kapatma sırasında seçilenle aynı olacaktır.",
+    "title_tr": "Sağ üste basıyorum"
   },
   {
     "id": "s26",
-    "title": "The narrow bandwidth is normally selected to communicate wit…",
+    "title": "narrow bandwidth normally",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "The narrow bandwidth is normally selected to communicate with current generation ground stations that have very tight frequency tolerance. In some areas of the world that utilize older ground equipment, wideband operation is required to properly receive ground transmission.",
-    "caption_tr": ""
+    "caption_tr": "Dar bant genişliği normalde çok sıkı frekans toleransına sahip mevcut nesil yer istasyonlarıyla iletişim kurmak için seçilir. Dünyanın eski yer ekipmanı kullanan bazı bölgelerinde, yer iletimini düzgün bir şekilde alabilmek için geniş bant çalışması gerekir.",
+    "title_tr": "normalde dar bant"
   },
   {
     "id": "s27",
-    "title": "The NB or WB will be replaced with AUX ON when the (clearanc…",
+    "title": "NB WB will",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "The NB or WB will be replaced with AUX ON when the (clearance delivery head) is selected to the EMER mode. This was described in Clearance Delivery Head topic.",
-    "caption_tr": ""
+    "caption_tr": "(Boşluk dağıtım başlığı) EMER moduna seçildiğinde NB veya WB, AUX ON ile değiştirilecektir. Bu, Gümrükleme Teslimat Başlığı başlığında açıklanmıştır.",
+    "title_tr": "NB WB"
   },
   {
     "id": "s28",
-    "title": "The organization of the NAV window which is at the top right…",
+    "title": "organization NAV window",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The organization of the NAV window which is at the top right corner of the RMU is identical to the COM window in that the top frequency is active and the bottom frequency is preset. The preset frequency will also have an annunciation indicating whether it is a MEMORY or a TEMPorary frequency.",
-    "caption_tr": ""
+    "caption_tr": "RMU'nun sağ üst köşesinde bulunan NAV penceresinin organizasyonu, üst frekansın aktif olması ve alt frekansın önceden ayarlanması açısından COM penceresiyle aynıdır. Önceden ayarlanmış frekansın aynı zamanda BELLEK mi yoksa GEÇİCİ frekans mı olduğunu belirten bir bildirimi olacaktır.",
+    "title_tr": "kuruluş NAV penceresi"
   },
   {
     "id": "s29",
-    "title": "Frequency selection, memory function and direct tuning opera…",
+    "title": "Frequency selection memory",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "Frequency selection, memory function and direct tuning operate in the same manner as described under COM Operation.",
-    "caption_tr": ""
+    "caption_tr": "Frekans seçimi, hafıza fonksiyonu ve doğrudan ayarlama, COM İşlemi altında açıklananla aynı şekilde çalışır.",
+    "title_tr": "Frekans seçim hafızası"
   },
   {
     "id": "s30",
-    "title": "The NAV window has an added function called DME split tuning…",
+    "title": "NAV window has",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "The NAV window has an added function called DME split tuning mode. Its operation is similar to the function called DME hold.",
-    "caption_tr": ""
+    "caption_tr": "NAV penceresi, DME bölünmüş ayar modu adı verilen ek bir işleve sahiptir. Çalışması DME tutma adı verilen fonksiyona benzer.",
+    "title_tr": "NAV penceresi var"
   },
   {
     "id": "s31",
-    "title": "Normally, the DME frequency is automatically tuned along wit…",
+    "title": "Normally DME frequency",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "Normally, the DME frequency is automatically tuned along with the NAV frequency it is associated with. However, depressing the DME function key at the bottom of the RMU allows the DME frequency to be tuned independently of the NAV frequency. In splitting the NAV and DME frequencies, it is not necessary to bring the cursor into the NAV window. Touch the DME button on the RMU.",
-    "caption_tr": ""
+    "caption_tr": "Normalde DME frekansı, ilişkili olduğu NAV frekansıyla birlikte otomatik olarak ayarlanır. Ancak RMU'nun altındaki DME fonksiyon tuşuna basılması, DME frekansının NAV frekansından bağımsız olarak ayarlanmasına olanak tanır. NAV ve DME frekanslarını ayırırken imleci NAV penceresine getirmenize gerek yoktur. RMU'daki DME düğmesine dokunun.",
+    "title_tr": "Normalde DME frekansı"
   },
   {
     "id": "s32",
-    "title": "Depressing the DME key the first time causes the NAV window …",
+    "title": "Depressing DME key",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "Depressing the DME key the first time causes the NAV window to split into two sections; the top section contains the active VORIILS and preset frequencies, and the lower section, now labeled DME, contains the DME active frequency in format.",
-    "caption_tr": ""
+    "caption_tr": "DME tuşuna ilk kez basılması NAV penceresinin iki bölüme ayrılmasına neden olur; üst kısım aktif VORIILS'i ve önceden ayarlanmış frekansları içerir ve artık DME olarak etiketlenen alt kısım, format olarak DME aktif frekansını içerir.",
+    "title_tr": "DME tuşuna basılması"
   },
   {
     "id": "s33",
-    "title": "In this condition, the DME may be tuned directly by simply p…",
+    "title": "this condition DME",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "In this condition, the DME may be tuned directly by simply pressing the line select key to place the cursor box around the DME frequency and re-tuning using the tuning knobs. This will change only the DME frequency. The frequency selected will tune only the DME module.",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda, DME, imleç kutusunu DME frekansı etrafına yerleştirmek için hat seçme tuşuna basılarak ve ayarlama düğmeleri kullanılarak yeniden ayarlanarak doğrudan ayarlanabilir. Bu yalnızca DME frekansını değiştirecektir. Seçilen frekans yalnızca DME modülünü ayarlayacaktır.",
+    "title_tr": "bu durum DME"
   },
   {
     "id": "s34",
-    "title": "The VORJILS frequency may be selected separately by pressing…",
+    "title": "VORJILS frequency may",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "The VORJILS frequency may be selected separately by pressing the top right button to bring the cursor onto the preset frequency. Next, turning the tuning knob changes the preset frequency. Pushing the top right button again flip-flop the active and the preset frequencies. The frequency selected will separately tune the Nav Receiver.",
-    "caption_tr": ""
+    "caption_tr": "VORJILS frekansı, imleci önceden ayarlanmış frekansa getirmek için sağ üst düğmeye basılarak ayrı ayrı seçilebilir. Daha sonra ayar düğmesinin çevrilmesi önceden ayarlanmış frekansı değiştirir. Sağ üst düğmeye tekrar basıldığında aktif ve önceden ayarlanmış frekanslar arasında geçiş yapılır. Seçilen frekans Nav Alıcısını ayrı ayrı ayarlayacaktır.",
+    "title_tr": "VORJILS frekansı"
   },
   {
     "id": "s35",
-    "title": "During the time that the VOR and DME frequency are split, th…",
+    "title": "time that VOR",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "During the time that the VOR and DME frequency are split, the DME digital station identifier will appear following the DME nomenclature on the top edge of the DME frequency. Both the VORILS and DME audio ident can be received on the Audio Control Panel (ACP).",
-    "caption_tr": ""
+    "caption_tr": "VOR ve DME frekansının bölündüğü süre boyunca, DME dijital istasyon tanımlayıcısı, DME frekansının üst kenarında DME terminolojisini takip ederek görünecektir. Hem VORILS hem de DME ses kimliği Ses Kontrol Panelinden (ACP) alınabilir.",
+    "title_tr": "VOR'un zamanı"
   },
   {
     "id": "s36",
-    "title": "An amber H appears on the RMU to indicate that the distance …",
+    "title": "amber H RMU",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "An amber H appears on the RMU to indicate that the distance display is not paired with the VORIILS navigation data. At the same time, on the display, amber H is seen after the DME distance.",
-    "caption_tr": ""
+    "caption_tr": "Mesafe ekranının VORIILS navigasyon verileriyle eşleştirilmediğini belirtmek için RMU üzerinde sarı renkli bir H belirir. Aynı zamanda ekranda DME mesafesinden sonra sarı renkli H görülüyor.",
+    "title_tr": "sarı H RMU"
   },
   {
     "id": "s37",
-    "title": "Depressing the DME key a second time will cause the DME wind…",
+    "title": "Depressing DME key",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "Depressing the DME key a second time will cause the DME window to change from a frequency presentation to a TACAN channel presentation with W, X, Y and Z channelization nomenclature. This mode of operation allows access by the DME to all TACAN channel in all W, X, Y and Z operating modes.",
-    "caption_tr": ""
+    "caption_tr": "DME tuşuna ikinci kez basılması, DME penceresinin frekans sunumundan W, X, Y ve Z kanalizasyon terminolojisi ile TACAN kanal sunumuna değişmesine neden olacaktır. Bu çalışma modu, DME'nin tüm W, X, Y ve Z çalışma modlarındaki tüm TACAN kanalına erişimine izin verir.",
+    "title_tr": "DME tuşuna basılması"
   },
   {
     "id": "s38",
-    "title": "Pressing the DME key a third time will cause the NAV window …",
+    "title": "Pressing DME key",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "Pressing the DME key a third time will cause the NAV window to resume its normal mode with active and preset frequencies displayed. It will also cause the DME to return to its previous condition of channeling with the selected NAV mode.",
-    "caption_tr": ""
+    "caption_tr": "DME tuşuna üçüncü kez basılması, NAV penceresinin aktif ve önceden ayarlanmış frekanslar görüntülenerek normal moduna dönmesine neden olacaktır. Ayrıca DME'nin seçilen NAV moduyla önceki kanallık durumuna dönmesine de neden olacaktır.",
+    "title_tr": "DME tuşuna basmak"
   },
   {
     "id": "s39",
-    "title": "ADF operation is the same as COM and NAV tuning in that depr…",
+    "title": "ADF same COM",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "ADF operation is the same as COM and NAV tuning in that depressing the line select select key beside the ADF frequency will place the cursor over the frequency to be changed.",
-    "caption_tr": ""
+    "caption_tr": "ADF işlemi COM ve NAV ayarlama ile aynıdır; ADF frekansının yanındaki hat seçme tuşuna basıldığında imleç değiştirilecek frekansın üzerine yerleştirilecektir.",
+    "title_tr": "ADF aynı COM"
   },
   {
     "id": "s40",
-    "title": "Rotating the small tuning knob slowly will advance the frequ…",
+    "title": "Rotating small tuning",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "Rotating the small tuning knob slowly will advance the frequency in kHz steps. This change will increase to 10 kHz steps when the large knob is used. The rate at which the frequency changes is dependent upon and proportional to the speed at which the knobs, small or large are rotated. Touch the tuning knob to change frequency",
-    "caption_tr": ""
+    "caption_tr": "Küçük ayar düğmesinin yavaşça döndürülmesi frekansı kHz adımlarla ilerletecektir. Büyük düğme kullanıldığında bu değişiklik 10 kHz'lik adımlara çıkacaktır. Frekans değişme hızı, küçük veya büyük düğmelerin döndürülme hızına bağlı ve orantılıdır. Frekansı değiştirmek için ayar düğmesine dokunun",
+    "title_tr": "Dönen küçük ayar"
   },
   {
     "id": "s41",
-    "title": "The RMU has the capacity to store one ADF frequency in the m…",
+    "title": "RMU has capacity",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "The RMU has the capacity to store one ADF frequency in the memory. This is accomplished by selecting the desired frequency, then depressing the STO function key at the bottom of RMU.",
-    "caption_tr": ""
+    "caption_tr": "RMU, bir ADF frekansını hafızada saklama kapasitesine sahiptir. Bu, istenen frekansın seçilmesi ve ardından RMU'nun altındaki STO işlev tuşuna basılmasıyla gerçekleştirilir.",
+    "title_tr": "RMU'nun kapasitesi var"
   },
   {
     "id": "s42",
-    "title": "To retrieve this stored frequency from memory, the frequency…",
+    "title": "retrieve this stored",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "To retrieve this stored frequency from memory, the frequency line select key must be depressed for 2 to 3 seconds. Watch.",
-    "caption_tr": ""
+    "caption_tr": "Saklanan bu frekansı hafızadan çağırmak için frekans hattı seçme tuşuna 2-3 saniye basılmalıdır. Kol saati.",
+    "title_tr": "saklanan şeyi al"
   },
   {
     "id": "s43",
-    "title": "Repetitively depressing the line select key adjacent to the …",
+    "title": "Repetitively depressing line",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "Repetitively depressing the line select key adjacent to the ADF mode annunciation will step through the available ADF modes of operation.",
-    "caption_tr": ""
+    "caption_tr": "ADF modu bildiriminin yanındaki hat seçme tuşuna art arda basılması, mevcut ADF çalışma modları arasında geçiş yapılmasını sağlayacaktır.",
+    "title_tr": "Tekrar tekrar moral"
   },
   {
     "id": "s44",
-    "title": "Changing of ADF modes can also be accomplished by placing th…",
+    "title": "Changing ADF modes",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "Changing of ADF modes can also be accomplished by placing the cursor over the mode annunciation, and using the tuning knobs to step up or down through the available modes.",
-    "caption_tr": ""
+    "caption_tr": "ADF modlarının değiştirilmesi, imleci mod bildiriminin üzerine getirerek ve mevcut modlar arasında yukarı veya aşağı ilerlemek için ayar düğmelerini kullanarak da gerçekleştirilebilir.",
+    "title_tr": "ADF modlarını değiştirme"
   },
   {
     "id": "s45",
-    "title": "Transponder operation is similar to COMNAV operation in that…",
+    "title": "Transponder similar COMNAV",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "Transponder operation is similar to COMNAV operation in that depressing a line select button beside the function desired will move the cursor to that location. Touch the highlighted line select key.",
-    "caption_tr": ""
+    "caption_tr": "Transponder işlemi COMNAV işlemine benzer, çünkü istenen işlevin yanındaki hat seçme düğmesine basıldığında imleç o konuma hareket ettirilir. Vurgulanan satır seçme tuşuna dokunun.",
+    "title_tr": "COMNAV'a benzer transponder"
   },
   {
     "id": "s46",
-    "title": "Either transponder 1 or 2 can be selected for used and contr…",
+    "title": "Either transponder 1",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "Either transponder 1 or 2 can be selected for used and controlled by either RMU. A number 1 or 2 will appear in front of the transponder mode in the ATC window on both RMUs indicating which transponder has been selected.",
-    "caption_tr": ""
+    "caption_tr": "Transponder 1 veya 2, RMU tarafından kullanılmak ve kontrol edilmek üzere seçilebilir. Her iki RMU'da ATC penceresinde transponder modunun önünde hangi transponderin seçildiğini belirten 1 veya 2 rakamı görünecektir.",
+    "title_tr": "Transponder 1"
   },
   {
     "id": "s47",
-    "title": "Because of the interlock feature which allows one transponde…",
+    "title": "Because interlock feature",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "Because of the interlock feature which allows one transponder to operate at a time, both RMUs will display the same information. Therefore, if a code or mode is changed on one RMU, the other RMU will track the change. To illustrate which RMU initiated the change, the mirrored change will be displayed in yellow. Watch changing of code on RMU 1.",
-    "caption_tr": ""
+    "caption_tr": "Aynı anda bir transponderin çalışmasına izin veren kilitleme özelliği nedeniyle, her iki RMU da aynı bilgiyi gösterecektir. Bu nedenle, bir RMU'da bir kod veya mod değiştirilirse diğer RMU bu değişikliği izleyecektir. Değişikliği hangi RMU'nun başlattığını göstermek için yansıtılan değişiklik sarı renkte görüntülenecektir. RMU 1'deki kod değişimini izleyin.",
+    "title_tr": "Çünkü kilitleme özelliği"
   },
   {
     "id": "s48",
-    "title": "Transponder 1 or 2 selection is by depressing the 12 button …",
+    "title": "Transponder 1 2",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "Transponder 1 or 2 selection is by depressing the 12 button on either RMU with cursor anywhere within the ATC window, and the transponder is in an operating mode i.e. not in standby mode. Touch the 12 function key to change transponder to number 2 set.",
-    "caption_tr": ""
+    "caption_tr": "Transponder 1 veya 2 seçimi, ATC penceresinin herhangi bir yerinde imleçle RMU'nun üzerindeki 12 düğmesine basılarak yapılır ve transponder bir çalışma modundadır, yani bekleme modunda değildir. Transponderi 2 numaralı sete değiştirmek için 12 fonksiyon tuşuna dokunun.",
+    "title_tr": "Aktarıcı 1 2"
   },
   {
     "id": "s49",
-    "title": "The initial mode of the transponder is STANDBY. In the STAND…",
+    "title": "initial mode transponder",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "The initial mode of the transponder is STANDBY. In the STANDBY state, the transponder is not replying. The available modes are ATC ON and ATC ALT. 1 or 2 precedes the mode to indicate which transponder set is in use.",
-    "caption_tr": ""
+    "caption_tr": "Transponderin başlangıç ​​modu STANDBY'dir. BEKLEME durumunda transponder yanıt vermiyor. Mevcut modlar ATC ON ve ATC ALT'tır. Hangi transponder setinin kullanımda olduğunu belirtmek için modun önünde 1 veya 2 bulunur.",
+    "title_tr": "başlangıç ​​modu aktarıcısı"
   },
   {
     "id": "s50",
-    "title": "The transponder is switched from STANDBY to an operating mod…",
+    "title": "transponder switched STANDBY",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
     "caption_en": "The transponder is switched from STANDBY to an operating mode by depressing the line select key adjacent to the mode line. Once the cursor has been selected, the mode line select key acts as a toggle to switch the transponder between the STANDBY mode and the active. The active mode and transponder set that appear depend on what were last used. Watch.",
-    "caption_tr": ""
+    "caption_tr": "Mod satırının yanındaki hat seçme tuşuna basılarak transponder BEKLEME modundan çalışma moduna geçirilir. İmleç seçildikten sonra mod satırı seçme tuşu, aktarıcıyı BEKLEME modu ile aktif mod arasında değiştirmek için bir geçiş görevi görür. Görünen aktif mod ve transponder seti, en son kullanılana bağlıdır. Kol saati.",
+    "title_tr": "transponder BEKLEME moduna"
   },
   {
     "id": "s51",
-    "title": "Once the transponder is switched from STANDBY to an active m…",
+    "title": "Once transponder switched",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
     "caption_en": "Once the transponder is switched from STANDBY to an active mode, which in this case is ALT ON mode, the mode is changed by using the tuning knobs with the cursor still on the operating mode field. Touch the tuning knobs to simulate changing of mode. The tuning knobs have no effect if the transponder is in STANDBY mode.",
-    "caption_tr": ""
+    "caption_tr": "Transponder STANDBY modundan aktif moda, bu durumda ALT ON moduna geçtiğinde, mod, imleç hala çalışma modu alanı üzerindeyken ayar düğmeleri kullanılarak değiştirilir. Mod değişimini simüle etmek için ayar düğmelerine dokunun. Transponder BEKLEME modundaysa ayar düğmelerinin hiçbir etkisi yoktur.",
+    "title_tr": "Transponder değiştirildiğinde"
   },
   {
     "id": "s52",
-    "title": "When the altitude reporting mode is selected, the altitude b…",
+    "title": "altitude reporting mode",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
     "caption_en": "When the altitude reporting mode is selected, the altitude being reported to the interrogating radar station is displayed on the ATCITCAS page, which is accessed through the PAGE MENU. On the display shown (left picture), the second line from the bottom indicates transponder number 1 is active and is reporting an altitude of ft. from ADC 1 or 2.",
-    "caption_tr": ""
+    "caption_tr": "İrtifa raporlama modu seçildiğinde, sorgulayan radar istasyonuna rapor edilen irtifa, SAYFA MENÜSÜ aracılığıyla erişilen ATCITCAS sayfasında görüntülenir. Gösterilen ekranda (soldaki resim), alttan ikinci satır, 1 numaralı transponderin aktif olduğunu ve ADC 1 veya 2'den ft. yüksekliği bildirdiğini gösterir.",
+    "title_tr": "rakım raporlama modu"
   },
   {
     "id": "s53",
-    "title": "To change the transponder code, first highlight the code wit…",
+    "title": "change transponder code",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
     "caption_en": "To change the transponder code, first highlight the code with the cursor. Then, using the large outer knob, adjust the left two digits; use the smaller inner knob to change the two right digit. Unlike the transponder mode which requires transponder to be on, the code can be changed at anytime.",
-    "caption_tr": ""
+    "caption_tr": "Aktarıcı kodunu değiştirmek için önce kodu imleçle vurgulayın. Daha sonra, büyük dış düğmeyi kullanarak soldaki iki rakamı ayarlayın; sağdaki iki rakamı değiştirmek için daha küçük olan iç düğmeyi kullanın. Transponderin açık olmasını gerektiren transponder modunun aksine, kod herhangi bir zamanda değiştirilebilir.",
+    "title_tr": "aktarıcı kodunu değiştir"
   },
   {
     "id": "s54",
-    "title": "The selected code may be stored into memory by depressing th…",
+    "title": "selected code may",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
     "caption_en": "The selected code may be stored into memory by depressing the STO button while the cursor is on the transponder code.",
-    "caption_tr": ""
+    "caption_tr": "Seçilen kod, imleç transponder kodunun üzerindeyken STO düğmesine basılarak hafızaya kaydedilebilir.",
+    "title_tr": "seçilen kod olabilir"
   },
   {
     "id": "s55",
-    "title": "To retrieve the code from memory, depress and hold the code …",
+    "title": "retrieve code memory",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
     "caption_en": "To retrieve the code from memory, depress and hold the code line select key for 2 to 3 seconds.",
-    "caption_tr": ""
+    "caption_tr": "Kodu hafızadan almak için kod satırı seçme tuşunu 2 ila 3 saniye basılı tutun.",
+    "title_tr": "kod belleğini al"
   },
   {
     "id": "s56",
-    "title": "Depressing the ID button of the RMU (1 or 2) will initiate a…",
+    "title": "Depressing ID button",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
     "caption_en": "Depressing the ID button of the RMU (1 or 2) will initiate an approximate 18 second IDENT mode on the transponder. This action will also illuminate an ID annunciation along the top edge of the transponder window. IDENT can also be activated by depressing a button on the front of the inboard handle of either control yoke.",
-    "caption_tr": ""
+    "caption_tr": "RMU'nun ID düğmesine (1 veya 2) basıldığında transponderde yaklaşık 18 saniyelik IDENT modu başlatılacaktır. Bu eylem aynı zamanda aktarıcı penceresinin üst kenarı boyunca bir kimlik bildirimini de aydınlatacaktır. IDENT ayrıca her iki kontrol çatalının iç kolunun ön tarafındaki bir düğmeye basılarak da etkinleştirilebilir.",
+    "title_tr": "Kimlik düğmesine basmak"
   },
   {
     "id": "s57",
-    "title": "Normally, RMUs are used to tune their respective integrated …",
+    "title": "Normally RMUs are",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
     "caption_en": "Normally, RMUs are used to tune their respective integrated navigation units INU and integrated communications units (ICU).",
-    "caption_tr": ""
+    "caption_tr": "Normalde, RMU'lar ilgili entegre navigasyon üniteleri INU'yu ve entegre iletişim ünitelerini (ICU) ayarlamak için kullanılır.",
+    "title_tr": "Normalde RMU'lar"
   },
   {
     "id": "s58",
-    "title": "It can also be used to cross-tune the opposite Integrated Na…",
+    "title": "It can also",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
     "caption_en": "It can also be used to cross-tune the opposite Integrated Navigation Unit and Integrated Communications Unit if the opposite RMU is unserviceable. This is known as cross-side operation.",
-    "caption_tr": ""
+    "caption_tr": "Karşı RMU'nun hizmet dışı olması durumunda, karşıdaki Entegre Navigasyon Birimi ve Entegre İletişim Biriminin çapraz ayarını yapmak için de kullanılabilir. Bu, çapraz taraf işlemi olarak bilinir.",
+    "title_tr": "Ayrıca"
   },
   {
     "id": "s59",
-    "title": "To perform cross-side operation, assuming RMU 1 is used to c…",
+    "title": "perform cross-side assuming",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
     "caption_en": "To perform cross-side operation, assuming RMU 1 is used to cross-tune Integrated Navigation Unit 2 and Integrated Communications Unit 2, first, ensure the cursor on RMU 1 is in any window except the ATC window. Second, push the 12 button.",
-    "caption_tr": ""
+    "caption_tr": "Çapraz işlem gerçekleştirmek için, RMU 1'in Entegre Navigasyon Ünitesi 2 ve Entegre İletişim Ünitesi 2'yi çapraz ayarlamak için kullanıldığını varsayarak, öncelikle RMU 1 üzerindeki imlecin ATC penceresi dışında herhangi bir pencerede olduğundan emin olun. İkinci olarak 12 butonuna basın.",
+    "title_tr": "çapraz tarafı varsayarak"
   },
   {
     "id": "s60",
-    "title": "When the 12 function key is depressed, RMU 1 will display th…",
+    "title": "12 function key",
     "imgSrc": "slides/s60.png",
     "audioSrc": "audio/s60.mp3",
     "caption_en": "When the 12 function key is depressed, RMU 1 will display the same information as RMU 2. However, the colour of the legends at the top of each window changes to magenta to make it more apparent to the operator that cross-side is selected. Changing any frequency on RMU 1 will affect the opposite radios.",
-    "caption_tr": ""
+    "caption_tr": "12 fonksiyon tuşuna basıldığında, RMU 1, RMU 2 ile aynı bilgiyi gösterecektir. Bununla birlikte, her pencerenin üst kısmındaki açıklamaların rengi, çapraz tarafın seçildiğini operatöre daha iyi göstermek için macentaya dönüşür. RMU 1'deki herhangi bir frekansın değiştirilmesi karşıt telsizleri etkileyecektir.",
+    "title_tr": "12 fonksiyon tuşu"
   },
   {
     "id": "s61",
-    "title": "The digit displaying frequency for COM, NAV, ADF and ATC cod…",
+    "title": "digit displaying frequency",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
     "caption_en": "The digit displaying frequency for COM, NAV, ADF and ATC code are white when they been selected by the on-side RMU. The ATC mode is green when it is also changed by the same RMU.",
-    "caption_tr": ""
+    "caption_tr": "COM, NAV, ADF ve ATC kodu için frekansı gösteren rakam, yan taraftaki RMU tarafından seçildiğinde beyazdır. ATC modu aynı RMU tarafından da değiştirildiğinde yeşil renktedir.",
+    "title_tr": "rakam gösteren frekans"
   },
   {
     "id": "s62",
-    "title": "They are yellow when they are remotely tuned by the 1) oppos…",
+    "title": "They are yellow",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
     "caption_en": "They are yellow when they are remotely tuned by the 1) opposite RMU",
-    "caption_tr": ""
+    "caption_tr": "1) Zıt RMU tarafından uzaktan ayarlandığında sarı renktedirler.",
+    "title_tr": "Onlar sarı"
   },
   {
     "id": "s63",
-    "title": "They are yellow when they are remotely tuned by the 1) oppos…",
+    "title": "They are yellow",
     "imgSrc": "slides/s63.png",
     "audioSrc": "audio/s63.mp3",
     "caption_en": "They are yellow when they are remotely tuned by the 1) opposite RMU",
-    "caption_tr": ""
+    "caption_tr": "1) Zıt RMU tarafından uzaktan ayarlandığında sarı renktedirler.",
+    "title_tr": "Onlar sarı"
   },
   {
     "id": "s64",
-    "title": "They are yellow when they are remotely tuned by the 1) oppos…",
+    "title": "They are yellow",
     "imgSrc": "slides/s64.png",
     "audioSrc": "audio/s64.mp3",
     "caption_en": "They are yellow when they are remotely tuned by the 1) opposite RMU 2) or 3) In this case, only communication and navigation frequencies are affected on RMU 1.",
-    "caption_tr": ""
+    "caption_tr": "1) karşıt RMU 2) veya 3) tarafından uzaktan ayarlandıklarında sarı renktedirler. Bu durumda, RMU 1'de yalnızca iletişim ve navigasyon frekansları etkilenir.",
+    "title_tr": "Onlar sarı"
   },
   {
     "id": "s65",
-    "title": "The ATC mode is green when the change is performed on that R…",
+    "title": "ATC mode green",
     "imgSrc": "slides/s65.png",
     "audioSrc": "audio/s65.mp3",
     "caption_en": "The ATC mode is green when the change is performed on that RMU. The opposite RMU tracking the change will display the mode in yellow. For example, if the transponder mode is changed to \"1 ATC ALT\" on RMU 1, the mode will be green on RMU 1, but yellow on RMU 2. Watch.",
-    "caption_tr": ""
+    "caption_tr": "İlgili RMU'da değişiklik yapıldığında ATC modu yeşildir. Değişikliği izleyen karşı RMU, modu sarı renkte gösterecektir. Örneğin, eğer transponder modu RMU 1'de \"1 ATC ALT\" olarak değiştirilirse, mod RMU 1'de yeşil, RMU 2'de ise sarı olacaktır. İzle.",
+    "title_tr": "ATC modu yeşil"
   }
 ]

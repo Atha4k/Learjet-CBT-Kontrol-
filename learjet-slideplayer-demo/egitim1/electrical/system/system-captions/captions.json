@@ -1,8 +1,8 @@
 [
   {
     "id": "s01",
-    "title": "Hot Buses Powered by Batteries",
-    "title_tr": "Bataryalar Tarafından Beslenen Hot Buslar",
+    "title": "Hot Buses",
+    "title_tr": "Hot Buslar",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "With no external power source present, electrical power is always available to a group of hot buses from the batteries, regardless of whether the batteries are selected ON or OFF.",
@@ -10,7 +10,7 @@
   },
   {
     "id": "s02",
-    "title": "Types of Hot Buses",
+    "title": "Types Hot Buses",
     "title_tr": "Hot Bus Türleri",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
@@ -19,8 +19,8 @@
   },
   {
     "id": "s03",
-    "title": "Emergency Battery Hot Buses",
-    "title_tr": "Acil Durum Batarya Hot Busları",
+    "title": "Emergency Battery Hot",
+    "title_tr": "Batarya Hot Busları",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The left and right emergency battery hot buses also receive backup power from the emergency battery. These buses supply power to engine fire extinguishers and firewall shut-off valves.",
@@ -28,8 +28,8 @@
   },
   {
     "id": "s04",
-    "title": "Hot Bus Power Source Change",
-    "title_tr": "Hot Bus Güç Kaynağının Değişmesi",
+    "title": "Hot Bus Power",
+    "title_tr": "Güç Kaynağı Değişmesi",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Once an external power source such as the GPU is established, the hot buses are powered by that available source instead of the batteries.",
@@ -55,8 +55,8 @@
   },
   {
     "id": "s07",
-    "title": "Emergency Battery Bus Operation",
-    "title_tr": "Acil Durum Batarya Bus Çalışması",
+    "title": "Emergency Battery Bus",
+    "title_tr": "Batarya Bus Çalışması",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The emergency battery bus is normally connected to the right generator bus. It connects to the emergency battery during engine start or when batteries are the only power source available.",
@@ -73,8 +73,8 @@
   },
   {
     "id": "s09",
-    "title": "Bus-Tie Operation with Single Power Source",
-    "title_tr": "Tek Güç Kaynağında Bus-Tie Çalışması",
+    "title": "Bus-Tie Operation Single",
+    "title_tr": "Kaynağında Bus-Tie Çalışması",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "When a single power source powers the aircraft, the bus-tie closes to supply both generator buses. Bus-tie cannot be opened when GPU is used.",
@@ -109,8 +109,8 @@
   },
   {
     "id": "s13",
-    "title": "Electrical Protection During Engine Start",
-    "title_tr": "Motor Çalıştırma Sırasında Elektriksel Koruma",
+    "title": "Electrical Protection Engine",
+    "title_tr": "Motor Elektriksel Koruma",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "To prevent voltage spiking caused by the right engine starter drawing large amounts of current from the GPU, the following changes occur to the electrical circuit prior to starter engagement. 1) If the AV MSTR S/ls are selected ON, the main avionics contactors will open to depower the main avionics buses. 2) Lisolation contactors close, and L and R essential contactors open. The result is that the emergency battery provides power to essential and essential avionics buses through the emergency battery bus.",
@@ -164,7 +164,7 @@
   {
     "id": "s19",
     "title": "Battery Backup Operation",
-    "title_tr": "Batarya Yedek Güç Çalışması",
+    "title_tr": "Yedek Güç Çalışması",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "If generators cannot be recovered, the batteries supply power for approximately one hour provided electrical loads are reduced.",

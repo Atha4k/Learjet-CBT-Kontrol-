@@ -10,8 +10,8 @@
   },
   {
     "id": "s02",
-    "title": "Cockpit Lighting Control Panels",
-    "title_tr": "Kokpit Aydınlatma Kontrol Panelleri",
+    "title": "Cockpit Lighting Control",
+    "title_tr": "Kokpit Aydınlatma Kontrol",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The main controls of cockpit lighting are located on the extreme left and right sides of the lower instrument panel.",
@@ -28,8 +28,8 @@
   },
   {
     "id": "s04",
-    "title": "Overhead Light Intensity Control",
-    "title_tr": "Tavan Lambası Parlaklık Kontrolü",
+    "title": "Overhead Light Intensity",
+    "title_tr": "Tavan Lambası Parlaklık",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Turning the control knob from the OFF position turns the light on. Rotating the knob clockwise increases the light intensity.",
@@ -37,8 +37,8 @@
   },
   {
     "id": "s05",
-    "title": "Cockpit Light Switch on Entryway Panel",
-    "title_tr": "Giriş Panelindeki Kokpit Işık Anahtarı",
+    "title": "Cockpit Light Switch",
+    "title_tr": "Giriş Panelindeki Kokpit",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The pilot overhead light can also be activated using the COCKPIT light switch located on the Main Entryway Control Panel.",
@@ -46,8 +46,8 @@
   },
   {
     "id": "s06",
-    "title": "Entryway-Controlled Overhead Light Operation",
-    "title_tr": "Giriş Panelinden Tavan Lambası Çalışması",
+    "title": "Entryway-Controlled Overhead Light",
+    "title_tr": "Giriş Panelinden Tavan",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "For the overhead light to operate using the COCKPIT switch on the Entryway Control Panel, two conditions must be met: the entry door must be unlatched and the pilot’s OVERHEAD knob must be in the OFF position. In this case, power is supplied from the right hot bus.",
@@ -55,8 +55,8 @@
   },
   {
     "id": "s07",
-    "title": "Overhead Light Status Indication",
-    "title_tr": "Tavan Lambası Durum Göstergesi",
+    "title": "Overhead Light Status",
+    "title_tr": "Tavan Lambası Durum",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "When the cockpit overhead light is illuminated, a green LED indicator lights up on the Entryway Control Panel.",
@@ -83,7 +83,7 @@
   {
     "id": "s10",
     "title": "Pedestal Lighting Control",
-    "title_tr": "Orta Konsol Aydınlatma Kontrolü",
+    "title_tr": "Orta Konsol Aydınlatma",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The PEDESTAL control knob, located on the co-pilot’s light control panel, controls the lighting of the center pedestal. It receives power from the right main bus.",
@@ -91,8 +91,8 @@
   },
   {
     "id": "s11",
-    "title": "Circuit Breaker Panel Lighting",
-    "title_tr": "Devre Kesici Paneli Aydınlatması",
+    "title": "Circuit Breaker Panel",
+    "title_tr": "Devre Kesici Paneli",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The CB PANEL knobs control the lighting intensity of the respective circuit breaker panels. The pilot’s circuit breaker panel is powered by the left main bus, while the co-pilot’s panel is powered by the right main bus.",
@@ -145,7 +145,7 @@
   },
   {
     "id": "s17",
-    "title": "Exceptions to Power Supply",
+    "title": "Exceptions Power",
     "title_tr": "Güç Beslemesindeki İstisnalar",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",

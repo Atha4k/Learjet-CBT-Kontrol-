@@ -1,26 +1,29 @@
 [
   {
     "id": "s01",
-    "title": "The APU bleed air system is available when the APU is runnin…",
+    "title": "APU bleed air",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The APU bleed air system is available when the APU is running above 95 rpm. The APU BLEED switch controls the APU bleed valve operation. Selecting the APU BLEED switch on, opens the APU bleed valve and its ON light illuminates. The APU bleed air now flows into the pneumatic manifold.",
-    "caption_tr": ""
+    "caption_tr": "APU hava boşaltma sistemi, APU 95 rpm'nin üzerinde çalıştığında kullanılabilir. APU BLEED anahtarı APU boşaltma valfinin çalışmasını kontrol eder. APU BLEED anahtarı açık seçildiğinde APU boşaltma valfi açılır ve ON ışığı yanar. APU boşaltma havası artık pnömatik manifolda akıyor.",
+    "title_tr": "APU hava tahliyesi"
   },
   {
     "id": "s02",
-    "title": "If the pack valve is open, the bleed air flows into the envi…",
+    "title": "pack valve open",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "If the pack valve is open, the bleed air flows into the environmental control unit (ECU). Here, the hot air is cooled before itis ducted into the cabin. We will discuss this cooling process in the Air-conditioning lesson.",
-    "caption_tr": ""
+    "caption_tr": "Paket valfi açıksa tahliye havası çevresel kontrol ünitesine (ECU) akar. Burada sıcak hava kabine verilmeden önce soğutulur. Bu soğutma işlemini İklimlendirme dersinde ele alacağız.",
+    "title_tr": "paket vanası açık"
   },
   {
     "id": "s03",
-    "title": "Pushing the APU BLEED switch again closes the APU bleed valv…",
+    "title": "Pushing APU BLEED",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Pushing the APU BLEED switch again closes the APU bleed valve. The ON light on the APU BLEED switch extinguishes and the APU bleed valve closes. The air flow to the ECU is removed. Note that the APU is certified for ground operation only.",
-    "caption_tr": ""
+    "caption_tr": "APU BLEED anahtarına tekrar basıldığında APU boşaltma valfi kapatılır. APU BLEED anahtarındaki AÇIK ışığı söner ve APU boşaltma valfi kapanır. ECU'ya giden hava akışı kaldırılır. APU'nun yalnızca karada kullanım için onaylandığını unutmayın.",
+    "title_tr": "APU BLEED'e basılıyor"
   }
 ]

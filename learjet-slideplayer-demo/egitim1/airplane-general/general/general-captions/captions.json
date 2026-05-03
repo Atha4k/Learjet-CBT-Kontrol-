@@ -1,7 +1,7 @@
 {
   "s01": {
     "title": "Learjet 45 Overview",
-    "title_tr": "Learjet 45 Genel Bakış",
+    "title_tr": "Learjet 45 Genel",
     "en": "The LJ-45 is a low-wing, twin-engine business jet.",
     "tr": "Learjet 45, alçak kanatlı, çift motorlu bir iş jetidir."
   },
@@ -24,8 +24,8 @@
     "tr": "Ön ve arka basınç perdeleri, kokpit ve yolcu bölmelerini içeren basınçlı bölümün sınırlarını oluşturur."
   },
   "s05": {
-    "title": "Fuel Section & MLG Bay",
-    "title_tr": "Yakıt Bölümü ve Ana İniş Takımı Yuvası",
+    "title": "Fuel Section MLG",
+    "title_tr": "Yakıt Bölümü Ana",
     "en": "The fuel section is located behind the rear pressure bulkhead. It consists of a fuselage fuel tank and the main landing gear bay.",
     "tr": "Yakıt bölümü arka basınç perdesinin arkasındadır. Gövde yakıt tankı ve ana iniş takımı yuvasından oluşur."
   },
@@ -48,8 +48,8 @@
     "tr": "Yolcu kabininin sağ arka tarafında acil durumlarda çıkarılabilen bir acil kaçış kapağı bulunur."
   },
   "s09": {
-    "title": "Baggage & Tailcone Access",
-    "title_tr": "Bagaj ve Kuyruk Konisine Erişim",
+    "title": "Baggage Tailcone Access",
+    "title_tr": "Bagaj Kuyruk Konisine",
     "en": "The baggage compartment is accessed through a door on the left side of the tailcone. The tailcone compartment is accessed through a door on the right side. Both compartments are unpressurized.",
     "tr": "Bagaj bölmesine kuyruk konisinin sol tarafındaki kapıdan erişilir. Kuyruk konisi bölmesine sağ taraftaki kapıdan erişilir. Her iki bölüm de basınçlandırılmamıştır."
   },
@@ -60,14 +60,14 @@
     "tr": "İki pilot koltuğu, giriş kapısının önünde bulunur."
   },
   "s11": {
-    "title": "Passenger Seats & Escape Hatch",
-    "title_tr": "Yolcu Koltukları ve Kaçış Kapağı",
+    "title": "Passenger Seats Escape",
+    "title_tr": "Yolcu Koltukları Kaçış",
     "en": "Eight passenger seats are installed for air taxi operations, 1 or 2 stretchs and 4 or 6 passenger seats are installed for air ambulance operations ",
     "tr": "Hava taksi operasyonları için sekiz yolcu koltuğu monte edilmiştir. Hava ambulans operasyonları için ise 1 veya 2 sedye ve 4 veya 6 yolcu koltuğu monte edilmiştir."
   },
   "s12": {
-    "title": "Lavatory & Aft Baggage",
-    "title_tr": "Tuvalet ve Arka Bagaj",
+    "title": "Lavatory Aft Baggage",
+    "title_tr": "Tuvalet Arka Bagaj",
     "en": "Behind the passenger area is a lavatory and an aft baggage compartment, which can be enclosed with sliding doors.",
     "tr": "Yolcu bölümünün arkasında bir tuvalet ve sürgülü kapılarla kapatılabilen bir arka bagaj bölmesi bulunur."
   },
@@ -102,8 +102,8 @@
     "tr": "Başlık hem yükseklik hem de açı olarak elle yeniden konumlandırılarak ayarlanabilir."
   },
   "s18": {
-    "title": "Lumbar Support & Harness Lock",
-    "title_tr": "Bel Desteği ve Emniyet Kemeri Kilidi",
+    "title": "Lumbar Support Harness",
+    "title_tr": "Bel Desteği Emniyet",
     "en": "A wheel on the side of the seat allows lumbar adjustment. A lever on the seat back locks or unlocks the safety harness.",
     "tr": "Koltuk yanındaki teker bel desteğini ayarlar. Sırtlıktaki kol, emniyet kemerini kilitlemek veya açmak için kullanılır."
   },
@@ -144,14 +144,14 @@
     "tr": "Bu görsel, gösterge panelinin düzenini göstermektedir."
   },
   "s25": {
-    "title": "Glare Shield & EFIS Controls",
-    "title_tr": "Güneşlik ve EFIS Kontrolleri",
+    "title": "Glare Shield EFIS",
+    "title_tr": "Güneşlik EFIS Kontrolleri",
     "en": "Outboard of these are the master warning/caution lights.",
     "tr": "Bunların dış tarafında ana ikaz (master warning) ve ana uyarı (master caution) ışıkları bulunmaktadır."
   },
   "s26": {
-    "title": "Display Units & ECAS",
-    "title_tr": "Ekran Üniteleri ve ECAS",
+    "title": "Units ECAS",
+    "title_tr": "Ekran Üniteleri ECAS",
     "en": "The main panel features four display units. DU1 and DU4 are the Primary Flight Displays. DU2 is the Engine Indicating and Crew Alerting System (EICAS). DU3 is the Multi-Function Display.",
     "tr": "Ana panelde dört ekran ünitesi bulunur. DU1 ve DU4 birincil uçuş göstergeleridir. DU2, Motor Gösterge ve Uyarı Sistemidir (EICAS). DU3 çok işlevli ekrandır."
   },
@@ -162,8 +162,8 @@
     "tr": "Panelin ortasında hava hızı, duruş açısı ve irtifayı gösteren üç bağımsız yedek gösterge bulunur."
   },
   "s28": {
-    "title": "CWP & RMU Overview",
-    "title_tr": "CWP ve RMU Genel Bakış",
+    "title": "CWP RMU Overview",
+    "title_tr": "CWP RMU Genel",
     "en": "Below the standby instruments is the Crew Warning Panel with warning lights. Beneath it are two Radio Management Units used for communication control.",
     "tr": "Yedek göstergelerin altında uyarı ışıklarını içeren Mürettebat Uyarı Paneli bulunur. Onun altında iletişim sistemlerinin kontrolü için kullanılan iki adet Radyo Yönetim Ünitesi (RMU) vardır."
   },
@@ -174,8 +174,8 @@
     "tr": "Ana panelin alt kısmında çeşitli uçak sistemleri için kontrol düğmeleri bulunur."
   },
   "s30": {
-    "title": "Pedestal & Systems Controls",
-    "title_tr": "Pedestal ve Sistem Kontrolleri",
+    "title": "Pedestal Systems Controls",
+    "title_tr": "Pedestal Sistem Kontrolleri",
     "en": "The top of the pedestal contains thrust levers and other aircraft system controls. Circuit breakers are located on the pilot sidewalls.",
     "tr": "Pedestalın üst kısmı motor güç kolları ve diğer sistem kontrollerini barındırır. Devre kesiciler pilot yan panellerinde bulunur."
   },

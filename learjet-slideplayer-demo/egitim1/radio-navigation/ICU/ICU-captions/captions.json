@@ -1,154 +1,173 @@
 [
   {
     "id": "s01",
-    "title": "Two Integrated Communications Units (ICU) are located in the…",
+    "title": "Two Integrated Communications",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Two Integrated Communications Units (ICU) are located in the nose avionics bay.",
-    "caption_tr": ""
+    "caption_tr": "Burun aviyonik bölmesinde iki Entegre İletişim Birimi (ICU) bulunmaktadır.",
+    "title_tr": "İki Entegre İletişim"
   },
   {
     "id": "s02",
-    "title": "The Integrated Communications Unit consists of: - COM Trance…",
+    "title": "- COM Trance",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The Integrated Communications Unit consists of: - COM Tranceiver Module - Mode C Transponder Each module is self-contained within its own housing and each has its own power source.",
-    "caption_tr": ""
+    "caption_tr": "Entegre İletişim Birimi aşağıdakilerden oluşur: - COM Alıcı-Verici Modülü - Mod C Transponder Her modül, kendi muhafazası içinde müstakildir ve her biri kendi güç kaynağına sahiptir.",
+    "title_tr": "- COM Trance"
   },
   {
     "id": "s03",
-    "title": "The COM tranceiver module is a conventional COM tranceiver. …",
+    "title": "COM tranceiver module",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The COM tranceiver module is a conventional COM tranceiver. The tranceiver operates on a dual bandwidth: narrowband and wideband.",
-    "caption_tr": ""
+    "caption_tr": "COM alıcı-verici modülü geleneksel bir COM alıcı-vericidir. Alıcı-verici çift bant genişliğinde çalışır: dar bant ve geniş bant.",
+    "title_tr": "COM alıcı-verici modülü"
   },
   {
     "id": "s04",
-    "title": "The COM 1 antenna is mounted below the aircraft The COM 2 an…",
+    "title": "COM 1 antenna",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The COM 1 antenna is mounted below the aircraft The COM 2 antenna is located on top.",
-    "caption_tr": ""
+    "caption_tr": "COM 1 anteni uçağın altına monte edilir. COM 2 anteni ise üstte bulunur.",
+    "title_tr": "COM 1 anteni"
   },
   {
     "id": "s05",
-    "title": "To provide operation throughout the world, COM tranceiver ha…",
+    "title": "throughout world COM",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "To provide operation throughout the world, COM tranceiver has been designed to accommodate the frequency range of MHz to MHz, with channel spacing of 25 KHz. Selection of COM frequency is on RMU in the COM window. The top line is the active frequency.",
-    "caption_tr": ""
+    "caption_tr": "COM alıcı-vericisi, dünya çapında çalışmayı sağlamak için, 25 KHz kanal aralığıyla MHz ila MHz frekans aralığını barındıracak şekilde tasarlanmıştır. COM frekansı seçimi COM penceresindeki RMU'dadır. Üst satır aktif frekanstır.",
+    "title_tr": "dünya çapında COM"
   },
   {
     "id": "s06",
-    "title": "If a COM frequency is selected on the RMU and the transmit b…",
+    "title": "COM frequency selected",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "If a COM frequency is selected on the RMU and the transmit button on the audio control panel (ACP) is depressed, keying the MIC switch behind the outboard control wheel or the hand mike will cause transmission to occur. This is evidenced by a amber TX which is annunciated on top of the COM window.",
-    "caption_tr": ""
+    "caption_tr": "RMU'da bir COM frekansı seçilirse ve ses kontrol panelindeki (ACP) iletim düğmesine basılırsa, dıştan takmalı kontrol tekerleğinin veya el mikrofonunun arkasındaki MIC anahtarına basılması iletimin gerçekleşmesine neden olur. Bu, COM penceresinin üstünde gösterilen sarı renkli bir TX ile kanıtlanır.",
+    "title_tr": "COM frekansı seçildi"
   },
   {
     "id": "s07",
-    "title": "The COM transmitter is incorporated with a 2-minute timer co…",
+    "title": "COM transmitter incorporated",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The COM transmitter is incorporated with a 2-minute timer control. Pressing the MIC switch or the hand mike to transmit set the timer running. The timer resets each time transmission ceases.",
-    "caption_tr": ""
+    "caption_tr": "COM vericisi 2 dakikalık bir zamanlayıcı kontrolüyle birleştirilmiştir. İletim yapmak için MIC anahtarına veya el mikrofonuna basıldığında zamanlayıcının çalışmasını ayarlayın. Zamanlayıcı, iletimin her durduruluşunda sıfırlanır.",
+    "title_tr": "COM vericisi dahil"
   },
   {
     "id": "s08",
-    "title": "If the switch is keyed for 2 minutes, a bleep will be heard …",
+    "title": "switch keyed 2",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "If the switch is keyed for 2 minutes, a bleep will be heard over the headset as a warning. At the same time, amber TX will change to red MIC 10 seconds after that, the timer will cutoff the transmission and shutdown the transmitter.",
-    "caption_tr": ""
+    "caption_tr": "Anahtar 2 dakika süreyle basılı tutulursa kulaklıktan uyarı niteliğinde bir bip sesi duyulacaktır. Aynı zamanda, sarı TX bundan 10 saniye sonra kırmızı MIC'e dönüşecek, zamanlayıcı iletimi kesecek ve vericiyi kapatacaktır.",
+    "title_tr": "anahtar anahtarlı 2"
   },
   {
     "id": "s09",
-    "title": "The receiver is not affected by the timer control. It contin…",
+    "title": "receiver affected timer",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The receiver is not affected by the timer control. It continues to function normally even though transmitter is shutdown by the timer.",
-    "caption_tr": ""
+    "caption_tr": "Alıcı zamanlayıcı kontrolünden etkilenmez. Verici zamanlayıcı tarafından kapatılsa bile normal şekilde çalışmaya devam eder.",
+    "title_tr": "alıcı etkilenen zamanlayıcı"
   },
   {
     "id": "s10",
-    "title": "This feature is provided to cater for microphone jammed situ…",
+    "title": "This feature provided",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "This feature is provided to cater for microphone jammed situation. By shutting down the transmitter, it frees the affected frequency so that communications between other aircrafts and the controller can continue without disruption.",
-    "caption_tr": ""
+    "caption_tr": "Bu özellik, mikrofon sıkışması durumunu gidermek için sağlanmıştır. Vericiyi kapatarak etkilenen frekansı serbest bırakır, böylece diğer uçaklar ile kontrolör arasındaki iletişim kesintiye uğramadan devam edebilir.",
+    "title_tr": "Sağlanan bu özellik"
   },
   {
     "id": "s11",
-    "title": "There are two transponders onboard the aircraft, each residi…",
+    "title": "There are two",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "There are two transponders onboard the aircraft, each residing in the integrated communications unit (ICU). An interlock feature is incorporated which allows one transponder to work at any one time.",
-    "caption_tr": ""
+    "caption_tr": "Uçakta, her biri entegre iletişim ünitesinde (ICU) bulunan iki transponder bulunmaktadır. Bir transponderin herhangi bir zamanda çalışmasına izin veren bir kilitleme özelliği dahil edilmiştir.",
+    "title_tr": "İki tane var"
   },
   {
     "id": "s12",
-    "title": "Transponder antennas are located at the bottom of the aircra…",
+    "title": "Transponder antennas are",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Transponder antennas are located at the bottom of the aircraft The forward antenna is connected to transponder 1 and the aft, transponder 2.",
-    "caption_tr": ""
+    "caption_tr": "Transponder antenleri uçağın alt kısmında bulunur. Ön anten, transponder 1'e ve arkadaki transponder 2'ye bağlanır.",
+    "title_tr": "Transponder antenleri"
   },
   {
     "id": "s13",
-    "title": "The transponder system is wired via squat switches. When air…",
+    "title": "transponder system wired",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The transponder system is wired via squat switches. When air mode is sensed, the transponder system will respond to all valid ATC radar interrogation with a coded identification andor reporting altitude reply.",
-    "caption_tr": ""
+    "caption_tr": "Transponder sistemi çömelme anahtarları aracılığıyla kablolanmıştır. Hava modu algılandığında, transponder sistemi tüm geçerli ATC radar sorgulamalarına kodlanmış bir tanımlama ve/veya raporlama irtifa yanıtıyla yanıt verecektir.",
+    "title_tr": "transponder sistemi kablolu"
   },
   {
     "id": "s14",
-    "title": "Each transponder receives air data information from ADCs 1 a…",
+    "title": "transponder receives air",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Each transponder receives air data information from ADCs 1 and 2. Transponder 1 uses ADC 1 information and transponder 2 uses ADC 2 information as their primary sources. In the event of an ADC failure, each transponder can use the off-side ADC information through the ADC reversion switch.",
-    "caption_tr": ""
+    "caption_tr": "Her transponder, ADC 1 ve 2'den hava veri bilgisini alır. Transponder 1, ADC 1 bilgisini kullanır ve transponder 2, birincil kaynakları olarak ADC 2 bilgisini kullanır. Bir ADC arızası durumunda, her transponder, ADC ters çevirme anahtarı aracılığıyla off-side ADC bilgisini kullanabilir.",
+    "title_tr": "transponder hava alıyor"
   },
   {
     "id": "s15",
-    "title": "There are 4 IDENT buttons, one on RMUs 1 and 2; and one on e…",
+    "title": "There are 4",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "There are 4 IDENT buttons, one on RMUs 1 and 2; and one on each of the control wheel as shown. When one of these IDENT buttons is pressed, it will initiate an IDENT pulse from the transponder when requested.",
-    "caption_tr": ""
+    "caption_tr": "Biri RMU 1 ve 2'de olmak üzere 4 IDENT düğmesi vardır; ve gösterildiği gibi kontrol tekerleğinin her birinde bir tane. Bu IDENT düğmelerinden birine basıldığında, istendiğinde transponderden bir IDENT darbesi başlatılacaktır.",
+    "title_tr": "4 tane var"
   },
   {
     "id": "s16",
-    "title": "The transponder code and mode are selected on the RMU in the…",
+    "title": "transponder code mode",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The transponder code and mode are selected on the RMU in the ATC window. Because of the interlock feature that enable one transponder to be used at any one time, both RMUs ATC windows will display the same transponder code and mode. When the code or mode is changed on one RMU, the other RMU will track the change. This will be discussed later in the RMU operation.",
-    "caption_tr": ""
+    "caption_tr": "Transponder kodu ve modu ATC penceresindeki RMU'da seçilir. Herhangi bir anda bir transponderin kullanılmasını sağlayan kilitleme özelliği nedeniyle, her iki RMU'nun ATC penceresi aynı transponder kodunu ve modunu görüntüleyecektir. Bir RMU'daki kod veya mod değiştirildiğinde, diğer RMU değişikliği izleyecektir. Bu daha sonra RMU operasyonunda tartışılacaktır.",
+    "title_tr": "transponder kod modu"
   },
   {
     "id": "s17",
-    "title": "The operating modes of the transponder are : STANDBY, 12 ATC…",
+    "title": "STANDBY 12 ATC",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "The operating modes of the transponder are : STANDBY, 12 ATC ON and 12 ATC ALT. The power-up mode is STANDBY. In this mode, transponder is ready but not replying.",
-    "caption_tr": ""
+    "caption_tr": "Transponderin çalışma modları şunlardır: STANDBY, 12 ATC ON ve 12 ATC ALT. Açma modu BEKLEME modudur. Bu modda transponder hazır ancak yanıt vermiyor.",
+    "title_tr": "BEKLEME 12 ATC"
   },
   {
     "id": "s18",
-    "title": "The number 1 in front indicates that transponder 1 is used. …",
+    "title": "number 1 front",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The number 1 in front indicates that transponder 1 is used. Likewise, 2 means transponder 2 is used.",
-    "caption_tr": ""
+    "caption_tr": "Öndeki 1 sayısı, transponder 1'in kullanıldığını gösterir. Benzer şekilde 2, transponder 2'nin kullanıldığı anlamına gelir.",
+    "title_tr": "1 numara ön"
   },
   {
     "id": "s19",
-    "title": "ATC ALT means transponder is operating in modes A and C with…",
+    "title": "ATC ALT means",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "ATC ALT means transponder is operating in modes A and C with altitude reporting.",
-    "caption_tr": ""
+    "caption_tr": "ATC ALT, transponderin yükseklik raporlaması ile A ve C modlarında çalıştığı anlamına gelir.",
+    "title_tr": "ATC ALT'ın anlamı"
   }
 ]

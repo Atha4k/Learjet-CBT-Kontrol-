@@ -1,82 +1,92 @@
 [
   {
     "id": "s01",
-    "title": "The pitot-static system comprises main and standby systems. …",
+    "title": "pitot-static system comprises",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The pitot-static system comprises main and standby systems. The main pitot-static system consists of two pitot probes, located one on each side of the",
-    "caption_tr": ""
+    "caption_tr": "Pitot-statik sistem ana ve yedek sistemlerden oluşur. Ana pitot-statik sistem, her iki tarafta birer tane bulunan iki pitot probundan oluşur.",
+    "title_tr": "Pitot-statik sistem şunları iç"
   },
   {
     "id": "s02",
-    "title": "The standby pitot-static system consists of third pitot prob…",
+    "title": "standby pitot-static system",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The standby pitot-static system consists of third pitot probe, mounted above the main probe on the right side of the airplane. It provides impact and static pressure inputs to the standby instrument group.",
-    "caption_tr": ""
+    "caption_tr": "Yedek pitot-statik sistemi, uçağın sağ tarafındaki ana probun üzerine monte edilen üçüncü pitot probundan oluşur. Yedek enstrüman grubuna darbe ve statik basınç girişleri sağlar.",
+    "title_tr": "Bekleme pitot-statik sistemi"
   },
   {
     "id": "s03",
-    "title": "The main and standby pitot-static systems are represented sc…",
+    "title": "main standby pitot-static",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The main and standby pitot-static systems are represented schematically as shown above. The main and standby pitot-static systems are independent of one another.",
-    "caption_tr": ""
+    "caption_tr": "Ana ve yedek pitot-statik sistemler yukarıda gösterildiği gibi şematik olarak gösterilmiştir. Ana ve yedek pitot-statik sistemler birbirinden bağımsızdır.",
+    "title_tr": "Ana bekleme pitot-statik"
   },
   {
     "id": "s04",
-    "title": "The left pitot probe of the main pitot-static provides pitot…",
+    "title": "left pitot probe",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The left pitot probe of the main pitot-static provides pitot source to ADC 1 and the right pitot probe provides pitot source to the ADC 2.",
-    "caption_tr": ""
+    "caption_tr": "Ana pitot-statikin sol pitot probu, ADC 1'e pitot kaynağı sağlar ve sağ pitot probu, ADC 2'ye pitot kaynağı sağlar.",
+    "title_tr": "Sol pitot sondası"
   },
   {
     "id": "s05",
-    "title": "There are four static sources in the main pitot-static syste…",
+    "title": "There are four",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "There are four static sources in the main pitot-static system, two on each main pitot-static probes.",
-    "caption_tr": ""
+    "caption_tr": "Ana pitot-statik sistemde dört statik kaynak vardır ve her bir ana pitot-statik probta iki adet bulunur.",
+    "title_tr": "Dört tane var"
   },
   {
     "id": "s06",
-    "title": "Static 1 from the left probe is connected to static 2 of rig…",
+    "title": "Static 1 left",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Static 1 from the left probe is connected to static 2 of right probe to provide static pressure to ADC 1. Static 1 from the right probe combines with static 2 on the left probe to provide static information to ADC 2. This cross-over arrangement reduces system errors caused by yawing of the aircraft.",
-    "caption_tr": ""
+    "caption_tr": "Sol probdan gelen Statik 1, ADC 1'e statik basınç sağlamak için sağ probun statik 2'sine bağlanır. Sağ probdan gelen Statik 1, ADC 2'ye statik bilgi sağlamak için sol probdaki statik 2 ile birleşir. Bu çapraz düzenleme, uçağın yalpalamasından kaynaklanan sistem hatalarını azaltır.",
+    "title_tr": "Statik 1 kaldı"
   },
   {
     "id": "s07",
-    "title": "The pitot source on the standby probe provides impact pressu…",
+    "title": "pitot source standby",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The pitot source on the standby probe provides impact pressure to the standby Machairspeed indicator.",
-    "caption_tr": ""
+    "caption_tr": "Bekleme sondasındaki pitot kaynağı, beklemedeki Machairspeed göstergesine darbe basıncı sağlar.",
+    "title_tr": "Pitot kaynağı beklemede"
   },
   {
     "id": "s08",
-    "title": "There are also two static sources on the standby probe, one …",
+    "title": "There are also",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "There are also two static sources on the standby probe, one provides static information to the standby altimeter and the other provides data to the standby Machairspeed indicator.",
-    "caption_tr": ""
+    "caption_tr": "Ayrıca yedek prob üzerinde iki statik kaynak vardır; biri yedek altimetreye statik bilgi sağlar, diğeri ise yedek Machair hız göstergesine veri sağlar.",
+    "title_tr": "Ayrıca var"
   },
   {
     "id": "s09",
-    "title": "Two moisture drains are provided in the pitot-static lines o…",
+    "title": "Two moisture drains",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Two moisture drains are provided in the pitot-static lines on the standby system. The drains are flush mounted just aft of the nose wheel door.",
-    "caption_tr": ""
+    "caption_tr": "Bekleme sistemi üzerindeki pitot-statik hatlarda iki adet nem tahliyesi bulunmaktadır. Drenajlar burun tekerleği kapısının hemen arkasına gömme olarak monte edilmiştir.",
+    "title_tr": "İki nem tahliyesi"
   },
   {
     "id": "s10",
-    "title": "The two main probes and the standby system probe contain ele…",
+    "title": "two main probes",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The two main probes and the standby system probe contain electrical heating elements for anti-icing. Heating of the elememts is controlled by the L and R PROBES switches on the anti-ice control panel.",
-    "caption_tr": ""
+    "caption_tr": "İki ana prob ve yedek sistem probu, buzlanmayı önlemek için elektrikli ısıtma elemanları içerir. Elemanların ısıtılması, buz önleme kontrol panelindeki L ve R PROB anahtarları ile kontrol edilir.",
+    "title_tr": "İki ana prob"
   }
 ]

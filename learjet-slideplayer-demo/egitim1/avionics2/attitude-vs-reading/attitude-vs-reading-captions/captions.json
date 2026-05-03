@@ -1,394 +1,443 @@
 [
   {
     "id": "s01",
-    "title": "The is equipped with dual attitude and heading reference sys…",
+    "title": "dual attitude heading",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The is equipped with dual attitude and heading reference system (AHRS), each consisting of an attitude and heading reference unit (AHRU), configuration memory module and flux valve.",
-    "caption_tr": ""
+    "caption_tr": "Her biri bir durum ve yön referans ünitesi (AHRU), konfigürasyon hafıza modülü ve akış valfinden oluşan ikili konum ve yön referans sistemi (AHRS) ile donatılmıştır.",
+    "title_tr": "İkili tutum başlığı"
   },
   {
     "id": "s02",
-    "title": "The AHRUs and the memory modules are located in the nose sec…",
+    "title": "AHRUs memory modules",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The AHRUs and the memory modules are located in the nose section. The flux valves are located at the wing tips, one on each side.",
-    "caption_tr": ""
+    "caption_tr": "AHRU'lar ve bellek modülleri burun kısmında bulunur. Akı valfleri her iki tarafta birer tane olmak üzere kanat uçlarında bulunur.",
+    "title_tr": "AHRU'nun bellek modülleri"
   },
   {
     "id": "s03",
-    "title": "The memory module is for storing of calibration data, which …",
+    "title": "memory module storing",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The memory module is for storing of calibration data, which is used to compensate AHRU inaccuracies due to mounting (installation errors) and local disturbances to the earth's magnetic field created by the airplane structure.",
-    "caption_tr": ""
+    "caption_tr": "Bellek modülü, montaj (kurulum hataları) ve uçak yapısı tarafından dünyanın manyetik alanında oluşturulan yerel rahatsızlıklar nedeniyle oluşan AHRU hatalarını telafi etmek için kullanılan kalibrasyon verilerinin depolanmasına yöneliktir.",
+    "title_tr": "Bellek modülü depolama"
   },
   {
     "id": "s04",
-    "title": "The flux valve senses the horizontal portion of the earth's …",
+    "title": "flux valve senses",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The flux valve senses the horizontal portion of the earth's magnetic field and supplies a long-term heading reference to AHRU. The heading reference is processed by the AHRU to compute an inertially stabilised magnetic heading output.",
-    "caption_tr": ""
+    "caption_tr": "Akı valfi, dünyanın manyetik alanının yatay kısmını algılar ve AHRU'ya uzun vadeli bir yön referansı sağlar. Yön referansı, eylemsiz olarak stabilize edilmiş bir manyetik yön çıktısını hesaplamak için AHRU tarafından işlenir.",
+    "title_tr": "Akı valfi algılar"
   },
   {
     "id": "s05",
-    "title": "The AHRU contains 3 Interferometer Fiber Optic Gyros (IFOG) …",
+    "title": "AHRU contains 3",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The AHRU contains 3 Interferometer Fiber Optic Gyros (IFOG) that sense angular rotation around all three axes i.e. pitch, roll and yaw. It also consists of three accelerometers for sensing linear acceleration along all three axes.",
-    "caption_tr": ""
+    "caption_tr": "AHRU, üç eksenin (yani eğim, yuvarlanma ve sapma) etrafındaki açısal dönüşü algılayan 3 İnterferometre Fiber Optik Jiroskop (IFOG) içerir. Ayrıca üç eksen boyunca doğrusal ivmeyi algılamak için üç ivmeölçerden oluşur.",
+    "title_tr": "AHRU'da 3 tane"
   },
   {
     "id": "s06",
-    "title": "The central processor unit within the AHRU receives all of t…",
+    "title": "central processor unit",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The central processor unit within the AHRU receives all of the sensor inputs and performs the mathematical computations required to calculate aircraft attitude, heading, velociity, linear accelerations, angular rate of change and operating mode status. AHRS does not compute latitude and longitude position information",
-    "caption_tr": ""
+    "caption_tr": "AHRU içindeki merkezi işlemci birimi tüm sensör girişlerini alır ve uçağın konumunu, yönünü, hızını, doğrusal ivmesini, açısal değişim hızını ve çalışma modu durumunu hesaplamak için gereken matematiksel hesaplamaları gerçekleştirir. AHRS enlem ve boylam konum bilgilerini hesaplamaz",
+    "title_tr": "Merkezi işlemci ünitesi"
   },
   {
     "id": "s07",
-    "title": "Attitude andor heading information is also used by the weath…",
+    "title": "Attitude andor heading",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Attitude andor heading information is also used by the weather radar antenna, fuel quantity computer and flight director systems. AHRS 2 provides heading information through DAU 2 for the backup navigation display on the RMU. These interfaces are shown on the graphics above.",
-    "caption_tr": ""
+    "caption_tr": "Durum ve yön bilgisi aynı zamanda hava durumu radar anteni, yakıt miktarı bilgisayarı ve uçuş yönlendirme sistemleri tarafından da kullanılır. AHRS 2, RMU'daki yedek navigasyon ekranı için DAU 2 aracılığıyla yön bilgisi sağlar. Bu arayüzler yukarıdaki grafiklerde gösterilmektedir.",
+    "title_tr": "Tutum başlık"
   },
   {
     "id": "s08",
-    "title": "Each AHRS has a primary and a secondary DC electrical power …",
+    "title": "AHRS has primary",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Each AHRS has a primary and a secondary DC electrical power sources. AHRS 1 receives primary power from the left essential bus and secondary power from right essential bus. AHRS 2 receives primary power from the right essential bus and secondary power from left essential bus. Under normal operation, primary power is active and secondary is at standby.",
-    "caption_tr": ""
+    "caption_tr": "Her AHRS'de birincil ve ikincil DC elektrik güç kaynakları bulunur. AHRS 1, birincil gücü sol temel veriyolundan, ikincil gücü ise sağ temel veriyolundan alır. AHRS 2, birincil gücü sağ temel veriyolundan, ikincil gücü ise sol temel veriyolundan alır. Normal çalışma koşullarında birincil güç aktiftir ve ikincil güç beklemededir.",
+    "title_tr": "AHRS birincil"
   },
   {
     "id": "s09",
-    "title": "When primary power voltage falls below 18 volts, secondary p…",
+    "title": "primary power voltage",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "When primary power voltage falls below 18 volts, secondary power automatically becomes active until primary power recovers. The AHRU will exhibit no loss in performance when it switches operation between primary and secondary.",
-    "caption_tr": ""
+    "caption_tr": "Primer güç voltajı 18 voltun altına düştüğünde, primer güç geri gelene kadar sekonder güç otomatik olarak aktif hale gelir. AHRU, birincil ve ikincil çalışma arasında geçiş yaptığında performansta herhangi bir kayıp göstermez.",
+    "title_tr": "Birincil güç voltajı"
   },
   {
     "id": "s10",
-    "title": "Recall from electrical power system that the left and right …",
+    "title": "Recall electrical power",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Recall from electrical power system that the left and right essential buses are powered when the respectives main batteries are selected on.",
-    "caption_tr": ""
+    "caption_tr": "Elektrik güç sisteminden, ilgili ana piller seçildiğinde sol ve sağ önemli veri yollarına güç verildiğini hatırlayın.",
+    "title_tr": "Elektrik gücünü hatırlayın"
   },
   {
     "id": "s11",
-    "title": "With left and right essential powered, AHRS performs a power…",
+    "title": "left right essential",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "With left and right essential powered, AHRS performs a power-up self-test. The gyros inside the AHRUSs spin up and determine the local vertical and magnetic heading. At this stage, attitude and heading outputs are not valid. Red ATT FAIL and TEST flags are annunciated on and on the RMU if backup navigation is selected.",
-    "caption_tr": ""
+    "caption_tr": "Sol ve sağ temel güçle AHRS, açılışta kendi kendini test eder. AHRUS'ların içindeki jiroskoplar dönerek yerel dikey ve manyetik yönü belirler. Bu aşamada tutum ve başlık çıktıları geçerli değildir. Yedek navigasyon seçilirse, kırmızı ATT FAIL ve TEST bayrakları RMU üzerinde ve üzerinde duyurulur.",
+    "title_tr": "Sol sağ önemli"
   },
   {
     "id": "s12",
-    "title": "While initialisation is taking place, the ADI sphere is comp…",
+    "title": "initialisation taking place",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "While initialisation is taking place, the ADI sphere is completely blue and the HSI begins with degrees under the lubber line. The compass card clicks towards 0 degree at one degree per second.",
-    "caption_tr": ""
+    "caption_tr": "Başlatma gerçekleşirken, ADI küresi tamamen mavidir ve HSI, kayganlık çizgisinin altındaki derecelerle başlar. Pusula kartı saniyede bir derece hızla 0 dereceye doğru tıklar.",
+    "title_tr": "Başlatma gerçekleşiyor"
   },
   {
     "id": "s13",
-    "title": "At 0 degree, initialisation is complete and red ATT FAIL and…",
+    "title": "0 degree initialisation",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "At 0 degree, initialisation is complete and red ATT FAIL and TEST annunciations disappear on the respective and backup navigation display on the RMU. The AHRS now provides ADI with a valid attitude display. The compass on the HSI, and backup navigation sychronises to the existing heading. The initialisation process takes about 2 minutes.",
-    "caption_tr": ""
+    "caption_tr": "0 derecede, başlatma tamamlanır ve RMU üzerindeki ilgili ve yedek navigasyon ekranında kırmızı ATT FAIL ve TEST bildirimleri kaybolur. AHRS artık ADI'ye geçerli bir tutum ekranı sağlıyor. HSI üzerindeki pusula ve yedek navigasyon mevcut istikametle senkronize olur. Başlatma işlemi yaklaşık 2 dakika sürer.",
+    "title_tr": "0 derece başlatma"
   },
   {
     "id": "s14",
-    "title": "It is important to note that during initialisation the airpl…",
+    "title": "It important note",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "It is important to note that during initialisation the airplane must remain stationary. Wind gusts, passenger loading, engine start or other preflight operations will not hinder AHRS alignment.",
-    "caption_tr": ""
+    "caption_tr": "Başlatma sırasında uçağın sabit kalması gerektiğine dikkat etmek önemlidir. Rüzgar, yolcu yükleme, motor çalıştırma veya diğer uçuş öncesi işlemler AHRS hizalamasını engellemez.",
+    "title_tr": "Bu önemli not"
   },
   {
     "id": "s15",
-    "title": "If the initialisation requires more than two minutes, the AH…",
+    "title": "initialisation requires more",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "If the initialisation requires more than two minutes, the AHRS may have detected excessive aircraft motion.",
-    "caption_tr": ""
+    "caption_tr": "Başlatma işlemi iki dakikadan uzun sürüyorsa AHRS aşırı uçak hareketi tespit etmiş olabilir.",
+    "title_tr": "Başlatma daha fazlasını"
   },
   {
     "id": "s16",
-    "title": "If the initialisation is unsatisfactory, initialisation may …",
+    "title": "initialisation unsatisfactory may",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "If the initialisation is unsatisfactory, initialisation may be restarted by cycling primary and secondary power. Momentarily turning airplane main batteries off and back on will restart initialisation.",
-    "caption_tr": ""
+    "caption_tr": "Başlatma tatmin edici değilse, birincil ve ikincil güç çevrimi yapılarak başlatma yeniden başlatılabilir. Uçağın ana bataryalarının anlık olarak kapatılması ve tekrar açılması, başlatmayı yeniden başlatacaktır.",
+    "title_tr": "Başlatma yetersiz olabilir"
   },
   {
     "id": "s17",
-    "title": "If only one AHRS is required to be re-initialised, pull and …",
+    "title": "one AHRS required",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "If only one AHRS is required to be re-initialised, pull and reset the appropriate AHRS CBs. The CBs can be found on the CB panel in the INSTRUMENTINDICATIONS group. The PRI CB is on the on-side CB panel, whereas the SEC CB is on the off-side (opposite) CB panel.",
-    "caption_tr": ""
+    "caption_tr": "Yalnızca bir AHRS'nin yeniden başlatılması gerekiyorsa uygun AHRS CB'lerini çekip sıfırlayın. CB'ler CB panelindeki CİHAZ GÖSTERGELERİ grubunda bulunabilir. PRI CB, CB panelinde bulunurken, SEC CB, CB panelinin karşı tarafındadır.",
+    "title_tr": "Bir AHRS gerekli"
   },
   {
     "id": "s18",
-    "title": "The standard AHRS operating modes are the normal mode for at…",
+    "title": "standard AHRS operating",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The standard AHRS operating modes are the normal mode for attitude and the slaved mode for heading.",
-    "caption_tr": ""
+    "caption_tr": "Standart AHRS çalışma modları, tutum için normal mod ve yön için bağımlı moddur.",
+    "title_tr": "Standart AHRS işletimi"
   },
   {
     "id": "s19",
-    "title": "In the normal mode, true airspeed (TAS) from the ADCs is use…",
+    "title": "normal mode true",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "In the normal mode, true airspeed (TAS) from the ADCs is used to compensate for acceleration-induced error sources normally encountered in a vertical gyro system.",
-    "caption_tr": ""
+    "caption_tr": "Normal modda, ADC'lerden gelen gerçek hava hızı (TAS), normalde dikey bir cayro sisteminde karşılaşılan ivme kaynaklı hata kaynaklarını telafi etmek için kullanılır.",
+    "title_tr": "Normal mod doğru"
   },
   {
     "id": "s20",
-    "title": "In the slaved heading mode, flux valve establishes the magne…",
+    "title": "slaved heading mode",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "In the slaved heading mode, flux valve establishes the magnetic heading reference. System operation in this mode is similar to that of a conventional gyroscopically stabilized magnetic compass.",
-    "caption_tr": ""
+    "caption_tr": "Yardımcı yön modunda, akı valfi manyetik yön referansını oluşturur. Bu modda sistemin çalışması, geleneksel jiroskopik olarak stabilize edilmiş manyetik pusulanınkine benzer.",
+    "title_tr": "Köleleştirilmiş başlık modu"
   },
   {
     "id": "s21",
-    "title": "The AHR Ss then output attitude and heading data through the…",
+    "title": "AHR Ss output",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The AHR Ss then output attitude and heading data through their respective IC-600s for display on the PFDs and The displays are controlled by AHRS reversion switch located on system reversion panel on the lower instrument panel. The selector has 3 positions: 1, AHRS NORM, and 2.",
-    "caption_tr": ""
+    "caption_tr": "AHR S'ler daha sonra PFD'lerde görüntülenmek üzere ilgili IC-600'leri aracılığıyla tutum ve yön verilerini çıkarır ve ekranlar, alt gösterge panelindeki sistem geri döndürme paneli üzerinde bulunan AHRS tersine çevirme anahtarı tarafından kontrol edilir. Seçicinin 3 konumu vardır: 1, AHRS NORM ve 2.",
+    "title_tr": "AHRS çıkışı"
   },
   {
     "id": "s22",
-    "title": "With the selector in the NORM position, pilot's receives dat…",
+    "title": "selector NORM position",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "With the selector in the NORM position, pilot's receives data form AHRS 1; and co-pilot's and from AHRS 2. This is the normal operating position and, therefore, no annunciations are seen on the PFDs and",
-    "caption_tr": ""
+    "caption_tr": "Seçici NORM pozisyonundayken pilot AHRS 1'den veri alır; ve yardımcı pilotlardan ve AHRS 2'den. Bu normal çalışma konumudur ve bu nedenle PFD'lerde ve",
+    "title_tr": "Seçici NORM konumu"
   },
   {
     "id": "s23",
-    "title": "If the selector is in 1 or 2 position, the AHRS selected wil…",
+    "title": "selector 1 2",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "If the selector is in 1 or 2 position, the AHRS selected will provide attitude and heading references to both PFDs and This is known as AHRS reversion. In the above example, the AHRS reversion switch is placed in position 1, therefore, AHRS 1 is providing attitude and heading information to all.",
-    "caption_tr": ""
+    "caption_tr": "Seçici 1 veya 2 konumundaysa seçilen AHRS, her iki PFD'ye de tutum ve yön referansları sağlayacaktır. Bu, AHRS'nin tersine çevrilmesi olarak bilinir. Yukarıdaki örnekte, AHRS yön değiştirme anahtarı konum 1'e yerleştirilmiştir, dolayısıyla AHRS 1 herkese tutum ve yön bilgilerini sağlamaktadır.",
+    "title_tr": "Seçici 1 2"
   },
   {
     "id": "s24",
-    "title": "When a single AHRS is providing attitude and heading informa…",
+    "title": "single AHRS providing",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "When a single AHRS is providing attitude and heading information to both sides, amber annunciations ATT 12 appear at the top left of ADI, MAG 12 will appear above HSI as shown. 1 denotes AHRS 1, 2 denotes AHRS 2. In the earlier example, because AHRS 1 is the source providing attitude and heading references, ATT 1 and MAG 1 are annunciated as shown above.",
-    "caption_tr": ""
+    "caption_tr": "Tek bir AHRS her iki tarafa da tutum ve yön bilgisi sağladığında, sarı renkli ATT 12 duyuruları ADI'nin sol üst köşesinde görünür, MAG 12 gösterildiği gibi HSI'nin üzerinde görünecektir. 1, AHRS 1'i, 2, AHRS 2'yi belirtir. Önceki örnekte, AHRS 1 tutum ve başlık referanslarını sağlayan kaynak olduğundan, ATT 1 ve MAG 1 yukarıda gösterildiği gibi duyurulur.",
+    "title_tr": "Tek AHRS sağlayan"
   },
   {
     "id": "s25",
-    "title": "When an AHRS fails, the following indications are observed o…",
+    "title": "AHRS fails following",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "When an AHRS fails, the following indications are observed on the associated",
-    "caption_tr": ""
+    "caption_tr": "Bir AHRS arızalandığında ilgili ekranda aşağıdaki belirtiler gözlenir:",
+    "title_tr": "AHRS takipte başarısız"
   },
   {
     "id": "s26",
-    "title": "When an AHRS fails, the following indications are observed o…",
+    "title": "AHRS fails following",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue,",
-    "caption_tr": ""
+    "caption_tr": "Bir AHRS arızalandığında ilgili ekranda aşağıdaki belirtiler gözlenir: ADI küresi tamamen maviye döner,",
+    "title_tr": "AHRS takipte başarısız"
   },
   {
     "id": "s27",
-    "title": "When an AHRS fails, the following indications are observed o…",
+    "title": "AHRS fails following",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue, - Red ATT FAIL flag appears in the upper centre of ADI,",
-    "caption_tr": ""
+    "caption_tr": "Bir AHRS başarısız olduğunda ilgili ekranda aşağıdaki belirtiler gözlenir: - ADI küresi tamamen maviye döner, - ADI'nin üst ortasında kırmızı ATT FAIL bayrağı görünür,",
+    "title_tr": "AHRS takipte başarısız"
   },
   {
     "id": "s28",
-    "title": "When an AHRS fails, the following indications are observed o…",
+    "title": "AHRS fails following",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue, - Red ATT FAIL flag appears in the upper centre of ADI, - Heading compass rose freezes at existing heading, and",
-    "caption_tr": ""
+    "caption_tr": "Bir AHRS başarısız olduğunda, ilgili göstergede aşağıdaki belirtiler gözlemlenir: - ADI küresi tamamen maviye döner, - ADI'nin üst merkezinde kırmızı ATT FAIL bayrağı görünür, - Yön pusulası gülü mevcut istikamette donar ve",
+    "title_tr": "AHRS takipte başarısız"
   },
   {
     "id": "s29",
-    "title": "When an AHRS fails, the following indications are observed o…",
+    "title": "AHRS fails following",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "When an AHRS fails, the following indications are observed on the associated - ADI sphere turns entirely blue, - Red ATT FAIL flag appears in the upper centre of ADI, - Heading compass rose freezes at existing heading, and - Red FAIL flag appears on HSI above the fixed airplane symbol",
-    "caption_tr": ""
+    "caption_tr": "Bir AHRS başarısız olduğunda ilgili ilgili göstergede aşağıdaki belirtiler gözlemlenir: - ADI küresi tamamen maviye döner, - ADI'nin üst merkezinde kırmızı ATT FAIL bayrağı görünür, - Yön pusulası gülü mevcut istikamette donar ve - HSI'de sabit uçak sembolünün üzerinde kırmızı FAIL bayrağı görünür",
+    "title_tr": "AHRS takipte başarısız"
   },
   {
     "id": "s30",
-    "title": "If the failure is on AHRS 1, attitude signal will be lost to…",
+    "title": "failure AHRS 1",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "If the failure is on AHRS 1, attitude signal will be lost to weather radar antenna for stabilization. The fuel quantity reading will not be accurate unless the aircraft pitch attitude is adjusted to zero.",
-    "caption_tr": ""
+    "caption_tr": "Arıza AHRS 1'de ise, durum sinyali stabilizasyon amacıyla meteoroloji radar antenine kaybolacaktır. Uçağın yunuslama açısı sıfıra ayarlanmadıkça yakıt miktarı okuması doğru olmayacaktır.",
+    "title_tr": "AHRS 1 hatası"
   },
   {
     "id": "s31",
-    "title": "If the failure occurs to ARHS 2, red FAIL flags will appear …",
+    "title": "failure occurs ARHS",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "If the failure occurs to ARHS 2, red FAIL flags will appear on both and backup navigation display.",
-    "caption_tr": ""
+    "caption_tr": "ARHS 2'de arıza meydana gelirse, hem yedek navigasyon ekranında hem de yedek navigasyon ekranında kırmızı FAIL bayrakları görünecektir.",
+    "title_tr": "ARHS hatası meydana"
   },
   {
     "id": "s32",
-    "title": "By selecting the AHRS reversion switch to the operative AHRS…",
+    "title": "AHRS reversion switch",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's PFD ",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda AHRS 2 olan, çalışır durumdaki AHRS'ye AHRS geri dönüş anahtarı seçildiğinde tutum ve yön referansları pilotun PFD'sine geri yüklenecektir.",
+    "title_tr": "AHRS anahtarı"
   },
   {
     "id": "s33",
-    "title": "By selecting the AHRS reversion switch to the operative AHRS…",
+    "title": "AHRS reversion switch",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "By selecting the AHRS reversion switch to the operative AHRS, which in this case is AHRS 2, attitude and heading references will be restored to pilot's PFD",
-    "caption_tr": ""
+    "caption_tr": "Bu durumda AHRS 2 olan, çalışır durumdaki AHRS'ye AHRS geri dönüş anahtarı seçildiğinde tutum ve yön referansları pilotun PFD'sine geri yüklenecektir.",
+    "title_tr": "AHRS anahtarı"
   },
   {
     "id": "s34",
-    "title": "Since AHRS 2 is providing attitude and heading references to…",
+    "title": "Since AHRS 2",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "Since AHRS 2 is providing attitude and heading references to all, ATT 2 and MAG 2 are annunciated on the PFDs and MFD",
-    "caption_tr": ""
+    "caption_tr": "AHRS 2 herkese tutum ve yön referansları sağladığından ATT 2 ve MAG 2, PFD'lerde ve MFD'de duyurulur.",
+    "title_tr": "AHRS 2'den beri"
   },
   {
     "id": "s35",
-    "title": "In accordance with the abnormal procedure, an attempt should…",
+    "title": "accordance abnormal procedure",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "In accordance with the abnormal procedure, an attempt should be made to reinitialise the failed AHRS inflight. This is done by pulling and resetting the affected AHRS CBs. In carrying out this procedure, airplane must be kept wings-level and unaccelerated flight during the re-alignment process. Inflight alignment takes about 15 seconds to complete.",
-    "caption_tr": ""
+    "caption_tr": "Anormal prosedüre uygun olarak, başarısız olan AHRS uçuşunu yeniden başlatmak için bir girişimde bulunulmalıdır. Bu, etkilenen AHRS CB'lerin çekilip sıfırlanmasıyla yapılır. Bu prosedürü gerçekleştirirken, yeniden hizalama işlemi sırasında uçağın kanatlar seviyesinde tutulması ve hızlanmadan uçması gerekir. Uçuş sırasında hizalamanın tamamlanması yaklaşık 15 saniye sürer.",
+    "title_tr": "anormal prosedüre uygun"
   },
   {
     "id": "s36",
-    "title": "If neither AHRS has completely failed, but there is a disagr…",
+    "title": "neither AHRS has",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "If neither AHRS has completely failed, but there is a disagreement between them on attitude or heading, the comparator monitor annunciation will appear flashing in amber and then become steady on both PFDs. The ATT will annunciate if there is a discrepency in attitude. Similarly, will annunciate if there is a difference in heading.",
-    "caption_tr": ""
+    "caption_tr": "Her iki AHRS de tamamen arızalanmadıysa ancak tutum veya yön konusunda aralarında bir anlaşmazlık varsa, karşılaştırıcı monitör bildirimi sarı renkte yanıp sönecek ve ardından her iki PFD'de de sabit hale gelecektir. Tutumlarda bir tutarsızlık olması durumunda ATT bunu duyuracaktır. Benzer şekilde başlıkta da farklılık olması halinde duyurulacaktır.",
+    "title_tr": "AHRS'de de yok"
   },
   {
     "id": "s37",
-    "title": "The AHRUs normally receive TAS information from the on-side …",
+    "title": "AHRUs normally receive",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "The AHRUs normally receive TAS information from the on-side ADC.",
-    "caption_tr": ""
+    "caption_tr": "AHRU'lar normalde TAS bilgilerini yan taraftaki ADC'den alır.",
+    "title_tr": "AHRU'lar normalde alır"
   },
   {
     "id": "s38",
-    "title": "In the event of a single ADC failure, they can both receives…",
+    "title": "event single ADC",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "In the event of a single ADC failure, they can both receives TAS from the operating ADC.",
-    "caption_tr": ""
+    "caption_tr": "Tek bir ADC arızası durumunda her ikisi de çalışan ADC'den TAS alabilir.",
+    "title_tr": "olay tek ADC"
   },
   {
     "id": "s39",
-    "title": "If TAS input is completely lost on a AHRS which is very remo…",
+    "title": "TAS input completely",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "If TAS input is completely lost on a AHRS which is very remote, the CAS will display 'AHRS 1 or 2 BASIC message in white. Although system operation may be degraded somewhat in this mode, the manufacturer claims the AHRS still retains the same accuracy as a conventional spinning mass type gyro. However, if this occurs while airplane is on the ground, takeoff is not recommended.",
-    "caption_tr": ""
+    "caption_tr": "Çok uzaktaki bir AHRS'de TAS girişi tamamen kaybolursa, CAS 'AHRS 1 veya 2 BASIC mesajını beyaz renkte görüntüleyecektir. Her ne kadar bu modda sistemin çalışması bir miktar bozulsa da, üretici AHRS'nin hala geleneksel dönen kütle tipi jiroskopla aynı doğruluğu koruduğunu iddia ediyor. Ancak bu durumun uçak yerdeyken meydana gelmesi durumunda kalkış tavsiye edilmez.",
+    "title_tr": "TAS girişi tamamen"
   },
   {
     "id": "s40",
-    "title": "Following entry into basic mode, the pilot must avoid sustai…",
+    "title": "Following entry basic",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "Following entry into basic mode, the pilot must avoid sustained, shallow banked turns of less than 6 degrees (e.g. a constant turn to hold DME arc). In addition, particular attention must be paid to ensure correct aircraft trim.",
-    "caption_tr": ""
+    "caption_tr": "Temel moda girişin ardından pilot, 6 dereceden daha az olan sürekli, sığ yatışlı dönüşlerden (örneğin, DME yayını tutmak için sabit bir dönüş) kaçınmalıdır. Ayrıca, doğru uçak triminin sağlanmasına özellikle dikkat edilmelidir.",
+    "title_tr": "Aşağıdaki giriş temel"
   },
   {
     "id": "s41",
-    "title": "The AHRU receives flux valve input via AHRS HEADING FREE swi…",
+    "title": "AHRU receives flux",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "The AHRU receives flux valve input via AHRS HEADING FREE switch which is located toward the outboard end of the pilot's and co-pilots lower switch panels. These are latching type switches which are dark when slave is selected and contain a FREE annunciator that illuminates when free or directional gyro mode is selected.",
-    "caption_tr": ""
+    "caption_tr": "AHRU, pilot ve yardımcı pilotların alt anahtar panellerinin dış ucuna doğru bulunan AHRS HEADING FREE anahtarı aracılığıyla akı valfi girişini alır. Bunlar, bağımlı seçildiğinde karanlık olan mandallı tip anahtarlardır ve serbest veya yönlü jiroskop modu seçildiğinde yanan SERBEST bir uyarı cihazı içerir.",
+    "title_tr": "AHRU akış alıyor"
   },
   {
     "id": "s42",
-    "title": "When HEADIING FREE switch is pressed, FREE caption illuminat…",
+    "title": "HEADIING FREE switch",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "When HEADIING FREE switch is pressed, FREE caption illuminates and AHRS 1 goes into the DG mode of heading operation. In this mode, the heading output is not slaved to the flux valve. The pilot's annunciates this mode selection with in white above HSI.",
-    "caption_tr": ""
+    "caption_tr": "HEADIING FREE anahtarına basıldığında, FREE yazısı yanar ve AHRS 1, yön işleminin DG moduna geçer. Bu modda yön çıkışı akı valfine bağlı değildir. Pilot bu mod seçimini HSI'nin üzerinde beyaz renkle bildirir.",
+    "title_tr": "HEADIING FREE anahtarı"
   },
   {
     "id": "s43",
-    "title": "Likewise, depressing the right HEADING FREE switch also disc…",
+    "title": "Likewise depressing right",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "Likewise, depressing the right HEADING FREE switch also disconnects AHRS 2 from its flux valve. Without the flux valve input, AHRS 2 will operate in DG (FREE) mode and DG 2 will annunciate on co-pilot's PFD and MFD",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde, sağ HEADING FREE anahtarına basıldığında AHRS 2'nin akış valfi ile olan bağlantısı da kesilir. Akı valfı girişi olmadan AHRS 2, DG (FREE) modunda çalışacak ve DG 2, yardımcı pilotun PFD ve MFD'sinde duyuru yapacaktır.",
+    "title_tr": "Aynı şekilde iç"
   },
   {
     "id": "s44",
-    "title": "It is not recommended that AHR Ss are operated in DG mode. H…",
+    "title": "It recommended that",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "It is not recommended that AHR Ss are operated in DG mode. However, DG mode might be used when flux valves have failed, OR when operating in charted areas of unreliable magnetic variation or heading",
-    "caption_tr": ""
+    "caption_tr": "AHR S'lerin DG modunda çalıştırılması önerilmez. Bununla birlikte, akı valfleri arızalandığında VEYA güvenilir olmayan manyetik değişim veya istikamette haritalanmış alanlarda çalışırken DG modu kullanılabilir.",
+    "title_tr": "Bunu tavsiye etti"
   },
   {
     "id": "s45",
-    "title": "Located beneath Heading Free switch is a 3-position slewing …",
+    "title": "Located beneath Heading",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "Located beneath Heading Free switch is a 3-position slewing switch: L--SLAVE--R. The switch is spring-loaded to the centre position.",
-    "caption_tr": ""
+    "caption_tr": "Serbest Yön anahtarının altında 3 konumlu bir çevirme anahtarı bulunur: L--SLAVE--R. Anahtar yaylı olarak orta konuma getirilir.",
+    "title_tr": "Başlığın altında bulunur"
   },
   {
     "id": "s46",
-    "title": "When the DG mode is selected, the slewing switch becomes fun…",
+    "title": "DG mode selected",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "When the DG mode is selected, the slewing switch becomes functional. Toggling the switch to R slews the corresponding compass card anti-clockwise. Toggling it to L slews the compass card clockwise.",
-    "caption_tr": ""
+    "caption_tr": "DG modu seçildiğinde çevirme anahtarı işlevsel hale gelir. Anahtarı R konumuna getirmek ilgili pusula kartını saat yönünün tersine çevirir. Bunu L'ye değiştirmek pusula kartını saat yönünde döndürür.",
+    "title_tr": "DG modu seçildi"
   },
   {
     "id": "s47",
-    "title": "In the DG mode, as it is with any directional gyro, it is ne…",
+    "title": "DG mode it",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "In the DG mode, as it is with any directional gyro, it is necessary to check compass heading every 5 minutes with reference to a known accurate heading source such as the standby compass. Any error can be removed by using the slewing switch to set the heading card to agree with the known reference.",
-    "caption_tr": ""
+    "caption_tr": "DG modunda, herhangi bir yönlü jiroskopta olduğu gibi, yedek pusula gibi bilinen doğru bir yön kaynağına referansla pusula yönünü her 5 dakikada bir kontrol etmek gerekir. Başlık kartını bilinen referansla uyumlu olacak şekilde ayarlamak için çevirme anahtarı kullanılarak herhangi bir hata giderilebilir.",
+    "title_tr": "DG modu"
   },
   {
     "id": "s48",
-    "title": "Each AHRU is cooled by a fan which is also in nose section. …",
+    "title": "AHRU cooled fan",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "Each AHRU is cooled by a fan which is also in nose section. The fan operates automatically to keep the AHRU with proper temperature limits.",
-    "caption_tr": ""
+    "caption_tr": "Her bir AHRU yine burun bölümünde bulunan bir fan ile soğutulur. Fan, AHRU'yu uygun sıcaklık limitlerinde tutmak için otomatik olarak çalışır.",
+    "title_tr": "AHRU soğutmalı fan"
   },
   {
     "id": "s49",
-    "title": "If the fan cooling the AHRU should fail and the temperature …",
+    "title": "fan cooling AHRU",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "If the fan cooling the AHRU should fail and the temperature exceeds predefined limits, an amber 'AHRS 1 or 2 OVHT message will appear on the CAS. Equipment damage may result if the AHRU is operated outside of normal temperature limits. Refer abnormal procedures for action.",
-    "caption_tr": ""
+    "caption_tr": "AHRU'yu soğutan fan arızalanırsa ve sıcaklık önceden tanımlanmış sınırları aşarsa, CAS'ta sarı renkli bir 'AHRS 1 veya 2 OVHT mesajı görünecektir. AHRU'nun normal sıcaklık sınırlarının dışında çalıştırılması durumunda ekipman hasarı meydana gelebilir. Eylem için anormal prosedürlere bakın.",
+    "title_tr": "Fan soğutma AHRU"
   }
 ]

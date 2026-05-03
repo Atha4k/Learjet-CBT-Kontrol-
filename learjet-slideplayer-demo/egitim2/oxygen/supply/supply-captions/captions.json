@@ -1,66 +1,74 @@
 [
   {
     "id": "s01",
-    "title": "This lesson will describe the oxygen supply up to the three …",
+    "title": "This lesson will",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "This lesson will describe the oxygen supply up to the three systems. The oxygen supply for ail these systems is stored inside two oxygen bottles located inside the forward compartment of the observer's cabinet",
-    "caption_tr": ""
+    "caption_tr": "Bu derste üç sisteme kadar oksijen beslemesi anlatılacaktır. Tüm bu sistemlerin oksijen kaynağı, gözlemci kabininin ön bölmesinde bulunan iki oksijen şişesinin içinde depolanır.",
+    "title_tr": "Bu ders"
   },
   {
     "id": "s02",
-    "title": "Each oxygen bottle incorporates: A Direct-reading pressure g…",
+    "title": "Direct-reading pressure g",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Each oxygen bottle incorporates: A Direct-reading pressure gauge",
-    "caption_tr": ""
+    "caption_tr": "Her oksijen şişesi şunları içerir: Doğrudan okunan bir basınç göstergesi",
+    "title_tr": "Doğrudan okuma basıncı"
   },
   {
     "id": "s03",
-    "title": "The pressure sensors provide information on bottle pressure …",
+    "title": "pressure sensors information",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The pressure sensors provide information on bottle pressure on the SUMMARY page of EICAS or on the R-M-U, engine page two. It also provides information on pressure, expressed in liters pr i ro. aw aa Fr wri",
-    "caption_tr": ""
+    "caption_tr": "Basınç sensörleri, EICAS'ın ÖZET sayfasında veya R-M-U motor sayfasında ikinci sayfada şişe basıncı hakkında bilgi sağlar. Aynı zamanda litre cinsinden ifade edilen basınç hakkında da bilgi sağlar. aa aa Cum yaz",
+    "title_tr": "basınç sensörleri bilgisi"
   },
   {
     "id": "s04",
-    "title": "The pressure sensors also provide CAS messages if the bottle…",
+    "title": "pressure sensors also",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The pressure sensors also provide CAS messages if the bottle pressure is at an abnormal level. OXYGEN PRESSURE HIGH or OXYGEN QUANTITY LOW will be displayed. This is accompanied by a single chime and master caution. Check oxygen quantity to determine the fault. rr i ro. aw aa Fr wri",
-    "caption_tr": ""
+    "caption_tr": "Basınç sensörleri ayrıca şişe basıncının anormal bir seviyede olması durumunda CAS mesajları da sağlar. OKSİJEN BASINCI YÜKSEK veya OKSİJEN MİKTARI DÜŞÜK görüntülenecektir. Buna tek bir zil sesi ve usta ihtarı eşlik eder. Arızayı belirlemek için oksijen miktarını kontrol edin. rr ben ro. aa aa Cum yaz",
+    "title_tr": "basınç sensörleri de"
   },
   {
     "id": "s05",
-    "title": "In the event of an abnormally high pressure within the bottl…",
+    "title": "event abnormally high",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "In the event of an abnormally high pressure within the bottle, the safety discharge plug will rupture. Oxygen will escape to ambient through a port on the right side of the fuselage. m i ro. aw am Fr wri",
-    "caption_tr": ""
+    "caption_tr": "Şişe içinde anormal derecede yüksek basınç olması durumunda emniyet boşaltma tapası patlayacaktır. Oksijen, gövdenin sağ tarafındaki bir porttan ortama kaçacaktır. ben ro. ah Cum yaz",
+    "title_tr": "olay anormal derecede"
   },
   {
     "id": "s06",
-    "title": "The thermal discharge port is located on the right side of t…",
+    "title": "thermal discharge port",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The thermal discharge port is located on the right side of the fuselage, aft and below the cockpit window. it is normally covered by a green plastic disc and a missing disc could indicate that a thermal discharge has taken place. pr i ro. aw am Fr wri",
-    "caption_tr": ""
+    "caption_tr": "Termal boşaltma portu, gövdenin sağ tarafında, kıç tarafında ve kokpit penceresinin altında bulunur. normalde yeşil plastik bir diskle kaplıdır ve eksik bir disk, termal bir deşarjın gerçekleştiğini gösterebilir. pr ben ro. ah Cum yaz",
+    "title_tr": "termal deşarj portu"
   },
   {
     "id": "s07",
-    "title": "The pressure of the oxygen, which leaves the bottle, is regu…",
+    "title": "pressure oxygen which",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The pressure of the oxygen, which leaves the bottle, is regulated down to about sixty to eighty This regulated oxygen pressure is available at the oxygen masks of the pilots, at the observer's oxygen control valve, and at the passenger oxygen contro valve. i ro. aw aa Fr wri",
-    "caption_tr": ""
+    "caption_tr": "Şişeden çıkan oksijenin basıncı yaklaşık 60-80'e kadar ayarlanır. Bu ayarlanmış oksijen basıncı pilotların oksijen maskelerinde, gözlemci oksijen kontrol valfinde ve yolcu oksijen kontrol valfinde mevcuttur. ben ro. aa aa Cum yaz",
+    "title_tr": "basınçlı oksijen hangisi"
   },
   {
     "id": "s08",
-    "title": "This may be an indication that the oxygen cylinder shutoff v…",
+    "title": "This may indication",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "This may be an indication that the oxygen cylinder shutoff vaives have not been opened after maintenance work has been carried out p i ro. aw aa Fr wri",
-    "caption_tr": ""
+    "caption_tr": "Bu, bakım çalışmaları yapıldıktan sonra oksijen tüpü kapatma vanalarının açılmadığının bir göstergesi olabilir. aa aa Cum yaz",
+    "title_tr": "Bu gösterge olabilir"
   }
 ]

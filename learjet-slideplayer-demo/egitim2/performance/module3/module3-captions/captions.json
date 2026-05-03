@@ -1,226 +1,254 @@
 [
   {
     "id": "s01",
-    "title": "The above picture shows the seating layout of Each seating i…",
+    "title": "above picture seating",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The above picture shows the seating layout of Each seating is designated with a fuselage station The supernumerary crew occupies at seat number 1. It is recommended that passengers are distributed symmetrically on both sides of the seating rows. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki resimde oturma düzeni gösterilmektedir. Her koltuk bir gövde istasyonu ile belirlenmiştir. Fazladan mürettebat 1 numaralı koltukta oturmaktadır. Yolcuların oturma sıralarının her iki tarafına simetrik olarak dağıtılması tavsiye edilir. 1 _",
+    "title_tr": "resm üstündeki oturma"
   },
   {
     "id": "s02",
-    "title": "The formula given above is the item Index. Item Index is the…",
+    "title": "formula given above",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The formula given above is the item Index. Item Index is the moment of the item, loaded or unloaded. When an item is loaded, the Weight is positive. Conversely, if an item is unloaded from the aircraft after having work out the aircraft C of G trim, a negative sign is associated with the Weight. By doing that a new CG trim can be workout without error. ER 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıda verilen formül İndeks maddesidir. Öğe İndeksi, öğenin yüklenme veya boşaltılma anıdır. Bir öğe yüklendiğinde Ağırlık pozitiftir. Tersine, uçağın C ve G trimini hesapladıktan sonra bir öğe uçaktan boşaltılırsa, Ağırlık ile negatif bir işaret ilişkilendirilir. Bunu yaparak yeni bir CG trimi hatasız olarak çalıştırılabilir. Acil Servis 1 _",
+    "title_tr": "yukarıda verilen formül"
   },
   {
     "id": "s03",
-    "title": "From the formula of the item index, it can be determined tha…",
+    "title": "formula item index",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "From the formula of the item index, it can be determined that the reference datum of the aircraft is at fuselage station J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Madde indeksinin formülünden uçağın referans verisinin J 1 _ gövde istasyonunda olduğu belirlenebilir.",
+    "title_tr": "formül öğesi dizini"
   },
   {
     "id": "s04",
-    "title": "Recall in your basic that a clockwise moment about a fulcrum…",
+    "title": "Recall your basic",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Recall in your basic that a clockwise moment about a fulcrum is considered positive moment and anti-clockwise, negative moment. When items are loaded on the right of reference datum (on FS it will produce clockwise moment and, hence, a positive sign. Likewise, loading items on the left of datum will create anti-clockwise moment which will result in negative sign. EE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Temel bilginizde, bir dayanak noktasına göre saat yönündeki bir anın pozitif moment, saat yönünün tersine ise negatif moment olarak kabul edildiğini hatırlayın. Öğeler referans datumunun sağına yüklendiğinde (FS'de saat yönünde moment ve dolayısıyla pozitif bir işaret üretecektir. Benzer şekilde, öğelerin referans datumunun soluna yüklenmesi saat yönünün tersine moment oluşturacak ve bu da negatif işaretle sonuçlanacaktır. EE 1 _",
+    "title_tr": "Temel bilgilerinizi hatırlayın"
   },
   {
     "id": "s05",
-    "title": "It is upon this basis that the INDEX COMPUTATION chart is fo…",
+    "title": "It upon this",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "It is upon this basis that the INDEX COMPUTATION chart is formulated. We will discuss this again later on. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "ENDEKS HESAPLAMA şeması bu temelde formüle edilmiştir. Bu konuyu daha sonra tekrar tartışacağız. JE 1 _",
+    "title_tr": "Bunun üzerine"
   },
   {
     "id": "s06",
-    "title": "Above is the manual loadsheet. Explanation is available when…",
+    "title": "Above manual loadsheet",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Above is the manual loadsheet. Explanation is available when you click on each box on the loadsheet. The explanation will appear in the text box. There will be no audio accompanied each explanation. You may begin clicking each box for explanation. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıda manuel yükleme sayfası bulunmaktadır. Açıklamayı yük sayfasındaki her kutuya tıkladığınızda görebilirsiniz. Açıklama metin kutusunda görünecektir. Her açıklamaya ses eşlik etmeyecektir. Açıklama için her kutuya tıklamaya başlayabilirsiniz. JE 1 _",
+    "title_tr": "Manuel yükleme sayfası"
   },
   {
     "id": "s07",
-    "title": "Let's consider a practical example of a flight, from SIN to …",
+    "title": "Let's consider practical",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Let's consider a practical example of a flight, from SIN to The Basic Weight and Index of the aircraft are entered. These are obtained from the from the Basic Weight Schedule which is kept in the Aircraft Certification File. men an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Pratik bir uçuş örneğini ele alalım; SIN'den uçağın Temel Ağırlığı ve Endeksi girilir. Bunlar Uçak Sertifikasyon Dosyasında saklanan Temel Ağırlık Tablosundan elde edilir. erkekler ve 1 _",
+    "title_tr": "Pratik düşünelim"
   },
   {
     "id": "s08",
-    "title": "Enter Crew weight and Index. They can be found in Weight and…",
+    "title": "Enter Crew weight",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Enter Crew weight and Index. They can be found in Weight and Balance manual. There are no pantry items on the These are food, beverages, cutlery, etc, found in normal passenger airplane. a mean 1 _",
-    "caption_tr": ""
+    "caption_tr": "Mürettebat ağırlığını ve Dizini girin. Bunlar Ağırlık ve Denge kılavuzunda bulunabilir. Normal yolcu uçaklarında bulunan yiyecek, içecek, çatal-bıçak vs. gibi kiler eşyaları bulunmamaktadır. ortalama 1 _",
+    "title_tr": "Mürettebat ağırlığını girin"
   },
   {
     "id": "s09",
-    "title": "Adding Basic and Crew gives the Dry Operating Weight. The Ta…",
+    "title": "Adding Basic Crew",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Adding Basic and Crew gives the Dry Operating Weight. The Takeoff Fuel, which is from the flight plan, is kg. Adding these two gives Operating Weight of the aircraft. men an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Temel ve Mürettebat eklenmesi Kuru Çalışma Ağırlığını verir. Uçuş planında yer alan Kalkış Yakıtı kg’dır. Bu ikisinin eklenmesi uçağın Çalışma Ağırlığını verir. erkekler ve 1 _",
+    "title_tr": "Temel Mürettebat Ekleme"
   },
   {
     "id": "s10",
-    "title": "Up to this stage, no traffic load is considered yet. Moving …",
+    "title": "this stage no",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Up to this stage, no traffic load is considered yet. Moving on to the top right corner, this space allows the crew to determine maximum traffic load that can be carried for this particular flight. men an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bu aşamaya kadar henüz herhangi bir trafik yükü dikkate alınmamaktadır. Sağ üst köşeye doğru ilerlersek, bu alan mürettebatın söz konusu uçuş için taşınabilecek maksimum trafik yükünü belirlemesine olanak tanır. erkekler ve 1 _",
+    "title_tr": "bu aşama hayır"
   },
   {
     "id": "s11",
-    "title": "Taking the lowest of the three Maximum Takeoff Weights, the …",
+    "title": "Taking lowest three",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Taking the lowest of the three Maximum Takeoff Weights, the Maximum Certified Takeoff Wt is used as the basis to determine the Allowed Traffic Load-764 kg. em an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Üç Maksimum Kalkış Ağırlığından en düşük olanı alınarak, Maksimum Sertifikalı Kalkış Ağırlığı, İzin Verilen Trafik Yükü-764 kg'ı belirlemek için temel olarak kullanılır. 1 _",
+    "title_tr": "En düşük üçü"
   },
   {
     "id": "s12",
-    "title": "The flight consists of 3 passengers. For loadsheet purposes,…",
+    "title": "flight 3 passengers",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The flight consists of 3 passengers. For loadsheet purposes, each passenger weight is 77 kg. In addition, each passenger is entitled to 20 kg of baggage. That gives total baggage weight of 60 kg. Adding all three passengers weights gives kg. Total Traffic Load is kg. me an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Uçuş 3 yolcudan oluşuyor. Yük tablosu açısından her yolcunun ağırlığı 77 kg'dır. Ayrıca her yolcunun 20 kg bagaj hakkı bulunmaktadır. Bu da toplam bagaj ağırlığının 60 kg olduğunu gösteriyor. Her üç yolcunun ağırlıklarının eklenmesi kg'ı verir. Toplam Trafik Yükü kg'dır. bana ve 1 _",
+    "title_tr": "uçuş 3 yolcu"
   },
   {
     "id": "s13",
-    "title": "Since the Allowed Traffic load is kg and the Actual Traffic …",
+    "title": "Since Allowed Traffic",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Since the Allowed Traffic load is kg and the Actual Traffic load is kg, the aircraft can further accommodate kg. This is known as Underlioad Before en an 1 _",
-    "caption_tr": ""
+    "caption_tr": "İzin Verilen Trafik yükü kg ve Gerçek Trafik yükü kg olduğundan, uçak kg'ı daha fazla taşıyabilir. Bu, 1 _'den Önce Underlioad olarak bilinir.",
+    "title_tr": "İzin Verilen Trafikten"
   },
   {
     "id": "s14",
-    "title": "The Zero Fuel Wt is addition of everything except Takeoff Fu…",
+    "title": "Zero Fuel Wt",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The Zero Fuel Wt is addition of everything except Takeoff Fuel. men an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Sıfır Yakıt Ağırlığı, Kalkış Yakıtı dışındaki her şeyin eklenmesidir. erkekler ve 1 _",
+    "title_tr": "Sıfır Yakıt Ağırlığı"
   },
   {
     "id": "s15",
-    "title": "Turning now to LEARJET 45 TRIM CHART to workout the Zero Fue…",
+    "title": "Turning LEARJET 45",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Turning now to LEARJET 45 TRIM CHART to workout the Zero Fuel Wt CG trim. Enter the departure station, flight number and the date in the box as shown. The aircraft Basic Wt and the Index are enter on the first line of the Index Computation. men an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Şimdi Sıfır Yakıtlı Wt CG trimini geliştirmek için LEARJET 45 TRIM TABLOSUNA dönüyoruz. Kalkış istasyonunu, uçuş numarasını ve tarihi gösterildiği gibi kutuya girin. Uçağın Temel Ağırlığı ve Endeksi, Endeks Hesaplamasının ilk satırına girilir. erkekler ve 1 _",
+    "title_tr": "LEARJET 45'i döndürmek"
   },
   {
     "id": "s16",
-    "title": "Referring to the INDEX TABLE for passenger, retrieve passeng…",
+    "title": "Referring INDEX TABLE",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Referring to the INDEX TABLE for passenger, retrieve passengers weights and indices and fill them accordingly on the INDEX COMPUTATION. Notice that passengers indices are negative. This was explained earlier. Now add all the passengers indices. PE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yolcu için DİZİN TABLOSUNA başvurarak, yolcuların ağırlıklarını ve endekslerini alın ve bunları DİZİN HESAPLAMASINA göre doldurun. Yolcu endekslerinin negatif olduğuna dikkat edin. Bu daha önce açıklanmıştı. Şimdi tüm yolcu endekslerini ekleyin. PE 1 _",
+    "title_tr": "DİZİN TABLOSUNA BAĞLI"
   },
   {
     "id": "s17",
-    "title": "Subtract the total passengers indices from the Dry Operating…",
+    "title": "Subtract total passengers",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Subtract the total passengers indices from the Dry Operating Weight Index-that gives as the resultant index units. Ce 1 _",
-    "caption_tr": ""
+    "caption_tr": "Sonuç olarak indeks birimlerini veren Kuru Çalışma Ağırlığı İndeksinden toplam yolcu indekslerini çıkarın. Ce 1 _",
+    "title_tr": "Toplam yolcuları çıkarın"
   },
   {
     "id": "s18",
-    "title": "Going back to the INDEX TABLE again. A total of 60 kg passen…",
+    "title": "Going back INDEX",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Going back to the INDEX TABLE again. A total of 60 kg passengers baggage is loaded into the Tail Baggage Area. To obtain 60 kg baggage index, we will have to add and (which are index units for 10 kg and 50 kg of baggage respectively). That gives Index Unit of (positive index). Alternatively, the Item Index formula may also be used to determine the baggage index. Transfer this figure to the INDEX COMPUTATION chart. PE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tekrar INDEX TABLOSUNA dönelim. Kuyruk Bagaj Alanına toplam 60 kg yolcu bagajı yüklenmektedir. 60 kg bagaj indeksini elde etmek için ve (sırasıyla 10 kg ve 50 kg bagaj için indeks birimleridir) eklememiz gerekir. Bu, (pozitif indeks) İndeks Birimi'ni verir. Alternatif olarak bagaj endeksini belirlemek için Ürün Endeksi formülü de kullanılabilir. Bu rakamı ENDEKS HESAPLAMA tablosuna aktarın. PE 1 _",
+    "title_tr": "Geriye Dönüyoruz INDEX"
   },
   {
     "id": "s19",
-    "title": "Along the line LADEN INDEX ZERO FUEL WEIGHT (LIZFWY), the to…",
+    "title": "Along line LADEN",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Along the line LADEN INDEX ZERO FUEL WEIGHT (LIZFWY), the total Zero Fuel Wt is kg; The resultant indices are IU. With the two information, we will proceed to the TRIM CHART. a ta 1 _",
-    "caption_tr": ""
+    "caption_tr": "YÜKLÜ ENDEKS SIFIR YAKIT AĞIRLIĞI (LIZFWY) hattı boyunca toplam Sıfır Yakıt Ağırlığı kg'dır; Ortaya çıkan endeksler IU'dur. İki bilgi ile TRIM CHART'a geçeceğiz. bir de 1 _",
+    "title_tr": "LADEN hattı boyunca"
   },
   {
     "id": "s20",
-    "title": "On the TRIM CHART, draw a vertical line (LIZFW) to coincide …",
+    "title": "TRIM CHART draw",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "On the TRIM CHART, draw a vertical line (LIZFW) to coincide I. U on the horizontal scales. On the vertical scales, locate Actual Zero Fuel Wt of kg and draw a horizontal line across the the TRIM CHART. Where the two lines intersect, that is the Zero Fuel Wt Centre of Gravity (C of FE 1 _",
-    "caption_tr": ""
+    "caption_tr": "TRIM CHART'ta yatay ölçeklerde I.U ile çakışacak dikey bir çizgi (LIZFW) çizin. Dikey ölçeklerde Gerçek Sıfır Yakıt Ağırlığını kg olarak bulun ve TRIM TABLOSU boyunca yatay bir çizgi çizin. İki çizginin kesiştiği yer Sıfır Yakıt Ağırlık Merkezidir (FE 1 _'nin C'si)",
+    "title_tr": "TRIM TABLOSU çizimi"
   },
   {
     "id": "s21",
-    "title": "The intersection of LIZFW and must be within the applicable …",
+    "title": "intersection LIZFW must",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The intersection of LIZFW and must be within the applicable envelope as well as below the maximum line. Re-trimming is required if the above conditions are not met. FE 1 _",
-    "caption_tr": ""
+    "caption_tr": "LIZFW ve'nin kesişimi geçerli zarfın içinde ve maksimum çizginin altında olmalıdır. Yukarıdaki koşulların karşılanmaması durumunda yeniden kesim yapılması gerekir. FE 1 _",
+    "title_tr": "LIZFW kavşağı mutlaka"
   },
   {
     "id": "s22",
-    "title": "Now, draw a line through the C of G and follow the closest M…",
+    "title": "draw line through",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "Now, draw a line through the C of G and follow the closest MAC (Mean Aerodynamic Chord) line to meet the MAC scale at the top of the chart. Read the MAC in . Ce 1 _",
-    "caption_tr": ""
+    "caption_tr": "Şimdi, G'nin C'si boyunca bir çizgi çizin ve grafiğin üst kısmındaki MAC ölçeğini karşılamak için en yakın MAC (Ortalama Aerodinamik Akor) çizgisini takip edin. MAC'i okuyun. Ce 1 _",
+    "title_tr": "içinden çizgi çekmek"
   },
   {
     "id": "s23",
-    "title": "Now, proceed to the loadsheet and fill the space as shown. S…",
+    "title": "proceed loadsheet fill",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Now, proceed to the loadsheet and fill the space as shown. Still on the loadsheet, continue where we last stopped and fill the Takeoff Fuel. Adding Zero Fuel Wt to this gives Takeoff Wit of the aircraft. Now, go back to the INDEX COMPUTATION chart. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Şimdi yükleme sayfasına ilerleyin ve alanı gösterildiği gibi doldurun. Hala yükleme sayfasındayken son durduğumuz yerden devam edin ve Kalkış Yakıtını doldurun. Buna Sıfır Yakıt Ağırlığının eklenmesi uçağın Kalkış Zekasını verir. Şimdi INDEX HESAPLAMA tablosuna geri dönün. 1 _",
+    "title_tr": "yük sayfası doldurmaya"
   },
   {
     "id": "s24",
-    "title": "On the Index computation chart, fill kg as shown. To find th…",
+    "title": "Index computation chart",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "On the Index computation chart, fill kg as shown. To find the index of takeoff fuel, refer FUEL INDEX TABLE. Locate index unit for kg of fuel. Transfer that on INDEX COMPUTATION. Under LADEN INDEX TAKEOFF WEIGHT (LITOW), the Takeoff Wt is kg and the associated index is LU. PE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Endeks hesaplama tablosunda kg'yi gösterildiği gibi doldurun. Kalkış yakıtı endeksini bulmak için YAKIT ENDEKS TABLOSUNA bakın. Yakıt kg'ı için indeks birimini bulun. Bunu INDEX HESAPLAMA'ya aktarın. YÜKLÜ ENDEKS KALKIŞ AĞIRLIĞI (LITOW) altında, Kalkış Wt kg'dir ve ilgili indeks LU'dur. PE 1 _",
+    "title_tr": "Endeks hesaplama tablosu"
   },
   {
     "id": "s25",
-    "title": "Going back to the TRIM CHART, draw a vertical line (LITOW) a…",
+    "title": "Going back TRIM",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Going back to the TRIM CHART, draw a vertical line (LITOW) at .U.and a horizontal line at the actual Takeoff Wt of kg. The intersection of the LITOW line and actual TOW line shows the position of the Takeoff Wt C of G. Ensure the C of G is within the envelop, otherwise re-trimming is required. PE 1 _",
-    "caption_tr": ""
+    "caption_tr": "TRIM TABLOSUNA geri dönersek, .U.'da dikey bir çizgi (LITOW) ve gerçek Kalkış Ağırlığı kg'da yatay bir çizgi çizin. LITOW çizgisi ile gerçek TOW çizgisinin kesişimi, G'nin Kalkış Wt C'sinin konumunu gösterir. G'nin C'sinin zarf içinde olduğundan emin olun, aksi takdirde yeniden trimleme gerekir. PE 1 _",
+    "title_tr": "TRIM'e geri dönüyoruz"
   },
   {
     "id": "s26",
-    "title": "Draw a line through the Takeoff Wt C of G using the closest …",
+    "title": "Draw line through",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "Draw a line through the Takeoff Wt C of G using the closest MAC line as a guide. Project the line to the top and determine the TOW MAC-23.6. rn me an 1 _",
-    "caption_tr": ""
+    "caption_tr": "En yakın MAC çizgisini kılavuz olarak kullanarak Kalkış Wt C'si (G) boyunca bir çizgi çizin. Çizgiyi en üste yansıtın ve TOW MAC-23.6'yı belirleyin. bana 1 ver _",
+    "title_tr": "Araya çizgi çek"
   },
   {
     "id": "s27",
-    "title": "From the STAB TRIM SETTING chart, the horizontal stabilizer …",
+    "title": "STAB TRIM SETTING",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "From the STAB TRIM SETTING chart, the horizontal stabilizer position is determined. The chart converts TOW MAC to stabilizer trim setting. em an 1 _",
-    "caption_tr": ""
+    "caption_tr": "STAB TRIM SETTING tablosundan yatay dengeleyicinin konumu belirlenir. Tablo TOW MAC'i stabilizatör trim ayarına dönüştürür. 1 _",
+    "title_tr": "STAB TRİM AYARI"
   },
   {
     "id": "s28",
-    "title": "Complete the loadsheet by filling LITOW , MACTOW and STAB TO…",
+    "title": "Complete loadsheet filling",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "Complete the loadsheet by filling LITOW , MACTOW and STAB TO. rn me an 1 _",
-    "caption_tr": ""
+    "caption_tr": "LITOW, MACTOW ve STAB TO'yu doldurarak yükleme sayfasını tamamlayın. bana 1 ver _",
+    "title_tr": "Yük sayfası doldurma"
   }
 ]

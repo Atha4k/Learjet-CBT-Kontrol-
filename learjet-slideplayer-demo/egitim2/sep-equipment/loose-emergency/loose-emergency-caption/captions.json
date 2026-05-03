@@ -1,259 +1,291 @@
 [
   {
     "id": "s01",
-    "title": "The Loose Emergency Equipment module will describe the locat…",
+    "title": "Loose Emergency Equipment",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Loose Emergency Equipment module will describe the locations of loose emergency equipment used for fire fighting and life saving and also the operation of such equipment which is specific to the Operation of Loose emergency equipment which is common to other aircraft operated by SIA is not covered in the course.",
-    "caption_tr": ""
+    "caption_tr": "Gevşek Acil Durum Ekipmanı modülü, yangınla mücadele ve can kurtarma için kullanılan gevşek acil durum ekipmanının yerlerini açıklayacak ve ayrıca SIA tarafından işletilen diğer uçaklarda ortak olan Gevşek acil durum ekipmanının Operasyonuna özel olan bu tür ekipmanların çalışması kursta ele alınmayacaktır.",
+    "title_tr": "Gevşek Acil Durum"
   },
   {
     "id": "s02",
-    "title": "Each crew member has a Halon fire extinguisher located under…",
+    "title": "crew member has",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Each crew member has a Halon fire extinguisher located under his seat, accessible from the front of his seat.",
-    "caption_tr": ""
+    "caption_tr": "Her mürettebat üyesinin koltuğunun altında, koltuğunun ön kısmından erişilebilen bir Halon yangın söndürücü bulunmaktadır.",
+    "title_tr": "Mürettebat üyesi var"
   },
   {
     "id": "s03",
-    "title": "Another Halon fire extinguisher is located at the front of t…",
+    "title": "Another Halon fire",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Another Halon fire extinguisher is located at the front of the aft cabin partition, right hand side.",
-    "caption_tr": ""
+    "caption_tr": "Başka bir Halon yangın söndürücü, arka kabin bölmesinin ön tarafında, sağ tarafta bulunur.",
+    "title_tr": "Başka Halon ateşi"
   },
   {
     "id": "s04",
-    "title": "Smoke goggles for each crew member are located in recesses a…",
+    "title": "Smoke goggles crew",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Smoke goggles for each crew member are located in recesses at the cockpit sidewall for the pilots and at the top of the observer's cabinet for the observer.",
-    "caption_tr": ""
+    "caption_tr": "Her mürettebat üyesi için duman gözlükleri, pilotlar için kokpit yan duvarındaki girintilere ve gözlemci için gözlemci kabininin üst kısmına yerleştirilmiştir.",
+    "title_tr": "Duman gözlüğü ekibi"
   },
   {
     "id": "s05",
-    "title": "An oxycrew or smokehood is located behind the control pedest…",
+    "title": "oxycrew smokehood located",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "An oxycrew or smokehood is located behind the control pedestal.",
-    "caption_tr": ""
+    "caption_tr": "Kontrol kaidesinin arkasında bir oksijen mürettebatı veya duman davlumbazı bulunur.",
+    "title_tr": "oxycrew duman tahliyesi"
   },
   {
     "id": "s06",
-    "title": "A crash axe is located on the partition behind the co-pilot'…",
+    "title": "crash axe located",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "A crash axe is located on the partition behind the co-pilot's seat.",
-    "caption_tr": ""
+    "caption_tr": "Yardımcı pilot koltuğunun arkasındaki bölmede bir çarpışma baltası bulunur.",
+    "title_tr": "çarpışma baltası bulundu"
   },
   {
     "id": "s07",
-    "title": "A pair of heat-resistant gloves is kept inside the lower com…",
+    "title": "pair heat-resistant gloves",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "A pair of heat-resistant gloves is kept inside the lower compartment of the observer's cabinet.",
-    "caption_tr": ""
+    "caption_tr": "Gözlemci kabininin alt bölmesinde bir çift ısıya dayanıklı eldiven bulunur.",
+    "title_tr": "ısıya dayanıklı eldiven"
   },
   {
     "id": "s08",
-    "title": "All the fire fighting equipment mentioned above is standard …",
+    "title": "fire fighting equipment",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "All the fire fighting equipment mentioned above is standard loose equipment except the smokehood or PBE. Operation and use of standard emergency equipment is described in a separate Basic SEP lesson.",
-    "caption_tr": ""
+    "caption_tr": "Yukarıda belirtilen tüm yangınla mücadele ekipmanı, duman davlumbazı veya PBE dışında standart gevşek ekipmandır. Standart acil durum ekipmanının çalıştırılması ve kullanımı ayrı bir Temel SEP dersinde açıklanmaktadır.",
+    "title_tr": "yangınla mücadele ekipmanları"
   },
   {
     "id": "s09",
-    "title": "The following will describe donning and removal of the PBE. …",
+    "title": "following will describe",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The following will describe donning and removal of the PBE. Although this type of PBE is specific to the aircraft, basic precautions to be observed are similar to those applicable to other types of PBEs which have been described in the SEP BASIC lesson.",
-    "caption_tr": ""
+    "caption_tr": "Aşağıda PBE'nin takılması ve çıkarılması açıklanacaktır. Her ne kadar bu PBE türü uçağa özel olsa da, uyulması gereken temel önlemler, SEP BASIC dersinde açıklanan diğer PBE türleri için geçerli olanlara benzer.",
+    "title_tr": "aşağıda açıklanacaktır"
   },
   {
     "id": "s10",
-    "title": "Remove the PBE box from the container located behind the con…",
+    "title": "Remove PBE box",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Remove the PBE box from the container located behind the control pedestal.",
-    "caption_tr": ""
+    "caption_tr": "PBE kutusunu kontrol kaidesinin arkasında bulunan kaptan çıkarın.",
+    "title_tr": "PBE kutusunu kaldır"
   },
   {
     "id": "s11",
-    "title": "Take out the sealed bag from the box. Tear off the red pull-…",
+    "title": "Take out sealed",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Take out the sealed bag from the box. Tear off the red pull-strip to release the mask from the sealed bag.",
-    "caption_tr": ""
+    "caption_tr": "Kapalı torbayı kutudan çıkarın. Maskeyi kapalı torbadan çıkarmak için kırmızı çekme şeridini yırtın.",
+    "title_tr": "Mühürlü olarak çıkar"
   },
   {
     "id": "s12",
-    "title": "Remove the mask from the bag. Pull the PULL ring to start ox…",
+    "title": "Remove mask bag",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Remove the mask from the bag. Pull the PULL ring to start oxygen flow. Oxygen flow is audible. OXYGEN DURATION 15 MINUTES",
-    "caption_tr": ""
+    "caption_tr": "Maskeyi çantadan çıkarın. Oksijen akışını başlatmak için ÇEKME halkasını çekin. Oksijen akışı duyulabilir. OKSİJEN SÜRESİ 15 DAKİKA",
+    "title_tr": "Maske torbasını çıkarın"
   },
   {
     "id": "s13",
-    "title": "Grasp hole in neck seal with thumbs. Bend forward, insert ch…",
+    "title": "Grasp hole neck",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Grasp hole in neck seal with thumbs. Bend forward, insert chin into hole of neck seal and pull hood across the face and over the head.",
-    "caption_tr": ""
+    "caption_tr": "Boyun contasındaki deliği başparmaklarınızla kavrayın. Öne doğru eğin, çenenizi boyun contasındaki deliğe sokun ve başlığı yüzünüze ve başınıza doğru çekin.",
+    "title_tr": "Kavrama deliği boynu"
   },
   {
     "id": "s14",
-    "title": "Pull hood down. Ensure that headband inside hood firmly enga…",
+    "title": "Pull hood down",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Pull hood down. Ensure that headband inside hood firmly engages forehead. Use fingers to check that neck seal makes firm contact around the neck and that hair and clothing are clear of seal.",
-    "caption_tr": ""
+    "caption_tr": "Kaputu aşağı çekin. Kapüşonun içindeki kafa bandının alına sıkıca oturduğundan emin olun. Boyun contasının boyun çevresine sıkı bir şekilde temas ettiğinden ve saç ve giysilerin contadan temizlendiğinden emin olmak için parmaklarınızı kullanın.",
+    "title_tr": "Kaputu aşağı çekin"
   },
   {
     "id": "s15",
-    "title": "To remove the PBE, grasp the back upper edge of the hood and…",
+    "title": "remove PBE grasp",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "To remove the PBE, grasp the back upper edge of the hood and pull up over the head.",
-    "caption_tr": ""
+    "caption_tr": "PBE'yi çıkarmak için kapüşonun arka üst kenarını tutun ve başınızın üzerine doğru çekin.",
+    "title_tr": "PBE kavramasını kaldır"
   },
   {
     "id": "s16",
-    "title": "Three torchlights are located on the stub partition behind t…",
+    "title": "Three torchlights are",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Three torchlights are located on the stub partition behind the pilots seat.",
-    "caption_tr": ""
+    "caption_tr": "Pilot koltuğunun arkasındaki bölmede üç adet fener bulunmaktadır.",
+    "title_tr": "Üç fener var"
   },
   {
     "id": "s17",
-    "title": "Each pilot has a life vest which is Icoated in a pocket on t…",
+    "title": "pilot has life",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Each pilot has a life vest which is Icoated in a pocket on the cockpit sidewall.",
-    "caption_tr": ""
+    "caption_tr": "Her pilotun, kokpitin yan duvarındaki bir cebe yerleştirilmiş bir can yeleği vardır.",
+    "title_tr": "pilotun hayatı var"
   },
   {
     "id": "s18",
-    "title": "The observer's life vest is located in a pocket behind the o…",
+    "title": "observer's life vest",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The observer's life vest is located in a pocket behind the observer's seat back.",
-    "caption_tr": ""
+    "caption_tr": "Gözlemcinin can yeleği gözlemcinin koltuğunun arkasındaki cepte bulunur.",
+    "title_tr": "gözlemcinin can yeleği"
   },
   {
     "id": "s19",
-    "title": "Each passenger seat has a life vest stowed in a compartment …",
+    "title": "passenger seat has",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Each passenger seat has a life vest stowed in a compartment under the seat.",
-    "caption_tr": ""
+    "caption_tr": "Her yolcu koltuğunun altında bir bölmede can yeleği bulunur.",
+    "title_tr": "yolcu koltuğu var"
   },
   {
     "id": "s20",
-    "title": "A portable oxygen bottle with mask is located on the rear wa…",
+    "title": "portable oxygen bottle",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "A portable oxygen bottle with mask is located on the rear wall of the rear compartment.",
-    "caption_tr": ""
+    "caption_tr": "Arka bölmenin arka duvarında maskeli taşınabilir bir oksijen şişesi bulunur.",
+    "title_tr": "taşınabilir oksijen şişesi"
   },
   {
     "id": "s21",
-    "title": "First Aid kit is located on the rear wall of the aft compart…",
+    "title": "First Aid kit",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "First Aid kit is located on the rear wall of the aft compartment of the cabin.",
-    "caption_tr": ""
+    "caption_tr": "İlk Yardım çantası kabinin arka bölmesinin arka duvarında bulunur.",
+    "title_tr": "İlk Yardım çantası"
   },
   {
     "id": "s22",
-    "title": "Two liferafts are located on the luggage platform in the rea…",
+    "title": "Two liferafts are",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "Two liferafts are located on the luggage platform in the rear compartment. Each liferaft has a capacity of nine persons.",
-    "caption_tr": ""
+    "caption_tr": "Arka bölmedeki bagaj platformunda iki can salı bulunmaktadır. Her can salının kapasitesi dokuz kişidir.",
+    "title_tr": "İki can salı"
   },
   {
     "id": "s23",
-    "title": "The following describes the removal and use of the liferaft …",
+    "title": "following describes liferaft",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "The following describes the removal and use of the liferaft which is specific to the aircraft.",
-    "caption_tr": ""
+    "caption_tr": "Aşağıda uçağa özel can salının çıkarılması ve kullanılması açıklanmaktadır.",
+    "title_tr": "aşağıda can salı"
   },
   {
     "id": "s24",
-    "title": "First, remove the cargo net by undoing the securing clips. P…",
+    "title": "First remove cargo",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "First, remove the cargo net by undoing the securing clips. Press on the clip and loosen the strap. Unhook the strap from the partition.",
-    "caption_tr": ""
+    "caption_tr": "Öncelikle sabitleme klipslerini çözerek kargo ağını çıkarın. Klipse bastırın ve kayışı gevşetin. Kayışı bölmeden çıkarın.",
+    "title_tr": "İlk kargoyu çıkar"
   },
   {
     "id": "s25",
-    "title": "Next remove the straps holding the liferaft. The strap buckl…",
+    "title": "Next remove straps",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Next remove the straps holding the liferaft. The strap buckle is similar to a seat belt buckle. Remove the raft by pulling it off the platform. It weighs about 23 kilograms.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra can salını tutan kayışları çıkarın. Kayış tokası emniyet kemeri tokasına benzer. Salı platformdan çekerek çıkarın. Yaklaşık 23 kilogram ağırlığındadır.",
+    "title_tr": "Sonraki kayışları çıkarın"
   },
   {
     "id": "s26",
-    "title": "Underneath this flap are two lanyards. One is connected to a…",
+    "title": "Underneath this flap",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "Underneath this flap are two lanyards. One is connected to a ring. The other terminates in a loop. Both may be used to discharge a gas cylinder and inflate the raft.",
-    "caption_tr": ""
+    "caption_tr": "Bu kanadın altında iki adet kordon bulunmaktadır. Biri bir yüzüğe bağlı. Diğeri bir döngüde sonlanır. Her ikisi de bir gaz silindirini boşaltmak ve salı şişirmek için kullanılabilir.",
+    "title_tr": "Bu kapağın altında"
   },
   {
     "id": "s27",
-    "title": "The lanyard with the ring is directly connected to the gas c…",
+    "title": "lanyard ring directly",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "The lanyard with the ring is directly connected to the gas cylinder. Caution must be observed when handling the raft pack as any accidental pull on the ring may inflate the raft.",
-    "caption_tr": ""
+    "caption_tr": "Halkalı kordon doğrudan gaz tüpüne bağlanır. Halkanın kazara çekilmesi salı şişirebileceğinden, sal paketini tutarken dikkatli olunmalıdır.",
+    "title_tr": "kordon halkası doğrudan"
   },
   {
     "id": "s28",
-    "title": "The lanyard with the looped end is also connected to the gas…",
+    "title": "lanyard looped end",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The lanyard with the looped end is also connected to the gas cylinder but it is 22 meters long.",
-    "caption_tr": ""
+    "caption_tr": "Ucu ilmekli olan kordon da gaz tüpüne bağlıdır ancak 22 metre uzunluğundadır.",
+    "title_tr": "kordon ilmekli uç"
   },
   {
     "id": "s29",
-    "title": "The raft may be launched from either emergency exit. The 22 …",
+    "title": "raft may launched",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "The raft may be launched from either emergency exit. The 22 meter line should first be suitably secured to the aircraft before the liferaft pack is launched from the exit.",
-    "caption_tr": ""
+    "caption_tr": "Sal her iki acil durum çıkışından da fırlatılabilir. Can salı paketi çıkıştan fırlatılmadan önce ilk olarak 22 metrelik hattın uçağa uygun şekilde sabitlenmesi gerekir.",
+    "title_tr": "sal fırlatılabilir"
   },
   {
     "id": "s30",
-    "title": "Take up the slack from the lanyard and then give it a jerk t…",
+    "title": "Take slack lanyard",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "Take up the slack from the lanyard and then give it a jerk to discharge the CO2 cylinder and inflate the liferaft.",
-    "caption_tr": ""
+    "caption_tr": "Halattaki boşluğu alın ve ardından CO2 tüpünü boşaltmak ve can salını şişirmek için hafifçe çekin.",
+    "title_tr": "Gevşek kordonu alın"
   },
   {
     "id": "s31",
-    "title": "Once itis inflated, use the lanyard to pull the raft close s…",
+    "title": "Once itis inflated",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "Once itis inflated, use the lanyard to pull the raft close so that it can be boarded.",
-    "caption_tr": ""
+    "caption_tr": "Şişirildikten sonra, sala binilebilmesi için salı yakına çekmek için kordonu kullanın.",
+    "title_tr": "Bir kez şişirildiğinde"
   },
   {
     "id": "s32",
-    "title": "When all crew have boarded, release the lanyard from the air…",
+    "title": "crew have boarded",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "When all crew have boarded, release the lanyard from the aircraft. A knife that is kept on the liferaft may be used to cut the lanyard if required.",
-    "caption_tr": ""
+    "caption_tr": "Tüm mürettebat uçağa bindiğinde, kordonu uçaktan ayırın. Gerektiğinde can salının üzerinde bulunan bıçak kordonu kesmek için kullanılabilir.",
+    "title_tr": "mürettebat gemiye bindi"
   },
   {
     "id": "s33",
@@ -261,182 +293,205 @@
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 33"
   },
   {
     "id": "s34",
-    "title": "Righting handles are fitted on the underside of the raft. Th…",
+    "title": "Righting handles are",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "Righting handles are fitted on the underside of the raft. These are used in case the raft is upside down when inflated.",
-    "caption_tr": ""
+    "caption_tr": "Salın alt kısmına doğrultma kolları yerleştirilmiştir. Bunlar sal şişirildiğinde baş aşağı olması durumunda kullanılır.",
+    "title_tr": "Doğrultma kolları"
   },
   {
     "id": "s35",
-    "title": "Boarding straps are located at one place to allow for boardi…",
+    "title": "Boarding straps are",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "Boarding straps are located at one place to allow for boarding of the raft.",
-    "caption_tr": ""
+    "caption_tr": "Salın binilmesine olanak sağlamak için biniş kayışları tek bir yerde bulunur.",
+    "title_tr": "Biniş kayışları"
   },
   {
     "id": "s36",
-    "title": "This light turns on when it's battery is immersed in water.",
+    "title": "This light turns",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "This light turns on when it's battery is immersed in water.",
-    "caption_tr": ""
+    "caption_tr": "Bu ışık, pil suya batırıldığında yanar.",
+    "title_tr": "Bu ışık dönüyor"
   },
   {
     "id": "s37",
-    "title": "A grasp line runs along the circumference of the raft for pe…",
+    "title": "grasp line runs",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "A grasp line runs along the circumference of the raft for people to hold on to if they are in the water.",
-    "caption_tr": ""
+    "caption_tr": "İnsanların sudayken tutunabilmeleri için salın çevresi boyunca bir kavrama hattı uzanıyor.",
+    "title_tr": "hat koşularını kavramak"
   },
   {
     "id": "s38",
-    "title": "A heaving line with a grasp ring may be thrown to a person i…",
+    "title": "heaving line grasp",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "A heaving line with a grasp ring may be thrown to a person in the water if he has drifted out of reach of the raft occupants.",
-    "caption_tr": ""
+    "caption_tr": "Sudaki bir kişi salda bulunanların erişemeyeceği bir yere sürüklenirse, kavrama halkalı bir kaldırma halatı fırlatılabilir.",
+    "title_tr": "çizgiyi kavramak"
   },
   {
     "id": "s39",
-    "title": "Sea anchors tied to the raft help to stabilise itin rough se…",
+    "title": "Sea anchors tied",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "Sea anchors tied to the raft help to stabilise itin rough seas.",
-    "caption_tr": ""
+    "caption_tr": "Salına bağlanan deniz çapaları dalgalı denizlerde salın dengelenmesine yardımcı olur.",
+    "title_tr": "Deniz çapaları bağlı"
   },
   {
     "id": "s40",
-    "title": "A bailing bucket is provided to bail out water which may hav…",
+    "title": "bailing bucket provided",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "A bailing bucket is provided to bail out water which may have collected inside the raft.",
-    "caption_tr": ""
+    "caption_tr": "Salın içinde birikmiş olabilecek suyu boşaltmak için bir boşaltma kovası sağlanmıştır.",
+    "title_tr": "kurtarma kovası sağlandı"
   },
   {
     "id": "s41",
-    "title": "Near the handpump is a manual for the raft.",
+    "title": "Near handpump manual",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "Near the handpump is a manual for the raft.",
-    "caption_tr": ""
+    "caption_tr": "El pompasının yanında sal için bir kılavuz bulunur.",
+    "title_tr": "El pompası kılavuzu"
   },
   {
     "id": "s42",
-    "title": "Manual inflation valves are located around the raft for this…",
+    "title": "Manual inflation valves",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "Manual inflation valves are located around the raft for this purpose.",
-    "caption_tr": ""
+    "caption_tr": "Bu amaçla salın etrafına manuel şişirme valfleri yerleştirilmiştir.",
+    "title_tr": "Manuel şişirme valfleri"
   },
   {
     "id": "s43",
-    "title": "The center of the raft has a fitting for the canopy mast.",
+    "title": "center raft has",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "The center of the raft has a fitting for the canopy mast.",
-    "caption_tr": ""
+    "caption_tr": "Salın ortasında gölgelik direği için bir bağlantı parçası vardır.",
+    "title_tr": "merkez sal var"
   },
   {
     "id": "s44",
-    "title": "A web-cutting knife is located near the raft attachment line…",
+    "title": "web-cutting knife located",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "A web-cutting knife is located near the raft attachment line.",
-    "caption_tr": ""
+    "caption_tr": "Sal bağlantı hattının yakınında bir ağ kesme bıçağı bulunur.",
+    "title_tr": "ağ kesme bıçağı"
   },
   {
     "id": "s45",
-    "title": "Canopy supports fit into receptacles in the raft.",
+    "title": "Canopy supports fit",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "Canopy supports fit into receptacles in the raft.",
-    "caption_tr": ""
+    "caption_tr": "Kanopi destekleri saldaki yuvalara sığar.",
+    "title_tr": "Gölgelik uyumu destekler"
   },
   {
     "id": "s46",
-    "title": "The canopy has a radar reflective top and can fully cover th…",
+    "title": "canopy has radar",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "The canopy has a radar reflective top and can fully cover the raft once the entrance flap is in place over the entrance.",
-    "caption_tr": ""
+    "caption_tr": "Kanopinin radar yansıtıcı bir üst kısmı vardır ve giriş kanadı girişin üzerine yerleştirildiğinde salı tamamen kaplayabilir.",
+    "title_tr": "kanopinin radarı var"
   },
   {
     "id": "s47",
-    "title": "Another case contains equipment for signalling, navigation, …",
+    "title": "Another case contains",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "Another case contains equipment for signalling, navigation, medical and survival needs.",
-    "caption_tr": ""
+    "caption_tr": "Başka bir kutuda sinyalizasyon, navigasyon, tıbbi ve hayatta kalma ihtiyaçlarına yönelik ekipmanlar bulunuyor.",
+    "title_tr": "Başka vaka içerir"
   },
   {
     "id": "s48",
-    "title": "For signalling, there is a signal mirror, Dye marker, Flare …",
+    "title": "signalling there signal",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "For signalling, there is a signal mirror, Dye marker, Flare kit, Waterproof flashlight, and whistle.",
-    "caption_tr": ""
+    "caption_tr": "Sinyal vermek için sinyal aynası, Boya işaretleyici, İşaret fişeği kiti, Su geçirmez el feneri ve düdük bulunmaktadır.",
+    "title_tr": "orada sinyal veriyorsun"
   },
   {
     "id": "s49",
-    "title": "For navigation, there is a compass.",
+    "title": "navigation there compass",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "For navigation, there is a compass.",
-    "caption_tr": ""
+    "caption_tr": "Navigasyon için bir pusula var.",
+    "title_tr": "orada navigasyon pusulası"
   },
   {
     "id": "s50",
-    "title": "For survival, there is a survival manual, a repair kit for t…",
+    "title": "survival there manual",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
     "caption_en": "For survival, there is a survival manual, a repair kit for the raft, Utility knife, Water storage bag and cup kit, Water packages, Desalting kit, Ration kit and Fishing kit.",
-    "caption_tr": ""
+    "caption_tr": "Hayatta kalmak için bir hayatta kalma kılavuzu, sal için bir tamir seti, Maket bıçağı, Su saklama çantası ve bardak seti, Su paketleri, Tuzdan arındırma seti, Erzak seti ve Balık Tutma seti bulunmaktadır.",
+    "title_tr": "orada hayatta kalma"
   },
   {
     "id": "s51",
-    "title": "A first aid and sunburn ointment is also provided.",
+    "title": "first aid sunburn",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
     "caption_en": "A first aid and sunburn ointment is also provided.",
-    "caption_tr": ""
+    "caption_tr": "İlk yardım ve güneş yanığı merhemi de sağlanmaktadır.",
+    "title_tr": "ilk yardım güneş"
   },
   {
     "id": "s52",
-    "title": "An Emergency Locator Transmitter or ELT is alo packed in the…",
+    "title": "Emergency Locator Transmitter",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
     "caption_en": "An Emergency Locator Transmitter or ELT is alo packed in the raft The antenna for this ELT is normally folded and taped to the ELT.",
-    "caption_tr": ""
+    "caption_tr": "Bir Acil Durum Konum Belirleme Vericisi veya ELT de salın içinde paketlenmiştir. Bu ELT'nin anteni normalde katlanır ve ELT'ye bantlanır.",
+    "title_tr": "Acil Durum Konum"
   },
   {
     "id": "s53",
-    "title": "Once the ELT is immersed in water, the tape will dissolve an…",
+    "title": "Once ELT immersed",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
     "caption_en": "Once the ELT is immersed in water, the tape will dissolve and allow the antenna to erect Immersion in water will also automatically turn onthe ELT.",
-    "caption_tr": ""
+    "caption_tr": "ELT suya daldırıldığında bant çözülecek ve antenin dikleşmesine olanak tanıyacaktır. Suya daldırma da ELT'yi otomatik olarak açacaktır.",
+    "title_tr": "ELT daldırıldıktan sonra"
   },
   {
     "id": "s54",
-    "title": "The ELT also has an ON-OFF switch and may be switched on at …",
+    "title": "ELT also has",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
     "caption_en": "The ELT also has an ON-OFF switch and may be switched on at any time if required.",
-    "caption_tr": ""
+    "caption_tr": "ELT'de ayrıca bir AÇMA-KAPAMA anahtarı bulunur ve gerektiğinde herhangi bir zamanda açılabilir.",
+    "title_tr": "ELT'de ayrıca"
   },
   {
     "id": "s55",
-    "title": "When turned on, it sends out signals on MHz and MHz. The sig…",
+    "title": "turned it sends",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
     "caption_en": "When turned on, it sends out signals on MHz and MHz. The signal range is about miles and the ELT battery can last for up to hours.",
-    "caption_tr": ""
+    "caption_tr": "Açıldığında MHz ve MHz'de sinyaller gönderir. Sinyal aralığı yaklaşık kilometredir ve ELT pili saatlerce dayanabilir.",
+    "title_tr": "döndü gönderdi"
   }
 ]

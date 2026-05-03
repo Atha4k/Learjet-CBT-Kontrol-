@@ -1,106 +1,119 @@
 [
   {
     "id": "s01",
-    "title": "The Radio System installed on the is known as PRIMUS 2 Integ…",
+    "title": "Radio System PRIMUS",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Radio System installed on the is known as PRIMUS 2 Integrated Radio System. It consists of: - 2 integrated navigation units (INU), - 2 integrated communications units (ICU), - 2 radio management units (RMU), and - 2 audio control panels.",
-    "caption_tr": ""
+    "caption_tr": "Üzerinde kurulu olan Telsiz Sistemi PRIMUS 2 Entegre Telsiz Sistemi olarak bilinmektedir. Şunlardan oluşur: - 2 entegre navigasyon ünitesi (INU), - 2 entegre iletişim ünitesi (ICU), - 2 radyo yönetim ünitesi (RMU) ve - 2 ses kontrol paneli.",
+    "title_tr": "Radyo Sistemi PRIMUS"
   },
   {
     "id": "s02",
-    "title": "The integrated navigation unit (INU) consists of: - NAV Rece…",
+    "title": "- NAV Rece",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The integrated navigation unit (INU) consists of: - NAV Receiver Module - DME Interrogator Module - ADF Receiver Module",
-    "caption_tr": ""
+    "caption_tr": "Entegre navigasyon ünitesi (INU) aşağıdakilerden oluşur: - NAV Alıcı Modülü - DME Sorgulayıcı Modülü - ADF Alıcı Modülü",
+    "title_tr": "- NAV Çek"
   },
   {
     "id": "s03",
-    "title": "The integrated communications unit (ICU) consists of: - COM …",
+    "title": "- COM",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The integrated communications unit (ICU) consists of: - COM Transceiver Module - Mode C Transponder",
-    "caption_tr": ""
+    "caption_tr": "Entegre iletişim ünitesi (ICU) aşağıdakilerden oluşur: - COM Alıcı-Verici Modülü - Mod C Transponder",
+    "title_tr": "-COM"
   },
   {
     "id": "s04",
-    "title": "The has a feature to tune the radios through radio tuning un…",
+    "title": "has feature tune",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The has a feature to tune the radios through radio tuning unit. The radio tuning unit is accessible by depressing the TUNE button on the The RMU controls the frequency and mode selection of the aircraft radios.",
-    "caption_tr": ""
+    "caption_tr": "Radyo ayarlama ünitesi aracılığıyla radyoları ayarlama özelliği bulunmaktadır. Radyo ayarlama ünitesine, üzerindeki TUNE düğmesine basılarak erişilebilir. RMU, uçak radyolarının frekansını ve mod seçimini kontrol eder.",
+    "title_tr": "özellik ayarı var"
   },
   {
     "id": "s05",
-    "title": "One clearance delivery head is used solely for selecting fre…",
+    "title": "One clearance delivery",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "One clearance delivery head is used solely for selecting frequencies on navigation receiver module in integrated navigation 1 and communications set in integrated communications unit 1.",
-    "caption_tr": ""
+    "caption_tr": "Bir temizleme dağıtım başlığı yalnızca entegre navigasyondaki (1) navigasyon alıcı modülündeki frekansları ve entegre iletişim ünitesindeki (1) iletişim setini seçmek için kullanılır.",
+    "title_tr": "Bir gümrükleme teslimatı"
   },
   {
     "id": "s06",
-    "title": "These radio components are mounted on a common bus called th…",
+    "title": "These radio components",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "These radio components are mounted on a common bus called the primary radio system bus. In addition to each pilot's set of radios is also connected to their respective secondary radio system buses.",
-    "caption_tr": ""
+    "caption_tr": "Bu radyo bileşenleri, birincil radyo sistemi veriyolu adı verilen ortak bir veriyoluna monte edilir. Her pilotun radyo setine ek olarak, ilgili ikincil radyo sistemi otobüslerine de bağlanır.",
+    "title_tr": "Bu radyo bileşenleri"
   },
   {
     "id": "s07",
-    "title": "On the pilot's side, the RMU 1, and can be used as tuning pa…",
+    "title": "pilot's side RMU",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "On the pilot's side, the RMU 1, and can be used as tuning panel to select frequency to tune integrated navigation unit 1 (INU) and integrated communications unit 1 (ICU). Any frequency selected on RMU, or is transmitted through the radio system bus to the rest so that the same frequency is displayed on RMU, and",
-    "caption_tr": ""
+    "caption_tr": "Pilot tarafında, RMU 1, entegre navigasyon ünitesi 1'i (INU) ve entegre iletişim ünitesi 1'i (ICU) ayarlamak için frekansı seçmek üzere ayarlama paneli olarak kullanılabilir. RMU'da seçilen herhangi bir frekans veya aynı frekansın RMU'da görüntülenmesi için radyo sistem veri yolu aracılığıyla diğerlerine iletilir ve",
+    "title_tr": "pilot tarafı RMU"
   },
   {
     "id": "s08",
-    "title": "Similarly on the co-pilots side, integrated navigation unit …",
+    "title": "Similarly co-pilots side",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Similarly on the co-pilots side, integrated navigation unit 2 and integrated communications unit 2 are tuned by RMU",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde yardımcı pilotlar tarafında, entegre navigasyon ünitesi 2 ve entegre iletişim ünitesi 2, RMU tarafından ayarlanır.",
+    "title_tr": "Benzer şekilde yardımcı"
   },
   {
     "id": "s09",
-    "title": "Audio control panel (ACP) is provided for controlling incomi…",
+    "title": "Audio control panel",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Audio control panel (ACP) is provided for controlling incoming and outgoing audio signals. It is also used to control interphone, cabin public announcement (PA), and marker beacon audiosensitivity.",
-    "caption_tr": ""
+    "caption_tr": "Gelen ve giden ses sinyallerini kontrol etmek için ses kontrol paneli (ACP) sağlanmıştır. Aynı zamanda dahili telefonu, kabin genel anonsunu (PA) ve işaretçi işaret ışığının ses duyarlılığını kontrol etmek için de kullanılır.",
+    "title_tr": "Ses kontrol paneli"
   },
   {
     "id": "s10",
-    "title": "The primary radio system bus connection provides the benefit…",
+    "title": "primary radio system",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The primary radio system bus connection provides the benefit of cross-side control feature on this aircraft That is, it enables RMU to cross-tune the off-side radio components.",
-    "caption_tr": ""
+    "caption_tr": "Birincil radyo sistemi veri yolu bağlantısı, bu uçakta çapraz yan kontrol özelliğinin faydasını sağlar; yani, RMU'nun dış taraftaki radyo bileşenlerine çapraz ayar yapmasını sağlar.",
+    "title_tr": "birincil radyo sistemi"
   },
   {
     "id": "s11",
-    "title": "Loss of the primary radio system bus only eliminates the cro…",
+    "title": "Loss primary radio",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Loss of the primary radio system bus only eliminates the cross-side control feature. In that event the RMUs can no longer tune the off-side radios. RMU can only be used to tuned on-side radios. However, no radio functions are lost. The radios on both sides are still fully functional through their secondary radio system buses.",
-    "caption_tr": ""
+    "caption_tr": "Birincil radyo sistem veriyolunun kaybı yalnızca çapraz taraf kontrol özelliğini ortadan kaldırır. Bu durumda RMU'lar artık dış taraftaki radyoları ayarlayamaz. RMU yalnızca yan radyoları ayarlamak için kullanılabilir. Ancak hiçbir radyo işlevi kaybolmaz. Her iki taraftaki radyolar, ikincil radyo sistemi veri yolları aracılığıyla hala tamamen işlevseldir.",
+    "title_tr": "Birincil radyo kaybı"
   },
   {
     "id": "s12",
-    "title": "One high frequency communication set is also installed on th…",
+    "title": "One high frequency",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "One high frequency communication set is also installed on the aircraft HF communication set is installed separately as itis an optional item.",
-    "caption_tr": ""
+    "caption_tr": "Uçakta ayrıca bir adet yüksek frekanslı haberleşme seti bulunmaktadır. HF haberleşme seti opsiyonel olarak ayrıca monte edilmektedir.",
+    "title_tr": "Bir yüksek frekans"
   },
   {
     "id": "s13",
-    "title": "The SELCAL system is integrated into the 1, 2 and HF communi…",
+    "title": "SELCAL system integrated",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The SELCAL system is integrated into the 1, 2 and HF communication systems to relief crew from continuously monitoring the communication frequencies. The system will sound an alert and illuminate the appropriate SELCAL light when the ground contacts the aircraft.",
-    "caption_tr": ""
+    "caption_tr": "SELCAL sistemi, mürettebatın iletişim frekanslarını sürekli izleme zorunluluğunu ortadan kaldırmak için 1, 2 ve HF iletişim sistemlerine entegre edilmiştir. Yer uçakla temas ettiğinde sistem bir uyarı sesi verecek ve uygun SELCAL ışığını yakacaktır.",
+    "title_tr": "SELCAL sistemi entegre"
   }
 ]

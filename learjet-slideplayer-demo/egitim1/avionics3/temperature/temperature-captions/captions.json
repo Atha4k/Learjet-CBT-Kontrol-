@@ -1,26 +1,29 @@
 [
   {
     "id": "s01",
-    "title": "One total air temperature (TAT) probe is installed beside th…",
+    "title": "One total air",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "One total air temperature (TAT) probe is installed beside the right nose landing gear door. The probe is electrically heated when the R PROBES anti-ice switch is selected on. EN _",
-    "caption_tr": ""
+    "caption_tr": "Sağ burun iniş takımı kapısının yanına bir adet toplam hava sıcaklığı (TAT) probu yerleştirilmiştir. R PROBLARI buz önleme anahtarı açık seçildiğinde prob elektrikle ısıtılır. TR _",
+    "title_tr": "Tam bir hava"
   },
   {
     "id": "s02",
-    "title": "The TAT probe provides input to ADC 1 and ADC 2. J EN _",
+    "title": "TAT probe input",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The TAT probe provides input to ADC 1 and ADC 2. J EN _",
-    "caption_tr": ""
+    "caption_tr": "TAT probu ADC 1 ve ADC 2'ye giriş sağlar. J EN _",
+    "title_tr": "TAT probu girişi"
   },
   {
     "id": "s03",
-    "title": "The ADC converts TAT information to SAT and the information …",
+    "title": "ADC converts TAT",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The ADC converts TAT information to SAT and the information is displayed on EICAS and via the respective IC-600 computers. J EN _",
-    "caption_tr": ""
+    "caption_tr": "ADC, TAT bilgilerini SAT'a dönüştürür ve bilgiler EICAS'ta ve ilgili IC-600 bilgisayarları aracılığıyla görüntülenir. J TR _",
+    "title_tr": "ADC TAT'ı dönüştürür"
   }
 ]

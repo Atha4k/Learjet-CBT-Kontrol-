@@ -1,170 +1,191 @@
 [
   {
     "id": "s01",
-    "title": "To operate in the Automatic mode, ensure that - electrical p…",
+    "title": "operate Automatic mode",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "To operate in the Automatic mode, ensure that - electrical power is available and - the MANUAL PRESS switch must NOT be selected on.",
-    "caption_tr": ""
+    "caption_tr": "Otomatik modda çalıştırmak için, - elektrik gücünün mevcut olduğundan ve - MANUEL BASIN anahtarının AÇIK OLMAMIŞ olduğundan emin olun.",
+    "title_tr": "Otomatik modu çalıştır"
   },
   {
     "id": "s02",
-    "title": "Next, rotate the ALT selector to indicate the destination la…",
+    "title": "Next rotate ALT",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Next, rotate the ALT selector to indicate the destination landing elevation and not the destination pressure altitude (eg -'LA will appear on the CAB ALT display line. - After 5 seconds, the CAB ALT line will display the current cabin altitude again.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra, hedef basınç yüksekliğini değil, varış iniş yüksekliğini belirtmek için ALT seçiciyi çevirin (örneğin, CAB ALT ekran satırında -'LA görünecektir. - 5 saniye sonra, CAB ALT satırı mevcut kabin yüksekliğini tekrar gösterecektir.",
+    "title_tr": "Sonraki döndürme ALT"
   },
   {
     "id": "s03",
-    "title": "The AL Tis also displayed on the ECS system schematic displa…",
+    "title": "AL Tis also",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The AL Tis also displayed on the ECS system schematic display on the The destination field elevation is normally selected before take-off and the crew should ensure that the field elevation is set, not the field pressure altitude. The automatically compensates for non-standard field pressure through ADC inputs.",
-    "caption_tr": ""
+    "caption_tr": "AL Ti aynı zamanda ECS sistemi şematik ekranında da görüntülenir. Hedef saha yüksekliği normalde kalkıştan önce seçilir ve mürettebat saha basıncı yüksekliğinin değil saha yüksekliğinin ayarlandığından emin olmalıdır. ADC girişleri aracılığıyla standart dışı saha basıncını otomatik olarak telafi eder.",
+    "title_tr": "AL Bu da"
   },
   {
     "id": "s04",
-    "title": "Ground Mode With the cabin door closed and the thrust levers…",
+    "title": "Ground Mode cabin",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Ground Mode With the cabin door closed and the thrust levers below the controller will drive the outflow valves full open. This is the Ground mode. As the air-conditioned airflow is still going into the cabin, the airplane is pressurized to a maximum of psid.",
-    "caption_tr": ""
+    "caption_tr": "Zemin Modu Kabin kapısı kapalıyken ve kontrol ünitesinin altındaki itme kolları çıkış valflerini tamamen açık konuma getirecektir. Bu Zemin modudur. Klimalı hava akışı hala kabine girdiğinden, uçağa maksimum psid'ye kadar basınç uygulanır.",
+    "title_tr": "Zemin Modu kabini"
   },
   {
     "id": "s05",
-    "title": "When the left thrust lever is advanced past for take-off, th…",
+    "title": "left thrust lever",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "When the left thrust lever is advanced past for take-off, the enters the Take-off Pre-pressurization mode. The controller begins rating the cabin down feet at a rate of fpm. This pre-pressurization reduces any pressure transients during rotation by allowing the outflow valves to attain a controlling position prior to lift-off.",
-    "caption_tr": ""
+    "caption_tr": "Sol itme kolu kalkış için ileriye doğru ilerletildiğinde, Kalkış Ön basınçlandırma moduna girer. Kontrolör kabinin aşağı ayaklarını fpm oranında derecelendirmeye başlar. Bu ön basınçlandırma, çıkış valflerinin havalanmadan önce bir kontrol konumuna erişmesine izin vererek dönüş sırasındaki geçici basınç değişimlerini azaltır.",
+    "title_tr": "sol itme kolu"
   },
   {
     "id": "s06",
-    "title": "When the airplane becomes airborne, the system automatically…",
+    "title": "airplane becomes airborne",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "When the airplane becomes airborne, the system automatically enters the climb pressurization mode. The transfers directly from the takeoff mode to the climb mode of control when it receives the air mode signals from the squat switches.",
-    "caption_tr": ""
+    "caption_tr": "Uçak havalandığında sistem otomatik olarak tırmanış basınçlandırma moduna girer. Squat anahtarlarından hava modu sinyallerini aldığında kontrolün kalkış modundan tırmanma moduna doğrudan geçiş yapar.",
+    "title_tr": "uçak havalanıyor"
   },
   {
     "id": "s07",
-    "title": "During the climb mode, the calculates a climb schedule of ca…",
+    "title": "climb mode calculates",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "During the climb mode, the calculates a climb schedule of cabin altitude versus airplane altitude based upon the pressurized cabin pressure. This schedule is different for each takeoff altitude. Therefore, there is no fixed climb schedule.",
-    "caption_tr": ""
+    "caption_tr": "Tırmanma modu sırasında, basınçlı kabin basıncına dayalı olarak kabin yüksekliğine karşı uçak yüksekliğine göre bir tırmanma programı hesaplar. Bu program her kalkış irtifası için farklıdır. Bu nedenle sabit bir tırmanış programı yoktur.",
+    "title_tr": "tırmanma modu hesaplanır"
   },
   {
     "id": "s08",
-    "title": "As the airplane climbs, the continually re-checks the climb …",
+    "title": "airplane climbs continually",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "As the airplane climbs, the continually re-checks the climb schedule value. When the climb schedule value exceeds the current cabin altitude, the system begins to increase the cabin climb rate proportionally up to a limit of fom.",
-    "caption_tr": ""
+    "caption_tr": "Uçak tırmandıkça tırmanış programı değeri sürekli olarak yeniden kontrol edilir. Tırmanış programı değeri mevcut kabin irtifasını aştığında sistem, kabin tırmanma oranını belirli bir limite kadar orantılı olarak artırmaya başlar.",
+    "title_tr": "uçak sürekli tırmanıyor"
   },
   {
     "id": "s09",
-    "title": "When the airplane levels off, the cabin stops climbing. The …",
+    "title": "airplane levels off",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "When the airplane levels off, the cabin stops climbing. The maximum cabin altitude is feet at an airplane altitude of feet.",
-    "caption_tr": ""
+    "caption_tr": "Uçak dengelendiğinde kabin tırmanmayı bırakır. Maksimum kabin yüksekliği, feet uçak yüksekliğindeki feettir.",
+    "title_tr": "uçak seviyeleri kapalı"
   },
   {
     "id": "s10",
-    "title": "When a descent is initiated and the airplane has descended f…",
+    "title": "descent initiated airplane",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "When a descent is initiated and the airplane has descended feet or more below normal cruising altitude, the sets the cabin altitude on the descent schedule until landing. The cabin descent rate varies up to a limit of fpm as the aircraft altitude changes until landing field elevation is reached.",
-    "caption_tr": ""
+    "caption_tr": "Bir alçalma başlatıldığında ve uçak normal seyir irtifasının feet veya daha altına alçaldığında, inişe kadar iniş programında kabin irtifasını ayarlar. Kabin iniş hızı, iniş alanı yüksekliğine ulaşılana kadar uçağın yüksekliği değiştikçe fpm sınırına kadar değişir.",
+    "title_tr": "inişe geçen uçak"
   },
   {
     "id": "s11",
-    "title": "If the airplane levels off during a descend for more than a …",
+    "title": "airplane levels off",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "If the airplane levels off during a descend for more than a minute, the cabin is held at the descent schedule altitude.",
-    "caption_tr": ""
+    "caption_tr": "Eğer uçak bir dakikadan daha uzun bir alçalma sırasında yatay durursa, kabin alçalma programı irtifasında tutulur.",
+    "title_tr": "uçak seviyeleri kapalı"
   },
   {
     "id": "s12",
-    "title": "The cabin descent schedule restarts if the aircraft descends…",
+    "title": "cabin descent schedule",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The cabin descent schedule restarts if the aircraft descends again for more than feet. The cabin altitude will hold until landing when it reaches the selected landing field elevation.",
-    "caption_tr": ""
+    "caption_tr": "Uçak tekrar fitten daha fazla alçalırsa kabin iniş programı yeniden başlar. Kabin yüksekliği, seçilen iniş alanı yüksekliğine ulaşıncaya kadar inişe devam edecektir.",
+    "title_tr": "kabin iniş programı"
   },
   {
     "id": "s13",
-    "title": "Upon landing, the system will automatically open the outflow…",
+    "title": "Upon landing system",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Upon landing, the system will automatically open the outflow valves to depressurize the aircraft. This is the landing mode. If the throttles are advanced within 60 seconds of landing (as in a touch and go landing), the immediately enters the take-off (pre-pressurization) mode as described earlier.",
-    "caption_tr": ""
+    "caption_tr": "İniş sırasında sistem, uçağın basıncını düşürmek için otomatik olarak çıkış valflerini açacaktır. Bu iniş modudur. Gaz kolları inişten sonraki 60 saniye içinde ilerletilirse (dokunma ve inişte olduğu gibi), daha önce açıklandığı gibi derhal kalkış (ön basınçlandırma) moduna girer.",
+    "title_tr": "İniş sistemi üzerine"
   },
   {
     "id": "s14",
-    "title": "Flight Abort Mode If an in-flight abort is necessary after t…",
+    "title": "Flight Abort Mode",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Flight Abort Mode If an in-flight abort is necessary after takeoff, the controller retains the take-off field altitude in a stored memory. This feature allows the cabin pressure to return to the take-off altitude. Let us now assume that a turn back is desired after take-off and the airplane has leveled off.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş Durdurma Modu Kalkıştan sonra uçuş sırasında iptal gerekiyorsa, kontrolör kalkış alanı yüksekliğini kayıtlı hafızada tutar. Bu özellik kabin basıncının kalkış irtifasına dönmesini sağlar. Şimdi kalkıştan sonra geri dönüşün istendiğini ve uçağın dengeye geldiğini varsayalım.",
+    "title_tr": "Uçuş İptal Modu"
   },
   {
     "id": "s15",
-    "title": "As soon as the airplane descends more than feet, the descent…",
+    "title": "soon airplane descends",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "As soon as the airplane descends more than feet, the descent schedule is activated and the cabin altitude starts to descend towards the set destination field elevation. The maximum descent rate is fpm.",
-    "caption_tr": ""
+    "caption_tr": "Uçak fitten daha fazla alçaldığı anda alçalma programı etkinleştirilir ve kabin irtifası, belirlenen hedef alan yüksekliğine doğru alçalmaya başlar. Maksimum iniş hızı fpm'dir.",
+    "title_tr": "birazdan uçak iner"
   },
   {
     "id": "s16",
-    "title": "During descent, the airplane altitude is compared with the t…",
+    "title": "descent airplane altitude",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "During descent, the airplane altitude is compared with the take-off field elevation. If anytime within 10 minutes of lift-off, this difference is feet or less, the controller resets the descent schedule towards the TO field altitude. The assumes that the take-off field elevation is different from the destination field elevation.",
-    "caption_tr": ""
+    "caption_tr": "İniş sırasında uçağın yüksekliği kalkış alanı yüksekliğiyle karşılaştırılır. Kalkıştan sonraki 10 dakika içerisinde herhangi bir zamanda bu fark fit veya daha az olursa, kontrol cihazı alçalma programını TO alanı yüksekliğine göre sıfırlar. Kalkış alanı yüksekliğinin varış alanı yüksekliğinden farklı olduğu varsayılmaktadır.",
+    "title_tr": "iniş uçağı yüksekliği"
   },
   {
     "id": "s17",
-    "title": "While in the descent mode, if the controller detects a TAS o…",
+    "title": "descent mode controller",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "While in the descent mode, if the controller detects a TAS of less than 65 knots and the left thrust lever is retarded to below or the squat switches sense weight on wheels, the controller enters the landing mode. Upon landing, the system will automatically depressurize the aircraft.",
-    "caption_tr": ""
+    "caption_tr": "İniş modundayken, kontrol cihazının 65 deniz milinin altında bir TAS tespit etmesi ve sol itme kolunun aşağıya doğru geciktirilmesi veya squat'ın tekerlekler üzerindeki ağırlığı algılaması durumunda kontrol cihazı iniş moduna girer. İniş sırasında sistem otomatik olarak uçağın basıncını düşürecektir.",
+    "title_tr": "iniş modu kontrolörü"
   },
   {
     "id": "s18",
-    "title": "Take-off Abort mode With the cabin door closed and the thrus…",
+    "title": "Take-off Abort mode",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Take-off Abort mode With the cabin door closed and the thrust levers below the controller will drive the outflow valves full open. This is the Ground mode. As the air-conditioned airflow is still going into the cabin, the airplane is pressurized to a maximum of psid.",
-    "caption_tr": ""
+    "caption_tr": "Kalkış Durdurma modu Kabin kapısı kapalıyken ve kontrol ünitesinin altındaki itme kolları çıkış valflerini tamamen açacak. Bu Zemin modudur. Klimalı hava akışı hala kabine girdiğinden, uçağa maksimum psid'ye kadar basınç uygulanır.",
+    "title_tr": "Kalkış İptal modu"
   },
   {
     "id": "s19",
-    "title": "When the left thrust lever is advanced past for take-off, th…",
+    "title": "left thrust lever",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "When the left thrust lever is advanced past for take-off, the enters the Take-off Pre-pressurization mode. The controller begins rating the cabin down feet at a rate of fpm. This pre-pressurization reduces any pressure transients during rotation by allowing the outflow valves to attain a controlling position prior to lift-off.",
-    "caption_tr": ""
+    "caption_tr": "Sol itme kolu kalkış için ileriye doğru ilerletildiğinde, Kalkış Ön basınçlandırma moduna girer. Kontrolör kabinin aşağı ayaklarını fpm oranında derecelendirmeye başlar. Bu ön basınçlandırma, çıkış valflerinin havalanmadan önce bir kontrol konumuna erişmesine izin vererek dönüş sırasındaki geçici basınç değişimlerini azaltır.",
+    "title_tr": "sol itme kolu"
   },
   {
     "id": "s20",
-    "title": "If the thrust levers are retarded below prior to lift off, a…",
+    "title": "thrust levers are",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "If the thrust levers are retarded below prior to lift off, as in an aborted takeoff, the enters the Take-off Abort mode. In this mode, cabin altitude is rated back to the take-off field level at a rate of fpm for 20 seconds. After which, the system re-enters the Ground mode again.",
-    "caption_tr": ""
+    "caption_tr": "Kalkıştan önce itme kolları aşağıda geciktirilirse, kalkışın iptal edilmesi durumunda, Kalkış İptal moduna girer. Bu modda, kabin yüksekliği 20 saniye boyunca fpm hızında kalkış alanı seviyesine göre derecelendirilir. Bundan sonra sistem tekrar Zemin moduna girer.",
+    "title_tr": "itme kolları"
   },
   {
     "id": "s21",
-    "title": "These are the indications on the ECS schematic. - An UP arro…",
+    "title": "These are indications",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "These are the indications on the ECS schematic. - An UP arrow next to the CABIN RATE line indicates a climb. - A Down arrow next to the CABIN RATE line indicates a descent.",
-    "caption_tr": ""
+    "caption_tr": "Bunlar ECS şemasındaki göstergelerdir. - KABİN ORANI çizgisinin yanındaki YUKARI ok, tırmanışı gösterir. - KABİN HIZI satırının yanındaki Aşağı ok, bir inişi gösterir.",
+    "title_tr": "Bunlar göstergeler"
   }
 ]

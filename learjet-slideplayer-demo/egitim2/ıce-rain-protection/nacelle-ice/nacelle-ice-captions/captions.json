@@ -1,66 +1,74 @@
 [
   {
     "id": "s01",
-    "title": "Nacelle Anti-ice System The engine nacelle anti-ice shut-off…",
+    "title": "Nacelle Anti-ice System",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Nacelle Anti-ice System The engine nacelle anti-ice shut-off valves are controlled by the L NAC and R NAC heat switches. These valves are electrically controlled but pneumatically operated. This means that they require air pressure to open.",
-    "caption_tr": ""
+    "caption_tr": "Kaporta Buzlanmayı Önleme Sistemi Motor kaportası buzlanmayı önleyici kapatma valfleri, L NAC ve R NAC ısı anahtarları tarafından kontrol edilir. Bu valfler elektrikle kontrol edilir ancak pnömatik olarak çalıştırılır. Bu, açılmak için hava basıncına ihtiyaç duydukları anlamına gelir.",
+    "title_tr": "Nacelle Buz Önleyici"
   },
   {
     "id": "s02",
-    "title": "These are also Fail Safe open valves, that is, they will rem…",
+    "title": "These are also",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "These are also Fail Safe open valves, that is, they will remain open if the valves become electrically un-powered. Both the nacelle heat switches are normally off and are also monitored by the ice detection system.",
-    "caption_tr": ""
+    "caption_tr": "Bunlar aynı zamanda Arızaya Karşı Korumalı açık vanalardır, yani vanalara elektrik gücü kesildiğinde açık kalacaklardır. Motor bölmesi ısı anahtarlarının her ikisi de normalde kapalıdır ve buz algılama sistemi tarafından da izlenir.",
+    "title_tr": "Bunlar da"
   },
   {
     "id": "s03",
-    "title": "Switching the L NAC heat switch ON, opens the left nacelle v…",
+    "title": "Switching L NAC",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Switching the L NAC heat switch ON, opens the left nacelle valve. This allows air from the left high pressure or HP system to flow to the engine nacelle inlet lip. This hot air heats up the nacelle inlet lip.",
-    "caption_tr": ""
+    "caption_tr": "L NAC ısı anahtarının AÇIK konumuna getirilmesi, sol motor bölmesi valfını açar. Bu, sol yüksek basınçtan veya HP sisteminden gelen havanın motor kaportası giriş dudağına akmasına izin verir. Bu sıcak hava motor kaportasının giriş dudağını ısıtır.",
+    "title_tr": "L NAC'yi değiştirme"
   },
   {
     "id": "s04",
-    "title": "After circulating around the lip, the excess air is vented o…",
+    "title": "circulating around lip",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "After circulating around the lip, the excess air is vented overboard through a hole at the bottom of the nacelle lip.",
-    "caption_tr": ""
+    "caption_tr": "Dudak çevresinde dolaştıktan sonra fazla hava, motor bölmesi dudağının alt kısmındaki bir delikten dışarı atılır.",
+    "title_tr": "dudak çevresinde dolaşan"
   },
   {
     "id": "s05",
-    "title": "Switching the L NAC heat switch on, also powers the heater e…",
+    "title": "Switching L NAC",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Switching the L NAC heat switch on, also powers the heater element within the left engine inlet pressuretemperature (Pt2Tt2) probe. This prevents ice accumulation on the probe. This Pt2Tt2 probe supplies inlet pressure and temperature information to the DEEC for engine performance calculations.",
-    "caption_tr": ""
+    "caption_tr": "L NAC ısıtma anahtarının açılması aynı zamanda sol motor giriş basınç sıcaklığı (Pt2Tt2) probu içindeki ısıtıcı elemana da güç sağlar. Bu, prob üzerinde buz birikmesini önler. Bu Pt2Tt2 probu, motor performansı hesaplamaları için DEEC'e giriş basıncı ve sıcaklık bilgilerini sağlar.",
+    "title_tr": "L NAC'yi değiştirme"
   },
   {
     "id": "s06",
-    "title": "Indications A pressure switch is installed downstream of the…",
+    "title": "Indications pressure switch",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Indications A pressure switch is installed downstream of the nacelle anti-ice valve. A green NAC is displayed next to the ITT indicator when the anti-icing is switched on and this pressure switch senses more than psi.",
-    "caption_tr": ""
+    "caption_tr": "Göstergeler Motor bölmesi buzlanma önleme valfinin aşağı akışına bir basınç anahtarı monte edilmiştir. Buzlanma önleme açıldığında ve bu basınç anahtarı psi'den fazlasını algıladığında ITT göstergesinin yanında yeşil bir NAC görüntülenir.",
+    "title_tr": "Göstergeler basınç anahtarı"
   },
   {
     "id": "s07",
-    "title": "An amber NAC is displayed if the L NAC heat switch is on and…",
+    "title": "amber NAC L",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "An amber NAC is displayed if the L NAC heat switch is on and - this pressure sensed is less than psi or -there is a Pt2Tt2 probe heating element failure. This is followed by a caution CAS message L NAC",
-    "caption_tr": ""
+    "caption_tr": "L NAC ısı anahtarı açıksa ve - algılanan bu basınç psi'den düşükse veya - Pt2Tt2 probu ısıtma elemanı arızası varsa sarı renkli bir NAC görüntülenir. Bunu bir uyarı CAS mesajı takip eder L NAC",
+    "title_tr": "kehribar NAC L"
   },
   {
     "id": "s08",
-    "title": "An amber NAC and a caution CAS message L NAC HT FAIL ON is d…",
+    "title": "amber NAC caution",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "An amber NAC and a caution CAS message L NAC HT FAIL ON is displayed if the L NAC switch is off and yet the pressure switch senses more than psi. This indicates that the nacelle anti-ice valve is stuck open when commanded closed.",
-    "caption_tr": ""
+    "caption_tr": "L NAC anahtarı kapalıysa ve basınç anahtarı psi'den fazlasını algılıyorsa sarı renkli bir NAC ve bir uyarı CAS mesajı L NAC HT FAIL ON görüntülenir. Bu, motor bölmesi buzlanma önleyici valfinin, kapatma komutu verildiğinde açık konumda kaldığını gösterir.",
+    "title_tr": "sarı NAC uyarısı"
   }
 ]

@@ -1,90 +1,101 @@
 [
   {
     "id": "s01",
-    "title": "Should an engine fail at cruise level, a descent to a lower …",
+    "title": "Should engine fail",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Should an engine fail at cruise level, a descent to a lower flight level has to be made in order to maintain a safe flight. The shows the descent speed schedule for a maximum range descent to an altitude at or below the single engine service ceiling for the aircraft gross weight. re a 1 _ Ce 2 2 om dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Seyir seviyesinde bir motorun arızalanması durumunda, güvenli bir uçuşu sürdürmek için daha düşük bir uçuş seviyesine iniş yapılması gerekir. Uçağın brüt ağırlığı için tek motor servis tavanında veya bunun altında bir irtifaya maksimum menzilli iniş için iniş hızı programını gösterir. a 1 _ Ce 2 2 om dy 4 1 I.",
+    "title_tr": "Motor arızalanırsa"
   },
   {
     "id": "s02",
-    "title": "The thrust should be set at on the good engine and fly the d…",
+    "title": "thrust should set",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The thrust should be set at on the good engine and fly the descent speed schedule to single engine altitude. Ce a 1 _",
-    "caption_tr": ""
+    "caption_tr": "İtiş gücü iyi durumdaki motorda ayarlanmalı ve iniş hızı çizelgesini tek motor irtifasına kadar uçurmalıdır. Ce a 1 _",
+    "title_tr": "itme ayarlanmalıdır"
   },
   {
     "id": "s03",
-    "title": "A quick check should be made on FUEL PAGE 1 or PERF PAGE to …",
+    "title": "quick check should",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "A quick check should be made on FUEL PAGE 1 or PERF PAGE to obtained aircraft weight at the time of engine failure. ee a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Motor arızası anında elde edilen uçak ağırlığına ilişkin YAKIT SAYFASI 1 veya PERF SAYFASI üzerinde hızlı bir kontrol yapılmalıdır. ee a 1 _",
+    "title_tr": "hızlı kontrol yapılmalı"
   },
   {
     "id": "s04",
-    "title": "EngineApproximate Ceiling At to determine the ceiling at whi…",
+    "title": "EngineApproximate Ceiling determine",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "EngineApproximate Ceiling At to determine the ceiling at which aircraft will level off depending on aircraft weight obtained earlier. 1 _",
-    "caption_tr": ""
+    "caption_tr": "MotorYaklaşık Tavan Daha önce elde edilen uçak ağırlığına bağlı olarak uçağın düzleşeceği tavanı belirlemek için. 1 _",
+    "title_tr": "MotorYaklaşık Tavan belirleme"
   },
   {
     "id": "s05",
-    "title": "The 1 EngineLong Range Cruise Speed table provides quick ref…",
+    "title": "1 EngineLong Range",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The 1 EngineLong Range Cruise Speed table provides quick reference to 1 engine long range cruise descent speed schedule. EE 1 _",
-    "caption_tr": ""
+    "caption_tr": "1 Motor Uzun Menzilli Seyir Hızı tablosu, 1 motorlu uzun menzilli seyir iniş hızı programına hızlı referans sağlar. EE 1 _",
+    "title_tr": "1 MotorUzun Menzil"
   },
   {
     "id": "s06",
-    "title": "Once the aircraft is leveled off at the required flight leve…",
+    "title": "Once aircraft leveled",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Once the aircraft is leveled off at the required flight level, the 1 Engine-Long Range Cruise table should be referred to so as to obtain fuel flow based on the existing ISA deviation and weight of the aircraft. Setting the thrust to this fuel flow will ensure aircraft flying at long range cruise speed. re a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Uçak gerekli uçuş seviyesinde düzleştirildiğinde, uçağın mevcut ISA sapmasına ve ağırlığına dayalı olarak yakıt akışını elde etmek amacıyla 1 Motor-Uzun Menzilli Seyir tablosuna başvurulmalıdır. İtkiyi bu yakıt akışına ayarlamak, uçağın uzun menzilli seyir hızında uçmasını sağlayacaktır. 1 _",
+    "title_tr": "Uçak dengelendiğinde"
   },
   {
     "id": "s07",
-    "title": "If immediate landing cannot be made and range is of concern,…",
+    "title": "immediate landing cannot",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "If immediate landing cannot be made and range is of concern, a cruise climb should be initiated to the next available higher ceiling when weight of the aircraft permits. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Hemen iniş yapılamıyorsa ve menzil söz konusuysa, uçağın ağırlığı izin verdiğinde bir sonraki mevcut daha yüksek tavana doğru seyir tırmanışı başlatılmalıdır. 1 _",
+    "title_tr": "hemen iniş yapılamaz"
   },
   {
     "id": "s08",
-    "title": "The 1 Engine-Long Range Cruise tables are avaible from to FL…",
+    "title": "1 Engine-Long Range",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The 1 Engine-Long Range Cruise tables are avaible from to FL Standard and non-standard temperatures provide interpolation factors. Ce a 1 _",
-    "caption_tr": ""
+    "caption_tr": "1 Motor-Uzun Menzilli Seyir tabloları FL Standardına kadar mevcuttur ve standart dışı sıcaklıklar enterpolasyon faktörleri sağlar. Ce a 1 _",
+    "title_tr": "1 Motor-Uzun Menzilli"
   },
   {
     "id": "s09",
-    "title": "The RUNWAY ACTUAL LANDING DISTANCE is also used to determine…",
+    "title": "RUNWAY ACTUAL LANDING",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The RUNWAY ACTUAL LANDING DISTANCE is also used to determine Actual Landing Distance which commences when the aircraft is at 50 ft above threshold fill aircraft makes a complete stop. The chart is used in a similar manner as RUNWAY TAKEOFF FIELD LENGTH. Ce a 1 _",
-    "caption_tr": ""
+    "caption_tr": "PİST GERÇEK İNİŞ MESAFESİ ayrıca, uçak eşik dolgusunun 50 ft üzerinde olduğunda uçak tamamen durduğunda başlayan Gerçek İniş Mesafesini belirlemek için de kullanılır. Grafik, PİST KALKIŞ ALANI UZUNLUĞU'na benzer şekilde kullanılır. Ce a 1 _",
+    "title_tr": "PİSTE GERÇEK İNİŞ"
   },
   {
     "id": "s10",
-    "title": "In the Emergency Procedures such as Partial Flap Landing, th…",
+    "title": "Emergency Procedures such",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "In the Emergency Procedures such as Partial Flap Landing, the procedure call for Normal Landing Distance to be increased by a factor of When an emergency such as this is encountered, factoring of the Runway does not apply as it is an emergency situation. The airport which the crew has nominated to land must have the Runway Length equal to or more than the Actual Landing Distance x 1.2ft. mee a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kısmi Flap İniş gibi Acil Durum Prosedürlerinde, Normal İniş Mesafesinin 2 kat artırılması yönündeki prosedür çağrısı Bu tür bir acil durumla karşılaşıldığında, acil bir durum olduğundan Pist çarpanlarına ayırma uygulanmaz. Mürettebatın iniş için görevlendirdiği havaalanının Pist Uzunluğu, Gerçek İniş Mesafesi x 1,2 ft'ye eşit veya bundan daha fazla olmalıdır. bana bir 1 _",
+    "title_tr": "Acil Durum Prosedürleri"
   },
   {
     "id": "s11",
-    "title": "Landing is not permitted if the Runway Length falls short of…",
+    "title": "Landing permitted Runway",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Landing is not permitted if the Runway Length falls short of the Landing Distance calculated. ee a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Pist Uzunluğunun hesaplanan İniş Mesafesinden kısa olması durumunda inişe izin verilmez. ee a 1 _",
+    "title_tr": "İnişe izin verilen"
   }
 ]

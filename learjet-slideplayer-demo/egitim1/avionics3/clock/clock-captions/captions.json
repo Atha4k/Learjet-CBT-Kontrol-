@@ -1,130 +1,146 @@
 [
   {
     "id": "s01",
-    "title": "Clocks are installed on the left and right sides of the inst…",
+    "title": "Clocks are left",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Clocks are installed on the left and right sides of the instrument panel as shown. The clocks receive power from the aircraft normally, however, each of them is provided with a backup battery in case of power outage to the clock.",
-    "caption_tr": ""
+    "caption_tr": "Saatler gösterildiği gibi gösterge panelinin sol ve sağ taraflarına monte edilmiştir. Saatler normalde uçaktan güç alır ancak saatte elektrik kesintisi olması durumunda her birinde yedek pil bulunur.",
+    "title_tr": "Saatler kaldı"
   },
   {
     "id": "s02",
-    "title": "All alarms activated by a discrete ground provided by the cl…",
+    "title": "alarms activated discrete",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "All alarms activated by a discrete ground provided by the clocks to the crew warning panel which then generates signal tones.",
-    "caption_tr": ""
+    "caption_tr": "Tüm alarmlar, saatlerin mürettebat uyarı paneline sağladığı ayrı bir zemin aracılığıyla etkinleştirilir ve bu panel daha sonra sinyal tonları üretir.",
+    "title_tr": "Alarmlar ayrık etkinleştirildi"
   },
   {
     "id": "s03",
-    "title": "The defaulted display of the clock is the (Greenwich Mean Ti…",
+    "title": "defaulted clock Greenwich",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The defaulted display of the clock is the (Greenwich Mean Time). This is indicated by the flashing annunciator above Pressing the select (SEL) button moves the annunciator to LT (local time). Touch the SEL button to simulate that.",
-    "caption_tr": ""
+    "caption_tr": "Saatin varsayılan gösterimi (Greenwich Ortalama Saati)'dir. Bu, yukarıda yanıp sönen uyarı cihazıyla gösterilir. Seçme (SEL) düğmesine basıldığında uyarı cihazı LT'ye (yerel saat) taşınır. Bunu simüle etmek için SEL düğmesine dokunun.",
+    "title_tr": "Varsayılan saat Greenwich"
   },
   {
     "id": "s04",
-    "title": "Pressing SEL button moves the annunciator to flight time On …",
+    "title": "Pressing SEL button",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Pressing SEL button moves the annunciator to flight time On the ground, FT is not active and therefore the annunciator does not flash. When the aircraft is airborne, the squat switch sensing this condition, starts the flight time and flashes the annunciator. When the plane lands, annunciator stops flashing and the flight time ceases running.",
-    "caption_tr": ""
+    "caption_tr": "SEL butonuna basıldığında uyarı cihazı uçuş zamanına geçer. Yerde, FT aktif değildir ve bu nedenle uyarı cihazı yanıp sönmez. Uçak havadayken bu durumu algılayan squat anahtarı uçuş süresini başlatır ve uyarı cihazını yakıp söndürür. Uçak indiğinde uyarı ışığının yanıp sönmesi durur ve uçuş süresi durur.",
+    "title_tr": "SEL düğmesine basılması"
   },
   {
     "id": "s05",
-    "title": "The FT can be reset to zero by pressing the control button f…",
+    "title": "FT can reset",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The FT can be reset to zero by pressing the control button for 3 seconds. Touch button to simulate that.",
-    "caption_tr": ""
+    "caption_tr": "FT, kontrol düğmesine 3 saniye basılarak sıfırlanabilir. Bunu simüle etmek için düğmeye dokunun.",
+    "title_tr": "FT sıfırlanabilir"
   },
   {
     "id": "s06",
-    "title": "Pressing SEL button with the annunciator at FT will moves it…",
+    "title": "Pressing SEL button",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Pressing SEL button with the annunciator at FT will moves it to elapse time (ET). If the button is pushed, the elapse time will start running and annunciator flashes. Pushing again reset the elapse time to zero and the annunciator stops flashing.",
-    "caption_tr": ""
+    "caption_tr": "Uyarı cihazı FT'deyken SEL düğmesine basıldığında, geçen süreye (ET) geçilecektir. Butona basıldığında geçen süre çalışmaya başlayacak ve gösterge ışığı yanıp sönecektir. Tekrar basıldığında geçen süre sıfırlanır ve uyarı cihazının yanıp sönmesi durur.",
+    "title_tr": "SEL düğmesine basılması"
   },
   {
     "id": "s07",
-    "title": "The steps for setting or changing the displayed time are the…",
+    "title": "steps setting changing",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The steps for setting or changing the displayed time are the same for FT and ET. In the example here, we will show how is changed.",
-    "caption_tr": ""
+    "caption_tr": "Görüntülenen zamanı ayarlama veya değiştirme adımları FT ve ET için aynıdır. Buradaki örnekte nasıl değiştirildiğini göstereceğiz.",
+    "title_tr": "Adım ayarı değiştiriliyor"
   },
   {
     "id": "s08",
-    "title": "Let's assume the shown on the right is correct. To change th…",
+    "title": "Let's assume right",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Let's assume the shown on the right is correct. To change the time on the clock, 1) Ensure the annunciator is on the 2) Press both SEL and buttons at the same time.",
-    "caption_tr": ""
+    "caption_tr": "Sağda gösterilenin doğru olduğunu varsayalım. Saatteki zamanı değiştirmek için, 1) Uyarı cihazının açık olduğundan emin olun. 2) Hem SEL hem de düğmelerine aynı anda basın.",
+    "title_tr": "Doğru olduğunu varsayalım"
   },
   {
     "id": "s09",
-    "title": "When SEL and are pressed, the first digit will flash. Pressi…",
+    "title": "SEL are pressed",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "When SEL and are pressed, the first digit will flash. Pressing and holding the button changes the first digit.",
-    "caption_tr": ""
+    "caption_tr": "SEL ve tuşlarına basıldığında ilk rakam yanıp sönecektir. Düğmeye basmak ve basılı tutmak ilk rakamı değiştirir.",
+    "title_tr": "SEL'e basıldı"
   },
   {
     "id": "s10",
-    "title": "Having set the last digit, pressing SEL will resume function…",
+    "title": "Having set last",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Having set the last digit, pressing SEL will resume function and annunciator above flashes again.",
-    "caption_tr": ""
+    "caption_tr": "Son rakamı ayarladıktan sonra SEL'e basıldığında fonksiyon devam edecek ve yukarıdaki uyarı cihazı tekrar yanıp sönecektir.",
+    "title_tr": "En son ayarlandıktan"
   },
   {
     "id": "s11",
-    "title": "To set FT alarm, position annunciator on FT and set the time…",
+    "title": "set FT alarm",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "To set FT alarm, position annunciator on FT and set the time the way it was done on Let's assume FT set is hrs. When the setting is accomplished, the clock will return to show automatically.",
-    "caption_tr": ""
+    "caption_tr": "FT alarmını ayarlamak için, uyarı cihazını FT'ye konumlandırın ve saati, FT'nin ayarlandığı şekilde ayarlayın. FT ayarının saat olduğunu varsayalım. Ayar tamamlandığında saat otomatik olarak gösterilmeye geri dönecektir.",
+    "title_tr": "FT alarmını ayarla"
   },
   {
     "id": "s12",
-    "title": "When the airplane is airborne, FT starts to run. When the FT…",
+    "title": "airplane airborne FT",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "When the airplane is airborne, FT starts to run. When the FT equals the set display shall flash and alarm audio output is activated.",
-    "caption_tr": ""
+    "caption_tr": "Uçak havalandığında FT çalışmaya başlar. FT eşitlendiğinde ayarlanan ekran yanıp sönecek ve alarm ses çıkışı etkinleştirilecektir.",
+    "title_tr": "Uçak havadan FT"
   },
   {
     "id": "s13",
-    "title": "If the is displayed and the FT alarm is activated, the clock…",
+    "title": "FT alarm activated",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "If the is displayed and the FT alarm is activated, the clock will automatically select FT for display.",
-    "caption_tr": ""
+    "caption_tr": "görüntülenirse ve FT alarmı etkinleştirilirse, saat, görüntüleme için otomatik olarak FT'yi seçecektir.",
+    "title_tr": "FT alarmı etkinleştirildi"
   },
   {
     "id": "s14",
-    "title": "To stop alarm audio, either SEL or button is pressed. This w…",
+    "title": "stop alarm audio",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "To stop alarm audio, either SEL or button is pressed. This wil also cancel the set However, the display on the clock continues to indicate the airborne flight time.",
-    "caption_tr": ""
+    "caption_tr": "Alarm sesini durdurmak için SEL veya butonuna basılır. Bu aynı zamanda ayarı da iptal edecektir. Ancak saatin ekranı havadaki uçuş süresini göstermeye devam eder.",
+    "title_tr": "Alarm sesini durdur"
   },
   {
     "id": "s15",
-    "title": "When the airplane touches down, FT stops running. Pressing b…",
+    "title": "airplane touches down",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "When the airplane touches down, FT stops running. Pressing button for 3 seconds resets Touch to simulate that.",
-    "caption_tr": ""
+    "caption_tr": "Uçak yere indiğinde FT çalışmayı durdurur. Düğmeye 3 saniye basmak sıfırlanır. Bunu simüle etmek için dokunun.",
+    "title_tr": "Uçak yere iniyor"
   },
   {
     "id": "s16",
-    "title": "The clock test mode is activated by pressing the SEL button …",
+    "title": "clock test mode",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The clock test mode is activated by pressing the SEL button for 3 seconds. When the SEL is pressed and held for 3 seconds, all segments of the digits will illuminate and all 4 annunciators are activated.",
-    "caption_tr": ""
+    "caption_tr": "SEL butonuna 3 saniye basılarak saat testi modu aktif hale getirilir. SEL'e basıp 3 saniye basılı tuttuğunuzda, rakamların tüm bölümleri yanacak ve 4 uyarı cihazının tümü etkinleştirilecektir.",
+    "title_tr": "Saat testi modu"
   }
 ]

@@ -315,6 +315,10 @@
     'flight-management'
   ];
 
+  const E2_SLUG_ALIASES = {
+    apu: 'power-system'
+  };
+
   async function openTopicByIndexE1(idx){
     try{
       if(idx<0||idx>=E1_SLUGS.length){alert('Konu indeksinde bulunamadı.');return;}
@@ -328,7 +332,8 @@
   async function openTopicByTitleE2(btn){
     try{
       const title=(btn.querySelector('h3')||btn).textContent.trim();
-      const slug=slugifyTitle(title);
+      const rawSlug=slugifyTitle(title);
+      const slug=E2_SLUG_ALIASES[rawSlug] || rawSlug;
       const topic=await fetchJSON(`modules/egitim2/${slug}.json`);
       renderSubtopics(topic,title,{moduleId:'egitim2',parentSlug:slug});
     }catch(e){console.error(e);alert('Konu yüklenemedi.');}

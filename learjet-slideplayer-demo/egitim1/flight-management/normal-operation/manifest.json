@@ -1,11 +1,11 @@
 {
   "title": "Normal Operation",
-  "pages": 0,
+  "pages": 94,
   "pad": 2,
   "namePrefix": "s",
   "slidesDir": "normal-operation-slides",
   "audioDir": "normal-operation-audio",
-  "captionsManifest": "normal-operation-captions/captions.json",
+  "captionsManifest": "normal-operation-capitons/captions.json",
   "imgExt": "png",
   "audioExt": "mp3"
 }

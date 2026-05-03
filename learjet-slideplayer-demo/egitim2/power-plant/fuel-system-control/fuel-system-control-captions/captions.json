@@ -1,194 +1,218 @@
 [
   {
     "id": "s01",
-    "title": "Fuel from the main jet pump or standby pump is supplied to t…",
+    "title": "Fuel main jet",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
-    "caption_en": "Fuel from the main jet pump or standby pump is supplied to the engine fuel pump. The engine fuel pump is mechanically-driven through the accessory gearbox and has two pump stages. Output from the low pressure stage is fed to the motive flow pump. It also passes through a Fuel Heater Oil Cooler. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "Fuel from the main jet pump or standby pump is supplied to the engine fuel pump. The engine fuel pump is mechanically-driven through the accessory gearbox and has two pump stages. Output from the low pressure stage is fed to the motive flow pump. It also passes through a Fuel Heater Oil Cooler.",
+    "caption_tr": "Ana jet pompa veya yedek pompa tarafından sağlanan yakıt, motor yakıt pompasına verilir. Motor yakıt pompası, aksesuar kutusu aracılığıyla mekanik olarak çalıştırılır ve iki pompa aşamasına sahiptir. Düşük basınç aşamasından gelen çıkış, hareketli akış pompasına beslenir. Aynı zamanda bir Yakıt Isıtıcı Yağ Soğutucusu'ndan geçer.",
+    "title_tr": "Yakıt ana jeti"
   },
   {
     "id": "s02",
-    "title": "The Fuel Heater Oil Cooler serves to maintain a constant fue…",
+    "title": "Fuel Heater Oil",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
-    "caption_en": "The Fuel Heater Oil Cooler serves to maintain a constant fuel temperature while at the same time it cools the oil. This is done by a bypass valve which controls how much oil is allowed to flow thru the heater element. A sensor at the Fuel Heater Oil Cooler provides indication if the fuel temperature is not in the normal range. A left or right FUEL HEATER white advisory message indicates that fuel temperature is higher than normal. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "The Fuel Heater Oil Cooler serves to maintain a constant fuel temperature while at the same time it cools the oil. This is done by a bypass valve which controls how much oil is allowed to flow thru the heater element. A sensor at the Fuel Heater Oil Cooler provides indication if the fuel temperature is not in the normal range. A left or right FUEL HEATER white advisory message indicates that fuel temperature is higher than normal. The same message in amber indicates that fuel temperature is lower than normal and will trigger master caution.",
+    "caption_tr": "Yakıt Isıtıcı Yağ Soğutucusu, yakıt sıcaklığını sabit tutmak ve aynı zamanda yağın soğutulmasını sağlamak için kullanılır. Bu işlem, ısıtıcı eleman üzerinden akışa izin verilen yağ miktarını kontrol eden bir bypass vanası ile gerçekleştirilir. Yakıt Isıtıcı Yağ Soğutucusu'nda bulunan bir sensör, yakıt sıcaklığı normal aralığın dışında olduğunda bildirim sağlar. Sol veya sağ FUEL HEATER beyaz uyarı mesajı, yakıt sıcaklığının normalden daha yüksek olduğunu gösterir. Aynı mesaj amber renkte olduğunda, yakıt sıcaklığının normalden daha düşük olduğunu ve ana uyarıyı tetikleyeceğini belirtir.",
+    "title_tr": "Yakıt Isıtıcı Yağı"
   },
   {
     "id": "s03",
-    "title": "The engine fuel filter has a bypass in case the filter eleme…",
+    "title": "engine fuel filter",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
-    "caption_en": "The engine fuel filter has a bypass in case the filter element is blocked. If fuel is bypassing the filter in flight, a white Left or Right FUEL FILTER advisory message will be displayed on CAS. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "The engine fuel filter has a bypass in case the filter element is blocked. If fuel is bypassing the filter in flight, a white Left or Right FUEL FILTER advisory message will be displayed on CAS.",
+    "caption_tr": "Motor yakıt filtresi, filtre elemanı tıkanmışsa bir bypassa sahiptir. Yakıt filtreden uçakta geçiyorsa, CAS'te beyaz Sol veya Sağ FUEL FILTER uyarı mesajı görüntülenecektir.",
+    "title_tr": "motor yakıt filtresi"
   },
   {
     "id": "s04",
-    "title": "The filtered fuel is fed to the high pressure stage of the p…",
+    "title": "filtered fuel fed",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
-    "caption_en": "The filtered fuel is fed to the high pressure stage of the pump and this high pressure fuel is then fed to the Fuel Control Unit or FCU. This FCU will provide the correct fuel flow to the combustion chamber depending on input commands from the electronic engine control circuit J J oo cel",
-    "caption_tr": ""
+    "caption_en": "The filtered fuel is fed to the high pressure stage of the pump and this high pressure fuel is then fed to the Fuel Control Unit or FCU. This FCU will provide the correct fuel flow to the combustion chamber depending on input commands from the electronic engine control circuit.",
+    "caption_tr": "Filtrelenmiş yakıt, pompanın yüksek basınç aşamasına verilir ve bu yüksek basınçlı yakıt daha sonra Yakıt Kontrol Ünitesi veya FCU'ya beslenir. Bu FCU, elektronik motor kontrol devresinden gelen giriş komutlarına göre yanma odasına doğru yakıt akışını sağlar.",
+    "title_tr": "filtrelenmiş yakıtla beslenen"
   },
   {
     "id": "s05",
-    "title": "A flowmeter downstream of the FCU send signals to EICAS and …",
+    "title": "flowmeter downstream FCU",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
-    "caption_en": "A flowmeter downstream of the FCU send signals to EICAS and the RMU to display the flow rate in kilograms per hour. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "A flowmeter downstream of the FCU send signals to EICAS and the RMU to display the flow rate in pounds per hour. ",
+    "caption_tr": "FCU'nun aşağı akışında bulunan bir akışölçer, EICAS ve RMU'ya akış hızını saatte pound cinsinden göstermek için sinyal gönderir.",
+    "title_tr": "akış ölçer aşağı"
   },
   {
     "id": "s06",
-    "title": "We will next look at the Fuel Control Unit to see how it con…",
+    "title": "We will next",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
-    "caption_en": "We will next look at the Fuel Control Unit to see how it controls fuel flow. As the FCU is a complicated unit, the following description has been simplified for explanation purposes. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "We will next look at the Fuel Control Unit to see how it controls fuel flow. As the FCU is a complicated unit, the following description has been simplified for explanation purposes.",
+    "caption_tr": "Yakıt Kontrol Ünitesi'ni bir sonraki adımda inceleyeceğiz ve yakıt akışını nasıl kontrol ettiğini göreceğiz. FCU, karmaşık bir ünite olduğu için açıklama amaçlı olarak sadeleştirilmiştir.",
+    "title_tr": "Sonraki biz"
   },
   {
     "id": "s07",
-    "title": "The FCU is controlled by the DEEC. Power to the DEEC is cont…",
+    "title": "FCU controlled DEEC",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
-    "caption_en": "The FCU is controlled by the DEEC. Power to the DEEC is controlled by the Engine Computer switch. The switch is normally in the ON position and in this position the DEEC circuits are fully operational. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "The FCU is controlled by the DEEC. Power to the DEEC is controlled by the Engine Computer switch. The switch is normally in the ON position and in this position the DEEC circuits are fully operational. ",
+    "caption_tr": "FCU, DEEC tarafından kontrol edilir. DEEC'e giden güç, Motor Bilgisayar anahtarı tarafından kontrol edilir. Anahtar normalde Açık konumda olup, bu konumda DEEC devreleri tamamen faal olacaktır.",
+    "title_tr": "FCU kontrollü DEEC"
   },
   {
     "id": "s08",
-    "title": "The DEEC receives inputs from:- Thrust Lever position via in…",
+    "title": "- Thrust Lever",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
-    "caption_en": "The DEEC receives inputs from:- Thrust Lever position via inputs from a transducer. and N2 -ITT. - Engine inlet pressure and temperature. - Mach number, Altitude, Ambient Pressure and Temperature from the Air Data Computer. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "The DEEC receives inputs from:- Thrust Lever position via inputs from a transducer. and N2 -ITT. - Engine inlet pressure and temperature. - Mach number, Altitude, Ambient Pressure and Temperature from the Air Data Computer. ",
+    "caption_tr": "DEEC, şu girişlerden gelen verileri alır:- itme çubuğu konumu, bir transducer'dan gelen girişlerle. ve N2 -ITT. - Motor giriş basıncı ve sıcaklık. - Mak sayacı, yükseklik, çevre basıncı ve sıcaklık, Hava Verisi Bilgisayarı'ndan gelen.",
+    "title_tr": "- İtme Kolu"
   },
   {
     "id": "s09",
-    "title": "DEEC outputs control a DC torque motor in the FCU, which in …",
+    "title": "DEEC outputs control",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
-    "caption_en": "DEEC outputs control a DC torque motor in the FCU, which in turn controls fuel pressure in a metering valve controller. 1 J oo cel",
-    "caption_tr": ""
+    "caption_en": "DEEC outputs control a DC torque motor in the FCU, which in turn controls fuel pressure in a metering valve controller.Variations in fuel pressure in the controller positions a metering valve to provide the correct amount of fuel to the combustion chamber.",
+    "caption_tr": "DEEC çıkışları, FCU'daki bir DC tork motorunu kontrol eder, bu da bir ölçüm valfi kontrolöründe yakıt basıncını kontrol eder. Kontrolördeki yakıt basıncındaki değişiklikler, yanma odasına doğru miktarda yakıt sağlamak için bir ölçüm valfini konumlandırır.",
+    "title_tr": "DEEC çıkış kontrolü"
   },
   {
     "id": "s10",
-    "title": "Surge Bleed valve. This valve will modulate to prevent compr…",
+    "title": "Surge Bleed valve",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
-    "caption_en": "Surge Bleed valve. This valve will modulate to prevent compressor surge. - an auto ignition system. - a normally open Overspeed solenoid valve. This shuts down the engine if N1 exceeds percent or if N2 exceeds percent - a normally open Manual Mode solenoid valve. Fuel pressure thru this activates a Governer lockout mechanism. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "Surge Bleed valve. This valve will modulate to prevent compressor surge. - an auto ignition system. - a normally open Overspeed solenoid valve. This shuts down the engine if N1 exceeds 107 percent or if N2 exceeds 109 percent - a normally open Manual Mode solenoid valve. Fuel pressure thru this activates a Governer lockout mechanism. ",
+    "caption_tr": "Sürtünme Emme valfi. Bu valf, kompresör sarsıntısını önlemek için modüle edilir. - bir otomatik ateşleme sistemi. - normalde açık Aşırı Hız solenoid valfi. Bu, N1 107 percenti aştığında veya N2 109 percenti aştığında motoru kapatır - normalde açık Manuel Mod solenoid valfi. Bu aracılığıyla gelen yakıt basıncı, Birim kilitleme mekanizmasını etkinleştirir. ",
+    "title_tr": "Dalgalanma Boşaltma valfi"
   },
   {
     "id": "s11",
-    "title": "Within the FCU is a centrifugal governor which is driven by …",
+    "title": "Within FCU centrifugal",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
-    "caption_en": "Within the FCU is a centrifugal governor which is driven by the accessory gearbox. The governer normally functions as an overspeed governor and is set to prevent from exceeding percent A J oo cel",
-    "caption_tr": ""
+    "caption_en": "Within the FCU is a centrifugal governor which is driven by the accessory gearbox. The governer normally functions as an overspeed governor and is set to prevent from exceeding 105 percent N2. When an overspeed occurs flyweights swing out by centrifugal force. The resulttant input to the governor valve controller causes a change in fuel pressure in the fuel pressure in the metering valve controller. This causes the metering valve to restrict fuel flow and limit RPM.",
+    "caption_tr": "FCU'nun içersinde bulunan merkezcil bir birim vardır ve bu birim, yardımcı kutusu tarafından çalıştırılır. Birim normalde aşırı hız birimi olarak çalışır ve 105 percent N2'yi aşmasını engellemek için ayarlanır. Aşırı hız oluştuğunda flyweights merkezcil kuvvetle dışarı sallanır. Birim valfi kontrolörüne gelen sonuçlu giriş, yakıt basıncında bir değişikliğe neden olur. Bu da ölçüm valfini sınırlayarak yakıt akışını ve RPM'yi sınırlar.",
+    "title_tr": "FCU santrifüjünde"
   },
   {
     "id": "s12",
-    "title": "Thrust lever movement mechanically operates a Manual Shutoff…",
+    "title": "Thrust lever movement",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
-    "caption_en": "Thrust lever movement mechanically operates a Manual Shutoff valve inside the FCU. This is closed with the thrust lever at CUTOFF and opens with the thrust lever at IDLE or beyond Idle. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "Thrust lever movement mechanically operates a Manual Shutoff valve inside the FCU. This is closed with the thrust lever at CUTOFF and opens with the thrust lever at IDLE or beyond Idle. ",
+    "caption_tr": "Itme çubuğu hareketi, FCU içindeki Manuel Kapatma valfini mekanik olarak çalıştırır. Bu valf, itme çubuğu CUTOFF konumunda kapalıdır ve itme çubuğu IDLE veya IDLE'dan sonra açılır.",
+    "title_tr": "İtme kolu hareketi"
   },
   {
     "id": "s13",
-    "title": "For back-up purposes in the event of a faulty DEEC, thrust l…",
+    "title": "back-up purposes event",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
-    "caption_en": "For back-up purposes in the event of a faulty DEEC, thrust lever movement also operates a mechanical linkage to the FCU to provide inputs to the governor valve controller. Under normal conditions fuel pressure through the open Manual Mode solenoid valve acts on the Governor Lockout, which acts as a disconnect clutch. IR J oo cel",
-    "caption_tr": ""
+    "caption_en": "For back-up purposes in the event of a faulty DEEC, thrust lever movement also operates a mechanical linkage to the FCU to provide inputs to the governor valve controller. Under normal conditions fuel pressure through the open Manual Mode solenoid valve acts on the Governor Lockout, which acts as a disconnect clutch. ",
+    "caption_tr": "Faulty DEEC durumunda yedek amaçlı, itme çubuğu hareketi aynı zamanda FCU'ya mekanik bir bağlantı sağlar ve birim valfi kontrolörüne girdiler sağlar. Normal koşullarda, açık Manuel Mod solenoid valfi aracılığıyla yakıt basıncı Birim Kilitleme üzerinde etki eder ve bu da bir ayrılma klutchesi gibi davranır.",
+    "title_tr": "yedekleme amaçlı olay"
   },
   {
     "id": "s14",
-    "title": "If the engine does not run satisfactorily in the ON mode, th…",
+    "title": "engine does run",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
-    "caption_en": "If the engine does not run satisfactorily in the ON mode, the DEEC circuit may automatically trip to the Manual mode, or the Engine Computer switch may be selected to Manual or OFF. In either case, the Manual Mode soleniod valve closes. Without fuel pressure the governor Lockout is no longer active and the mechnical linkage from the thrust lever will now be able to change the fuel pressure in the governor valve controller. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "If the engine does not run satisfactorily in the ON mode, the DEEC circuit may automatically trip to the Manual mode, or the Engine Computer switch may be selected to Manual or OFF. In either case, the Manual Mode soleniod valve closes. Without fuel pressure the governor Lockout is no longer active and the mechnical linkage from the thrust lever will now be able to change the fuel pressure in the governor valve controller. ",
+    "caption_tr": "Motor ON modunda yeterince iyi çalışmazsa, DEEC devresi otomatik olarak Manuel moda geçebilir ya da Motor Bilgisayar anahtarı Manuel veya OFF konumuna getirilebilir. Her iki durumda da Manuel Mod solenoid valfi kapanır. Yakıt basıncı olmadan birim kilitleme artık etkin değil ve itme çubuğundan gelen mekanik bağlantı artık birim valfi kontrolöründe yakıt basıncını değiştirebilir.",
+    "title_tr": "motor çalışıyor"
   },
   {
     "id": "s15",
-    "title": "With the Engine Computer switch at Manual or OFF, the surge …",
+    "title": "Engine Computer switch",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
-    "caption_en": "With the Engine Computer switch at Manual or OFF, the surge bleed valve is locked out at the one-third open position and is unable to modulate and cater for all conditions of engine operation. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "With the Engine Computer switch at Manual or OFF, the surge bleed valve is locked out at the one-third open position and is unable to modulate and cater for all conditions of engine operation. Engine control through the grovnor metering valve is also not as precise as when under DEEC control. Therefore abrupt level movement should be avoided. ",
+    "caption_tr": "Motor Bilgisayar anahtarı Manuel veya OFF konumunda olduğunda, surge bleed valfi üçte bir açık konumda kilitlenir ve motor çalışması için tüm koşulları karşılamakta başarısız olur. DEEC kontrolü altında iken olduğu gibi, birim ölçüm valfi aracılığıyla motor kontrolü de daha az hassastır. Bu nedenle ani seviye hareketleri kaçınılmalıdır.",
+    "title_tr": "Motor Bilgisayarı anahtarı"
   },
   {
     "id": "s16",
-    "title": "With the engine computer switch at MANUAL, only the circuit …",
+    "title": "engine computer switch",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
-    "caption_en": "With the engine computer switch at MANUAL, only the circuit controlling the Overspeed solenoid valve is active. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "With the engine computer switch at MANUAL, only the circuit controlling the Overspeed solenoid valve is active.",
+    "caption_tr": "Motor Bilgisayar anahtarı Manuel konumunda olduğunda, sadece aşırı hız solenoid valfini kontrol eden devre etkindir.",
+    "title_tr": "motor bilgisayar anahtarı"
   },
   {
     "id": "s17",
-    "title": "In the OFF position, even the Overspeed Solenoid is inactive…",
+    "title": "OFF position even",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
-    "caption_en": "In the OFF position, even the Overspeed Solenoid is inactive. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "In the OFF position, even the Overspeed Solenoid is inactive. ",
+    "caption_tr": "OFF konumunda, aşırı hız solenoidi de etkin değildir.",
+    "title_tr": "KAPALI konumu bile"
   },
   {
     "id": "s18",
-    "title": "Left or Right ENGINE COMPUTER FAULT advisory message to be d…",
+    "title": "Left Right ENGINE",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
-    "caption_en": "Left or Right ENGINE COMPUTER FAULT advisory message to be displayed on CAS. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "Left or Right ENGINE COMPUTER FAULT advisory message to be displayed on CAS. A more serious fault will trigger master caution and an amber ENGINE COMPUTER FAULT message. The DEEC may or may not remain in the ON mode. İf the DEEC circut automatically trips to the Mauel mode, an amber MAN  annunciatator will be displayed within the N1 indicator. ",
+    "caption_tr": "Sol veya Sağ MOTOR BİLGİSAYAR HATASI uyarı mesajı CAS üzerinde gösterilmelidir. Daha ciddi bir hata, ana uyarıyı ve amber MOTOR BİLGİSAYAR HATASI mesajını tetikler. DEEC, ON modunda kalabilir ya da kalmayabilir. DEEC devresi otomatik olarak Manuel moda geçerse, amber MAN  annunciator N1 göstergesi içinde gösterilir. ",
+    "title_tr": "Sol Sağ MOTOR"
   },
   {
     "id": "s19",
-    "title": "Engine Computer switch to OFF, then back to ON. If a reset i…",
+    "title": "Engine Computer switch",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
-    "caption_en": "Engine Computer switch to OFF, then back to ON. If a reset is not successful the amber MAN annunciator will still be displayed. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "The reset attempt is allowed by selecting the Engine Computer switch to OFF, then back to ON. İf a reset is not succesful the amber MAN annunciator will still be displayed.In this case selecting the Engine Computer switch to Manuel will cause the annunciator to change to white.",
+    "caption_tr": "Reset denemesi, Motor Bilgisayar anahtarı OFF konumuna getirilerek ve ardından ON konumuna getirilerek izin verilir. Eğer bir reset başarılı değilse, amber MAN annunciator hala gösterilecektir. Bu durumda Motor Bilgisayar anahtarı Manuel konumuna getirilirse, annunciator beyaza değişecektir.",
+    "title_tr": "Motor Bilgisayarı anahtarı"
   },
   {
     "id": "s20",
-    "title": "When the thrust lever is fully retarded it will be at the CU…",
+    "title": "thrust lever fully",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
-    "caption_en": "When the thrust lever is fully retarded it will be at the CUTOFF position. At this position the Manual Shutoff valve inside the FCU will be closed and fuel supply to the engine is cut off. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "When the thrust lever is fully retarded it will be at the CUTOFF position. At this position the Manual Shutoff valve inside the FCU will be closed and fuel supply to the engine is cut off. ",
+    "caption_tr": "Itme çubuğu tamamen geri çekildiğinde, CUTOFF konumunda olacaktır. Bu konumda FCU içindeki Manuel Kesme valfi kapanacak ve motora yakıt verimi kesilecektir. ",
+    "title_tr": "kolunu tamamen itin"
   },
   {
     "id": "s21",
-    "title": "As the thrust lever is advanced, it will move to the IDLE po…",
+    "title": "thrust lever advanced",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
-    "caption_en": "As the thrust lever is advanced, it will move to the IDLE position and the manual shutoff valve in the FCU will open. At this position the engine will maintain idling speed which is dependant on air-ground sensing. I J oo cel",
-    "caption_tr": ""
+    "caption_en": "As the thrust lever is advanced, it will move to the IDLE position and the manual shutoff valve in the FCU will open. At this position the engine will maintain idling speed which is dependant on air-ground sensing. A trigger at the side of the thrust lever must be lifted up to be able to select CUTOFF from IDLE. This prevent accidental engine shutdown.",
+    "caption_tr": "Itme çubuğu ilerletildiğinde, IDLE konumuna geçecek ve FCU içindeki Manuel Kesme valfi açılacaktır. Bu konumda motor, hava-araç algılama ile belirlenen idling hızını koruyacaktır. Itme çubuğunun kenarında bulunan bir tetikleyici kaldırılmalıdır ki CUTOFF seçeneği IDLE konumundan seçilabilecek. Bu, yanlışlıkla motorun kapanmasını önler.",
+    "title_tr": "itme kolu gelişmiş"
   },
   {
     "id": "s22",
-    "title": "From the Idle position the thrust lever has a modulation ran…",
+    "title": "Idle position thrust",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
-    "caption_en": "From the Idle position the thrust lever has a modulation range until it reaches the or Max Cruise detent. Beyond this are further detents - or Max Continuous, TO or Takeoff, and APR or Automatic Performance Reserve. Thrust lever position in the detents will be indicated as green annunciators outboard of each N1 indicator. The annunciator will display TO, or APR depending on which detent the thrust lever is in. These detent positions are power setting positions and at each of these positions the FCU will control the engine to I J oo cel",
-    "caption_tr": ""
+    "caption_en": "From the Idle position the thrust lever has a modulation range until it reaches the or Max Cruise detent. Beyond this are further detents - or Max Continuous, TO or Takeoff, and APR or Automatic Performance Reserve. Thrust lever position in the detents will be indicated as green annunciators outboard of each N1 indicator. The annunciator will display TO, or APR depending on which detent the thrust lever is in. These detent positions are power setting positions and at each of these positions the FCU will control the engine to deliver a certain amount of power depending on the ambient conditions. ",
+    "caption_tr": "IDLE konumundan itme çubuğu ilerletildiğinde, Maksimum Kruvaziyon konumuna kadar modülasyon aralığı vardır. Bu noktanın ötesinde daha fazla detent bulunur - Maksimum Sürekli, Kalkış veya Kalkış ve Otomatik Performans Rezervi. Itme çubuğu detent konumlarında yer alırken, N1 göstergesi dışında yeşil annunciatorler ile gösterilir. Annunciator, itme çubuğunun bulunduğu detente göre TO veya APR gösterecektir. Bu detent konumları güç ayarları konumlarıdır ve her birinde FCU motoruna belirli bir güç seviyesi sunmak için kontrol edilir. ",
+    "title_tr": "Boşta konum itme"
   },
   {
     "id": "s23",
-    "title": "At these detent positions a reference bug will be displayed …",
+    "title": "these detent positions",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
-    "caption_en": "At these detent positions a reference bug will be displayed outside the scale and a computed reference will be displayed inside the scale in magenta. The engine should accelerate to this power setting, that is, the indicator pointer should be opposite the reference bug and the actual should approximate the reference I J oo cel",
-    "caption_tr": ""
+    "caption_en": "At these detent positions a reference bug will be displayed outside the scale and a computed reference RPM will be displayed inside the scale in magenta. The engine should accelerate to this power setting, that is, the indicator pointer should be opposite the reference bug and the actual should approximate the reference RPM ",
+    "caption_tr": "Bu detent konumlarında, ölçek dışında bir referans noktası ve ölçek içinde magenta renkte hesaplanan bir referans RPM gösterilecektir. Motor bu güç ayarına ivme kazanmalı, yani gösterge işaretçisi referans noktasının karşısında olmalı ve gerçek değer referans RPM'e yakın olmalıdır.",
+    "title_tr": "bu tetik pozisyonları"
   },
   {
     "id": "s24",
-    "title": "The N1 reference bug and Reference can also be displayed eve…",
+    "title": "N1 reference bug",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
-    "caption_en": "The N1 reference bug and Reference can also be displayed even though the thrust lever may not be in a detent position. On the ground the N1 reference bug and reference will be displayed. In this case the reference shown reflects the Takeoff I J oo cel",
-    "caption_tr": ""
+    "caption_en": "The N1 reference bug and Reference can also be displayed even though the thrust lever may not be in a detent position. On the ground the N1 reference bug and reference will be displayed. In this case the reference shown reflects the Takeoff RPM.When in flight with the flaps down the N-one referance bug and referance RPM will also be displayed for Takeoff RPM. For this condition of flight, this referance RPM reflect the Go-around reference RPM.",
+    "caption_tr": "N1 referans noktası ve referans, itme çubuğu detent konumunda olmasa bile gösterilebilir. Pistte N1 referans noktası ve referans gösterilecektir. Bu durumda gösterilen referans, Kalkış RPM'sini yansıtır. Uçuşta flap'lar indirildiğinde N1 referans noktası ve referans RPM de Kalkış RPM için gösterilecektir. Bu uçuş koşulunda, bu referans RPM Go-around referans RPM'sini yansıtır.",
+    "title_tr": "N1 referans hatası"
   }
 ]

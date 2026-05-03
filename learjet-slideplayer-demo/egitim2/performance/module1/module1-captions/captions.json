@@ -5,15 +5,17 @@
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 1"
   },
   {
     "id": "s02",
-    "title": "Lets begin with Limitations in module 1. Please view the lis…",
+    "title": "Lets begin Limitations",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Lets begin with Limitations in module 1. Please view the list of Limitations at your own pace. There will be no audio accompanying the Limitations. J 1 _ ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Modül 1'deki Sınırlamalar ile başlayalım. Lütfen Sınırlamalar listesini kendi hızınıza göre görüntüleyin. Sınırlamalara eşlik edecek herhangi bir ses olmayacaktır. J 1 _ ce 2 2 dy 4 1 I.",
+    "title_tr": "Haydi başlayalım Sınırlamalar"
   },
   {
     "id": "s03",
@@ -21,7 +23,8 @@
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 3"
   },
   {
     "id": "s04",
@@ -29,7 +32,8 @@
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 4"
   },
   {
     "id": "s05",
@@ -37,7 +41,8 @@
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 5"
   },
   {
     "id": "s06",
@@ -45,7 +50,8 @@
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 6"
   },
   {
     "id": "s07",
@@ -53,838 +59,943 @@
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 7"
   },
   {
     "id": "s08",
-    "title": "Engine Instrument and Crew Alerting System (EICAS). FE 1 _",
+    "title": "Engine Instrument Crew",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Engine Instrument and Crew Alerting System (EICAS). FE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Motor Göstergesi ve Ekip Uyarı Sistemi (EICAS). FE 1 _",
+    "title_tr": "Motor Enstrüman Ekibi"
   },
   {
     "id": "s09",
-    "title": "On ground, with the flaps selected for takeoff, the respecti…",
+    "title": "ground flaps selected",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "On ground, with the flaps selected for takeoff, the respective Digital Electronic Engine Control (DEEC) will determine the proper takeoff N1 and position the N1 reference bug to that value. The left and right N1 reference bugs should agree within 1. The N1 needle should align with the N1 bug when the thrust lever is placed in the TO position. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yerde, kalkış için seçilen flaplarla ilgili Dijital Elektronik Motor Kontrolü (DEEC), uygun kalkış N1'i belirleyecek ve N1 referans hatasını bu değere konumlandıracaktır. Sol ve sağ N1 referans hataları 1 dahilinde uyumlu olmalıdır. İtme kolu TO konumuna getirildiğinde N1 iğnesi N1 hatasıyla aynı hizada olmalıdır. JE 1 _",
+    "title_tr": "zemin kanatları seçildi"
   },
   {
     "id": "s10",
-    "title": "If the left and right N1 bugs do not agree within 1, refer t…",
+    "title": "left right N1",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "If the left and right N1 bugs do not agree within 1, refer to the applicable Takeoff Thrust Setting table for the proper thrust setting. J 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Sol ve sağ N1 hataları 1 dahilinde uyuşmuyorsa, doğru itme ayarı için ilgili Kalkış İtiş Ayarı tablosuna bakın. J 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "sol sağ N1"
   },
   {
     "id": "s11",
-    "title": "Takeoff Thrust Setting tables are available for selection: a…",
+    "title": "a",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Takeoff Thrust Setting tables are available for selection: anti-ice off, nacelle heat only and anti-ice on. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kalkış İtiş Ayarı tabloları seçim için mevcuttur: buz önleme kapalı, yalnızca motor bölmesi ısıtması ve buz önleme açık. 1 _",
+    "title_tr": "A"
   },
   {
     "id": "s12",
-    "title": "For aircraft which uses N1 as reference for setting power, w…",
+    "title": "aircraft which uses",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "For aircraft which uses N1 as reference for setting power, when N1 is plotted against outside air temperature (OAT) with pressure altitude (PA) constant, the N1 initially rises with OAT until it peaks, after which N1 decreases as OAT increases. EE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Gücü ayarlamak için N1'i referans olarak kullanan uçaklar için, N1, sabit basınç yüksekliği (PA) ile dış hava sıcaklığına (OAT) göre çizildiğinde, N1 başlangıçta zirveye ulaşana kadar OAT ile birlikte yükselir, ardından OAT arttıkça N1 azalır. EE 1 _",
+    "title_tr": "kullanan uçak"
   },
   {
     "id": "s13",
-    "title": "To obtain N1 from the table, we need to know the OAT and the…",
+    "title": "obtain N1 table",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "To obtain N1 from the table, we need to know the OAT and the PA of the airport. J 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Tablodan N1'i elde etmek için havalimanının OAT ve PA'sını bilmemiz gerekiyor. J 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "N1 tablosunu elde"
   },
   {
     "id": "s14",
-    "title": "Let us assume the aircraft is taking off from Changi Interna…",
+    "title": "Let us assume",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Let us assume the aircraft is taking off from Changi International Airport which has a field elevation of 22 feet. Assuming the temperature is and the is mb. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Uçağın, saha yüksekliği 22 feet olan Changi Uluslararası Havalimanı'ndan havalandığını varsayalım. Sıcaklığın mb olduğunu varsayarsak. 1 _",
+    "title_tr": "Varsayalım"
   },
   {
     "id": "s15",
-    "title": "Using the Correction Table which is provided in the Quick Re…",
+    "title": "Correction Table which",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Using the Correction Table which is provided in the Quick Reference Handbook the correction is feet. Adding feet to airport elevation of 22 feet, a pressure altitude of feet is obtained. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Hızlı Referans El Kitabında verilen Düzeltme Tablosunu kullanarak düzeltme ayaktır. 22 feet'lik havaalanı yüksekliğine ayaklar eklendiğinde, ayakların basınç yüksekliği elde edilir. JE 1 _",
+    "title_tr": "Düzeltme Tablosu"
   },
   {
     "id": "s16",
-    "title": "With the temperature and PA known, we shall be able to obtai…",
+    "title": "temperature PA we",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "With the temperature and PA known, we shall be able to obtain N1 from the TakeoffiGo Around chart. If anti-ice is not required, we shall use the chart shown above. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Sıcaklık ve PA bilindiğinde, TakeoffiGoaround haritasından N1'i elde edebileceğiz. Buzlanmanın önlenmesi gerekmiyorsa yukarıda gösterilen tabloyu kullanacağız. JE 1 _",
+    "title_tr": "sıcaklık PA biz"
   },
   {
     "id": "s17",
-    "title": "The temperature is The pressure altitude of feet lies betwee…",
+    "title": "temperature pressure altitude",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "The temperature is The pressure altitude of feet lies between 0 and feet. Interpolating and gives N1 as This is the figure the respective DEEC will compute. The N1 is displayed on the EICAS and is represented by N1 reference bug. a an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Sıcaklık Ayakların basınç yüksekliği 0 ile fit arasındadır. Enterpolasyon yapar ve N1'i verir Bu, ilgili DEEC'in hesaplayacağı rakamdır. N1, EICAS'ta görüntülenir ve N1 referans hatasıyla temsil edilir. bir 1 _",
+    "title_tr": "sıcaklık basınç yüksekliği"
   },
   {
     "id": "s18",
-    "title": "The shaded areas on the chart consist of N1 values that are …",
+    "title": "shaded areas chart",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "The shaded areas on the chart consist of N1 values that are close to the peak. When N1 falls in the shaded area, N1 should be obtained from the respective LIMIT TABLE. a aan 1 _",
-    "caption_tr": ""
+    "caption_tr": "Grafikteki gölgeli alanlar zirveye yakın N1 değerlerinden oluşmaktadır. N1 gölgeli alana düştüğünde, N1 ilgili LİMİT TABLOSUNDAN elde edilmelidir. bir ah 1 _",
+    "title_tr": "gölgeli alanlar grafiği"
   },
   {
     "id": "s19",
-    "title": "The LIMIT TABLE magnifies the shaded areas. By giving a peak…",
+    "title": "LIMIT TABLE magnifies",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "The LIMIT TABLE magnifies the shaded areas. By giving a peak and additional values below the peak, it allows N1 to be interpolated more accurately. So, ifthe OAT is interpolating between and give an N1 value of a an 1 _",
-    "caption_tr": ""
+    "caption_tr": "LİMİT TABLOSU gölgeli alanları büyütür. Bir tepe noktası ve tepe noktasının altında ek değerler vererek N1'in daha doğru bir şekilde enterpolasyonuna olanak sağlar. Yani, eğer OAT aralarında enterpolasyon yapıyorsa ve 1 _ arasında bir N1 değeri veriyorsa",
+    "title_tr": "LİMİT TABLOSU büyür"
   },
   {
     "id": "s20",
-    "title": "Another example: pressure altitude is feet and temperature i…",
+    "title": "pressure altitude feet",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "Another example: pressure altitude is feet and temperature is At feet, the temperature is below the shaded area. Interpolating between and gives At feet, the temperature is in the shaded area. Interpolating between and in the LIMIT TABLE gives Interpolating between ft and ft pressure altitude gives the required power setting of a an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Başka bir örnek: basınç yüksekliği feet ve sıcaklık ise feet'tir, sıcaklık gölgeli alanın altındadır. Araya enterpolasyon yapar ve verir Ayaklarda, sıcaklık gölgeli alandadır. SINIR TABLOSU arasında ve içinde enterpolasyon yapılması, ft ve ft basınç yüksekliği arasında enterpolasyon yapılması, bir 1 _ için gereken güç ayarını verir.",
+    "title_tr": "basınç yüksekliği ayakları"
   },
   {
     "id": "s21",
-    "title": "The Automatic Performance Reserve (APR) system provides for …",
+    "title": "Automatic Performance Reserve",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "The Automatic Performance Reserve (APR) system provides for an automatic increase in thrust on the operative engine in the event of power loss on the other engine during takeoff. aaa 1 _ ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Otomatik Performans Rezervi (APR) sistemi, kalkış sırasında diğer motorda güç kaybı olması durumunda çalışan motordaki itme kuvvetinin otomatik olarak artmasını sağlar. aaa 1 _ ce 2 2 dy 4 1 I.",
+    "title_tr": "Otomatik Performans Rezervi"
   },
   {
     "id": "s22",
-    "title": "This reserve power can be applied automatically if the APR i…",
+    "title": "This reserve power",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "This reserve power can be applied automatically if the APR is armed or it can be obtained manually by placing the thrust levers full forward to the APR position. a an 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Bu yedek güç, APR devredeyse otomatik olarak uygulanabilir veya itme kollarını APR konumuna tam ileri yerleştirerek manuel olarak elde edilebilir. a an 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "Bu yedek güç"
   },
   {
     "id": "s23",
-    "title": "The use of APR Thrust Setting chart is the same as TakeoffiG…",
+    "title": "APR Thrust Setting",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "The use of APR Thrust Setting chart is the same as TakeoffiGo Around chart. The table selected depends whether ANTIHICE or NAC HEAT ONLY is required or not. a an 1 _",
-    "caption_tr": ""
+    "caption_tr": "APR İtme Ayarı tablosunun kullanımı TakeoffiGoaround tablosuyla aynıdır. Seçilen tablo, ANTIHICE veya NAC HEAT ONLY'nin gerekli olup olmadığına bağlıdır. bir 1 _",
+    "title_tr": "APR İtme Ayarı"
   },
   {
     "id": "s24",
-    "title": "When the thrust levers are moved to Maximum Continuous Thrus…",
+    "title": "thrust levers are",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "When the thrust levers are moved to Maximum Continuous Thrust position and the flaps are up, the DEEC will compute power. The N1 indicators should aligned with N1 reference bug on the EICAS. a an 1 _",
-    "caption_tr": ""
+    "caption_tr": "İtme kolları Maksimum Sürekli İtme konumuna getirildiğinde ve kanatlar yukarı kaldırıldığında DEEC gücü hesaplayacaktır. N1 göstergeleri, EICAS'taki N1 referans hatasıyla uyumlu olmalıdır. bir 1 _",
+    "title_tr": "itme kolları"
   },
   {
     "id": "s25",
-    "title": "The Maximum Continuous Thrust For Climb may be used to count…",
+    "title": "Maximum Continuous Thrust",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "The Maximum Continuous Thrust For Climb may be used to counter-check the N1 reference bug displayed on the EICAS. The climb speed stipulated on the chart is KIAS up to and M above a an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tırmanış İçin Maksimum Sürekli İtme EICAS'ta görüntülenen N1 referans hatasını kontrol etmek için kullanılabilir. Tabloda belirtilen tırmanma hızı KIAS'a kadar ve M'nin üzerinde olup 1 _",
+    "title_tr": "Maksimum Sürekli İtme"
   },
   {
     "id": "s26",
-    "title": "Some boxes consist of two N1 values. The bold figure is with…",
+    "title": "Some boxes two",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "Some boxes consist of two N1 values. The bold figure is without anti-ice. The regular figure is to be used when anti-ice system is selected. Determination of N1 is the same as in TakeoffiGo-Around Thrust Setting. a an 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bazı kutular iki N1 değerinden oluşur. Cesur figür buz önleyici değildir. Buz önleme sistemi seçildiğinde normal rakam kullanılacaktır. N1'in belirlenmesi Kalkış-Etrafından Gitme İtme Ayarı ile aynıdır. bir 1 _",
+    "title_tr": "Bazı kutular iki"
   },
   {
     "id": "s27",
-    "title": "If an engine failure occurs, Maximum Continuous Thrust For T…",
+    "title": "engine failure occurs",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "If an engine failure occurs, Maximum Continuous Thrust For Transition and Climb Single Engine should be used to determine the FE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bir motor arızası meydana gelirse, FE 1 _'yi belirlemek için Geçiş ve Tırmanma Tek Motoru İçin Maksimum Sürekli İtme Gücü kullanılmalıdır.",
+    "title_tr": "motor arızası meydana"
   },
   {
     "id": "s28",
-    "title": "The takeoff flight path is divided into segments defined by …",
+    "title": "takeoff flight path",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The takeoff flight path is divided into segments defined by changes in the airplane configuration. The terms used in flight path plotting are defined as follows and illustrated on the TAKEOFF PROFILE figure. Reference zero is a point 35 feet above the runway surface at the final point of the takeoff run (takeoff distance). J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kalkış uçuş yolu, uçak konfigürasyonundaki değişikliklerle tanımlanan bölümlere bölünmüştür. Uçuş yolu çiziminde kullanılan terimler aşağıda tanımlandığı gibi KALKIŞ PROFİLİ şekli üzerinde gösterilmektedir. Referans sıfırı, kalkış koşusunun son noktasında (kalkış mesafesi) pist yüzeyinden 35 fit yükseklikte bir noktadır. J 1 _",
+    "title_tr": "kalkış uçuş yolu"
   },
   {
     "id": "s29",
-    "title": "For obstacle clearance, maintain second segment climb (gear …",
+    "title": "obstacle clearance maintain",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "For obstacle clearance, maintain second segment climb (gear up, flaps at takeoff setting, takeoff thrust, and until reaching obstacle clearance altitude. PR 1 _",
-    "caption_tr": ""
+    "caption_tr": "Engelleri aşmak için, ikinci bölüm tırmanışını sürdürün (vites yükseltin, kalkış ayarında flaplar, kalkış itişi ve engellerden kurtulma irtifasına ulaşana kadar. PR 1 _",
+    "title_tr": "engel açıklığının sürdürülmesi"
   },
   {
     "id": "s30",
-    "title": "Transition segment begins at the end of second segment feet …",
+    "title": "Transition segment begins",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "Transition segment begins at the end of second segment feet and thrust cutback to maximum continuous ) for level-off and acceleration from V2 to KIAS, flap retraction, and continued acceleration to KIAS (en route climb speed). ER 1 _",
-    "caption_tr": ""
+    "caption_tr": "Geçiş bölümü, ikinci bölüm ayaklarının sonunda başlar ve V2'den KIAS'a seviye atlama ve hızlanma, kanat geri çekilmesi ve KIAS'a (yol boyu tırmanma hızı) devam eden hızlanma için maksimum sürekli ) itme kesintisi başlar. Acil Servis 1 _",
+    "title_tr": "Geçiş bölümü başlıyor"
   },
   {
     "id": "s31",
-    "title": "All the three segments satisfy the Takeoff Weight Limits cha…",
+    "title": "three segments satisfy",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "All the three segments satisfy the Takeoff Weight Limits chart requirement. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Her üç bölüm de Kalkış Ağırlığı Limitleri tablosu gerekliliklerini karşılamaktadır. JE 1 _",
+    "title_tr": "segment tatm edici"
   },
   {
     "id": "s32",
-    "title": "The Climb Limit Weight is derived from the Takeoff Weight Li…",
+    "title": "Climb Limit Weight",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "The Climb Limit Weight is derived from the Takeoff Weight Limit charts. The charts are issued for flaps 8 and 20 takeoff. In SIAs operation, flaps 8 takeoff is the standard procedure. The charts are provided for ANTI-ICE OFF or ON. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tırmanma Sınırı Ağırlığı, Kalkış Ağırlığı Sınırı tablolarından türetilmiştir. Haritalar flap 8 ve 20 kalkış için düzenlenmiştir. SIA operasyonunda, flap 8'in kalkışı standart prosedürdür. Grafikler BUZ ÖNLEME KAPALI veya AÇIK için verilmiştir. JE 1 _",
+    "title_tr": "Tırmanma Limiti Ağırlığı"
   },
   {
     "id": "s33",
-    "title": "Let's consider an example shown on the screen. With the data…",
+    "title": "Let's consider example",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "Let's consider an example shown on the screen. With the data given above, correction is ft. Pressure altitude is ft. rn a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Ekranda gösterilen bir örneği ele alalım. Yukarıda verilen verilerle düzeltme ft'dir. Basınç yüksekliği ft. rn a 1 _",
+    "title_tr": "Örneği ele alalım"
   },
   {
     "id": "s34",
-    "title": "When using the Takeoff Weight Limit chart, itis only necessa…",
+    "title": "Takeoff Weight Limit",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "When using the Takeoff Weight Limit chart, itis only necessary to round up the pressure altitude to the nearest higher thousand l.e. ft. However, if the temperature and pressure altitude intersection falls within the shaded area, itis necessary to use the actual pressure altitude ft) as the weight in this region may be close to the maximum takeoff weight. ee a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kalkış Ağırlığı Limit tablosunu kullanırken, yalnızca basınç irtifasını en yakın daha yüksek bin l.e'ye yuvarlamak gerekir. ft. Bununla birlikte, eğer sıcaklık ve basınç irtifası kesişimi gölgeli alan içerisinde kalıyorsa, bu bölgedeki ağırlık maksimum kalkış ağırlığına yakın olabileceğinden gerçek basınç irtifası ft)'nin kullanılması gerekir. ee a 1 _",
+    "title_tr": "Kalkış Ağırlığı Limiti"
   },
   {
     "id": "s35",
-    "title": "Let's proceed to find the Takeoff Weight Limit. From on the …",
+    "title": "Let's proceed find",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "Let's proceed to find the Takeoff Weight Limit. From on the extreme left, we will move horizontally to meet pressure altitude of ft. From here, move down to the APR reference line. Since SIAs operation is to takeoff without APR armed, follow the slanted line and read climb limit weight. Climb limit weight is kg. rn a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kalkış Ağırlığı Limitini bulmaya devam edelim. En soldan ft basınç yüksekliğini karşılamak için yatay olarak hareket edeceğiz. Buradan APR referans çizgisine doğru ilerleyin. SIA'nın operasyonu APR kurulu olmadan kalkış yapmak olduğundan, eğimli çizgiyi takip edin ve tırmanma limiti ağırlığını okuyun. Tırmanma limit ağırlığı kg'dır. 1 _",
+    "title_tr": "Bulmaya devam edelim"
   },
   {
     "id": "s36",
-    "title": "Brake energy weight limit is not normally considered because…",
+    "title": "Brake energy weight",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "Brake energy weight limit is not normally considered because for it to be of concern, takeoff must be at high airport elevation. Therefore, in finding weight from Takeoff Weight Limits chart, brake energy weight limit may be ignored. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Fren enerjisi ağırlık sınırı normalde dikkate alınmaz çünkü bunun endişe verici olması için kalkışın havalimanının yüksek irtifasında olması gerekir. Bu nedenle Kalkış Ağırlık Limitleri tablosundan ağırlık bulunurken fren enerjisi ağırlık limiti göz ardı edilebilir. 1 _",
+    "title_tr": "Fren enerjisi ağırlığı"
   },
   {
     "id": "s37",
-    "title": "Next is to find the Field Length Limit Weight. To find this …",
+    "title": "Next find Field",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "Next is to find the Field Length Limit Weight. To find this weight, the Dry Runway Takeoff Field Length and Takeoff Field Length Correction charts are used. The charts are presented for 8 or 20 flap settings, APR armed or off. a am 1 _",
-    "caption_tr": ""
+    "caption_tr": "Sırada Alan Uzunluğu Limit Ağırlığını bulmak yer alıyor. Bu ağırlığı bulmak için Kuru Pist Kalkış Alanı Uzunluğu ve Kalkış Alanı Uzunluğu Düzeltme çizelgeleri kullanılır. Tablolar 8 veya 20 flap ayarı, APR kurulu veya kapalı olarak sunulmaktadır. sabah 1 _",
+    "title_tr": "Sonraki Bul Alanı"
   },
   {
     "id": "s38",
-    "title": "The Takeoff Field Length charts also cater for takeoff on we…",
+    "title": "Takeoff Field Length",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "The Takeoff Field Length charts also cater for takeoff on wet runway. The charts used here for wet runway are based on deployment of thrust reversers to idle position in case of a rejected takeoff. This conforms to limitations which do not permit full reversers to be used on aircrafts not modified by SB Adopting these charts for aircrafts which are modified by SB or, aircraft with thrust reversers certified for full deployment, will result in more conservative performance, hence, increasing safety margin. Ce 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kalkış Alanı Uzunluğu çizelgeleri aynı zamanda ıslak pistte kalkışa da uygundur. Burada ıslak pist için kullanılan çizelgeler, kalkışın reddedilmesi durumunda itme ters çeviricilerinin boş konuma yerleştirilmesine dayanmaktadır. Bu, SB tarafından değiştirilmemiş uçaklarda tam ters çeviricilerin kullanılmasına izin vermeyen sınırlamalara uygundur. SB tarafından değiştirilmiş uçaklar veya itme ters çeviricileri tam açılma için onaylanmış uçaklar için bu çizelgelerin benimsenmesi, daha muhafazakar bir performansla sonuçlanacak ve dolayısıyla güvenlik marjını artıracaktır. Ce 1 _",
+    "title_tr": "Kalkış Alanı Uzunluğu"
   },
   {
     "id": "s39",
-    "title": "As definition of wet runway is one in which it is well-soake…",
+    "title": "definition wet runway",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "As definition of wet runway is one in which it is well-soaked. a - 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Islak pist tanımı olarak iyi ıslatılmış bir pisttir. a - 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "çözünürlüklü ıslak pist"
   },
   {
     "id": "s40",
-    "title": "Ce 1 _ aa ce 2 2 dy 4 1 I.",
+    "title": "Ce 1 aa",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "Ce 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Ce 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "Ce 1 aa"
   },
   {
     "id": "s41",
-    "title": "The Takeoff Field Length charts may be used to determine eit…",
+    "title": "Takeoff Field Length",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "The Takeoff Field Length charts may be used to determine either of the following: The Field Length Limit Weight if runway length is given. The takeoff distance required. This information is useful in determining Obstacle Limit Weight. We need to know the reference zero position in order to find the required climb gradient. rn a 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Kalkış Alanı Uzunluğu çizelgeleri aşağıdakilerden herhangi birini belirlemek için kullanılabilir: Pist uzunluğu verilmişse Saha Uzunluğu Sınır Ağırlığı. Gerekli kalkış mesafesi. Bu bilgi Engel Sınırı Ağırlığının belirlenmesinde faydalıdır. Gerekli tırmanış eğimini bulmak için referans sıfır konumunu bilmemiz gerekir. rn a 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "Kalkış Alanı Uzunluğu"
   },
   {
     "id": "s42",
-    "title": "To find the Field Length Limit Weight of the aircraft, we mu…",
+    "title": "find Field Length",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "To find the Field Length Limit Weight of the aircraft, we must start off with Takeoff Field Length Correction chart, and fix the runway length on the right side to make it as corrected takeoff field length. Then we work left, correcting for altitude, anti-ice, anti-skid, runway gradient and wind in the process, to arrive at uncorrected takeoff field length. rn a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Uçağın Saha Uzunluğu Limit Ağırlığını bulmak için Kalkış Alanı Uzunluğu Düzeltme tablosuyla başlamalı ve pist uzunluğunu düzeltilmiş kalkış alanı uzunluğu haline getirecek şekilde sağ tarafa sabitlemeliyiz. Daha sonra, düzeltilmemiş kalkış alanı uzunluğuna ulaşmak için irtifayı, buzlanmayı önlemeyi, kaymayı önlemeyi, pist eğimini ve rüzgarı düzelterek sola çalışıyoruz. 1 _",
+    "title_tr": "Alan Uzunluğunu bul"
   },
   {
     "id": "s43",
-    "title": "Having obtained the uncorrected takeoff field length, we wil…",
+    "title": "Having obtained uncorrected",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "Having obtained the uncorrected takeoff field length, we will switch to appropriate Takeoff Field Length chart to convert the uncorrected field length into aircraft weight for the existing pressure altitude and temperature. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Düzeltilmemiş kalkış alanı uzunluğunu elde ettikten sonra, düzeltilmemiş kalkış alanı uzunluğunu mevcut basınç irtifası ve sıcaklığa göre uçak ağırlığına dönüştürmek için uygun Kalkış Alanı Uzunluğu tablosuna geçeceğiz. 1 _",
+    "title_tr": "Düzeltilmemiş elde edilen"
   },
   {
     "id": "s44",
-    "title": "Let's consider the example above. correction is ft. Pressure…",
+    "title": "Let's consider example",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "Let's consider the example above. correction is ft. Pressure altitude is ft. Rounding to nearest higher thousand, that gives ft. Let's turn to the chart fig CL 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki örneği ele alalım. düzeltme ft'dir. Basınç yüksekliği ft'tir. En yakın daha yüksek binliğe yuvarlanması ft'i verir. Grafiğe dönelim fig CL 1 _",
+    "title_tr": "Örneği ele alalım"
   },
   {
     "id": "s45",
-    "title": "Step 1: Fix runway length of ft on the right side of the cha…",
+    "title": "Fix runway length",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "Step 1: Fix runway length of ft on the right side of the chart. Step 2: Move left across altitude, anti-ice and anti-skid corrections since there are no corrections to be made on these. Stop at B where gradient line of is. Follow the contour of the gradient lines to the reference line. Step 3: Move left to wind column and stop at C to correct for 10 kt headwind. Finally, follow the solid line and read the Uncorrected Takeoff Field Length. In metric, the figure metre. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Adım 1: Pist uzunluğunu ft olarak grafiğin sağ tarafına sabitleyin. Adım 2: İrtifa, buzlanmayı önleme ve patinajı önleme düzeltmeleri boyunca sola ilerleyin, çünkü bunlar üzerinde yapılacak herhangi bir düzeltme yoktur. Gradyan çizgisinin olduğu yerde B'de durun. Degrade çizgilerinin konturunu referans çizgisine kadar takip edin. Adım 3: Rüzgar sütununa doğru sola ilerleyin ve 10 kt'lik karşı rüzgarı düzeltmek için C'de durun. Son olarak düz çizgiyi takip edin ve Düzeltilmemiş Kalkış Alanı Uzunluğunu okuyun. Metrik olarak rakam metre. 1 _",
+    "title_tr": "Pist uzunluğunu düzeltin"
   },
   {
     "id": "s46",
-    "title": "Proceed to Dry Runway Takeoff Field Length (fig Locating the…",
+    "title": "Proceed Dry Runway",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "Proceed to Dry Runway Takeoff Field Length (fig Locating the pressure altitude of ft and temperature bring us into a box (in red) where numbers are shown above. m lies between m and m. Correspondingly, the required weight lies between kg and kg. By interpolation, we obtain Field Limit Weight of kg. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kuru Pist Kalkış Alanı Uzunluğu'na ilerleyin (şek. Ft ve sıcaklık basınç irtifasını bulmak bizi yukarıda sayıların gösterildiği bir kutuya (kırmızı) getirir. m, m ile m arasındadır. Buna bağlı olarak gerekli ağırlık kg ile kg arasındadır. Enterpolasyonla kg Alan Limit Ağırlığını elde ederiz. a 1 _",
+    "title_tr": "Kuru Piste Devam"
   },
   {
     "id": "s47",
-    "title": "When all the 3 weights:- Maximum Certified Takeoff Weight kg…",
+    "title": "- Maximum Certified",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "When all the 3 weights:- Maximum Certified Takeoff Weight kg), Climb Limit Weight and Field Length Limit Weight have been determined, the Maximum Allowable Takeoff Weight is the most restrictive of the three. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Üç ağırlığın tümü: - Maksimum Sertifikalı Kalkış Ağırlığı (kg), Tırmanma Sınır Ağırlığı ve Saha Uzunluğu Sınır Ağırlığı belirlendiğinde, İzin Verilen Maksimum Kalkış Ağırlığı üçü arasında en kısıtlayıcı olanıdır. 1 _",
+    "title_tr": "- Maksimum Sertifikalı"
   },
   {
     "id": "s48",
-    "title": "Let's consider another example on the screen. There is no au…",
+    "title": "Let's consider another",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "Let's consider another example on the screen. There is no audio in the next few screens. J 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Ekrandaki başka bir örneği ele alalım. Sonraki birkaç ekranda ses yok. J 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "Başka tane düşünelim"
   },
   {
     "id": "s49",
-    "title": "When obstacle is present along the flight path, to fulfill r…",
+    "title": "obstacle present along",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "When obstacle is present along the flight path, to fulfill regulatory requirements, aircraft must be able to clear the obstacle by 35 feet. The climb performance in this case is based on the net climb gradient and one engine out. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yolu boyunca bir engel mevcut olduğunda, mevzuat gerekliliklerini yerine getirmek için uçağın engeli 35 feet kadar aşabilmesi gerekir. Bu durumda tırmanma performansı, net tırmanma eğimine ve bir motorun devre dışı olmasına dayanmaktadır. 1 _",
+    "title_tr": "birlikte mevcut engel"
   },
   {
     "id": "s50",
-    "title": "Two charts, Distant Takeoff Flight and Close-In Takeoff Flig…",
+    "title": "Two charts Distant",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
     "caption_en": "Two charts, Distant Takeoff Flight and Close-In Takeoff Flight Path, are provided to enable crew to determine the climb gradient required to overcome obstacle if the obstacle height and the horizontal distant from reference zero are known. rn 1 _",
-    "caption_tr": ""
+    "caption_tr": "Engel yüksekliği ve referans sıfırdan yatay uzaklık biliniyorsa, mürettebatın engeli aşmak için gereken tırmanma eğimini belirlemesine olanak sağlamak amacıyla Uzak Kalkış Uçuşu ve Yakın Kalkış Uçuş Yolu olmak üzere iki grafik sağlanmıştır. n 1 _",
+    "title_tr": "İki grafik Uzak"
   },
   {
     "id": "s51",
-    "title": "The Distant Takeoff Flight Path chart is used if the obstacl…",
+    "title": "Distant Takeoff Flight",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
     "caption_en": "The Distant Takeoff Flight Path chart is used if the obstacle is a distant obstacle. The obstacle considered here falls in the second segment. The chart facilitates determination of the required gradient to 10 NM from the reference zero. In the case of obstacle which falls in the shaded area, the Close-In Takeoff Flight Path chart is used. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Engelin uzak bir engel olması durumunda Uzak Kalkış Uçuş Yolu haritası kullanılır. Burada ele alınan engel ikinci bölüme girmektedir. Grafik, referans sıfırdan 10 NM'ye kadar gerekli eğimin belirlenmesini kolaylaştırır. Gölgeli alana düşen engel durumunda Yakın Kalkış Uçuş Yolu haritası kullanılır. 1 _",
+    "title_tr": "Uzak Kalkış Uçuşu"
   },
   {
     "id": "s52",
-    "title": "The Close-In Takeoff Flight Path chart facilitates determina…",
+    "title": "Close-In Takeoff Flight",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
     "caption_en": "The Close-In Takeoff Flight Path chart facilitates determination of required gradient within approximately 2 NM horizontal distance from the reference zero. If the obstacle falls on the right side of the line shown, the obstacle is in the second segment. If the obstacle is on the left of the line, the obstacle is in the first segment. a a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yakın Kalkış Uçuş Yolu haritası, referans sıfırdan yaklaşık 2 NM yatay mesafe içerisinde gerekli eğimin belirlenmesini kolaylaştırır. Engel gösterilen çizginin sağ tarafına düşerse engel ikinci bölümdedir. Engel çizginin solundaysa engel ilk segmenttedir. bir 1 _",
+    "title_tr": "Yakından Kalkış Uçuşu"
   },
   {
     "id": "s53",
-    "title": "Each line on the chart is plotted based on 1) net climb grad…",
+    "title": "line chart plotted",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
     "caption_en": "Each line on the chart is plotted based on 1) net climb gradient of the aircraft and 2) single engine operation. All gradient lines begin at reference zero which is 35 ft above runway. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tablodaki her çizgi, 1) uçağın net tırmanış eğimine ve 2) tek motor çalışmasına göre çizilmiştir. Tüm eğim çizgileri, pistin 35 ft yukarısındaki referans sıfır noktasından başlar. 1 _",
+    "title_tr": "çizgi grafiği çizildi"
   },
   {
     "id": "s54",
-    "title": "If the horizontal distance from reference zero and the heigh…",
+    "title": "horizontal distance reference",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
     "caption_en": "If the horizontal distance from reference zero and the height of the obstacle are know, the required climb gradient can be obtained. By moving the base of the obstacle to coincide with reference zero and picking the gradient that matches the horizontal distance and obstacle height, the required climb gradient of the aircraft is obtained. This is the gradient which will enable aircraft to clear the obstacle by 35 ft. This gradient must be converted into weight of the aircraft in order to obtain Obstacle Limit Weight See next slide. - 1 _",
-    "caption_tr": ""
+    "caption_tr": "Referans sıfırından yatay mesafe ve engelin yüksekliği biliniyorsa gerekli tırmanma eğimi elde edilebilir. Engelin tabanını referans sıfır ile çakışacak şekilde hareket ettirerek ve yatay mesafe ve engel yüksekliğine uygun eğimi seçerek uçağın gerekli tırmanma eğimi elde edilir. Bu, uçağın engeli 35 ft kadar aşmasını sağlayacak eğimdir. Bu eğim, Engel Sınırı Ağırlığını elde etmek için uçağın ağırlığına dönüştürülmelidir. Bir sonraki slayda bakınız. - 1 _",
+    "title_tr": "yatay mesafe referansı"
   },
   {
     "id": "s55",
-    "title": "Let's consider the example above. rn 1 _",
+    "title": "Let's consider example",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
     "caption_en": "Let's consider the example above. rn 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki örneği ele alalım. n 1 _",
+    "title_tr": "Örneği ele alalım"
   },
   {
     "id": "s56",
-    "title": "The procedures for finding Obstacle Limit Weight are as foll…",
+    "title": "procedures finding Obstacle",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
     "caption_en": "The procedures for finding Obstacle Limit Weight are as follows: The first step is to determine the Maximum Allowable Takeoff Weight by considering a) Maximum Certified Takeoff Weight b Climb Limit Weight and c) Field Length Limit Weight, and take the lowest of the three. rn 1 _",
-    "caption_tr": ""
+    "caption_tr": "Mania Sınır Ağırlığını bulma prosedürleri aşağıdaki gibidir: İlk adım, a) Maksimum Sertifikalı Kalkış Ağırlığı b Tırmanma Sınır Ağırlığı ve c) Saha Uzunluk Sınır Ağırlığı dikkate alınarak İzin Verilen Maksimum Kalkış Ağırlığını belirlemek ve üçünden en düşük olanı almaktır. n 1 _",
+    "title_tr": "Engel bulma prosedürleri"
   },
   {
     "id": "s57",
-    "title": "Having obtained the Maximum Allowable Takeoff Weight, we wil…",
+    "title": "Having obtained Maximum",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
     "caption_en": "Having obtained the Maximum Allowable Takeoff Weight, we will assume that this weight can clear obstacle and we have to prove it. RE 1 _",
-    "caption_tr": ""
+    "caption_tr": "İzin Verilen Maksimum Kalkış Ağırlığını elde ettikten sonra, bu ağırlığın engeli aşabileceğini varsayacağız ve bunu kanıtlamamız gerekecek. RE 1 _",
+    "title_tr": "Maksimumu elde etmek"
   },
   {
     "id": "s58",
-    "title": "Since the Max Allowable Takeoff Weight is field length limit…",
+    "title": "Since Max Allowable",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
     "caption_en": "Since the Max Allowable Takeoff Weight is field length limited, the runway length is the takeoff distance and, therefore, reference zero is at the end of the runway. Joining line from the end of the runway to the tip of the obstacle is the obstacle gradient which the aircraft must overcome. This is also the required climb gradient of the aircraft. A 1 _",
-    "caption_tr": ""
+    "caption_tr": "İzin Verilen Maksimum Kalkış Ağırlığı saha uzunluğu sınırlı olduğundan, pist uzunluğu kalkış mesafesidir ve dolayısıyla referans sıfır pistin sonundadır. Pistin sonundan engelin ucuna kadar olan bağlantı hattı, uçağın aşması gereken engel eğimidir. Bu aynı zamanda uçağın gerekli tırmanma eğimidir. bir 1 _",
+    "title_tr": "İzin Verilen Maksimumdan"
   },
   {
     "id": "s59",
-    "title": "Using the Close-In Takeoff Flight Path chart, we will determ…",
+    "title": "Close-In Takeoff Flight",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
     "caption_en": "Using the Close-In Takeoff Flight Path chart, we will determine the gradient. From the chart, the required climb gradient is Notice also the obstacle lies is in the second segment. RE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yakından Kalkış Uçuş Yolu grafiğini kullanarak eğimi belirleyeceğiz. Tablodan gerekli tırmanış eğiminin aynı zamanda ikinci segmentte olduğuna dikkat edin. RE 1 _",
+    "title_tr": "Yakından Kalkış Uçuşu"
   },
   {
     "id": "s60",
-    "title": "The next step is to convert the Max Allowable Takeoff Weight…",
+    "title": "next step convert",
     "imgSrc": "slides/s60.png",
     "audioSrc": "audio/s60.mp3",
     "caption_en": "The next step is to convert the Max Allowable Takeoff Weight kg) into actual climb gradient of the aircraft so that we can compare actual climb gradient with the gradient required. Since the obstacle lies in the second segment, locate Second Segment Climb Gradient chart. RE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bir sonraki adım, gerçek tırmanış eğimini gerekli eğimle karşılaştırabilmemiz için Maksimum İzin Verilen Kalkış Ağırlığını (kg) uçağın gerçek tırmanma eğimine dönüştürmektir. Engel ikinci bölümde yer aldığından, İkinci Bölüm Tırmanış Gradyan tablosunu bulun. RE 1 _",
+    "title_tr": "sonraki adım dönüştürme"
   },
   {
     "id": "s61",
-    "title": "From the table, at sea-level, converting kg to gradient give…",
+    "title": "table sea-level converting",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
     "caption_en": "From the table, at sea-level, converting kg to gradient gives At ft pressure altitude, the gradient is Interpolating these two gradients will give an uncorrected climb gradient at ft pressure altitude-4.5. Using the graph on the right to correct gradient for Wind, Anti-ice Off and APR Off. This gives a corrected climb gradient of which is also the actual climb gradient of the aircraft. I. 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tablodan, deniz seviyesinde, kg'ı eğime dönüştürmek, ft basınç yüksekliğinde, eğimi verir. Bu iki eğimin enterpolasyonu, ft basınç yüksekliğinde -4,5'te düzeltilmemiş bir tırmanma eğimi verecektir. Rüzgar, Buz Önleme Kapalı ve APR Kapalı için eğimi düzeltmek için sağdaki grafiği kullanın. Bu, aynı zamanda uçağın gerçek tırmanış eğimi olan düzeltilmiş bir tırmanma eğimini verir. I.1 _",
+    "title_tr": "masa deniz seviyesi"
   },
   {
     "id": "s62",
-    "title": "Since the actual climb gradient is more than the required cl…",
+    "title": "Since actual climb",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
     "caption_en": "Since the actual climb gradient is more than the required climb gradient the obstacle is cleared. Therefore, the Max Allowable Takeoff Weight of kg is proven to clear obstacle on this runway. . 1 _",
-    "caption_tr": ""
+    "caption_tr": "Gerçek tırmanma eğimi gerekli tırmanma eğiminden daha fazla olduğundan engel kaldırılır. Bu nedenle, kg cinsinden İzin Verilen Maksimum Kalkış Ağırlığının bu pistteki engelleri ortadan kaldırdığı kanıtlanmıştır. . 1 _",
+    "title_tr": "Gerçek tırmanıştan yana"
   },
   {
     "id": "s63",
-    "title": "Since the Max Allowable Takeoff Weight is field limited, the…",
+    "title": "Since Max Allowable",
     "imgSrc": "slides/s63.png",
     "audioSrc": "audio/s63.mp3",
     "caption_en": "Since the Max Allowable Takeoff Weight is field limited, the reference zero is at the end of the runway. The red line is the required gradient. 1 _",
-    "caption_tr": ""
+    "caption_tr": "İzin Verilen Maksimum Kalkış Ağırlığı alanla sınırlı olduğundan referans sıfır pistin sonundadır. Kırmızı çizgi gerekli degradedir. 1 _",
+    "title_tr": "İzin Verilen Maksimumdan"
   },
   {
     "id": "s64",
-    "title": "Turning to Close-In Takeoff Flight Path to determine the req…",
+    "title": "Turning Close-In Takeoff",
     "imgSrc": "slides/s64.png",
     "audioSrc": "audio/s64.mp3",
     "caption_en": "Turning to Close-In Takeoff Flight Path to determine the required gradient, we have the gradient as Next is to convert Max Allowable Takeoff Wt to actual climb gradient, so that comparison can be made between actual climb gradient and the required climb gradient. For this, we must go to Second Segment Climb Gradient chart since the obstacle is in the second segment. RE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Gerekli eğimi belirlemek için Yakından Kalkış Uçuş Yolu'na döndüğümüzde, İzin Verilen Maksimum Kalkış Wt'yi gerçek tırmanma eğimine dönüştürmek için Sonraki olarak eğime sahibiz, böylece gerçek tırmanma eğimi ile gerekli tırmanma eğimi arasında karşılaştırma yapılabilir. Bunun için engel ikinci segmentte olduğundan İkinci Segment Tırmanma Gradient tablosuna gitmemiz gerekiyor. RE 1 _",
+    "title_tr": "Yakından Kalkışa Dönüş"
   },
   {
     "id": "s65",
-    "title": "From the Second Segment Climb Gradient chart, the actual cli…",
+    "title": "Second Segment Climb",
     "imgSrc": "slides/s65.png",
     "audioSrc": "audio/s65.mp3",
     "caption_en": "From the Second Segment Climb Gradient chart, the actual climb gradient of the aircraft is Actual climb gradient is less than the required climb gradient and under these circumstances, aircraft will not clear the obstacle. RE 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "İkinci Segment Tırmanış Gradyanı tablosundan, uçağın gerçek tırmanış eğimi şu şekildedir: Gerçek tırmanış eğimi, gerekli tırmanma eğiminden daha azdır ve bu koşullar altında uçak, engeli aşamayacaktır. RE 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "İkinci Segment Tırmanışı"
   },
   {
     "id": "s66",
-    "title": "To solve this problem, one method is to reduce takeoff weigh…",
+    "title": "solve this problem",
     "imgSrc": "slides/s66.png",
     "audioSrc": "audio/s66.mp3",
     "caption_en": "To solve this problem, one method is to reduce takeoff weight in steps. For each lesser weight, the above process is repeated until actual and required climb gradients are equal. This ensures that the aircraft will clear the obstacle by 35 ft. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bu sorunu çözmek için yöntemlerden biri kalkış ağırlığını adım adım azaltmaktır. Daha az olan her ağırlık için yukarıdaki işlem, gerçek ve gerekli tırmanma eğimleri eşit olana kadar tekrarlanır. Bu, uçağın engeli 35 ft kadar aşmasını sağlar.",
+    "title_tr": "bu sorunu çöz"
   },
   {
     "id": "s67",
-    "title": "Another method is by interpolation. Interpolating actual and…",
+    "title": "Another method interpolation",
     "imgSrc": "slides/s67.png",
     "audioSrc": "audio/s67.mp3",
     "caption_en": "Another method is by interpolation. Interpolating actual and required climb gradient gives a new actual climb gradient of This is also the corrected climb gradient. Working this figure to obtain the uncorrected, we derive a new takeoff weight of kg. Ce ae 1 _",
-    "caption_tr": ""
+    "caption_tr": "Diğer bir yöntem enterpolasyondur. Gerçek ve gerekli tırmanış eğiminin enterpolasyonu, yeni bir gerçek tırmanış eğimini verir. Bu aynı zamanda düzeltilmiş tırmanış eğimidir. Düzeltilmemiş olanı elde etmek için bu rakamı kullanarak, kg olarak yeni bir kalkış ağırlığı elde ederiz. Ce ae 1 _",
+    "title_tr": "Başka yöntem enterpolasyonu"
   },
   {
     "id": "s68",
-    "title": "The next step is to determine the takeoff distance of the ai…",
+    "title": "next step determine",
     "imgSrc": "slides/s68.png",
     "audioSrc": "audio/s68.mp3",
     "caption_en": "The next step is to determine the takeoff distance of the aircraft when the weight is kg. This is to determine the new reference zero. From the Dry Runway Takeoff Field Length chart, the takeoff distance required is metres or ft. This gives ft - ft ft of runway left. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bir sonraki adım, ağırlık kg olduğunda uçağın kalkış mesafesini belirlemektir. Bu, yeni referans sıfırını belirlemek içindir. Kuru Pist Kalkış Alanı Uzunluğu tablosundan, gereken kalkış mesafesi metre veya ft'dir. Bu, kalan pistin ft - ft ft'sini verir. 1 _",
+    "title_tr": "sonraki adım belirlemek"
   },
   {
     "id": "s69",
-    "title": "The horizontal distance of obstacle from new reference zero …",
+    "title": "horizontal distance obstacle",
     "imgSrc": "slides/s69.png",
     "audioSrc": "audio/s69.mp3",
     "caption_en": "The horizontal distance of obstacle from new reference zero is ft ft ft. From the Close-In Takeoff Flight Path, the new required climb gradient is Since the new actual climb gradient is the obstacle is cleared. The takeoff weight can be further increased by using the first method described earlier. Ce a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Engelin yeni referans sıfırından yatay mesafesi ft ft ft'dir. Yakın Kalkış Uçuş Yolundan, gerekli yeni tırmanma eğimi Yeni gerçek tırmanma eğimi engelin temizlenmesi olduğundan. Kalkış ağırlığı, daha önce açıklanan ilk yöntem kullanılarak daha da artırılabilir. Ce a 1 _",
+    "title_tr": "yatay mesafe engeli"
   },
   {
     "id": "s70",
-    "title": "Max Allowable Takeoff Weight of kg. The new weight is known …",
+    "title": "Max Allowable Takeoff",
     "imgSrc": "slides/s70.png",
     "audioSrc": "audio/s70.mp3",
     "caption_en": "Max Allowable Takeoff Weight of kg. The new weight is known as Obstacle Limit Weight. The Obstacle Limit Weight is the Max Allowable Takeoff Weight since it is the lowest among the weights. ae 1 _",
-    "caption_tr": ""
+    "caption_tr": "Maksimum İzin Verilen Kalkış Ağırlığı kg. Yeni ağırlık, Engel Limit Ağırlığı olarak biliniyor. Engel Limit Ağırlığı, ağırlıklar arasında en düşük olanı olduğundan İzin Verilen Maksimum Kalkış Ağırlığıdır. ae 1 _",
+    "title_tr": "İzin Verilen Maksimum"
   },
   {
     "id": "s71",
-    "title": "If after one interpolation and the actual climb gradient is …",
+    "title": "one interpolation actual",
     "imgSrc": "slides/s71.png",
     "audioSrc": "audio/s71.mp3",
     "caption_en": "If after one interpolation and the actual climb gradient is still less than the required climb gradient, the interpolation process is repeated until actual climb gradient is at least equal to the required climb required. This will ensure obstacle is cleared a minimum height of 35 ft. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bir enterpolasyondan sonra gerçek tırmanma eğimi hala gerekli tırmanma eğiminden düşükse, gerçek tırmanma eğimi en azından gereken tırmanış eğimine eşit olana kadar enterpolasyon işlemi tekrarlanır. Bu, minimum 35 ft yükseklikteki engelin temizlenmesini sağlayacaktır. a 1 _",
+    "title_tr": "bir enterpolasyon gerçek"
   },
   {
     "id": "s72",
-    "title": "Takeoff Speeds tables exist for flap 8 and 20 settings; dry …",
+    "title": "Takeoff Speeds tables",
     "imgSrc": "slides/s72.png",
     "audioSrc": "audio/s72.mp3",
     "caption_en": "Takeoff Speeds tables exist for flap 8 and 20 settings; dry and wet runway conditions. In determining Vspeeds, actual takeoff weight is used. J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kanat 8 ve 20 ayarları için Kalkış Hızları tabloları mevcuttur; kuru ve ıslak pist koşulları. Vhızların belirlenmesinde gerçek kalkış ağırlığı kullanılır. J 1 _",
+    "title_tr": "Kalkış Hızları tabloları"
   },
   {
     "id": "s73",
-    "title": "Proceeding to fig locate PA of ft and temperature For takeof…",
+    "title": "Proceeding fig locate",
     "imgSrc": "slides/s73.png",
     "audioSrc": "audio/s73.mp3",
     "caption_en": "Proceeding to fig locate PA of ft and temperature For takeoff weight of kg, kts. Now, go to the extreme right to determine VR and kts and kts. JE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Şekle devam ederek ft ve sıcaklığın PA'sını bulun. Kalkış ağırlığı için kg, kts. Şimdi VR ve kts ve kts'yi belirlemek için en sağa gidin. JE 1 _",
+    "title_tr": "Devam eden incir"
   },
   {
     "id": "s74",
-    "title": "If the runway is wet, the Wet Runway Takeoff Speeds table is…",
+    "title": "runway wet Takeoff",
     "imgSrc": "slides/s74.png",
     "audioSrc": "audio/s74.mp3",
     "caption_en": "If the runway is wet, the Wet Runway Takeoff Speeds table is used instead of the dry runway condition. JR 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Pistin ıslak olması durumunda kuru pist durumu yerine Islak Pist Kalkış Hızları tablosu kullanılır. JR 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "pist ıslak Kalkış"
   },
   {
     "id": "s75",
-    "title": "Having obtained the thrust setting and the Vspeeds, the data…",
+    "title": "Having obtained thrust",
     "imgSrc": "slides/s75.png",
     "audioSrc": "audio/s75.mp3",
     "caption_en": "Having obtained the thrust setting and the Vspeeds, the data must be filled on the takeoff bug card. ER 1 _",
-    "caption_tr": ""
+    "caption_tr": "İtki ayarını ve Vhızlarını aldıktan sonra veriler kalkış hata kartına doldurulmalıdır. Acil Servis 1 _",
+    "title_tr": "İtiş elde ettikten"
   },
   {
     "id": "s76",
-    "title": "Details of the takeoff data are explained on the screen. Lan…",
+    "title": "Details takeoff data",
     "imgSrc": "slides/s76.png",
     "audioSrc": "audio/s76.mp3",
     "caption_en": "Details of the takeoff data are explained on the screen. Landing data will be explained in the Landing Section. ER 1 _",
-    "caption_tr": ""
+    "caption_tr": "Kalkış verilerinin detayları ekranda anlatılmaktadır. İniş verileri İniş Bölümünde açıklanacaktır. Acil Servis 1 _",
+    "title_tr": "Ayrıntılar kalkış verileri"
   },
   {
     "id": "s77",
-    "title": "There is no audio in the following slides. JE 1 _ aa ce 2 2 …",
+    "title": "There no audio",
     "imgSrc": "slides/s77.png",
     "audioSrc": "audio/s77.mp3",
     "caption_en": "There is no audio in the following slides. JE 1 _ aa ce 2 2 dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Aşağıdaki slaytlarda ses yok. JE 1 _ aa ce 2 2 dy 4 1 I.",
+    "title_tr": "Ses yok"
   },
   {
     "id": "s78",
-    "title": "The Climb Tables show Time, Distance and Fuel used to climb …",
+    "title": "Climb Tables show",
     "imgSrc": "slides/s78.png",
     "audioSrc": "audio/s78.mp3",
     "caption_en": "The Climb Tables show Time, Distance and Fuel used to climb from sea level to altitude for standard and non-standard temperatures at various weights. For practical purpose, the takeoff weight is used to determine data from the climb table, since the fuel consumed during takeoff phase is minimal. ea 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tırmanma Tabloları, çeşitli ağırlıklarda standart ve standart dışı sıcaklıklarda deniz seviyesinden yüksekliğe tırmanmak için kullanılan Zaman, Mesafe ve Yakıtı gösterir. Pratik amaçlar için, kalkış aşamasında tüketilen yakıt minimum düzeyde olduğundan, tırmanma tablosundaki verileri belirlemek için kalkış ağırlığı kullanılır. adet 1 _",
+    "title_tr": "Tırmanma Tabloları gösterisi"
   },
   {
     "id": "s79",
-    "title": "The climb speed schedule is based on an operational climb sc…",
+    "title": "climb speed schedule",
     "imgSrc": "slides/s79.png",
     "audioSrc": "audio/s79.mp3",
     "caption_en": "The climb speed schedule is based on an operational climb schedule to optimize fuel consumption and APPROXIMATE THE BEST RATE OF CLIMB SPEED. The climb speeds given are KIAS up to ft and above ft. Climb thrustis J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tırmanma hızı programı, yakıt tüketimini optimize etmek ve EN İYİ TIRMANIŞ HIZI ORANINI YAKLAŞTIRMAK için operasyonel bir tırmanış planına dayanmaktadır. Verilen tırmanma hızları ft ve üzeri KIAS'tır. Tırmanış itişleri J 1 _",
+    "title_tr": "tırmanma hızı çizelgesi"
   },
   {
     "id": "s80",
-    "title": "Consider the example above. From the table shown, the Time, …",
+    "title": "Consider example above",
     "imgSrc": "slides/s80.png",
     "audioSrc": "audio/s80.mp3",
     "caption_en": "Consider the example above. From the table shown, the Time, Distance and the Fuel required for the aircraft to reach flight level are minutes, NM and kg of fuel. J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki örneği düşünün. Gösterilen tablodan uçağın uçuş seviyesine ulaşması için gereken Zaman, Mesafe ve Yakıt dakika, NM ve kg yakıttır. J 1 _",
+    "title_tr": "Yukarıdaki örneği düşünün"
   },
   {
     "id": "s81",
-    "title": "If the climb involves initial leveling off at intermediate l…",
+    "title": "climb involves initial",
     "imgSrc": "slides/s81.png",
     "audioSrc": "audio/s81.mp3",
     "caption_en": "If the climb involves initial leveling off at intermediate level before climbing to final altitude, the performance values of the two altitudes may be obtained by subtracting the two altitudes performance data. Cre mm 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tırmanış, son irtifaya tırmanmadan önce orta seviyede ilk seviyelenmeyi içeriyorsa, iki irtifanın performans değerleri, iki irtifa performans verilerinin çıkarılmasıyla elde edilebilir. Krem mm 1 _",
+    "title_tr": "tırmanış ilk adımı"
   },
   {
     "id": "s82",
-    "title": "Tables are presented at Kg weight intervals from Kg to Kg, a…",
+    "title": "Tables are presented",
     "imgSrc": "slides/s82.png",
     "audioSrc": "audio/s82.mp3",
     "caption_en": "Tables are presented at Kg weight intervals from Kg to Kg, and at Kg. Interpolation is valid between Kg and Kg. Data for Kg may be used for weight below Kg. EE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tablolar Kg'dan Kg'a kadar Kg ağırlık aralıklarında ve Kg'de sunulmaktadır. İnterpolasyon Kg ile Kg arasında geçerlidir. Kg verileri Kg'nin altındaki ağırlıklar için kullanılabilir. EE 1 _",
+    "title_tr": "Tablolar sunuldu"
   },
   {
     "id": "s83",
-    "title": "Tropical Atmosphere in the range FL to FL Tropical Atmospher…",
+    "title": "Tropical Atmosphere range",
     "imgSrc": "slides/s83.png",
     "audioSrc": "audio/s83.mp3",
     "caption_en": "Tropical Atmosphere in the range FL to FL Tropical Atmosphere assumes ISA therefore, this table may be used if the ISA deviation is a 1 _",
-    "caption_tr": ""
+    "caption_tr": "FL ila FL aralığındaki Tropikal Atmosfer Tropikal Atmosfer ISA'yı varsayar, bu nedenle ISA sapması 1 _ ise bu tablo kullanılabilir",
+    "title_tr": "Tropikal Atmosfer aralığı"
   },
   {
     "id": "s84",
-    "title": "The M and M Cruise tables provide Fuel Flow within the main …",
+    "title": "M Cruise tables",
     "imgSrc": "slides/s84.png",
     "audioSrc": "audio/s84.mp3",
     "caption_en": "The M and M Cruise tables provide Fuel Flow within the main table, Indicated Airspeed for each Flight Level, and True Airspeed (TAS) for each combination of Flight Level and Temperature deviation from ISA. Engine thrust is adjusted to maintain constant Mach as weight decreases. J 1 _",
-    "caption_tr": ""
+    "caption_tr": "M ve M Seyir tabloları, ana tablodaki Yakıt Akışını, her Uçuş Seviyesi için Gösterilen Hava Hızını ve Uçuş Seviyesi ve ISA'dan Sıcaklık sapmasının her kombinasyonu için Gerçek Hava Hızını (TAS) sağlar. Motor itme kuvveti, ağırlık azaldıkça Mach'ı sabit tutacak şekilde ayarlanır. J 1 _",
+    "title_tr": "M Cruise tabloları"
   },
   {
     "id": "s85",
-    "title": "So, at cruising altitude of FL and aircraft weight of Kg, se…",
+    "title": "So cruising altitude",
     "imgSrc": "slides/s85.png",
     "audioSrc": "audio/s85.mp3",
     "caption_en": "So, at cruising altitude of FL and aircraft weight of Kg, setting the thrust levers to give fuel flow of Kghr will enable aircraft to achieve speed of M The data is based on ISA TAS is knots. J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yani FL seyir yüksekliğinde ve Kg uçak ağırlığında, itme kollarının Kghr yakıt akışını verecek şekilde ayarlanması uçağın M hızına ulaşmasını sağlayacaktır. Veriler ISA TAS knot'a dayanmaktadır. J 1 _",
+    "title_tr": "Yani seyir yüksekliği"
   },
   {
     "id": "s86",
-    "title": "The Long Range Cruise tables provide for 99 maximum range cr…",
+    "title": "Long Range Cruise",
     "imgSrc": "slides/s86.png",
     "audioSrc": "audio/s86.mp3",
     "caption_en": "The Long Range Cruise tables provide for 99 maximum range cruise from to FIL and for weights starting at Kg to Kg and at Kg. Standard and non-standard temperatures provide interpolation factors. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Uzun Menzilli Yolculuk tabloları, FIL'den Kg'ye ve Kg'den başlayan ağırlıklar için 99 maksimum menzil sağlar. Standart ve standart dışı sıcaklıklar enterpolasyon faktörleri sağlar. ah a 1 _",
+    "title_tr": "Uzun Menzilli Yolculuk"
   },
   {
     "id": "s87",
-    "title": "The Long Range Cruise tables provide TAS and Fuel Flow withi…",
+    "title": "Long Range Cruise",
     "imgSrc": "slides/s87.png",
     "audioSrc": "audio/s87.mp3",
     "caption_en": "The Long Range Cruise tables provide TAS and Fuel Flow within the main table for each Weight, Altitude and Temperature combination. It also provides Indicated Mach Number and Airspeed for the Long Range Cruise speed schedule for each Weight and Altitude combination. Engine thrust is adjusted to maintain the Long Range Cruise speed schedule as weight decreases. eae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Uzun Menzilli Seyir tabloları, her Ağırlık, Yükseklik ve Sıcaklık kombinasyonu için ana tablo içinde TAS ve Yakıt Akışı sağlar. Aynı zamanda her Ağırlık ve Yükseklik kombinasyonu için Uzun Menzilli Seyir hız çizelgesi için Belirtilen Mach Sayısı ve Hava Hızını da sağlar. Motor itişi, ağırlık azaldıkça Uzun Menzilli Seyir hız programını koruyacak şekilde ayarlanır. ea 1 _",
+    "title_tr": "Uzun Menzilli Yolculuk"
   },
   {
     "id": "s88",
-    "title": "Example, assuming the aircraft is at FL the weight at cruise…",
+    "title": "Example assuming aircraft",
     "imgSrc": "slides/s88.png",
     "audioSrc": "audio/s88.mp3",
     "caption_en": "Example, assuming the aircraft is at FL the weight at cruise is Kg, and assuming ISA is to fly at a speed of M the thrust levers will have to be positioned such that fuel flow of kghr is indicated on the EICAS. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Örnek, uçağın FL'de olduğunu varsayarsak, seyir halindeki ağırlığın Kg olduğu ve ISA'nın M hızında uçacağı varsayılırsa, itme kollarının, kghr yakıt akışının EICAS üzerinde gösterileceği şekilde konumlandırılması gerekecektir. ah a 1 _",
+    "title_tr": "Uçak varsayarak örnek"
   },
   {
     "id": "s89",
-    "title": "Where, for a particular condition, Long Range Cruise is not …",
+    "title": "particular condition Long",
     "imgSrc": "slides/s89.png",
     "audioSrc": "audio/s89.mp3",
     "caption_en": "Where, for a particular condition, Long Range Cruise is not achievable, but thrust limited cruise at is possible, is annotated. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Belirli bir koşul için Uzun Menzilli Seyir elde edilemediği, ancak itkiyle sınırlı seyir mümkün olduğu takdirde açıklama not edilir. ah a 1 _",
+    "title_tr": "özel durum Uzun"
   },
   {
     "id": "s90",
-    "title": "The Maximum Speed Cruise tables provide Indicated Mach Numbe…",
+    "title": "Maximum Speed Cruise",
     "imgSrc": "slides/s90.png",
     "audioSrc": "audio/s90.mp3",
     "caption_en": "The Maximum Speed Cruise tables provide Indicated Mach Number (IMN) or Airspeed, True Airspeed, and Fuel Flows for an MmoVmo or Vmax cruise from to FIL Mach Number is provided above ft and Indicated Airspeed below. a ane a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Maksimum Hızlı Seyir tabloları, FIL Mach Numarası'nın ft'nin üstünde ve Gösterilen Hava Hızının altında verildiği MmoVmo veya Vmax seyir için Belirtilen Mach Numarası (IMN) veya Hava Hızı, Gerçek Hava Hızı ve Yakıt Akışlarını sağlar. bir an bir 1 _",
+    "title_tr": "Maksimum Hızda Yolculuk"
   },
   {
     "id": "s91",
-    "title": "Thrust for maximum speed cruise is for the limiting conditio…",
+    "title": "Thrust maximum speed",
     "imgSrc": "slides/s91.png",
     "audioSrc": "audio/s91.mp3",
     "caption_en": "Thrust for maximum speed cruise is for the limiting condition, Mmo, Vmo, or maximum cruise thrust Engine thrust is set at or below to maintain Mmo or Vmo where this is limiting, or set at when Mmo or Vmo is not achievable. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Maksimum hızda seyir için itme, sınırlama koşulu olan Mmo, Vmo veya maksimum seyir itme kuvveti içindir. Motor itme kuvveti, sınırlayıcı olduğu durumlarda Mmo veya Vmo'yu korumak için veya Mmo veya Vmo'ya ulaşılamadığında ayarlanır. ah a 1 _",
+    "title_tr": "Maksimum itme hızı"
   },
   {
     "id": "s92",
-    "title": "Tables are presented at Kg weight intervals from Kg to Kg, a…",
+    "title": "Tables are presented",
     "imgSrc": "slides/s92.png",
     "audioSrc": "audio/s92.mp3",
     "caption_en": "Tables are presented at Kg weight intervals from Kg to Kg, and at Kg. Interpolation is valid between Kg and Kg. Data for Kg may be used for weight below Kg. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tablolar Kg'dan Kg'a kadar Kg ağırlık aralıklarında ve Kg'de sunulmaktadır. İnterpolasyon Kg ile Kg arasında geçerlidir. Kg verileri Kg'nin altındaki ağırlıklar için kullanılabilir. ah a 1 _",
+    "title_tr": "Tablolar sunuldu"
   },
   {
     "id": "s93",
-    "title": "The descent performance schedules show Time, Distance and Fu…",
+    "title": "descent performance schedules",
     "imgSrc": "slides/s93.png",
     "audioSrc": "audio/s93.mp3",
     "caption_en": "The descent performance schedules show Time, Distance and Fuel used, for normal and high-speed descents respectively, from a given altitude to sea level. An average descent weight of Kg is assumed in the tables, and the thrust setting for descent is IDLE. Data are shown without the use of spoiler. Descent rate and angle are increased if spoiler are deployed. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "İniş performansı programları, belirli bir yükseklikten deniz seviyesine sırasıyla normal ve yüksek hızlı inişler için kullanılan Zaman, Mesafe ve Yakıtı gösterir. Tablolarda ortalama iniş ağırlığının Kg olduğu varsayılmaktadır ve iniş için itme ayarı BOŞTAdır. Veriler spoiler kullanılmadan gösterilmiştir. Spoyler açılırsa iniş hızı ve açısı artar. ah a 1 _",
+    "title_tr": "iniş performans programları"
   },
   {
     "id": "s94",
-    "title": "If a Normal Speed descent is made at FL to sea level, from t…",
+    "title": "Normal Speed descent",
     "imgSrc": "slides/s94.png",
     "audioSrc": "audio/s94.mp3",
     "caption_en": "If a Normal Speed descent is made at FL to sea level, from the Normal Speed descent table, the Time, Distance and Fuel used are 9.1minutes, 53 nm and kg of fuel respectively. The tables may be used to determine descent data involving intermediate levels by subtracting the performance values for two altitudes. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "FL'de deniz seviyesine Normal Hızda iniş yapılırsa, Normal Hız iniş tablosundan Zaman, Mesafe ve Kullanılan Yakıt sırasıyla 9,1 dakika, 53 nm ve kg yakıttır. Tablolar, iki irtifa için performans değerlerini çıkararak ara seviyeleri içeren iniş verilerini belirlemek için kullanılabilir. ah a 1 _",
+    "title_tr": "Normal Hızda iniş"
   },
   {
     "id": "s95",
-    "title": "SlIAs policy is to descend using Normal Speed schedule l.e. …",
+    "title": "SlIAs policy descend",
     "imgSrc": "slides/s95.png",
     "audioSrc": "audio/s95.mp3",
     "caption_en": "SlIAs policy is to descend using Normal Speed schedule l.e. M KIAS250 KIAS speed schedule for descent, with speed reduction to KIAS by ft. The profile for this descent is NM per ft of descent plus 5 NM for speed reduction to approach speed. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "SIA'nın politikası Normal Hız programını kullanarak inmektir; M KIAS250 KIAS'ın iniş için hız programı, hızın ft cinsinden KIAS'a düşürülmesiyle. Bu inişin profili, inişin ft'si başına NM artı yaklaşma hızına hız azaltımı için 5 NM'dir. ah a 1 _",
+    "title_tr": "SIA'nın politikası azalıyor"
   },
   {
     "id": "s96",
-    "title": "The Maximum Landing Climb Limit and Brake Energy Limit are o…",
+    "title": "Maximum Landing Climb",
     "imgSrc": "slides/s96.png",
     "audioSrc": "audio/s96.mp3",
     "caption_en": "The Maximum Landing Climb Limit and Brake Energy Limit are obtained from Landing Weight Limit charts, Anti-ice Off or On. The chart format is the same as the Takeoff Weight Limit chart. If the airport pressure altitude and surface temperature are known, the Landing Climb Limit and Brake Energy Limit can be determined. Particular attention must be paid to Brake Energy Limit especially in high temperature and elevation situations. J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Maksimum İniş Tırmanma Limiti ve Fren Enerjisi Limiti, Buzlanmayı Önleme Kapalı veya Açık olarak İniş Ağırlığı Limiti tablolarından elde edilir. Grafik formatı Kalkış Ağırlık Limiti tablosuyla aynıdır. Havaalanı basınç yüksekliği ve yüzey sıcaklığı biliniyorsa İniş Tırmanma Limiti ve Fren Enerjisi Limiti belirlenebilir. Özellikle yüksek sıcaklık ve yükseklik durumlarında Fren Enerjisi Sınırına özellikle dikkat edilmelidir. J 1 _",
+    "title_tr": "Maksimum İniş Tırmanışı"
   },
   {
     "id": "s97",
-    "title": "To determine Landing Field Length Limit weight, three charts…",
+    "title": "determine Landing Field",
     "imgSrc": "slides/s97.png",
     "audioSrc": "audio/s97.mp3",
     "caption_en": "To determine Landing Field Length Limit weight, three charts are used, namely, RUNWAY ACTUAL LANDING DISTANCE, RUNWAY ACTUAL LANDING DISTANCE CORRECTION CHART, and FACTORED LANDING DISTANCE. J 1 _",
-    "caption_tr": ""
+    "caption_tr": "İniş Alanı Uzunluğu Sınırı ağırlığını belirlemek için üç tablo kullanılır: PİST GERÇEK İNİŞ MESAFESİ, PİST GERÇEK İNİŞ MESAFESİ DÜZELTME TABLOSU ve FAKTÖRLENMİŞ İNİŞ MESAFESİ. J 1 _",
+    "title_tr": "İniş Alanını Belirle"
   },
   {
     "id": "s98",
-    "title": "Regulatory requirement dictates that destination runway must…",
+    "title": "Regulatory requirement dictates",
     "imgSrc": "slides/s98.png",
     "audioSrc": "audio/s98.mp3",
     "caption_en": "Regulatory requirement dictates that destination runway must be factored: -- A jet aircraft must have at least of the required Landing Distance to be available at Destination. -- If the destination runway is wet, the aircraft must be able to land subject to the Landing Distance Available being at least of the Landing Distance Required. Cre mm 1 _",
-    "caption_tr": ""
+    "caption_tr": "Mevzuat gerekliliği, varış pistinin dikkate alınması gerektiğini belirtir: -- Bir jet uçağı, en azından Varış Noktasında mevcut olması gereken gerekli İniş Mesafesine sahip olmalıdır. -- Varış pisti ıslaksa, uçağın Mevcut İniş Mesafesi'nin en azından Gerekli İniş Mesafesi olması koşuluyla iniş yapabilmesi gerekir. Krem mm 1 _",
+    "title_tr": "Mevzuat gerekliliği bunu"
   },
   {
     "id": "s99",
-    "title": "For example, if the destination field length is ft, the land…",
+    "title": "example destination field",
     "imgSrc": "slides/s99.png",
     "audioSrc": "audio/s99.mp3",
     "caption_en": "For example, if the destination field length is ft, the landing distance required if the runway is dry is ft. That leaves ft as safety zone. If the runway is wet, the landing distance required is ft. The safety zone in this case is ft EE 1 _",
-    "caption_tr": ""
+    "caption_tr": "Örneğin varış alanı uzunluğu ft ise, pistin kuru olması durumunda gereken iniş mesafesi ft'tir. Bu da ft'i emniyet bölgesi olarak bırakır. Pist ıslaksa gerekli iniş mesafesi ft'tir. Bu durumda emniyet bölgesi ft EE 1 _'dir.",
+    "title_tr": "örnek hedef alanı"
   },
   {
     "id": "s100",
-    "title": "Having factored the Destination runway, the RUNWAY ACTUAL LA…",
+    "title": "Having factored Destination",
     "imgSrc": "slides/s100.png",
     "audioSrc": "audio/s100.mp3",
     "caption_en": "Having factored the Destination runway, the RUNWAY ACTUAL LANDING DISTANCE CORRECTION CHART is used. The factored distance is fixed on the right side of the chart as Corrected Landing Distance. The distance is corrected for Anti-skid, Runway Gradient and Wind, to give Uncorrected Landing Distance. a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Varış pistinin hesaba katılmasıyla, PİST GERÇEK İNİŞ MESAFESİ DÜZELTME ÇİZELGESİ kullanılır. Dikkate alınan mesafe, grafiğin sağ tarafında Düzeltilmiş İniş Mesafesi olarak sabitlenmiştir. Düzeltilmemiş İniş Mesafesini sağlamak için mesafe Kaymayı Önleme, Pist Eğimi ve Rüzgar için düzeltilir. 1 _",
+    "title_tr": "Hedefi çarpanlara ayırdıktan"
   },
   {
     "id": "s101",
-    "title": "The Uncorrected Landing Distance is then convert to weight u…",
+    "title": "Uncorrected Landing Distance",
     "imgSrc": "slides/s101.png",
     "audioSrc": "audio/s101.mp3",
     "caption_en": "The Uncorrected Landing Distance is then convert to weight using RUNWAY ACTUAL LANDING DISTANCE chart. The weight obtained is the Landing Field Length Limit Weight. ee en 1 _",
-    "caption_tr": ""
+    "caption_tr": "Düzeltilmemiş İniş Mesafesi daha sonra PİST GERÇEK İNİŞ MESAFESİ tablosu kullanılarak ağırlığa dönüştürülür. Elde edilen ağırlık İniş Alanı Uzunluk Limit Ağırlığıdır. ee tr 1 _",
+    "title_tr": "Düzeltilmemiş İniş Mesafesi"
   },
   {
     "id": "s102",
-    "title": "The above table provides the crew with Vref, landing speed. …",
+    "title": "above table crew",
     "imgSrc": "slides/s102.png",
     "audioSrc": "audio/s102.mp3",
     "caption_en": "The above table provides the crew with Vref, landing speed. To find Vref, the estimated Landing Weight of the aircraft and the airport pressure altitude must be known. For example, if the estimated Landing Weight is Kg and the airport pressure altitude is ft and below, Vrefis knots for flaps 40 landing. J 1 _",
-    "caption_tr": ""
+    "caption_tr": "Yukarıdaki tablo mürettebata iniş hızı olan Vref'i sağlar. Vref'i bulmak için uçağın tahmini İniş Ağırlığının ve havaalanı basınç irtifasının bilinmesi gerekir. Örneğin, tahmini İniş Ağırlığı Kg ise ve havaalanı basınç yüksekliği ft ve altındaysa, Vrefis flap 40 iniş için düğüm atar. J 1 _",
+    "title_tr": "masa üstü ekibi"
   },
   {
     "id": "s103",
-    "title": "Having obtained Vref, the landing speed is written on the la…",
+    "title": "Having obtained Vref",
     "imgSrc": "slides/s103.png",
     "audioSrc": "audio/s103.mp3",
     "caption_en": "Having obtained Vref, the landing speed is written on the landing bug card as shown above. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Vref elde edildikten sonra iniş hızı yukarıda gösterildiği gibi iniş hatası kartına yazılır. ah a 1 _",
+    "title_tr": "Vref'i aldıktan sonra"
   },
   {
     "id": "s104",
-    "title": "Details of landing data are explained above. eae a 1 _",
+    "title": "Details landing data",
     "imgSrc": "slides/s104.png",
     "audioSrc": "audio/s104.mp3",
     "caption_en": "Details of landing data are explained above. eae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "İniş verilerinin detayları yukarıda açıklanmıştır. ea 1 _",
+    "title_tr": "Ayrıntılar iniş verileri"
   },
   {
     "id": "s105",
-    "title": "For landing other than flaps Vref is obtained from the table…",
+    "title": "landing other flaps",
     "imgSrc": "slides/s105.png",
     "audioSrc": "audio/s105.mp3",
     "caption_en": "For landing other than flaps Vref is obtained from the table labeled APPRAOCH SPEED S--ABNORMAL LANDINGS. The table provides landing speeds for flaps 0, 8 and 20 landings. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Flap dışındaki inişler için Vref, YAKLAŞMA HIZI S--ANORMAL İNİŞLER etiketli tablodan elde edilir. Tabloda flap 0, 8 ve 20 inişleri için iniş hızları verilmektedir. ah a 1 _",
+    "title_tr": "diğer flapların indirilmesi"
   },
   {
     "id": "s106",
-    "title": "Two Holding Operations tables are provided, showing Fuel Flo…",
+    "title": "Two Holding tables",
     "imgSrc": "slides/s106.png",
     "audioSrc": "audio/s106.mp3",
     "caption_en": "Two Holding Operations tables are provided, showing Fuel Flows and Indicated Airspeed for holding at various weights and altitude conditions. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Çeşitli ağırlıklarda ve irtifa koşullarında tutma için Yakıt Akışlarını ve Gösterilen Hava Hızını gösteren iki Tutma Operasyonu tablosu sağlanmıştır. ah a 1 _",
+    "title_tr": "İki Tutma masası"
   },
   {
     "id": "s107",
-    "title": "The holding speeds presented are sufficient to ensure a comf…",
+    "title": "holding speeds presented",
     "imgSrc": "slides/s107.png",
     "audioSrc": "audio/s107.mp3",
     "caption_en": "The holding speeds presented are sufficient to ensure a comfortable margin above stick shaker operation or low-speed buffet while manoeuvring in a holding pattern. a ane a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Sunulan tutma hızları, bir tutma düzeninde manevra yaparken çubuk sallayıcı işleminin veya düşük hızlı büfenin üzerinde rahat bir marj sağlamak için yeterlidir. bir an bir 1 _",
+    "title_tr": "sunulan tutma hızları"
   },
   {
     "id": "s108",
-    "title": "The holding Fuel Flows are valid in the range ft to FL The F…",
+    "title": "holding Fuel Flows",
     "imgSrc": "slides/s108.png",
     "audioSrc": "audio/s108.mp3",
     "caption_en": "The holding Fuel Flows are valid in the range ft to FL The Fuel Flows at ft are estimated because data are not available in this region. These data should be used with caution, as they are extrapolated. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Bekletme Yakıt Akışları ft ila FL aralığında geçerlidir. ft'deki Yakıt Akışları bu bölgede veriler mevcut olmadığından tahmin edilmiştir. Bu veriler tahmine dayalı olduğundan dikkatli kullanılmalıdır. ah a 1 _",
+    "title_tr": "Yakıt Akışlarını Tutmak"
   },
   {
     "id": "s109",
-    "title": "Tables are presented at kg weight intervals from kg to kg, a…",
+    "title": "Tables are presented",
     "imgSrc": "slides/s109.png",
     "audioSrc": "audio/s109.mp3",
     "caption_en": "Tables are presented at kg weight intervals from kg to kg, and at kg. Interpolation is valid between kg and kg. Data for kg may be used for weights below kg. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tablolar kg'dan kg'a kadar kg ağırlık aralıklarında ve kg olarak sunulmaktadır. İnterpolasyon kg ile kg arasında geçerlidir. kg'ın altındaki ağırlıklar için kg verileri kullanılabilir. ah a 1 _",
+    "title_tr": "Tablolar sunuldu"
   },
   {
     "id": "s110",
-    "title": "The Holding Speed Schedule indicates constant speeds related…",
+    "title": "Holding Speed Schedule",
     "imgSrc": "slides/s110.png",
     "audioSrc": "audio/s110.mp3",
     "caption_en": "The Holding Speed Schedule indicates constant speeds related to weight from ft to FL Between FL and FIL these speeds linearly increase by knots, and are then constant from FL to Holding is not recommended above FL ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "Tutma Hızı Çizelgesi ft'den FL'ye kadar ağırlıkla ilgili sabit hızları gösterir FL ve FIL arasında bu hızlar doğrusal olarak knot bazında artar ve daha sonra FL'den FL'ye kadar sabittir FL'nin üzerinde Tutma önerilmez ae a 1 _",
+    "title_tr": "Tutma Hızı Programı"
   },
   {
     "id": "s111",
-    "title": "Short term holding below FIL may be conducted at VREF the cl…",
+    "title": "Short term holding",
     "imgSrc": "slides/s111.png",
     "audioSrc": "audio/s111.mp3",
     "caption_en": "Short term holding below FIL may be conducted at VREF the clean Manoeuvring speed. Extended periods of holding, and all holding above FIL should be carried out at the holding speeds from the table. ae a 1 _",
-    "caption_tr": ""
+    "caption_tr": "FIL'in altında kısa süreli tutma VREF temiz Manevra hızında gerçekleştirilebilir. Uzatılmış tutma süreleri ve FIL'in üzerindeki tüm tutmalar, tablodaki tutma hızlarında gerçekleştirilmelidir. ah a 1 _",
+    "title_tr": "Kısa vadeli tutma"
   }
 ]

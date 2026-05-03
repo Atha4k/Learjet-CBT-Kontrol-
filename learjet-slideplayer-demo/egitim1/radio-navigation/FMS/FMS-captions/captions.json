@@ -1,106 +1,119 @@
 [
   {
     "id": "s01",
-    "title": "The TUNE page is used to tune the aircraft's radios, select …",
+    "title": "TUNE page aircraft's",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The TUNE page is used to tune the aircraft's radios, select and store preselected frequencies for each radio, and to view the selected frequencies (active and preset) for each radio. Touch the TUNE function key.",
-    "caption_tr": ""
+    "caption_tr": "TUNE sayfası, uçağın radyolarını ayarlamak, her radyo için önceden seçilen frekansları seçip saklamak ve her radyo için seçilen frekansları (aktif ve önceden ayarlanmış) görüntülemek için kullanılır. AYAR fonksiyon tuşuna dokunun.",
+    "title_tr": "TUNE sayfası uçağın"
   },
   {
     "id": "s02",
-    "title": "When first accessed, the page will initially display the las…",
+    "title": "first accessed page",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "When first accessed, the page will initially display the last tuned radio with cursor over the active frequency.",
-    "caption_tr": ""
+    "caption_tr": "Sayfaya ilk erişildiğinde, imleç aktif frekansın üzerinde olacak şekilde, ilk olarak en son ayarlanan radyo görüntülenecektir.",
+    "title_tr": "ilk erişilen sayfa"
   },
   {
     "id": "s03",
-    "title": "The selectable radios are displayed next to the line select …",
+    "title": "selectable radios are",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The selectable radios are displayed next to the line select keys and a control window is located in the centre of the display. Any applicable radio may be placed into the control window by pressing the line select key for that radio.",
-    "caption_tr": ""
+    "caption_tr": "Seçilebilir radyolar hat seçme tuşlarının yanında görüntülenir ve ekranın ortasında bir kontrol penceresi bulunur. İlgili herhangi bir radyo, o radyo için hat seçme tuşuna basılarak kontrol penceresine yerleştirilebilir.",
+    "title_tr": "seçilebilir radyolar"
   },
   {
     "id": "s04",
-    "title": "The control window shows the selected radio, the active freq…",
+    "title": "control window selected",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The control window shows the selected radio, the active frequency, and up to four preset frequencies.",
-    "caption_tr": ""
+    "caption_tr": "Kontrol penceresi seçilen radyoyu, aktif frekansı ve dört adede kadar önceden ayarlanmış frekansı gösterir.",
+    "title_tr": "kontrol penceresi seçildi"
   },
   {
     "id": "s05",
-    "title": "Watch how frequency is selected on COM.",
+    "title": "Watch how frequency",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Watch how frequency is selected on COM.",
-    "caption_tr": ""
+    "caption_tr": "COM'da frekansın nasıl seçildiğini izleyin.",
+    "title_tr": "Frekans nasıl olduğunu"
   },
   {
     "id": "s06",
-    "title": "Watch how preset frequency number 4 is entered. When a new f…",
+    "title": "Watch how preset",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Watch how preset frequency number 4 is entered. When a new frequency is being entered, ACT disappears until the ENTER key is pressed and the radio responds.",
-    "caption_tr": ""
+    "caption_tr": "Önceden ayarlanmış frekans numarası 4'ün nasıl girildiğini izleyin. Yeni bir frekans girilirken, ENTER tuşuna basılana ve telsiz yanıt verene kadar ACT kaybolur.",
+    "title_tr": "Nasıl önceden ayarlandığını"
   },
   {
     "id": "s07",
-    "title": "The TUNE page has a Recall line, which will always contain t…",
+    "title": "TUNE page has",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The TUNE page has a Recall line, which will always contain the last frequency used whenever a new frequency is entered into the ACTIVE window.",
-    "caption_tr": ""
+    "caption_tr": "TUNE sayfasında, AKTİF pencereye yeni bir frekans girildiğinde her zaman kullanılan son frekansı içerecek bir Geri Çağırma satırı bulunur.",
+    "title_tr": "TUNE sayfasında"
   },
   {
     "id": "s08",
-    "title": "The Key swaps the frequency with the current ACTIVE frequenc…",
+    "title": "Key swaps frequency",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The Key swaps the frequency with the current ACTIVE frequency. Touch the",
-    "caption_tr": ""
+    "caption_tr": "Tuş, frekansı geçerli AKTİF frekansla değiştirir. Dokunun",
+    "title_tr": "Anahtar değiştirme sıklığı"
   },
   {
     "id": "s09",
-    "title": "Cursor movement in the control window is controlled using th…",
+    "title": "Cursor movement control",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Cursor movement in the control window is controlled using the ENTER key. If the ENTER key is pressed and nothing new has been entered into the active frequency, the cursor will advance to preset position 1. Watch",
-    "caption_tr": ""
+    "caption_tr": "Kontrol penceresindeki imleç hareketi ENTER tuşu kullanılarak kontrol edilir. ENTER tuşuna basılırsa ve aktif frekansa yeni bir şey girilmemişse imleç ön ayar konumu 1'e ilerleyecektir.",
+    "title_tr": "İmleç hareketi kontrolü"
   },
   {
     "id": "s10",
-    "title": "Each time the ENTER is pressed, the cursor will move down on…",
+    "title": "time ENTER pressed",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Each time the ENTER is pressed, the cursor will move down one preset position. After preset position 4, the cursor will return to the home position (active frequency)",
-    "caption_tr": ""
+    "caption_tr": "ENTER tuşuna her basıldığında imleç önceden ayarlanmış bir konuma doğru hareket edecektir. Ön ayar konumu 4'ten sonra imleç ana konuma (aktif frekans) dönecektir",
+    "title_tr": "ENTER'a basılan süre"
   },
   {
     "id": "s11",
-    "title": "The preset frequencies are changed or entered by placing the…",
+    "title": "preset frequencies are",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The preset frequencies are changed or entered by placing the cursor over the desired preset position, inputting the new frequency and then pressing the ENTER key. The new frequency may be input directly through the numeric keys or by inputting the reference number of one of the preset frequencies. Touch ADVANCE to see the change in the frequency.",
-    "caption_tr": ""
+    "caption_tr": "Ön ayarlı frekanslar, imlecin istenilen ön ayar konumu üzerine getirilmesi, yeni frekansın girilmesi ve ardından ENTER tuşuna basılmasıyla değiştirilir veya girilir. Yeni frekans doğrudan sayısal tuşlar aracılığıyla veya önceden ayarlanmış frekanslardan birinin referans numarası girilerek girilebilir. Frekanstaki değişikliği görmek için GELİŞMİŞ'e dokunun.",
+    "title_tr": "önceden ayarlanmış frekanslar"
   },
   {
     "id": "s12",
-    "title": "Pressing ENTER key will move the cursor down to the next pre…",
+    "title": "Pressing ENTER key",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Pressing ENTER key will move the cursor down to the next preset frequency. The next preset frequency can be changed likewise.",
-    "caption_tr": ""
+    "caption_tr": "ENTER tuşuna basıldığında imleç bir sonraki önceden ayarlanmış frekansa doğru hareket edecektir. Bir sonraki ön ayar frekansı da aynı şekilde değiştirilebilir.",
+    "title_tr": "ENTER tuşuna basılması"
   },
   {
     "id": "s13",
-    "title": "The ATC line select key us used to gain access to control of…",
+    "title": "ATC line select",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The ATC line select key us used to gain access to control of the transponder codes. Preselects 3 and 4 are prefilled with codes and respectively.",
-    "caption_tr": ""
+    "caption_tr": "Transponder kodlarının kontrolüne erişim sağlamak için kullandığımız ATC hattı seçme tuşu. 3 ve 4 numaralı ön seçimler sırasıyla ve kodlarıyla önceden doldurulur.",
+    "title_tr": "ATC hattı seçimi"
   }
 ]

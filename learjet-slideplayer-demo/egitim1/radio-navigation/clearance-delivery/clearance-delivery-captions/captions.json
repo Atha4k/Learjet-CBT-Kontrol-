@@ -1,146 +1,164 @@
 [
   {
     "id": "s01",
-    "title": "The clearance delivery head is located on the right, front c…",
+    "title": "clearance delivery head",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The clearance delivery head is located on the right, front corner of the centre pedestal. it provides low power consumption radio communications such as obtaining departure clearance on the ground prior to applying electrical power to the",
-    "caption_tr": ""
+    "caption_tr": "Boşluk dağıtım kafası, orta kaidenin sağ ön köşesinde bulunur. Araçlara elektrik gücü uygulanmadan önce yerden kalkış izninin alınması gibi düşük güç tüketimli radyo iletişimleri sağlar.",
+    "title_tr": "gümrükleme teslimat kafası"
   },
   {
     "id": "s02",
-    "title": "The provides an alternative capability for tuning COM 1 tran…",
+    "title": "alternative capability tuning",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The provides an alternative capability for tuning COM 1 transceiver and NAV 1 receiver. The data is sent to the COM or NAV unit via an auxiliary bus and the verifies that the radio has accepted the tuning command by listening to the echoed frequency on the radio system bus.",
-    "caption_tr": ""
+    "caption_tr": "COM 1 alıcı-vericisini ve NAV 1 alıcısını ayarlamak için alternatif bir yetenek sağlar. Veriler yardımcı bir veri yolu aracılığıyla COM veya NAV ünitesine gönderilir ve radyo sistem veriyolunda yankılanan frekansı dinleyerek radyonun ayarlama komutunu kabul ettiğini doğrular.",
+    "title_tr": "alternatif yetenek ayarı"
   },
   {
     "id": "s03",
-    "title": "The is normally powered by the left essential bus through AU…",
+    "title": "normally powered left",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The is normally powered by the left essential bus through AUDIO 1 circuit breaker; however, it and other communications related equipment can also be powered from the right hot bus via RADIO HOT BUS switch, prior to applying electrical power to the aircraft. The RADIO HOT BUS switch is located beside the",
-    "caption_tr": ""
+    "caption_tr": "Normalde AUDIO 1 devre kesici aracılığıyla sol temel veri yolundan güç alır; ancak buna ve iletişimle ilgili diğer ekipmanlara, uçağa elektrik gücü uygulanmadan önce RADIO HOT BUS anahtarı aracılığıyla sağ sıcak veri yolundan da güç verilebilir. RADIO HOT BUS düğmesi yan tarafta bulunur.",
+    "title_tr": "normalde sola doğru"
   },
   {
     "id": "s04",
-    "title": "With airplane batteries OFF, depressing the momentary-action…",
+    "title": "airplane batteries OFF",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "With airplane batteries OFF, depressing the momentary-action RADIO HOT BUS switch on the centre pedestal illuminates the amber ON caption and applies power from the right hot bus to the and the following equipment:",
-    "caption_tr": ""
+    "caption_tr": "Uçak aküleri KAPALI durumdayken, orta kaide üzerindeki anlık hareketli RADIO HOT BUS anahtarına basıldığında sarı AÇIK yazısı yanar ve sağ sıcak veri yolundan aşağıdaki ekipmanlara güç uygulanır:",
+    "title_tr": "uçak pilleri KAPALI"
   },
   {
     "id": "s05",
-    "title": "Left and right audio control panels (ACP) - COM module of th…",
+    "title": "Left right audio",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Left and right audio control panels (ACP) - COM module of the ICU 1 - NAV receiver module of INU",
-    "caption_tr": ""
+    "caption_tr": "Sol ve sağ ses kontrol panelleri (ACP) - ICU'nun COM modülü 1 - INU'nun NAV alıcı modülü",
+    "title_tr": "Sol sağ ses"
   },
   {
     "id": "s06",
-    "title": "When the left essential bus becomes powered, RADIO HOT BUS s…",
+    "title": "left essential bus",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "When the left essential bus becomes powered, RADIO HOT BUS switch is deactivated and the ON caption extinguishes. All the radio components that were previously powered by the right hot bus are now receiving power from the left essential bus.",
-    "caption_tr": ""
+    "caption_tr": "Sol temel veriyoluna güç verildiğinde, RADIO HOT BUS anahtarı devre dışı bırakılır ve ON yazısı söner. Daha önce sağ sıcak veri yolundan güç alan tüm radyo bileşenleri artık sol temel veri yolundan güç alıyor.",
+    "title_tr": "sol önemli otobüs"
   },
   {
     "id": "s07",
-    "title": "The display on the is liquid crystal type with white letters…",
+    "title": "liquid crystal type",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The display on the is liquid crystal type with white letters on a black background. The pushbuttons, the display and the control identifier legend are backlit with electroluminescent lighting.",
-    "caption_tr": ""
+    "caption_tr": "Üzerindeki ekran, siyah zemin üzerine beyaz harflerle likit kristal tipindedir. Butonlar, ekran ve kontrol tanımlayıcı açıklamalar elektrominesans aydınlatmayla arkadan aydınlatılmıştır.",
+    "title_tr": "sıvı kristal tipi"
   },
   {
     "id": "s08",
-    "title": "The controls are as follows: The transfer key alternately po…",
+    "title": "transfer key alternately",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The controls are as follows: The transfer key alternately positions the tuning cursor against the COM or the NAV frequency. The tuning cursor annunciator is a lighted triangle. With the tuning cursor on the COM frequency as shown, turning the tuning knob will change the COM frequency. The outer knob controls digits to the left of decimal point, the inner knob controls the digit to the right of decimal. Touch the tuning knob to simulate changing frequency",
-    "caption_tr": ""
+    "caption_tr": "Kontroller aşağıdaki gibidir: Aktarım anahtarı, ayar imlecini dönüşümlü olarak COM veya NAV frekansına göre konumlandırır. Ayar imleci göstergesi ışıklı bir üçgendir. Ayarlama imleci gösterildiği gibi COM frekansı üzerindeyken, ayarlama düğmesinin çevrilmesi COM frekansını değiştirecektir. Dış düğme, ondalık noktanın solundaki rakamları kontrol eder, iç düğme ise ondalık sayının sağındaki rakamı kontrol eder. Değişen frekansı simüle etmek için ayar düğmesine dokunun",
+    "title_tr": "anahtarı dönüşümlü aktar"
   },
   {
     "id": "s09",
-    "title": "Now touch the transfer key to simulate positioning cursor to…",
+    "title": "touch transfer key",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Now touch the transfer key to simulate positioning cursor to NAV frequency. With the cursor against the NAV frequency, turning the tuning knob will change the frequency.",
-    "caption_tr": ""
+    "caption_tr": "Şimdi konumlandırma imlecini NAV frekansına simüle etmek için transfer tuşuna dokunun. İmleç NAV frekansının karşısındayken ayar düğmesinin çevrilmesi frekansı değiştirecektir.",
+    "title_tr": "transfer tuşuna dokunun"
   },
   {
     "id": "s10",
-    "title": "The NAV Audio OnOff switch is used to toggle NAV audio ON or…",
+    "title": "NAV Audio OnOff",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The NAV Audio OnOff switch is used to toggle NAV audio ON or OFF. When selected, NAV AUDIO is annunciated.",
-    "caption_tr": ""
+    "caption_tr": "NAV Sesi Açma/Kapama düğmesi, NAV sesini AÇIK veya KAPALI duruma getirmek için kullanılır. Seçildiğinde NAV AUDIO duyurulur.",
+    "title_tr": "NAV Ses AçıkKapalı"
   },
   {
     "id": "s11",
-    "title": "The NAV Audio OnOff switch is used in conjunction with the a…",
+    "title": "NAV Audio OnOff",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The NAV Audio OnOff switch is used in conjunction with the audio control panel (ACP) when itis operated in the emergency mode. In the emergency mode, selecting NAV audio on the enables NAV audio IDENT to be heard on the crew's headset. This will be discussed again in the audio control panel topic.",
-    "caption_tr": ""
+    "caption_tr": "NAV Ses Açma/Kapama anahtarı, acil durum modunda çalıştırıldığında ses kontrol paneli (ACP) ile birlikte kullanılır. Acil durum modunda, NAV sesinin seçilmesi, NAV sesi IDENT'in mürettebatın kulaklığından duyulmasını sağlar. Bu konuyu ses kontrol paneli başlığında tekrar ele alacağız.",
+    "title_tr": "NAV Ses AçıkKapalı"
   },
   {
     "id": "s12",
-    "title": "The squelch switch is to select COM squelch. When selected, …",
+    "title": "squelch switch select",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The squelch switch is to select COM squelch. When selected, squelch annunciator appears on the screen as shown.",
-    "caption_tr": ""
+    "caption_tr": "Susturma anahtarı COM susturmayı seçmek içindir. Seçildiğinde, susturucu uyarı cihazı gösterildiği gibi ekranda belirir.",
+    "title_tr": "susturucu anahtarı seçimi"
   },
   {
     "id": "s13",
-    "title": "System Installation Annunciator The number 1 in the upper le…",
+    "title": "System Installation Annunciator",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "System Installation Annunciator The number 1 in the upper left corner of the display indicates the can only be used to control COM 1 and NAV 1.",
-    "caption_tr": ""
+    "caption_tr": "Sistem Kurulum Uyarı Cihazı Ekranın sol üst köşesindeki 1 rakamı, yalnızca COM 1 ve NAV 1'i kontrol etmek için kullanılabileceğini gösterir.",
+    "title_tr": "Sistem Kurulumu Uyarı"
   },
   {
     "id": "s14",
-    "title": "Transmit annunciator indicates that transmission is taking p…",
+    "title": "Transmit annunciator that",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Transmit annunciator indicates that transmission is taking place on COM 1 set.",
-    "caption_tr": ""
+    "caption_tr": "İletim uyarı cihazı, iletimin COM 1 setinde gerçekleştiğini gösterir.",
+    "title_tr": "Şunu iletin:"
   },
   {
     "id": "s15",
-    "title": "NormalEmergency Mode Switch This push-button provides select…",
+    "title": "NormalEmergency Mode Switch",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "NormalEmergency Mode Switch This push-button provides selection of Normal Emergency mode. In the Emergency mode, EMRG is annunciated to indicate is operating in Emergency mode. There is no annunciation, however, in the Normal mode.",
-    "caption_tr": ""
+    "caption_tr": "NormalAcil Durum Modu Anahtarı Bu düğme Normal Acil Durum modunun seçimini sağlar. Acil Durum modunda, Acil Durum modunda çalıştığını belirtmek için ACİL anonsu yapılır. Ancak Normal modda herhangi bir bildirim yoktur.",
+    "title_tr": "NormalAcil Durum Modu"
   },
   {
     "id": "s16",
-    "title": "When operated in the normal mode, the acts as another tuning…",
+    "title": "operated normal mode",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "When operated in the normal mode, the acts as another tuning source in addition to RMU and tunes the radios through the auxiliary bus, whereas RMU 1 and tune the radios through the radio system bus.",
-    "caption_tr": ""
+    "caption_tr": "Normal modda çalıştırıldığında, RMU'ya ek olarak başka bir ayarlama kaynağı görevi görür ve radyoları yardımcı veri yolu üzerinden ayarlar, RMU 1 ise radyo sistem veri yolu aracılığıyla radyoları ayarlar.",
+    "title_tr": "normal modda çalıştırıldı"
   },
   {
     "id": "s17",
-    "title": "When frequency is selected on it is transmitted to RMU 1 and…",
+    "title": "frequency selected it",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "When frequency is selected on it is transmitted to RMU 1 and via radio system bus and all tuning panels will display a common frequency. Frequency selected on RMU 1 or will also likewise be sent to in the same manner.",
-    "caption_tr": ""
+    "caption_tr": "Frekans seçildiğinde RMU 1'e ve radyo sistem veriyolu aracılığıyla iletilir ve tüm ayar panelleri ortak bir frekansı görüntüler. RMU 1'de seçilen frekans da aynı şekilde gönderilecektir.",
+    "title_tr": "frekans onu seçti"
   },
   {
     "id": "s18",
-    "title": "If Emergency mode is selected on the RMU 1 and tuning capabi…",
+    "title": "Emergency mode selected",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "If Emergency mode is selected on the RMU 1 and tuning capabilities are inhibited and the COM and NAV units are tuned exclusively by the An AUX ON message is displayed at the top of the COM 1 and NAV 1 windows of RMU 1. This is to indicate that tuning through RMU is inhibited.",
-    "caption_tr": ""
+    "caption_tr": "RMU 1'de Acil durum modu seçilirse ve ayarlama yetenekleri engellenirse ve COM ve NAV birimleri özel olarak RMU 1'in COM 1 ve NAV 1 pencerelerinin üstünde bir AUX ON mesajı görüntülenir. Bu, RMU aracılığıyla ayarlamanın engellendiğini belirtmek içindir.",
+    "title_tr": "Acil durum modu"
   }
 ]

@@ -1,122 +1,137 @@
 [
   {
     "id": "s01",
-    "title": "Ignition is provided by two ignitor plugs spaced around the …",
+    "title": "Ignition provided two",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Ignition is provided by two ignitor plugs spaced around the combustion chamber. Both the starter-generator and the ignitor plugs are normally automatically controlled by the DEEC but may be manually controlled.",
-    "caption_tr": ""
+    "caption_tr": "Ateşleme, yanma odasının etrafına yerleştirilmiş iki ateşleme bujisi tarafından sağlanır. Hem marş jeneratörü hem de ateşleme bujileri normalde DEEC tarafından otomatik olarak kontrol edilir, ancak manuel olarak da kontrol edilebilir.",
+    "title_tr": "Ateşleme tane sağladı"
   },
   {
     "id": "s02",
-    "title": "In a normal engine start - called an autostart - the Engine …",
+    "title": "normal engine start",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "In a normal engine start - called an autostart - the Engine Computer switch is in the ON position. The thrust lever is then moved from Cutoff to Idle position, and the Start switch momentarily depressed.",
-    "caption_tr": ""
+    "caption_tr": "Otomatik başlatma olarak adlandırılan normal motor çalıştırma sırasında, Motor Bilgisayarı anahtarı AÇIK konumdadır. Daha sonra itme kolu Kesme konumundan Rölanti konumuna getirilir ve Başlatma anahtarına bir anlığına basılır.",
+    "title_tr": "normal motor çalıştırma"
   },
   {
     "id": "s03",
-    "title": "The Start switch will illuminate ON. This action signals the…",
+    "title": "Start switch will",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The Start switch will illuminate ON. This action signals the DEEC to initiate a start cycle. The start-generator is energised and a green START annunciator will be displayed on EICAS for the engine to be started.",
-    "caption_tr": ""
+    "caption_tr": "Başlat düğmesi AÇIK olarak yanacaktır. Bu eylem DEEC'e bir başlatma döngüsü başlatma sinyali verir. Çalıştırma jeneratörüne enerji verilir ve motorun çalıştırılması için EICAS'ta yeşil bir ÇALIŞTIRMA sinyali görüntülenecektir.",
+    "title_tr": "Başlatma anahtarı"
   },
   {
     "id": "s04",
-    "title": "As the engine increases, at percent the ignitors are automat…",
+    "title": "engine increases percent",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "As the engine increases, at percent the ignitors are automatically turned on. A green IGN annunciator will be displayed on EICAS to indicate that both ignitors are functional.",
-    "caption_tr": ""
+    "caption_tr": "Motor arttıkça yüzde olarak ateşleyiciler otomatik olarak açılır. Her iki ateşleyicinin de işlevsel olduğunu belirtmek için EICAS'ta yeşil bir IGN göstergesi görüntülenecektir.",
+    "title_tr": "motor yüzde artar"
   },
   {
     "id": "s05",
-    "title": "If the IGN annunciator is white, it indicates that one ignit…",
+    "title": "IGN annunciator white",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "If the IGN annunciator is white, it indicates that one ignitor plug is faulty. If both plugs are faulty, the IGN annunciator is amber and this will also trigger master caution.",
-    "caption_tr": ""
+    "caption_tr": "IGN göstergesinin beyaz olması ateşleme fişlerinden birinin arızalı olduğunu gösterir. Her iki fiş de arızalıysa, IGN göstergesi sarı renkte yanar ve bu da ana uyarıyı tetikleyecektir.",
+    "title_tr": "IGN göstergesi beyaz"
   },
   {
     "id": "s06",
-    "title": "At about 10 to 11 percent fuel is admitted from the FCU to t…",
+    "title": "about 10 11",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "At about 10 to 11 percent fuel is admitted from the FCU to the combustion chamber and the engine should light up. should rapidly increase. At 45 percent N2 ignition is automatically terminated as the engine is now self-sustaining, and the IGN annunciator will go off.",
-    "caption_tr": ""
+    "caption_tr": "FCU'dan yanma odasına yaklaşık yüzde 10 ila 11 oranında yakıt kabul edilir ve motorun yanması gerekir. hızla artmalıdır. Yüzde 45'te N2 ateşlemesi, motor artık kendi kendini idame ettirebildiğinden otomatik olarak sonlandırılır ve IGN uyarı cihazı söner.",
+    "title_tr": "yaklaşık 10 11"
   },
   {
     "id": "s07",
-    "title": "At 50 percent the starter-generator cuts out and the START a…",
+    "title": "50 percent starter-generator",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "At 50 percent the starter-generator cuts out and the START annunciator will go off and the Start switch will blank. At the same time the Standby pump will also automatically stop.",
-    "caption_tr": ""
+    "caption_tr": "Yüzde 50'de marş jeneratörü kapanır ve BAŞLAT göstergesi söner ve Başlat anahtarı boş kalır. Aynı zamanda Bekleme pompası da otomatik olarak duracaktır.",
+    "title_tr": "Yüzde 50 marş-jeneratör"
   },
   {
     "id": "s08",
-    "title": "If the Engine Computer switch is in the MAN or OFF position,…",
+    "title": "Engine Computer switch",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "If the Engine Computer switch is in the MAN or OFF position, the autostart circuit is not functional and a Manual Start is required. Manual Starts require the ignition, and fuel to be pilot-controlled. Depending on the situation the starter may also be required to be manually controlled.",
-    "caption_tr": ""
+    "caption_tr": "Motor Bilgisayarı anahtarı MAN veya KAPALI konumundaysa, otomatik başlatma devresi işlevsel değildir ve Manuel Çalıştırma gereklidir. Manuel Çalıştırma, ateşlemenin ve yakıtın pilot kontrollü olmasını gerektirir. Duruma bağlı olarak marş motorunun manuel olarak da kontrol edilmesi gerekebilir.",
+    "title_tr": "Motor Bilgisayarı anahtarı"
   },
   {
     "id": "s09",
-    "title": "The ignition system is manually controlled by depressing the…",
+    "title": "ignition system manually",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The ignition system is manually controlled by depressing the ignition switch-indicator. When the switch-indicator is depressed, it will illuminate ON and the green IGN annunciator should be displayed on EICAS. Note that the Ignition switch-indicator does NOT illuminate ON when ignition is being turned on automatically during an autostart. Annunciations for a faulty ignition system are the same as in an autostart.",
-    "caption_tr": ""
+    "caption_tr": "Ateşleme sistemi, kontak anahtarı göstergesine basılarak manuel olarak kontrol edilir. Anahtar göstergesine basıldığında, AÇIK yanacaktır ve EICAS'ta yeşil IGN göstergesi görüntülenmelidir. Otomatik başlatma sırasında kontak otomatik olarak açıldığında Kontak anahtarı göstergesinin AÇIK YANMADIĞINI unutmayın. Arızalı bir ateşleme sistemine ilişkin bildirimler, otomatik çalıştırmadakiyle aynıdır.",
+    "title_tr": "ateşleme sistemi manuel"
   },
   {
     "id": "s10",
-    "title": "The Standby pump has to be switched on manually be depressin…",
+    "title": "Standby pump has",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The Standby pump has to be switched on manually be depressing the Standby pump switchindicator. The Standby pump switch-indicator should illuminate ON and the white STANDBY PUMP ON message should be displayed on CAS.",
-    "caption_tr": ""
+    "caption_tr": "Yedek pompanın, Yedek pompa anahtarı göstergesine basılarak manuel olarak açılması gerekir. Beklemede pompa anahtarı göstergesi AÇIK olarak yanmalı ve CAS'ta beyaz BEKLEMEDE POMPA AÇIK mesajı görüntülenmelidir.",
+    "title_tr": "Bekleme pompası var"
   },
   {
     "id": "s11",
-    "title": "Check engine speed. If engine speed is at or above minimum o…",
+    "title": "Check engine speed",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Check engine speed. If engine speed is at or above minimum of 10 percent N1 or the engine speed is sufficiently high for fuel to be admitted to the combustion chamber. To do this windmill start, move the thrust lever from Cutoff to Idle and the engine should light up.",
-    "caption_tr": ""
+    "caption_tr": "Motor devrini kontrol edin. Motor devri minimum yüzde 10 N1 veya üzerindeyse veya motor devri, yakıtın yanma odasına kabul edilmesine yetecek kadar yüksekse. Bu yel değirmenini çalıştırmak için, itme kolunu Kesme konumundan Rölanti konumuna getirin; motor yanmalıdır.",
+    "title_tr": "Motor devrini kontrol"
   },
   {
     "id": "s12",
-    "title": "If engine speed is less than 10 percent N1 or the starter is…",
+    "title": "engine speed less",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "If engine speed is less than 10 percent N1 or the starter is required to crank the engine up to this speed. Depressing the engine Start switchlindicator will energise the starter only for a starter-assisted start. The Left Start switch illuminates ON and a green START annunciator should be displayed to confirm that the starter is energised.",
-    "caption_tr": ""
+    "caption_tr": "Motor devri yüzde 10 N1'den azsa veya marş motorunun motoru bu hıza kadar kranklaması gerekiyorsa. Motor Çalıştırma anahtarı göstergesine basıldığında, marş motoruna yalnızca marş motoru destekli çalıştırma için enerji verilecektir. Sol Çalıştırma anahtarı AÇIK olarak yanar ve marş motoruna enerji verildiğini doğrulamak için yeşil bir BAŞLAT göstergesi görüntülenmelidir.",
+    "title_tr": "motor devri daha"
   },
   {
     "id": "s13",
-    "title": "When either N2 or N2 reaches 10 percent, move the thrust lev…",
+    "title": "either N2 reaches",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "When either N2 or N2 reaches 10 percent, move the thrust lever from Cutoff to Idle. The engine should light up. For a manual start the starter cuts out at 45 percent IRE",
-    "caption_tr": ""
+    "caption_tr": "N2 veya N2 yüzde 10'a ulaştığında, itme kolunu Kesme konumundan Rölanti konumuna getirin. Motor yanmalıdır. Manuel başlatma için marş motoru yüzde 45 IRE'de kesiliyor",
+    "title_tr": "ya N2 ulaşır"
   },
   {
     "id": "s14",
-    "title": "In either case, once the engine is started and stabilised, t…",
+    "title": "either case once",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "In either case, once the engine is started and stabilised, the ignition is turned off by depressing the ignition switch. The standby pump is also switched off or it may be left on as desired.",
-    "caption_tr": ""
+    "caption_tr": "Her iki durumda da, motor çalıştırılıp stabil hale getirildikten sonra kontak anahtarına basılarak kontak kapatılır. Yedek pompa da kapatılır veya isteğe göre açık bırakılabilir.",
+    "title_tr": "durumda da kez"
   },
   {
     "id": "s15",
-    "title": "The ignition system is also automatically turned on by an au…",
+    "title": "ignition system also",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "The ignition system is also automatically turned on by an auto-ignition circuit if engine falls off without a change in thrust lever position. The system assumes that a flame-out has occurred and ignitors will be turned on automatically to try to relight the engine. The IGN annunciator should be displayed on EICAS to show that ignition is on.",
-    "caption_tr": ""
+    "caption_tr": "Motorun itme kolu konumunda bir değişiklik olmadan düşmesi durumunda ateşleme sistemi otomatik ateşleme devresi tarafından otomatik olarak açılır. Sistem, bir alevin söndüğünü ve motoru yeniden yakmayı denemek için ateşleyicilerin otomatik olarak açılacağını varsayar. Kontağın açık olduğunu göstermek için IGN göstergesi EICAS'ta görüntülenmelidir.",
+    "title_tr": "ateşleme sistemi de"
   }
 ]

@@ -1,8 +1,8 @@
 [
   {
     "id": "s01",
-    "title": "Passenger Compartment Lighting System Overview",
-    "title_tr": "Yolcu Kabini Aydınlatma Sistemi Genel Bakış",
+    "title": "Passenger Compartment Lighting",
+    "title_tr": "Yolcu Kabini Aydınlatma",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Passenger compartment lighting system consists of entry/exit light, cabin interior light, and NO SMOKING / FASTEN SEAT BELT signs.",
@@ -10,8 +10,8 @@
   },
   {
     "id": "s02",
-    "title": "Main Entryway Control Panel",
-    "title_tr": "Ana Giriş Kontrol Paneli",
+    "title": "Main Entryway Control",
+    "title_tr": "Ana Giriş Kontrol",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Primary cabin lighting control is through the Main Entryway Control panel located on the left-hand storage cabin forward of the door. When a switch is selected, the corresponding green LED illuminates.",
@@ -29,7 +29,7 @@
   {
     "id": "s04",
     "title": "Entry/Exit Door Light",
-    "title_tr": "Giriş / Çıkış Kapısı Aydınlatması",
+    "title_tr": "Giriş / Çıkış",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The cabin entry/exit door light illuminates the lower door steps when both upper and lower doors are open. It is powered by the right hot bus regardless of battery switch position.",
@@ -46,8 +46,8 @@
   },
   {
     "id": "s06",
-    "title": "Cabin Light Intensity Control",
-    "title_tr": "Kabin Işık Şiddeti Kontrolü",
+    "title": "Cabin Light Intensity",
+    "title_tr": "Kabin Işık Şiddeti",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Pressing the CABIN LIGHT switch turns the lights on. Holding the switch increases intensity, while pressing and holding again dims the light. A quick press turns the lights off.",
@@ -64,8 +64,8 @@
   },
   {
     "id": "s08",
-    "title": "Spot Light Switch Operation",
-    "title_tr": "Spot Işık Anahtarı Çalışma Mantığı",
+    "title": "Spot Light Switch",
+    "title_tr": "Spot Işık Anahtarı",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The SPOT LIGHT switch operates in the same manner as the CABIN LIGHT switch.",
@@ -73,8 +73,8 @@
   },
   {
     "id": "s09",
-    "title": "Power Supply of Cabin Lights",
-    "title_tr": "Kabin Işıklarının Güç Kaynağı",
+    "title": "Power Cabin Lights",
+    "title_tr": "Kabin Işıkları Güç",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The CABIN, SPOT, and LAV LIGHT switches are powered by non-essential buses.",
@@ -100,8 +100,8 @@
   },
   {
     "id": "s12",
-    "title": "Seat Belt and No Smoking Signs Control",
-    "title_tr": "Emniyet Kemeri ve Sigara İçilmez İkazları",
+    "title": "Seat Belt No",
+    "title_tr": "Emniyet Kemeri Sigara",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Control of the NO SMOKING/FASTEN SEAT BELT sign is through a switch located on the LIGHTS control panel in the cockpit. The switch has three positions: OFF-BELTS--NO SMOKING/BELTS.",
@@ -109,8 +109,8 @@
   },
   {
     "id": "s13",
-    "title": "BELTS and NO SMOKING Modes",
-    "title_tr": "BELTS ve NO SMOKING Modları",
+    "title": "BELTS NO SMOKING",
+    "title_tr": "BELTS NO SMOKING",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "In BELTS mode, a chime sounds and seat belt signs illuminate. In NO SMOKING / BELTS mode, both signs illuminate accompanied by a chime.",

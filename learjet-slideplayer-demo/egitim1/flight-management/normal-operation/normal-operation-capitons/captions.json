@@ -1,0 +1,848 @@
+[
+  {
+    "id": "s01",
+    "title": "Lets start system",
+    "imgSrc": "slides/s01.png",
+    "audioSrc": "audio/s01.mp3",
+    "caption_en": "Lets start by powering the system. Touch the \"ONOFF-DIM\" key on the CDU.",
+    "caption_tr": "Sisteme güç vererek başlayalım. CDU'daki \"ONOFF-DIM\" tuşuna dokunun. ",
+    "title_tr": "Sistemi başlatalım"
+  },
+  {
+    "id": "s02",
+    "title": "self test page",
+    "imgSrc": "slides/s02.png",
+    "audioSrc": "audio/s02.mp3",
+    "caption_en": "The self test page is displayed showing the results of each test performed. The progress of each self test is followed by displaying a PASS or FAIL message. ",
+    "caption_tr": "Gerçekleştirilen her testin sonuçlarını gösteren kendi kendine test sayfası görüntülenir. Her bir kendi kendine testin ilerleyişi, bir BAŞARILI veya BAŞARISIZ mesajının görüntülenmesiyle takip edilir. ",
+    "title_tr": "Kendi kendine test"
+  },
+  {
+    "id": "s03",
+    "title": "failure detected self",
+    "imgSrc": "slides/s03.png",
+    "audioSrc": "audio/s03.mp3",
+    "caption_en": "If a failure is detected the self test will not advance and the use of the FMS is prevented. ",
+    "caption_tr": "Bir arıza tespit edilirse kendi kendine test ilerlemez ve FMS'nin kullanımı engellenir. ",
+    "title_tr": "başarısızlık kendi kendine"
+  },
+  {
+    "id": "s04",
+    "title": "successful completion these",
+    "imgSrc": "slides/s04.png",
+    "audioSrc": "audio/s04.mp3",
+    "caption_en": "On successful completion of these self tests, the screen will automatically change to display the Initialization page.",
+    "caption_tr": "Bu otomatik testlerin başarıyla tamamlanmasının ardından ekran otomatik olarak Başlatma sayfasını gösterecek şekilde değişecektir.",
+    "title_tr": "bunları başarıyla tamamladık"
+  },
+  {
+    "id": "s05",
+    "title": "Touch ONOFF-DIM key",
+    "imgSrc": "slides/s05.png",
+    "audioSrc": "audio/s05.mp3",
+    "caption_en": "Touch the ONOFF-DIM key to access the dimming and offset controls. ",
+    "caption_tr": "Karartma ve ofset kontrollerine erişmek için ONOFF-DIM tuşuna dokunun. ",
+    "title_tr": "AÇIKKAPALI-DIM tuşuna dokunun"
+  },
+  {
+    "id": "s06",
+    "title": "Pressing LSK adjacent",
+    "imgSrc": "slides/s06.png",
+    "audioSrc": "audio/s06.mp3",
+    "caption_en": "Pressing the LSK adjacent to the BRIGHT or DIM line select keys will change the screen intensity. ",
+    "caption_tr": "PARLAK veya DIM satırı seçme tuşlarının yanındaki LSK'ya basmak ekran yoğunluğunu değiştirecektir. ",
+    "title_tr": "Bitişikte LSK'ya basmak"
+  },
+  {
+    "id": "s07",
+    "title": "Similarly pressing LSK",
+    "imgSrc": "slides/s07.png",
+    "audioSrc": "audio/s07.mp3",
+    "caption_en": "Similarly pressing the DISPLAY LSK will bring up another screen that will enable scrolling of the entire display vertically to correct for parallax error. Touch the DISPLAY LSK. ",
+    "caption_tr": "Benzer şekilde DISPLAY LSK'ye basıldığında, paralaks hatasını düzeltmek için ekranın tamamının dikey olarak kaydırılmasını sağlayacak başka bir ekran açılacaktır. LSK EKRANINA dokunun.",
+    "title_tr": "Benzer şekilde LSK'ya"
+  },
+  {
+    "id": "s08",
+    "title": "DOWN LSKs are",
+    "imgSrc": "slides/s08.png",
+    "audioSrc": "audio/s08.mp3",
+    "caption_en": "The UP and DOWN LSKs are used to align the select arrows with the Line Select Keys. For correct alignment touch the UP LSK 1R. ",
+    "caption_tr": "YUKARI ve AŞAĞI LSK'lar, seçme oklarını Hat Seçim Tuşlarıyla hizalamak için kullanılır. Doğru hizalama için UP LSK 1R'ye dokunun. ",
+    "title_tr": "AŞAĞI LSK'lar"
+  },
+  {
+    "id": "s09",
+    "title": "Touch L SK",
+    "imgSrc": "slides/s09.png",
+    "audioSrc": "audio/s09.mp3",
+    "caption_en": "Touch the CANCEL L SK to return to the previous page. ",
+    "caption_tr": "Önceki sayfaya dönmek için L SK İPTAL'e dokunun. ",
+    "title_tr": "L SK'ya dokunun"
+  },
+  {
+    "id": "s10",
+    "title": "Touch LSK return",
+    "imgSrc": "slides/s10.png",
+    "audioSrc": "audio/s10.mp3",
+    "caption_en": "Touch CANCEL LSK to return to the INITIALIZATION page.  ",
+    "caption_tr": "BAŞLATMA sayfasına dönmek için LSK'YI İPTAL ET'e dokunun. ",
+    "title_tr": "LSK dönüşüne dokunun"
+  },
+  {
+    "id": "s11",
+    "title": "Initialization page data",
+    "imgSrc": "slides/s11.png",
+    "audioSrc": "audio/s11.mp3",
+    "caption_en": "On the Initialization page, data in amber need verification. Typically, the data shown on the Initialization page is correct, as the position, date and time shown will be from the GPS. This is indicated by GPS in the Ident field after the GPS transitions to NAV mode. ",
+    "caption_tr": "Başlatma sayfasında sarı renkli verilerin doğrulanması gerekir. Gösterilen konum, tarih ve saat GPS'ten alınacağından, Başlatma sayfasında gösterilen veriler genellikle doğrudur. Bu, GPS NAV moduna geçtikten sonra Kimlik alanında GPS tarafından gösterilir. ",
+    "title_tr": "Başlatma sayfası verileri"
+  },
+  {
+    "id": "s12",
+    "title": "Pressing ACCEPT line",
+    "imgSrc": "slides/s12.png",
+    "audioSrc": "audio/s12.mp3",
+    "caption_en": "Pressing the ACCEPT line select key accept the initialization data. Amber data will turn white, indicating that initialization is complete. Touch ACCEPT key. ",
+    "caption_tr": "ACCEPT satırı seçme tuşuna basıldığında başlatma verileri kabul edilir. Sarı renkli veriler, başlatmanın tamamlandığını gösterecek şekilde beyaza dönecektir. KABUL tuşuna dokunun. ",
+    "title_tr": "KABUL satırına basmak"
+  },
+  {
+    "id": "s13",
+    "title": "GPS signal received",
+    "imgSrc": "slides/s13.png",
+    "audioSrc": "audio/s13.mp3",
+    "caption_en": "If GPS signal is not received, the position displayed will be the same as when the system was last powered down. In which case, the cursor must be inserted with the present position. ",
+    "caption_tr": "GPS sinyali alınmazsa, görüntülenen konum sistemin en son kapatıldığı andaki konumla aynı olacaktır. Bu durumda imleç mevcut konumla birlikte yerleştirilmelidir. ",
+    "title_tr": "GPS sinyali alındı"
+  },
+  {
+    "id": "s14",
+    "title": "co-ordinates initial position",
+    "imgSrc": "slides/s14.png",
+    "audioSrc": "audio/s14.mp3",
+    "caption_en": "The co-ordinates of initial position can be determined by three methods: - Entering the 4 letter ICAO airport identifier - Entering the exact latitude and longitude - Entering the radialdistance from a reference point.",
+    "caption_tr": "Başlangıç ​​konumunun koordinatları üç yöntemle belirlenebilir: - 4 harfli ICAO havaalanı tanımlayıcısının girilmesi - Tam enlem ve boylamın girilmesi - Bir referans noktasından radyal mesafenin girilmesi. ",
+    "title_tr": "başlangıç konumunu koordine"
+  },
+  {
+    "id": "s15",
+    "title": "normal ICAO identifier",
+    "imgSrc": "slides/s15.png",
+    "audioSrc": "audio/s15.mp3",
+    "caption_en": "In the normal operation, ICAO identifier of the airportis used to insert on the cursor. Select WSS S (Changi International Airport) on the FMS. Press ENTER Press ACCEPT ",
+    "caption_tr": "Normal çalışmada, imlecin üzerine eklemek için havaalanının ICAO tanımlayıcısı kullanılır. FMS'de WSS S'yi (Changi Uluslararası Havaalanı) seçin. ENTER tuşuna basın ACCEPT tuşuna basın ",
+    "title_tr": "normal ICAO tanımlayıcı"
+  },
+  {
+    "id": "s16",
+    "title": "airport ICAO code",
+    "imgSrc": "slides/s16.png",
+    "audioSrc": "audio/s16.mp3",
+    "caption_en": "The airport ICAO code can be obtained from the LIST key, if desired. Touch the LIST key. ",
+    "caption_tr": "İstenildiği takdirde LIST tuşundan havalimanı ICAO kodu alınabilir. LİSTE tuşuna dokunun. ",
+    "title_tr": "havaalanı ICAO kodu"
+  },
+  {
+    "id": "s17",
+    "title": "Ten pages lists",
+    "imgSrc": "slides/s17.png",
+    "audioSrc": "audio/s17.mp3",
+    "caption_en": "Ten pages of lists are available. The cursor will pre-fill the list number of the airports closest to the stored position coordinates. Distances from the stored position are shown. The correct number against the airport must be selected. ",
+    "caption_tr": "On sayfalık listeler mevcuttur. İmleç, kayıtlı konum koordinatlarına en yakın havalimanlarının liste numarasını önceden dolduracaktır. Kaydedilen konuma olan mesafeler gösterilir. Havaalanının karşısında doğru numara seçilmelidir. ",
+    "title_tr": "On sayfalık listeler"
+  },
+  {
+    "id": "s18",
+    "title": "latitudelongitude radialdistance initializ",
+    "imgSrc": "slides/s18.png",
+    "audioSrc": "audio/s18.mp3",
+    "caption_en": "The latitudelongitude or radialdistance is used to initialize FMS, it is done on DEFINE POST page which is accessible by pressing ENTER key with IDENT field blank on the INIT page.",
+    "caption_tr": "Enlem-boylam veya radyal mesafe FMS'yi başlatmak için kullanılır, INIT sayfasında IDENT alanı boşken ENTER tuşuna basılarak erişilebilen DEFINE POST sayfasında yapılır. ",
+    "title_tr": "enlem boylam radyal"
+  },
+  {
+    "id": "s19",
+    "title": "Watch how latitude",
+    "imgSrc": "slides/s19.png",
+    "audioSrc": "audio/s19.mp3",
+    "caption_en": "Watch how latitude and longitude coordinates are loaded to initialise the FMS. ",
+    "caption_tr": "FMS'yi başlatmak için enlem ve boylam koordinatlarının nasıl yüklendiğini izleyin. ",
+    "title_tr": "Enlem kadar olduğunu"
+  },
+  {
+    "id": "s20",
+    "title": "Watch how latitude",
+    "imgSrc": "slides/s20.png",
+    "audioSrc": "audio/s20.mp3",
+    "caption_en": "Watch how latitude and longitude coordinates are loaded to initialise the FMS.",
+    "caption_tr": "FMS'yi başlatmak için enlem ve boylam koordinatlarının nasıl yüklendiğini izleyin.",
+    "title_tr": "Enlem kadar olduğunu"
+  },
+  {
+    "id": "s21",
+    "title": "watch how radial",
+    "imgSrc": "slides/s21.png",
+    "audioSrc": "audio/s21.mp3",
+    "caption_en": "Now watch how radial and distance are inserted to initialise FMS.",
+    "caption_tr": "Şimdi FMS'yi başlatmak için radyal ve mesafenin nasıl eklendiğini izleyin. ",
+    "title_tr": "kadar radyal olduğunu"
+  },
+  {
+    "id": "s22",
+    "title": "Following entry ICAO",
+    "imgSrc": "slides/s22.png",
+    "audioSrc": "audio/s22.mp3",
+    "caption_en": "Following entry of the ICAO identifier in the ID field, pressing the ENTER key will update the FMS with present position and moves the cursor to DATE field. Using numeric keys, the date can be changed if itis not correct. The key will change the date-Day-Month-Year-in that order. Assuming they are correct, touch ENTER key. ",
+    "caption_tr": "ICAO tanımlayıcısının ID alanına girilmesinin ardından ENTER tuşuna basılması, FMS'yi mevcut konumla güncelleyecek ve imleci TARİH alanına taşıyacaktır. Sayısal tuşlar kullanılarak tarih doğru değilse değiştirilebilir. Anahtar tarih-Gün-Ay-Yıl-bu sırayla değişecektir. Doğru olduklarını varsayarak ENTER tuşuna dokunun. ",
+    "title_tr": "Aşağıdaki giriş ICAO"
+  },
+  {
+    "id": "s23",
+    "title": "cursor UTC field",
+    "imgSrc": "slides/s23.png",
+    "audioSrc": "audio/s23.mp3",
+    "caption_en": "With the cursor on UTC field, the time likewise can be changed. The time entries are made in the format Hour Minute Second. When the change has been made, pressing ENTER key will move the cursor to ACCEPT. Watch. ",
+    "caption_tr": "İmleç UTC alanının üzerindeyken saat de aynı şekilde değiştirilebilir. Zaman girişleri Saat Dakika Saniye formatında yapılır. Değişiklik yapıldığında ENTER tuşuna basılması imleci KABUL seçeneğine taşıyacaktır. Kol saati. ",
+    "title_tr": "imleç UTC alanı"
+  },
+  {
+    "id": "s24",
+    "title": "complete FMS Initialization",
+    "imgSrc": "slides/s24.png",
+    "audioSrc": "audio/s24.mp3",
+    "caption_en": "To complete the FMS Initialization, touch the ACCEPT LSK or ENTER key. ",
+    "caption_tr": "FMS Başlatmayı tamamlamak için LSK'YI KABUL ET veya ENTER tuşuna dokunun. ",
+    "title_tr": "FMS Başlatmayı tamamla"
+  },
+  {
+    "id": "s25",
+    "title": "Please note that",
+    "imgSrc": "slides/s25.png",
+    "audioSrc": "audio/s25.mp3",
+    "caption_en": "Please note that ENTER is generally used to enter data when it is highlighted by cursor. This will cause only that line of data to be entered. The ACCEPT prompt enters the whole page of data currently displayed on the screen. ",
+    "caption_tr": "Lütfen ENTER'ın genellikle imleçle vurgulandığında veri girmek için kullanıldığını unutmayın. Bu, yalnızca o veri satırının girilmesine neden olacaktır. ACCEPT istemi, ekranda o anda görüntülenen tüm veri sayfasını girer.",
+    "title_tr": "Lütfen şunu unutmayın"
+  },
+  {
+    "id": "s26",
+    "title": "flashing amber MSG",
+    "imgSrc": "slides/s26.png",
+    "audioSrc": "audio/s26.mp3",
+    "caption_en": "A flashing amber \"MSG\" annunciator appears on the top right hand corner of the screen. This indicates that the FMS has a message for the pilot. ",
+    "caption_tr": "Ekranın sağ üst köşesinde yanıp sönen sarı renkli bir \"MSG\" uyarı göstergesi belirir. Bu, FMS'nin pilota bir mesajı olduğunu gösterir. ",
+    "title_tr": "yanıp sönen sarı"
+  },
+  {
+    "id": "s27",
+    "title": "This MSG light",
+    "imgSrc": "slides/s27.png",
+    "audioSrc": "audio/s27.mp3",
+    "caption_en": "This \"MSG\" light also appears on the associated PFD. ",
+    "caption_tr": "Bu \"MSG\" ışığı aynı zamanda ilgili PFD'de de görünür. ",
+    "title_tr": "Bu MSG ışığı"
+  },
+  {
+    "id": "s28",
+    "title": "Pressing MSG button",
+    "imgSrc": "slides/s28.png",
+    "audioSrc": "audio/s28.mp3",
+    "caption_en": "Pressing the \"MSG\" button on the associated FMS Control Display Unit will extinguish this annunciator and display the FMS message on a new screen. Touch the \"MSG\" key. ",
+    "caption_tr": "İlgili FMS Kontrol Görüntüleme Birimi üzerindeki \"MSG\" düğmesine basılması bu uyarı cihazını söndürecek ve FMS mesajını yeni bir ekranda görüntüleyecektir. \"MSG\" tuşuna dokunun.",
+    "title_tr": "MSG düğmesine basmak"
+  },
+  {
+    "id": "s29",
+    "title": "This message page",
+    "imgSrc": "slides/s29.png",
+    "audioSrc": "audio/s29.mp3",
+    "caption_en": "This message page can be erased by selecting a Function key or by pressing the MSG key a second time. We are now ready to proceed with the flight plan entry. Selecting RETURN on LSK 5R returns display back to INIT page as is shown in the graphic. The MSG annunciations disappear from FMS and PFDs. ",
+    "caption_tr": "Bu mesaj sayfası bir Fonksiyon tuşu seçilerek veya MSG tuşuna ikinci kez basılarak silinebilir. Artık uçuş planı girişine devam etmeye hazırız. LSK 5R'de RETURN seçildiğinde grafikte gösterildiği gibi ekran INIT sayfasına geri döner. MSG bildirimleri FMS ve PFD'lerden kaybolur.",
+    "title_tr": "Bu mesaj sayfası"
+  },
+  {
+    "id": "s30",
+    "title": "This message page",
+    "imgSrc": "slides/s30.png",
+    "audioSrc": "audio/s30.mp3",
+    "caption_en": "This message page can be erased by selecting a Function key or by pressing the MSG key a second time. We are now ready to proceed with the flight plan entry. Selecting RETURN on LSK 5R returns display back to INIT page as is shown in the graphic. The MSG annunciations disappear from FMS and PFDs. ",
+    "caption_tr": "Bu mesaj sayfası bir Fonksiyon tuşu seçilerek veya MSG tuşuna ikinci kez basılarak silinebilir. Artık uçuş planı girişine devam etmeye hazırız. LSK 5R'de RETURN seçildiğinde grafikte gösterildiği gibi ekran INIT sayfasına geri döner. MSG bildirimleri FMS ve PFD'lerden kaybolur. ",
+    "title_tr": "Bu mesaj sayfası"
+  },
+  {
+    "id": "s31",
+    "title": "Pressing FPL key",
+    "imgSrc": "slides/s31.png",
+    "audioSrc": "audio/s31.mp3",
+    "caption_en": "Pressing the FPL key will display the first Flight Plan page. The first flight plan waypoint is pre-filled with the nearest airport or identifier, or the identifier used for initialization e.g. W. The cursor is ready to accept the next waypoint. ",
+    "caption_tr": "FPL tuşuna basıldığında ilk Uçuş Planı sayfası görüntülenecektir. İlk uçuş planı yol noktası, en yakın havaalanı veya tanımlayıcıyla veya başlatma için kullanılan tanımlayıcıyla önceden doldurulur; W. İmleç bir sonraki yol noktasını kabul etmeye hazırdır. ",
+    "title_tr": "FPL tuşuna basmak"
+  },
+  {
+    "id": "s32",
+    "title": "Against LSK 3R",
+    "imgSrc": "slides/s32.png",
+    "audioSrc": "audio/s32.mp3",
+    "caption_en": "Against the LSK 3R is the line with word COPY PLT RTE. Selecting PLT RTE opens up to a page consisting of a list of routes that have been created from PLT DATA. These routes are stored in the PLT RTE and they are retrieved for use before a flight. ",
+    "caption_tr": "LSK 3R'nin karşısında COPY PLT RTE yazan satır bulunur. PLT RTE seçildiğinde PLT DATA'dan oluşturulan rotaların listesini içeren bir sayfa açılır. Bu rotalar PLT RTE'de saklanır ve uçuştan önce kullanılmak üzere alınır. ",
+    "title_tr": "LSK 3R'ye karşı"
+  },
+  {
+    "id": "s33",
+    "title": "stored routes are",
+    "imgSrc": "slides/s33.png",
+    "audioSrc": "audio/s33.mp3",
+    "caption_en": "The stored routes are arranged in geographicalalphabetical order. In multiple pages, the PREV or NEXT keys may be used to move the page with the desired route. ",
+    "caption_tr": "Saklanan rotalar coğrafi alfabetik sıraya göre düzenlenir. Birden fazla sayfada, sayfayı istenilen rotaya taşımak için ÖNCEKİ veya SONRAKİ tuşları kullanılabilir. ",
+    "title_tr": "kayıtlı rotalar"
+  },
+  {
+    "id": "s34",
+    "title": "Construction route FPL",
+    "imgSrc": "slides/s34.png",
+    "audioSrc": "audio/s34.mp3",
+    "caption_en": "Construction of route on the FPL page is not normally done. The route to be flown is normally copied from PLT RTE onto FPL page. Let's see how a route is retrieved from PLT RTE. Select 1 into the cursor under SELECT ROUTE and ENTER. ",
+    "caption_tr": "FPL sayfasında rota oluşturma normalde yapılmaz. Uçulacak rota normalde PLT RTE'den FPL sayfasına kopyalanır. PLT RTE'den bir rotanın nasıl alındığını görelim. ROTA SEÇ ve GİRİŞ altında imleçte 1'i seçin. ",
+    "title_tr": "İnşaat rotası FPL"
+  },
+  {
+    "id": "s35",
+    "title": "We have selected",
+    "imgSrc": "slides/s35.png",
+    "audioSrc": "audio/s35.mp3",
+    "caption_en": "We have selected a Singapore-HATYAI (W-VTSS) route from the PLT RTEs list and it is copied onto FPL page. If the route occupies more than a page, itis indicated by the title FPL 1X where 1 is the first page and X is the last page. The symbol indicated the current \"To\" wayppoint.",
+    "caption_tr": "PLT RTE listesinden Singapur-HATYAI (W-VTSS) rotasını seçtik ve FPL sayfasına kopyaladık. Rota bir sayfadan fazla yer kaplıyorsa FPL 1X başlığıyla gösterilir; burada 1 ilk sayfa ve X son sayfadır. Sembol mevcut \"Gidiş\" yol noktasını gösteriyordu. ",
+    "title_tr": "Biz seçtik"
+  },
+  {
+    "id": "s36",
+    "title": "route can maximum",
+    "imgSrc": "slides/s36.png",
+    "audioSrc": "audio/s36.mp3",
+    "caption_en": "Each route can consist of up to maximum of 98 waypoints. Typing number 99 on any waypoint and ENTER will erase the route from the FPL. ",
+    "caption_tr": "Her rota en fazla 98 ara noktadan oluşabilir. Herhangi bir yol noktasına 99 sayısını yazıp ENTER tuşuna basmak rotayı FPL'den silecektir.",
+    "title_tr": "rota maksimum olabilir"
+  },
+  {
+    "id": "s37",
+    "title": "Route which PLT",
+    "imgSrc": "slides/s37.png",
+    "audioSrc": "audio/s37.mp3",
+    "caption_en": "Route which is not in the PLT RTE may be constructed on the FPL page. Let's see how the same route (Singapore-HATYAI) is constructed. ",
+    "caption_tr": "PLT RTE'de olmayan rota FPL sayfasında oluşturulabilir. Bakalım aynı rota (Singapur-HATYAI) nasıl yapılmış.",
+    "title_tr": "Hangi PLT'yi yönlendir"
+  },
+  {
+    "id": "s38",
+    "title": "first waypoint pre-filled",
+    "imgSrc": "slides/s38.png",
+    "audioSrc": "audio/s38.mp3",
+    "caption_en": "The first waypoint is pre-filled with the airport as shown. The cursor on number 2 , awaiting insertion of the next waypoint. From the map given, the next waypoint is victor tango kilo (Tekong). Now select VTK and ENTER Verify that itis Tekong and press ACCEPT key. ",
+    "caption_tr": "İlk ara nokta gösterildiği gibi havaalanı ile önceden doldurulmuştur. İmleç 2 numarasının üzerinde, bir sonraki yol noktasının eklenmesini bekliyor. Verilen haritaya göre bir sonraki geçiş noktası Victor Tango Kilo'dur (Tekong). Şimdi VTK'yı seçin ve ENTER'a tıklayarak Tekong olduğunu doğrulayın ve ACCEPT tuşuna basın.",
+    "title_tr": "ilk ara nokta"
+  },
+  {
+    "id": "s39",
+    "title": "next waypoint VMR",
+    "imgSrc": "slides/s39.png",
+    "audioSrc": "audio/s39.mp3",
+    "caption_en": "The next waypoint is VMR VOR, Mersing. Select VMR and ENTER Verify it is Mersing and select ACCEPT. ",
+    "caption_tr": "Bir sonraki ara nokta Mersing'deki VMR VOR'dur. VMR'yi seçin ve ENTER'a basın. Mersing olduğunu doğrulayın ve KABUL ET'i seçin. ",
+    "title_tr": "sonraki geçiş noktası"
+  },
+  {
+    "id": "s40",
+    "title": "AIRWAYS pages waypoints",
+    "imgSrc": "slides/s40.png",
+    "audioSrc": "audio/s40.mp3",
+    "caption_en": "The AIRWAYS pages consist of all the waypoints that can be found on airway B469. There are 4 pages. Since VKB VOR (Kota Bharu) is what we want, Select numbers 1 and 0 buttons and ENTER. ",
+    "caption_tr": "AIRWAYS sayfaları B469 havayolunda bulunabilecek tüm yol noktalarından oluşur. 4 sayfa var. İstediğimiz VKB VOR (Kota Bharu) olduğundan, 1 ve 0 rakamlarını seçin ve ENTER'a basın.",
+    "title_tr": "AIRWAYS sayfaları geçiş"
+  },
+  {
+    "id": "s41",
+    "title": "FPL pages numbers",
+    "imgSrc": "slides/s41.png",
+    "audioSrc": "audio/s41.mp3",
+    "caption_en": "And now, on the FPL pages, numbers 4 to 7 are filled with waypoints on B469. ",
+    "caption_tr": "Ve şimdi, FPL sayfalarında 4'ten 7'ye kadar olan sayılar B469'daki ara noktalarla doldurulmuştur. ",
+    "title_tr": "FPL sayfa numaraları"
+  },
+  {
+    "id": "s42",
+    "title": "Referring map next",
+    "imgSrc": "slides/s42.png",
+    "audioSrc": "audio/s42.mp3",
+    "caption_en": "Referring to the map, the next route is via B334 from VKB VOR, down to HTY VOR, Hat Yai. Waypoints on B334 are inserted on the FPL page in the similar manner, and these are shown above. ",
+    "caption_tr": "Haritaya göre bir sonraki rota VKB VOR'dan B334 üzerinden HTY VOR, Hat Yai'ye doğru olacaktır. B334'teki yol noktaları FPL sayfasına benzer şekilde eklenir ve bunlar yukarıda gösterilmiştir. ",
+    "title_tr": "Sonraki haritaya atıfta"
+  },
+  {
+    "id": "s43",
+    "title": "last waypoint destination",
+    "imgSrc": "slides/s43.png",
+    "audioSrc": "audio/s43.mp3",
+    "caption_en": "The last waypoint is the destination airport, VTSS. If the crew is unfamiliar with airport ICAO code for Hat Yai International Airport, the LIST key can be used to find the code. That completes the route construction on the FPL page. J.",
+    "caption_tr": "Son geçiş noktası varış havaalanı olan VTSS'dir. Mürettebat, Hat Yai Uluslararası Havaalanı için havaalanı ICAO kodunu bilmiyorsa, kodu bulmak için LIST anahtarı kullanılabilir. Bu, FPL sayfasında rota oluşturma işlemini tamamlar. J. ",
+    "title_tr": "son ara nokta"
+  },
+  {
+    "id": "s44",
+    "title": "route MFD Depending",
+    "imgSrc": "slides/s44.png",
+    "audioSrc": "audio/s44.mp3",
+    "caption_en": "The route is displayed on the MFD as shown. Depending on the range selected, the MFD can display up to 10 waypoints. ",
+    "caption_tr": "Rota gösterildiği gibi MFD'de görüntülenir. Seçilen aralığa bağlı olarak MFD 10'a kadar yol noktası görüntüleyebilir. ",
+    "title_tr": "rota MFD Bağlıdır"
+  },
+  {
+    "id": "s45",
+    "title": "route can also",
+    "imgSrc": "slides/s45.png",
+    "audioSrc": "audio/s45.mp3",
+    "caption_en": "The route can also be displayed on PFD if the compass format is in MAP. However, the PFD can display maximum of 4 waypoints at any one time. ",
+    "caption_tr": "Pusula formatı MAP'taysa rota PFD'de de görüntülenebilir. Ancak PFD herhangi bir anda maksimum 4 yol noktasını görüntüleyebilir. ",
+    "title_tr": "rota da olabilir"
+  },
+  {
+    "id": "s46",
+    "title": "Subsequent pressing FPL",
+    "imgSrc": "slides/s46.png",
+    "audioSrc": "audio/s46.mp3",
+    "caption_en": "Subsequent pressing of FPL function or NEXT key will display the FPL SUMMARY page. This SUMMARY PAGE will be displayed at the end of the FPL pages. Touch the FPL key to display this summary.",
+    "caption_tr": "FPL işlevine veya NEXT tuşuna daha sonra basıldığında FPL ÖZETİ sayfası görüntülenecektir. Bu ÖZET SAYFASI FPL sayfalarının sonunda görüntülenecektir. Bu özeti görüntülemek için FPL tuşuna dokunun. ",
+    "title_tr": "Daha FPL'ye basılması"
+  },
+  {
+    "id": "s47",
+    "title": "This page available",
+    "imgSrc": "slides/s47.png",
+    "audioSrc": "audio/s47.mp3",
+    "caption_en": "This page is available only during ground operations prior to departure. The FPL Summary page provides a synopsis of distance, time and fuel requirements for the planned flight. ",
+    "caption_tr": "Bu sayfa yalnızca kalkıştan önceki yer operasyonları sırasında kullanılabilir. FPL Özeti sayfası, planlanan uçuş için mesafe, süre ve yakıt gereksinimlerinin bir özetini sağlar.",
+    "title_tr": "Bu sayfa mevcut"
+  },
+  {
+    "id": "s48",
+    "title": "following planned data",
+    "imgSrc": "slides/s48.png",
+    "audioSrc": "audio/s48.mp3",
+    "caption_en": "The following planned data can be entered by using the LSKs - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES ",
+    "caption_tr": "Aşağıdaki planlı veriler LSK'lar kullanılarak girilebilir - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES ",
+    "title_tr": "Planlanan verileri takip"
+  },
+  {
+    "id": "s49",
+    "title": "following planned data",
+    "imgSrc": "slides/s49.png",
+    "audioSrc": "audio/s49.mp3",
+    "caption_en": "The following planned data can be entered by using the LSKs - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES Entering TAS TAS (MAN) will cause the estimated time enroute and estimated time of arrival to be displayed. ",
+    "caption_tr": "LSK'lar kullanılarak aşağıdaki planlı veriler girilebilir - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES TAS TAS (MAN) girilmesi, tahmini yol süresinin ve tahmini varış süresinin görüntülenmesine neden olacaktır. ",
+    "title_tr": "Planlanan verileri takip"
+  },
+  {
+    "id": "s50",
+    "title": "following planned data",
+    "imgSrc": "slides/s50.png",
+    "audioSrc": "audio/s50.mp3",
+    "caption_en": "The following planned data can be entered by using the LSKs - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES The estimated Fuel Flow FF (MAN) will be used to compute the Minimum Fuel required. ",
+    "caption_tr": "LSK'lar kullanılarak aşağıdaki planlı veriler girilebilir - TAS (MAN) - FF (MAN) -ETDUTCILCL -REZERVLER Tahmini Yakıt Akışı FF (MAN), gerekli Minimum Yakıtın hesaplanmasında kullanılacaktır. ",
+    "title_tr": "Planlanan verileri takip"
+  },
+  {
+    "id": "s51",
+    "title": "following planned data",
+    "imgSrc": "slides/s51.png",
+    "audioSrc": "audio/s51.mp3",
+    "caption_en": "The following planned data can be entered by using the LSKs - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES Estimated Time of Departure can be entered in UTC or local time with the local time zone (up to 13 hours) entered. The Estimated Time of Arrival can then be calculated. ",
+    "caption_tr": "LSK'lar kullanılarak aşağıdaki planlı veriler girilebilir - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES Tahmini Kalkış Saati, girilen yerel saat dilimi (13 saate kadar) ile UTC veya yerel saat cinsinden girilebilir. Tahmini Varış Zamanı daha sonra hesaplanabilir.",
+    "title_tr": "Planlanan verileri takip"
+  },
+  {
+    "id": "s52",
+    "title": "following planned data",
+    "imgSrc": "slides/s52.png",
+    "audioSrc": "audio/s52.mp3",
+    "caption_en": "The following planned data can be entered by using the LSKs - TAS (MAN) - FF (MAN) -ETDUTCILCL -RESERVES The estimated reserve fuel is used to determine the MIN FUEL value. ",
+    "caption_tr": "LSK'lar kullanılarak aşağıdaki planlı veriler girilebilir - TAS (MAN) - FF (MAN) -ETDUTCILCL -REZERVLER Tahmini yedek yakıt, MIN YAKIT değerini belirlemek için kullanılır.",
+    "title_tr": "Planlanan verileri takip"
+  },
+  {
+    "id": "s53",
+    "title": "SID Standard Instrument",
+    "imgSrc": "slides/s53.png",
+    "audioSrc": "audio/s53.mp3",
+    "caption_en": "A SID or Standard Instrument Departure together with departure runway can be added to the FMS flight plan. ",
+    "caption_tr": "FMS uçuş planına kalkış pisti ile birlikte SID veya Standart Aletli Kalkış eklenebilir.",
+    "title_tr": "SID Standart Enstrüman"
+  },
+  {
+    "id": "s54",
+    "title": "Let's assume departure",
+    "imgSrc": "slides/s54.png",
+    "audioSrc": "audio/s54.mp3",
+    "caption_en": "Let's assume the departure runway is zero two right (02R) and the standard instrument departure (SID) is Mersing One Charlie (VMR IC) departure. ",
+    "caption_tr": "Kalkış pistinin sıfır iki sağda (02R) olduğunu ve standart aletli kalkışın (SID) Mersing One Charlie (VMR IC) kalkışı olduğunu varsayalım.",
+    "title_tr": "yola çıktığını varsayalım"
+  },
+  {
+    "id": "s55",
+    "title": "itis important know",
+    "imgSrc": "slides/s55.png",
+    "audioSrc": "audio/s55.mp3",
+    "caption_en": "itis important to know that SID selection must be preceded by FPL. When FPL is displayed, pressing MENU key leads to selection of SID or STAR. Touch the MENU key.",
+    "caption_tr": "SID seçiminden önce FPL'nin gelmesi gerektiğini bilmek önemlidir. FPL görüntülendiğinde, MENU tuşuna basılması SID veya STAR seçimine yol açar. MENÜ tuşuna dokunun. ",
+    "title_tr": "bilmek önemli"
+  },
+  {
+    "id": "s56",
+    "title": "Pressing MENU key",
+    "imgSrc": "slides/s56.png",
+    "audioSrc": "audio/s56.mp3",
+    "caption_en": "Pressing MENU key displays FPL MENU which consist of 2 pages. These pages allow various formats of the flight plan, storage of flight plan as a route, inverting of flight plan, deletion of flight plan, definition of flight plan waypoints, linkage to flight plan of departure and arrival (STARAPPROACH) procedures, clearance format and inserting forecast flight plan winds. Now select DEPART line select key to access DEPARTURE page. ",
+    "caption_tr": "MENU tuşuna basıldığında 2 sayfadan oluşan FPL MENU görüntülenir. Bu sayfalar, uçuş planının çeşitli formatlarına, uçuş planının rota olarak kaydedilmesine, uçuş planının tersine çevrilmesine, uçuş planının silinmesine, uçuş planı yol noktalarının tanımlanmasına, kalkış ve varış uçuş planına bağlantı (STARAPPROACH) prosedürlerine, izin formatına ve tahmini uçuş planı rüzgarlarının eklenmesine olanak sağlar. Şimdi KALKIŞ sayfasına erişmek için KALKIŞ hattı seçme tuşunu seçin. ",
+    "title_tr": "MENÜ tuşuna basılması"
+  },
+  {
+    "id": "s57",
+    "title": "Select runway 02R",
+    "imgSrc": "slides/s57.png",
+    "audioSrc": "audio/s57.mp3",
+    "caption_en": "Select runway \"02R\" by using the numerical key pad, enter \"2\" and then touch \"ENTER\" key to proceed. ",
+    "caption_tr": "Sayısal tuş takımını kullanarak \"02R\" pistini seçin, \"2\" girin ve devam etmek için \"ENTER\" tuşuna dokunun. ",
+    "title_tr": "02R pistini seçin"
+  },
+  {
+    "id": "s58",
+    "title": "list SIDs will",
+    "imgSrc": "slides/s58.png",
+    "audioSrc": "audio/s58.mp3",
+    "caption_en": "A list of SIDs will appear. Notice that there are four pages of SIDs available. Victor Mike Romeo 1 Charlie departure is on page 2 of SID list. Touch numeric keys 1 and 5 and then ENTER. ",
+    "caption_tr": "SID'lerin bir listesi görünecektir. Dört sayfa SID'nin mevcut olduğuna dikkat edin. Victor Mike Romeo 1 Charlie'nin ayrılışı SID listesinin 2. sayfasındadır. 1 ve 5 numaralı sayısal tuşlara ve ardından GİRİŞ'e dokunun. ",
+    "title_tr": "SID'leri listeleyecek"
+  },
+  {
+    "id": "s59",
+    "title": "FMS awaits entry",
+    "imgSrc": "slides/s59.png",
+    "audioSrc": "audio/s59.mp3",
+    "caption_en": "The FMS now awaits entry of a departure Transition. Since there is none available for this departure, we shall ignore this step. Press FPL or LSK 5R to return to flight plan. ",
+    "caption_tr": "FMS şimdi bir kalkış Geçişinin girişini bekliyor. Bu kalkış için uygun bir adım olmadığından bu adımı göz ardı edeceğiz. Uçuş planına dönmek için FPL veya LSK 5R tuşuna basın.",
+    "title_tr": "FMS girişi bekliyor"
+  },
+  {
+    "id": "s60",
+    "title": "SID has been",
+    "imgSrc": "slides/s60.png",
+    "audioSrc": "audio/s60.mp3",
+    "caption_en": "A SID has now been added to the flight plan. ",
+    "caption_tr": "Artık uçuş planına bir SID eklendi. ",
+    "title_tr": "SID şuydu:"
+  },
+  {
+    "id": "s61",
+    "title": "Selection STAR similar",
+    "imgSrc": "slides/s61.png",
+    "audioSrc": "audio/s61.mp3",
+    "caption_en": "Selection of STAR is similar to that of the SID. Itis accessible from the MENU key. Touch the MENU function button now. ",
+    "caption_tr": "STAR seçimi SID seçimine benzer. MENU tuşundan erişilebilir. Şimdi MENÜ işlev düğmesine dokunun.",
+    "title_tr": "Seçim YILDIZ benzer"
+  },
+  {
+    "id": "s62",
+    "title": "MENU page touch",
+    "imgSrc": "slides/s62.png",
+    "audioSrc": "audio/s62.mp3",
+    "caption_en": "On the MENU page, touch LSK 4-R to select \"ARRIVE\" option. ",
+    "caption_tr": "MENÜ sayfasında \"GELİŞ\" seçeneğini seçmek için LSK 4-R'ye dokunun. ",
+    "title_tr": "MENÜ sayfasına dokunun"
+  },
+  {
+    "id": "s63",
+    "title": "FMS CDU awaits",
+    "imgSrc": "slides/s63.png",
+    "audioSrc": "audio/s63.mp3",
+    "caption_en": "The FMS CDU now awaits the entry of the active runway in use. Assuming the runway in use is \"26\", press \"2\" on the keypad then push the \"ENTER\" key.",
+    "caption_tr": "FMS CDU şimdi kullanımda olan aktif pistin girişini bekliyor. Kullanılan pistin \"26\" olduğunu varsayarsak, tuş takımında \"2\" tuşuna basın ve ardından \"ENTER\" tuşuna basın. ",
+    "title_tr": "FMS CDU bekliyor"
+  },
+  {
+    "id": "s64",
+    "title": "This screen that",
+    "imgSrc": "slides/s64.png",
+    "audioSrc": "audio/s64.mp3",
+    "caption_en": "This screen shows that STAR procedures are not available for runway 26 at Hat Yai airport. Press \"ENTER\" key to proceed. ",
+    "caption_tr": "Bu ekran, Hat Yai havaalanındaki 26 numaralı pist için STAR prosedürlerinin mevcut olmadığını gösterir. Devam etmek için \"ENTER\" tuşuna basın. ",
+    "title_tr": "Bu ekran ki"
+  },
+  {
+    "id": "s65",
+    "title": "cursor advances Approach",
+    "imgSrc": "slides/s65.png",
+    "audioSrc": "audio/s65.mp3",
+    "caption_en": "The cursor advances to Approach. Select 2 and ENTER for ILS runway 26. ",
+    "caption_tr": "İmleç Yaklaşmaya doğru ilerler. ILS pisti 26 için 2'yi seçin ve ENTER'a basın. ",
+    "title_tr": "imleç ilerler Yaklaşım"
+  },
+  {
+    "id": "s66",
+    "title": "ILS approach runway",
+    "imgSrc": "slides/s66.png",
+    "audioSrc": "audio/s66.mp3",
+    "caption_en": "The ILS approach for runway 26 entails DME arc. Itis up to the crew to decide if DME arc approach should be attempted. Since the flight path of the aircraft is from the east, a straight-in approach would be preferred. Press ENTER to disregard DME arc approach.",
+    "caption_tr": "26 numaralı pist için ILS yaklaşımı DME arkını gerektirir. DME ark yaklaşımının denenip denenmeyeceğine karar vermek mürettebata kalmıştır. Uçağın uçuş rotası doğudan olduğundan doğrudan yaklaşma tercih edilecektir. DME ark yaklaşımını göz ardı etmek için ENTER tuşuna basın. ",
+    "title_tr": "ILS yaklaşma pisti"
+  },
+  {
+    "id": "s67",
+    "title": "Press LSK 5R",
+    "imgSrc": "slides/s67.png",
+    "audioSrc": "audio/s67.mp3",
+    "caption_en": "Press LSK 5R or FPL key to return to flight plan page. ",
+    "caption_tr": "Uçuş planı sayfasına dönmek için LSK 5R veya FPL tuşuna basın. ",
+    "title_tr": "LSK 5R'ye basın"
+  },
+  {
+    "id": "s68",
+    "title": "STAR incorporated flight",
+    "imgSrc": "slides/s68.png",
+    "audioSrc": "audio/s68.mp3",
+    "caption_en": "When STAR is incorporated in the flight plan, it provides not only arrival procedure (which in this case there is none), the approach and missed-approach procedures are also included. Waypoints 11 to 15 are for the approach. Waypoints 16 to 19 are for the missed-approach. ",
+    "caption_tr": "STAR uçuş planına dahil edildiğinde sadece varış prosedürünü (ki bu durumda yoktur) sağlamaz, yaklaşma ve pas geçme prosedürlerini de içerir. 11'den 15'e kadar olan yol noktaları yaklaşma içindir. 16'dan 19'a kadar olan ara noktalar kaçırılan yaklaşma içindir.",
+    "title_tr": "STAR birleşik uçuş"
+  },
+  {
+    "id": "s69",
+    "title": "complete flight plan",
+    "imgSrc": "slides/s69.png",
+    "audioSrc": "audio/s69.mp3",
+    "caption_en": "The complete flight plan has now been entered with both SID STAR defined into the FMS. However itis likely that discontinuities may separate the SID and STAR from the route of the flight plan. Such discontinuities are indicated by flashing NO LINK, which is amber in colour. ",
+    "caption_tr": "Uçuş planının tamamı artık FMS'de tanımlanan her iki SID STAR ile girilmiştir. Ancak süreksizliklerin SID ve STAR'ı uçuş planı rotasından ayırması muhtemeldir. Bu tür süreksizlikler kehribar renginde yanıp sönen NO LINK ile gösterilir. - bir reklam",
+    "title_tr": "uçuş planını tamamla"
+  },
+  {
+    "id": "s70",
+    "title": "itis responsibility pilot",
+    "imgSrc": "slides/s70.png",
+    "audioSrc": "audio/s70.mp3",
+    "caption_en": "itis the responsibility of the pilot to resolve these discontinuities and edit the flight plan to eliminate \"No Link\". ",
+    "caption_tr": "Bu süreksizlikleri gidermek ve uçuş planını \"Bağlantı Yok\" durumunu ortadan kaldıracak şekilde düzenlemek pilotun sorumluluğundadır. ",
+    "title_tr": "bu sorumluluk pilotu"
+  },
+  {
+    "id": "s71",
+    "title": "No Link also",
+    "imgSrc": "slides/s71.png",
+    "audioSrc": "audio/s71.mp3",
+    "caption_en": "No Link\" is also present on the missed approach procedures. The No Link message is desirable here as it reminds crew that following a missed approach procedures, instructions now must be obtained from the tower if the next approach is to be attempted. ",
+    "caption_tr": "Kaçırılan yaklaşma prosedürlerinde de Bağlantı Yok\" mevcuttur. Burada Bağlantı Yok mesajı tercih edilir çünkü mürettebata, kaçırılan yaklaşma prosedürlerini takiben, bir sonraki yaklaşma girişiminde bulunulacaksa talimatların artık kuleden alınması gerektiğini hatırlatır.",
+    "title_tr": "Ayrıca Bağlantı Yok"
+  },
+  {
+    "id": "s72",
+    "title": "abbreviated flight plan",
+    "imgSrc": "slides/s72.png",
+    "audioSrc": "audio/s72.mp3",
+    "caption_en": "An abbreviated flight plan with up to a maximum of 18 waypoints can be viewed by selecing the COMPRESSED option at the FPL MENU page. Touch \"MENU\" key.",
+    "caption_tr": "Maksimum 18 ara noktaya kadar kısaltılmış bir uçuş planı, FPL MENÜ sayfasındaki SIKIŞTIRILMIŞ seçeneği seçilerek görüntülenebilir. \"MENÜ\" tuşuna dokunun. ",
+    "title_tr": "kısaltılmış uçuş planı"
+  },
+  {
+    "id": "s73",
+    "title": "Touch NEXT key",
+    "imgSrc": "slides/s73.png",
+    "audioSrc": "audio/s73.mp3",
+    "caption_en": "Touch \"NEXT\" key to go to FPL MENU. ",
+    "caption_tr": "FPL MENÜSÜ'ne gitmek için \"SONRAKİ\" tuşuna dokunun. ",
+    "title_tr": "SONRAKİ tuşuna dokunun"
+  },
+  {
+    "id": "s74",
+    "title": "Touch COMPRESSED LSK",
+    "imgSrc": "slides/s74.png",
+    "audioSrc": "audio/s74.mp3",
+    "caption_en": "Touch \"COMPRESSED\" LSK. ",
+    "caption_tr": "\"SIKIŞTIRILMIŞ\" LSK'ya dokunun. ",
+    "title_tr": "SIKIŞTIRILMIŞ LSK'ya dokunun"
+  },
+  {
+    "id": "s75",
+    "title": "introduction STAR we",
+    "imgSrc": "slides/s75.png",
+    "audioSrc": "audio/s75.mp3",
+    "caption_en": "With the introduction of the STAR, we have now inserted two No Links into this flight plan. The No Link on waypoint number 11 must be deleted. ",
+    "caption_tr": "STAR'ın tanıtılmasıyla birlikte artık bu uçuş planına iki Bağlantı Yok ekledik. 11 numaralı ara noktadaki Bağlantı Yok silinmelidir. ",
+    "title_tr": "giriş STAR biz"
+  },
+  {
+    "id": "s76",
+    "title": "flight plan can",
+    "imgSrc": "slides/s76.png",
+    "audioSrc": "audio/s76.mp3",
+    "caption_en": "The flight plan can only be edited in the normal FPL mode. Watch how \"No Link\" is deleted on waypoint 11. ",
+    "caption_tr": "Uçuş planı yalnızca normal FPL modunda düzenlenebilir. 11. geçiş noktasında \"Bağlantı Yok\" ifadesinin nasıl silindiğini izleyin.",
+    "title_tr": "uçuş planı yapılabilir"
+  },
+  {
+    "id": "s77",
+    "title": "Please note that",
+    "imgSrc": "slides/s77.png",
+    "audioSrc": "audio/s77.mp3",
+    "caption_en": "Please note that STAR procedure is normally selected prior to arrival into destination airport unless the flight is a short sector. ",
+    "caption_tr": "Uçuş kısa bir sektör olmadığı sürece, normalde varış havaalanına varmadan önce STAR prosedürünün seçildiğini lütfen unutmayın.",
+    "title_tr": "Lütfen şunu unutmayın"
+  },
+  {
+    "id": "s78",
+    "title": "complete flight plan",
+    "imgSrc": "slides/s78.png",
+    "audioSrc": "audio/s78.mp3",
+    "caption_en": "The complete flight plan can be deleted while the CDU is still displaying the FPL pages. To delete the current flight plan, press any left LSK. A white prompt box will appear. For this example, touch LSK 5L. ",
+    "caption_tr": "CDU hala FPL sayfalarını görüntülerken uçuş planının tamamı silinebilir. Mevcut uçuş planını silmek için herhangi bir sol LSK tuşuna basın. Beyaz bir bilgi istemi kutusu görünecektir. Bu örnek için LSK 5L'ye dokunun.",
+    "title_tr": "uçuş planını tamamla"
+  },
+  {
+    "id": "s79",
+    "title": "numeric keypad enter",
+    "imgSrc": "slides/s79.png",
+    "audioSrc": "audio/s79.mp3",
+    "caption_en": "Using the numeric keypad enter \"99\" and touch \"ENTER\" ",
+    "caption_tr": "Sayısal tuş takımını kullanarak \"99\" girin ve \"GİRİŞ\"e dokunun ",
+    "title_tr": "sayısal tuş takımı"
+  },
+  {
+    "id": "s80",
+    "title": "This action has",
+    "imgSrc": "slides/s80.png",
+    "audioSrc": "audio/s80.mp3",
+    "caption_en": "This action has caused the entire flight plan to be removed.",
+    "caption_tr": "Bu eylem uçuş planının tamamının kaldırılmasına neden oldu.",
+    "title_tr": "Bu eylem var"
+  },
+  {
+    "id": "s81",
+    "title": "Since waypoint 99",
+    "imgSrc": "slides/s81.png",
+    "audioSrc": "audio/s81.mp3",
+    "caption_en": "Since waypoint \"99\" has a reserved function, a single flight plan can store up to a maximum of 98 waypoints. ",
+    "caption_tr": "Ara nokta \"99\" ayrılmış bir fonksiyona sahip olduğundan, tek bir uçuş planı maksimum 98 ara noktaya kadar saklayabilir. ",
+    "title_tr": "Ara nokta 99'dan"
+  },
+  {
+    "id": "s82",
+    "title": "flight plan also",
+    "imgSrc": "slides/s82.png",
+    "audioSrc": "audio/s82.mp3",
+    "caption_en": "The flight plan is also deleted at the end of a flight when the FMS is switched off. ",
+    "caption_tr": "Uçuş planı, uçuşun sonunda FMS kapatıldığında da silinir.",
+    "title_tr": "uçuş planı da"
+  },
+  {
+    "id": "s83",
+    "title": "FPL MENU pages",
+    "imgSrc": "slides/s83.png",
+    "audioSrc": "audio/s83.mp3",
+    "caption_en": "The FPL MENU pages allow the pilot to select various display formats for the flight plan, and perform other functions. To access the FPL MENU pages: Press the FPL key to access a FPL page.",
+    "caption_tr": "FPL MENÜ sayfaları pilotun uçuş planı için çeşitli ekran formatlarını seçmesine ve diğer işlevleri gerçekleştirmesine olanak tanır. FPL MENU sayfalarına erişmek için: Bir FPL sayfasına erişmek için FPL tuşuna basın.",
+    "title_tr": "FPL MENÜ sayfaları"
+  },
+  {
+    "id": "s84",
+    "title": "Press MENU key",
+    "imgSrc": "slides/s84.png",
+    "audioSrc": "audio/s84.mp3",
+    "caption_en": "Press the MENU key ",
+    "caption_tr": "MENU tuşuna basın ",
+    "title_tr": "MENÜ tuşuna basın"
+  },
+  {
+    "id": "s85",
+    "title": "MENU key two",
+    "imgSrc": "slides/s85.png",
+    "audioSrc": "audio/s85.mp3",
+    "caption_en": "The MENU key provides two pages of FPL MENU. We will not discuss DEPART (SID), ARRIVE (STAR) and COMPRESSED functions. These were discussed earlier. STORE FPL function will not be discussed also. ",
+    "caption_tr": "MENU tuşu iki sayfa FPL MENU sağlar. DEPART (SID), ARRIVE (STAR) ve COMPRESSED fonksiyonlarını tartışmayacağız. Bunlar daha önce tartışılmıştı. STORE FPL işlevi de tartışılmayacaktır. ",
+    "title_tr": "MENÜ tuşu iki"
+  },
+  {
+    "id": "s86",
+    "title": "Pressing NORMAL line",
+    "imgSrc": "slides/s86.png",
+    "audioSrc": "audio/s86.mp3",
+    "caption_en": "Pressing the NORMAL line select key will return the display to the normal FPL display. ",
+    "caption_tr": "NORMAL hat seçme tuşuna basılması, ekranı normal FPL ekranına döndürecektir. ",
+    "title_tr": "NORMAL satırına basmak"
+  },
+  {
+    "id": "s87",
+    "title": "Pressing CLEARANCE line",
+    "imgSrc": "slides/s87.png",
+    "audioSrc": "audio/s87.mp3",
+    "caption_en": "Pressing the CLEARANCE line select will provide flight plan with Standard Instrument Departure, Airways sequence, Standard Terminal Arrival and Approach in simplified form. ",
+    "caption_tr": "CLEARANCE satırı seçimine basıldığında, Standart Aletli Kalkış, Havayolu sırası, Standart Terminal Varışı ve Yaklaşmayı içeren uçuş planı basitleştirilmiş biçimde sağlanacaktır. ",
+    "title_tr": "CLEARANCE satırına basmak"
+  },
+  {
+    "id": "s88",
+    "title": "Pressing PPOS WPT",
+    "imgSrc": "slides/s88.png",
+    "audioSrc": "audio/s88.mp3",
+    "caption_en": "Pressing the PPOS TO WPT line select key will display distance and time from present position to each flight plan waypoint. ",
+    "caption_tr": "PPOS TO WPT hat seçme tuşuna basıldığında, mevcut konumdan her uçuş planı yol noktasına kadar olan mesafe ve süre görüntülenecektir. ",
+    "title_tr": "PPOS WPT'ye basılması"
+  },
+  {
+    "id": "s89",
+    "title": "Pressing WPT DEST",
+    "imgSrc": "slides/s89.png",
+    "audioSrc": "audio/s89.mp3",
+    "caption_en": "Pressing the WPT TO DEST line select key on the FPL MENU 22 will display the distance and time from each waypoint to the destination. ",
+    "caption_tr": "FPL MENU 22'de WPT TO DEST hattı seçme tuşuna basıldığında, her yol noktasından varış noktasına kadar olan mesafe ve süre görüntülenecektir. ",
+    "title_tr": "WPT DEST'e basılıyor"
+  },
+  {
+    "id": "s90",
+    "title": "Pressing WPT DEFN",
+    "imgSrc": "slides/s90.png",
+    "audioSrc": "audio/s90.mp3",
+    "caption_en": "Pressing the WPT DEFN line select key on FPL MENU will display the coordinates of every flight plan waypoint, or \"FLOATING WPT\" in the case of procedural legs. ",
+    "caption_tr": "FPL MENÜSÜ'nde WPT DEFN hattı seçme tuşuna basıldığında, her uçuş planı yol noktasının koordinatları veya prosedürle ilgili bacaklar durumunda \"FLOATING WPT\" görüntülenecektir. ",
+    "title_tr": "WPT DEFN'e basmak"
+  },
+  {
+    "id": "s91",
+    "title": "Wind information may",
+    "imgSrc": "slides/s91.png",
+    "audioSrc": "audio/s91.mp3",
+    "caption_en": "Wind information may be added to individual waypoints in the flight plan in order to provide accurate estimate of the trip duration and estimated time of arrival (ETA). To enter FPL wind, Press FPL WINDS line select key. ",
+    "caption_tr": "Yolculuk süresinin ve tahmini varış zamanının (ETA) doğru tahminini sağlamak için uçuş planındaki ayrı ayrı yol noktalarına rüzgar bilgisi eklenebilir. FPL rüzgarına girmek için FPL WINDS satır seçme tuşuna basın. ",
+    "title_tr": "Rüzgar bilgisi"
+  },
+  {
+    "id": "s92",
+    "title": "winds must entered",
+    "imgSrc": "slides/s92.png",
+    "audioSrc": "audio/s92.mp3",
+    "caption_en": "All winds must be entered as True, and magnitude in knots. Watch how a forecast wind of 250 T30 knots is entered at VMR.",
+    "caption_tr": "Tüm rüzgarlar Doğru olarak ve büyüklükleri deniz mili cinsinden girilmelidir. VMR'de 250 T30 knot'luk tahmini rüzgarın nasıl girildiğini izleyin. ",
+    "title_tr": "rüzgarlar girmeli"
+  },
+  {
+    "id": "s93",
+    "title": "Pressing INVERT FPL",
+    "imgSrc": "slides/s93.png",
+    "audioSrc": "audio/s93.mp3",
+    "caption_en": "Pressing the INVERT FPL line select key twice will delete any SID, STAR or Approach from the current FPL, then invertit.",
+    "caption_tr": "FPL satırı seçme tuşuna iki kez basıldığında mevcut FPL'deki herhangi bir SID, STAR veya Yaklaşım silinecek ve ardından ters çevrilecektir. ",
+    "title_tr": "FPL'Yİ TERS ÇEVİR"
+  },
+  {
+    "id": "s94",
+    "title": "Pressing DELETE FPL",
+    "imgSrc": "slides/s94.png",
+    "audioSrc": "audio/s94.mp3",
+    "caption_en": "Pressing the DELETE FPL line select key twice will delete all waypoints in the active flight plan. The flight plan can also be deleted by inserting the number 99 on any waypoint and ENTER. This was discussed earlier. ",
+    "caption_tr": "DELETE FPL hat seçme tuşuna iki kez basılması aktif uçuş planındaki tüm yol noktalarını siler. Uçuş planı herhangi bir ara noktaya 99 rakamı yazıp ENTER tuşuna basılarak da silinebilir. Bu daha önce tartışılmıştı.",
+    "title_tr": "DELETE FPL'ye basmak"
+  }
+]

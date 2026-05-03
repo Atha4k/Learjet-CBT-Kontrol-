@@ -1,130 +1,146 @@
 [
   {
     "id": "s01",
-    "title": "The anti-icing and rain protection system on the Learjet 45 …",
+    "title": "anti-icing rain protection",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The anti-icing and rain protection system on the Learjet 45 is designed to detect and prevent ice build up on the - engine nacelle lip, engine inlet pressure and temperature probe, - the windshields",
-    "caption_tr": ""
+    "caption_tr": "Learjet 45'teki buzlanmayı önleme ve yağmurdan koruma sistemi, - motor kaportası dudağı, motor giriş basıncı ve sıcaklık probu, - ön camlar üzerinde buz oluşumunu tespit etmek ve önlemek için tasarlanmıştır.",
+    "title_tr": "buzlanmaya karşı yağmur"
   },
   {
     "id": "s02",
-    "title": "- the leading edges of the wings and horizontal stabilizer, …",
+    "title": "- leading edges",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "- the leading edges of the wings and horizontal stabilizer, - the pitot-static probes, stall warning vanes and total temperature probe.",
-    "caption_tr": ""
+    "caption_tr": "- kanatların ön kenarları ve yatay dengeleyici, - pitot-statik problar, durma uyarı kanatları ve toplam sıcaklık probu.",
+    "title_tr": "- ön kenarlar"
   },
   {
     "id": "s03",
-    "title": "Icing condition exists whenever -the SAT is between and and …",
+    "title": "Icing condition exists",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Icing condition exists whenever -the SAT is between and and - visible moisture is present. This includes clouds, rain, snow, sleet, ice crystals, or fog with a visibility of less than 1 mile.",
-    "caption_tr": ""
+    "caption_tr": "SAT ile ve arasında olduğunda görünür nem mevcut olduğunda buzlanma durumu oluşur. Bu, görüş mesafesi 1 milden az olan bulutları, yağmuru, karı, karla karışık yağmuru, buz kristallerini veya sisi içerir.",
+    "title_tr": "Buzlanma durumu mevcut"
   },
   {
     "id": "s04",
-    "title": "The anti-icing systems are controlled through the switches o…",
+    "title": "anti-icing systems are",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The anti-icing systems are controlled through the switches on the ANTI-ICE panel located in the center instrument panel. Their circuit breakers are found under the ANTI-ICE group.",
-    "caption_tr": ""
+    "caption_tr": "Buzlanma önleme sistemleri, orta gösterge panelinde bulunan BUZ ÖNLEME panelindeki anahtarlar aracılığıyla kontrol edilir. Devre kesicileri ANTI-ICE grubu altında bulunur.",
+    "title_tr": "buzlanma önleyici sistemler"
   },
   {
     "id": "s05",
-    "title": "The pneumatically heated systems are the nacelle anti-ice sy…",
+    "title": "pneumatically heated systems",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The pneumatically heated systems are the nacelle anti-ice system and the wingistab anti-ice system. The electrically heated components are the windshields, the pitot-static probes and the nacelle pressuretemperature probe.",
-    "caption_tr": ""
+    "caption_tr": "Pnömatik olarak ısıtılan sistemler, motor kaportası buz önleme sistemi ve Wingistab buz önleme sistemidir. Elektrikle ısıtılan bileşenler, ön camlar, pitot-statik problar ve motor kaportası basınç-sıcaklık probudur.",
+    "title_tr": "Pnömatik ısıtmalı sistemler"
   },
   {
     "id": "s06",
-    "title": "Normally, the L and R NAC switches and the WINGSTAB switches…",
+    "title": "Normally L R",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Normally, the L and R NAC switches and the WINGSTAB switches are not selected on unless icing is encountered. Whereas the L and R switches and the L and R PROBES switches are switched on for the duration of the flight.",
-    "caption_tr": ""
+    "caption_tr": "Normalde buzlanmayla karşılaşılmadıkça L ve R NAC anahtarları ve WINGSTAB anahtarları açık durumda değildir. Uçuş süresince L ve R anahtarları ile L ve R PROBES anahtarları açık durumdadır.",
+    "title_tr": "Normalde LR"
   },
   {
     "id": "s07",
-    "title": "Ice Detection System There are 2 ways to detect ice formatio…",
+    "title": "Ice Detection System",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Ice Detection System There are 2 ways to detect ice formation on this airplane. One is by the ice detector system and the other is by a visual inspection.",
-    "caption_tr": ""
+    "caption_tr": "Buz Tespit Sistemi Bu uçakta buz oluşumunu tespit etmenin 2 yolu vardır. Biri buz dedektörü sistemiyle, diğeri ise görsel incelemeyle yapılır.",
+    "title_tr": "Buz Algılama Sistemi"
   },
   {
     "id": "s08",
-    "title": "Ice Detector System The ice detector is mounted on the left …",
+    "title": "Ice Detector System",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Ice Detector System The ice detector is mounted on the left side, just above the nose gear door. The ice detection system is powered whenever electrical power is available on the",
-    "caption_tr": ""
+    "caption_tr": "Buz Dedektör Sistemi Buz dedektörü sol tarafa, burun dişli kapısının hemen üzerine monte edilmiştir. Buz algılama sistemine elektrik gücü mevcut olduğunda güç verilir.",
+    "title_tr": "Buz Dedektör Sistemi"
   },
   {
     "id": "s09",
-    "title": "This detection system also monitors the L NAC switch, the R …",
+    "title": "This detection system",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "This detection system also monitors the L NAC switch, the R NAC switch, and the WINGSTAB switch positions. Normally, all these 3 switches are OFF.",
-    "caption_tr": ""
+    "caption_tr": "Bu algılama sistemi aynı zamanda L NAC anahtarını, R NAC anahtarını ve WINGSTAB anahtar konumlarını da izler. Normalde bu 3 anahtarın tümü KAPALI'dır.",
+    "title_tr": "Bu algılama sistemi"
   },
   {
     "id": "s10",
-    "title": "The detector consists of a probe that vibrates at a fixed fr…",
+    "title": "detector probe that",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The detector consists of a probe that vibrates at a fixed frequency. When ice is formed on the probe, its frequency changes and this displays a caution CAS message ICE DETECTED. Since all the 3 switches (L NAC, R NAC and WINGSTAB) are off, this will be a caution CAS message.",
-    "caption_tr": ""
+    "caption_tr": "Dedektör sabit bir frekansta titreşen bir probdan oluşur. Prob üzerinde buz oluştuğunda frekansı değişir ve bu, bir uyarı CAS mesajı BUZ ALGILANDI görüntüler. 3 anahtarın tümü (L NAC, R NAC ve WINGSTAB) kapalı olduğundan bu bir uyarı CAS mesajı olacaktır.",
+    "title_tr": "dedektör probu"
   },
   {
     "id": "s11",
-    "title": "The non-normal checklist procedure calls for these 3 switche…",
+    "title": "non-normal checklist procedure",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The non-normal checklist procedure calls for these 3 switches, L NAC, R NAC and WINGS TAB to be switched on. Only after ALL these 3 switches are switched ON, will the caution CAS message change into an advisory CAS message.",
-    "caption_tr": ""
+    "caption_tr": "Normal olmayan kontrol listesi prosedürü bu 3 anahtarın (L NAC, R NAC ve WINGS TAB) açılmasını gerektirir. Ancak bu 3 anahtarın TÜMÜ AÇIK konuma getirildikten sonra, CAS uyarı mesajı tavsiye niteliğinde bir CAS mesajına dönüşecektir.",
+    "title_tr": "normal olmayan kontrol"
   },
   {
     "id": "s12",
-    "title": "If any of these 3 switches is off, this becomes a caution CA…",
+    "title": "any these 3",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "If any of these 3 switches is off, this becomes a caution CAS message again. This CAS message ICE DETECTED is inhibited on the ground.",
-    "caption_tr": ""
+    "caption_tr": "Bu 3 anahtardan herhangi birinin kapalı olması durumunda bu yine bir uyarı CAS mesajına dönüşür. Bu CAS mesajı BUZ TESPİT EDİLDİ yerde engellenir.",
+    "title_tr": "3'ten herhangi biri"
   },
   {
     "id": "s13",
-    "title": "Once icing is detected, an internal heating element within t…",
+    "title": "Once icing detected",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Once icing is detected, an internal heating element within the probe is automatically powered to melt the ice. The CAS message disappears when ice is no longer present. Crew are to ensure that they do not brush against or touch the probe. As this changes the frequency of the vibrating probe, this will cause the heater element to be powered.",
-    "caption_tr": ""
+    "caption_tr": "Buzlanma tespit edildiğinde, probun içindeki dahili bir ısıtma elemanına otomatik olarak buzun erimesi için güç verilir. Buz artık mevcut olmadığında CAS mesajı kaybolur. Mürettebat, sondaya sürtünmediğinden veya proba dokunmadığından emin olmalıdır. Bu, titreşen probun frekansını değiştirdiğinden, ısıtıcı elemanın çalıştırılmasına neden olacaktır.",
+    "title_tr": "Buzlanma tespit edildikten"
   },
   {
     "id": "s14",
-    "title": "Visual Inspection Located at both outboard ends on the wing …",
+    "title": "Visual Inspection Located",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Visual Inspection Located at both outboard ends on the wing leading edges is a black dot ( patch ). This is used to detect ice build-up on the wings during night operations.",
-    "caption_tr": ""
+    "caption_tr": "Görsel İnceleme Kanadın ön kenarlarındaki her iki dış uçta siyah bir nokta (yama) bulunur. Bu, gece operasyonları sırasında kanatlarda buz oluşumunu tespit etmek için kullanılır.",
+    "title_tr": "Görsel Muayene Bulundu"
   },
   {
     "id": "s15",
-    "title": "Located on the center instrument panel is the Wing Inspectio…",
+    "title": "Located center instrument",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Located on the center instrument panel is the Wing Inspection light switch.",
-    "caption_tr": ""
+    "caption_tr": "Orta gösterge panelinde Kanat Muayene ışığı anahtarı bulunur.",
+    "title_tr": "Merkezi enstrüman"
   },
   {
     "id": "s16",
-    "title": "When this Wing Inspection light switch is depressed, a beam …",
+    "title": "this Wing Inspection",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "When this Wing Inspection light switch is depressed, a beam of light shines at the black spot on the right wing only. If ice is present, it will reflect the light. Note that clear ice may not be detectable from the cockpit.",
-    "caption_tr": ""
+    "caption_tr": "Bu Kanat Muayene ışık anahtarına basıldığında, yalnızca sağ kanattaki siyah noktada bir ışık huzmesi parlar. Buz varsa ışığı yansıtacaktır. Kokpitte berrak buzun tespit edilemeyebileceğini unutmayın.",
+    "title_tr": "bu Kanat Denetimi"
   }
 ]

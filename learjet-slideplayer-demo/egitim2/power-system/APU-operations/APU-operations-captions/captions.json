@@ -1,90 +1,101 @@
 [
   {
     "id": "s01",
-    "title": "To start the APU, 1. Check that APU FAIL switch is not illum…",
+    "title": "start APU 1",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "To start the APU, 1. Check that APU FAIL switch is not illuminated. If it is illuminated, call for maintenance action. The APU cannot be started with this light on.",
-    "caption_tr": ""
+    "caption_tr": "APU'yu başlatmak için, 1. APU FAIL anahtarının yanmadığını kontrol edin. Yanıyorsa bakım işlemi için çağrı yapın. APU bu ışık açıkken başlatılamaz.",
+    "title_tr": "APU 1'i başlat"
   },
   {
     "id": "s02",
-    "title": "Select the APU Master switch on. The ON light will be illumi…",
+    "title": "Select APU Master",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Select the APU Master switch on. The ON light will be illuminated. This action electrically powers the ECU.",
-    "caption_tr": ""
+    "caption_tr": "APU Ana anahtarını açık olarak seçin. ON ışığı yanacaktır. Bu işlem ECU'ya elektriksel olarak güç sağlar.",
+    "title_tr": "APU Master'ı seçin"
   },
   {
     "id": "s03",
-    "title": "Next, select the STARTSTOP switch. Both the APU inlet and ex…",
+    "title": "Next select STARTSTOP",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Next, select the STARTSTOP switch. Both the APU inlet and exhaust doors will open. Then, the START light will illuminate as the APU starter engages and its starting cycle is monitored by the ECU.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra STARTSTOP anahtarını seçin. Hem APU giriş hem de çıkış kapıları açılacaktır. Ardından, APU marş motoru devreye girdiğinde ve başlatma döngüsü ECU tarafından izlendiğinde BAŞLAT ışığı yanacaktır.",
+    "title_tr": "Daha STARTSTOP'u seçin"
   },
   {
     "id": "s04",
-    "title": "When the APU reaches 95 rpm, -the START light will extinguis…",
+    "title": "APU reaches 95",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "When the APU reaches 95 rpm, -the START light will extinguish and - the green RUN light will illuminate. This means that both electrical and pneumatic loads are now available. The APU will accelerate to and stabilizes at pm.",
-    "caption_tr": ""
+    "caption_tr": "APU 95 rpm'ye ulaştığında -START ışığı sönecek ve -yeşil RUN ışığı yanacaktır. Bu, artık hem elektrikli hem de pnömatik yüklerin mevcut olduğu anlamına gelir. APU öğleden sonraya kadar hızlanacak ve dengelenecektir.",
+    "title_tr": "APU 95'e ulaştı"
   },
   {
     "id": "s05",
-    "title": "Above 95 rpm, the APU electrical power is available when the…",
+    "title": "Above 95 rpm",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Above 95 rpm, the APU electrical power is available when the AVAIL light is illuminated on the APU GEN switch. The GEN AMPS indicator will also display the actual electrical load with a maximum load of amps. However, during APU starting, it will indicate 0 amps. regen)",
-    "caption_tr": ""
+    "caption_tr": "95 rpm'nin üzerinde, APU GEN anahtarındaki AVAIL ışığı yandığında APU elektrik gücü mevcuttur. GEN AMPS göstergesi aynı zamanda maksimum amper yüküyle gerçek elektrik yükünü de gösterecektir. Ancak APU başlatma sırasında 0 amper gösterecektir. yenilenme)",
+    "title_tr": "95 rpm'nin üzerinde"
   },
   {
     "id": "s06",
-    "title": "The APU bleed air is selected via the APU Bleed switch. When…",
+    "title": "APU bleed air",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The APU bleed air is selected via the APU Bleed switch. When selected, the ON light on the APU BLEED switch will illuminate.",
-    "caption_tr": ""
+    "caption_tr": "APU boşaltma havası, APU Boşaltma anahtarı aracılığıyla seçilir. Seçildiğinde APU BLEED anahtarındaki ON ışığı yanacaktır.",
+    "title_tr": "APU hava tahliyesi"
   },
   {
     "id": "s07",
-    "title": "The APU fire switch is a guarded switch. If there is an APU …",
+    "title": "APU fire switch",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The APU fire switch is a guarded switch. If there is an APU fire, the fire warning system will activate and the switch will light up. The warming CAS message APU FIRE is aiso displayed.",
-    "caption_tr": ""
+    "caption_tr": "APU yangın anahtarı korumalı bir anahtardır. APU yangını olması durumunda yangın uyarı sistemi devreye girecek ve anahtarın ışığı yanacaktır. Isınma CAS mesajı APU FIRE aynı zamanda görüntülenir.",
+    "title_tr": "APU yangın anahtarı"
   },
   {
     "id": "s08",
-    "title": "The ECU then shuts down the A-P-U and the RUN light will ext…",
+    "title": "ECU shuts down",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The ECU then shuts down the A-P-U and the RUN light will extinguish. The APU FAIL light will then illuminate.",
-    "caption_tr": ""
+    "caption_tr": "ECU daha sonra A-P-U'yu kapatır ve RUN ışığı söner. APU FAIL ışığı daha sonra yanacaktır.",
+    "title_tr": "ECU kapanıyor"
   },
   {
     "id": "s09",
-    "title": "To extinguish the fire, lift up the guard and depress the FI…",
+    "title": "extinguish fire lift",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "To extinguish the fire, lift up the guard and depress the FIRE switch. This will discharge the APU fire extinguisher bottle contents into the APU enclosure.",
-    "caption_tr": ""
+    "caption_tr": "Yangını söndürmek için korumayı kaldırın ve YANGIN düğmesine basın. Bu, APU yangın söndürücü şişesinin içeriğini APU muhafazasına boşaltacaktır.",
+    "title_tr": "yangın asansörünü söndürmek"
   },
   {
     "id": "s10",
-    "title": "To manually shut down the APU, regen) ",
+    "title": "manually shut down",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "To manually shut down the APU, regen)",
-    "caption_tr": ""
+    "caption_tr": "APU'yu manuel olarak kapatmak için yeniden oluşturun)",
+    "title_tr": "manuel olarak kapatma"
   },
   {
     "id": "s11",
-    "title": "The APU will then begin it shutdown cycle. 5. After the APU …",
+    "title": "APU will begin",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The APU will then begin it shutdown cycle. 5. After the APU has shut down, the ECU is still powered. If the APU is no longer required, place the APU MASTER switch off and the ON light will extinguish.",
-    "caption_tr": ""
+    "caption_tr": "APU daha sonra kapatma döngüsüne başlayacaktır. 5. APU kapatıldıktan sonra ECU'ya hâlâ güç verilmektedir. APU'ya artık ihtiyaç duyulmuyorsa, APU MASTER anahtarını kapatın; ON ışığı sönecektir.",
+    "title_tr": "APU başlayacak"
   }
 ]

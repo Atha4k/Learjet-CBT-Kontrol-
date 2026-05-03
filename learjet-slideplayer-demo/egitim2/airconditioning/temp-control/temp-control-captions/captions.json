@@ -1,106 +1,119 @@
 [
   {
     "id": "s01",
-    "title": "Air Distribution The conditioned air leaving the ECU splits …",
+    "title": "Air Distribution conditioned",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Air Distribution The conditioned air leaving the ECU splits into 4 ducts. These are distributed into the left and right cabin, the cockpit and the gasper system. The gasper ends at nozzle outlets over the seats to increase the airflow to the individual passenger.",
-    "caption_tr": ""
+    "caption_tr": "Hava Dağıtımı ECU'dan çıkan şartlandırılmış hava 4 kanala ayrılır. Bunlar sol ve sağ kabine, kokpite ve gaz alma sistemine dağıtılmıştır. Gaz çıkışı, bireysel yolcuya giden hava akışını artırmak için koltukların üzerindeki nozül çıkışlarında sona eriyor.",
+    "title_tr": "Hava Dağıtımı şartlandırılmış"
   },
   {
     "id": "s02",
-    "title": "Temperature Control The air temperature to the cockpit and t…",
+    "title": "Temperature Control air",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Temperature Control The air temperature to the cockpit and the cabin can be controlled. This is carried out through the 2 temperature selectors located in front of the co-pilot. There are 2 selectors, one for the cabin and the other for the cockpit.",
-    "caption_tr": ""
+    "caption_tr": "Sıcaklık Kontrolü Kokpit ve kabine giden hava sıcaklığı kontrol edilebilir. Bu, yardımcı pilotun önünde bulunan 2 sıcaklık seçici aracılığıyla gerçekleştirilir. Biri kabin için, diğeri kokpit için olmak üzere 2 seçici bulunmaktadır.",
+    "title_tr": "Sıcaklık Kontrol havası"
   },
   {
     "id": "s03",
-    "title": "The heating system consists of the Integrated ECS controller…",
+    "title": "heating system Integrated",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The heating system consists of the Integrated ECS controller, the 2 temperature control valves and the 2 temperature selectors. The selectable temperature ranges from at COLD to at HOT. There are 2 modes of temperature control, the AUTO mode and the Manual Temperature mode.",
-    "caption_tr": ""
+    "caption_tr": "Isıtma sistemi, Entegre ECS kontrol cihazından, 2 sıcaklık kontrol vanasından ve 2 sıcaklık seçiciden oluşur. Seçilebilir sıcaklık SOĞUK ile SICAK arasında değişir. Sıcaklık kontrolünün 2 modu vardır; AUTO modu ve Manuel Sıcaklık modu.",
+    "title_tr": "ısıtma sistemi Entegre"
   },
   {
     "id": "s04",
-    "title": "Temperature Control For the system to operate in the AUTO mo…",
+    "title": "Temperature Control system",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Temperature Control For the system to operate in the AUTO mode, ensure that the MANUAL TEMP switch is not selected on. ",
-    "caption_tr": ""
+    "caption_tr": "Sıcaklık Kontrolü Sistemin AUTO modunda çalışması için MANUAL TEMP anahtarının açık seçilmediğinden emin olun.",
+    "title_tr": "Sıcaklık Kontrol sistemi"
   },
   {
     "id": "s05",
-    "title": "The actual cabin and the cockpit temperatures are always mon…",
+    "title": "actual cabin cockpit",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The actual cabin and the cockpit temperatures are always monitored by the Integrated ECS controller. If a warmer cockpit temperature is selected, the ECS controller commands the cockpit temperature control valve to open. ",
-    "caption_tr": ""
+    "caption_tr": "Gerçek kabin ve kokpit sıcaklıkları her zaman Entegre ECS kontrol cihazı tarafından izlenir. Daha sıcak bir kokpit sıcaklığı seçilirse ECS kontrol cihazı, kokpit sıcaklık kontrol vanasına açılması komutunu verir.",
+    "title_tr": "gerçek kabin kokpiti"
   },
   {
     "id": "s06",
-    "title": "This allows some hot air to mix with the conditioned air goi…",
+    "title": "This allows some",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "This allows some hot air to mix with the conditioned air going to cockpit. In this way, the cockpit air temperature is increased. The ECS controller continuously modulates the temperature control valve to maintain the selected temperature at the cockpit. The cabin temperature control is identical.",
-    "caption_tr": ""
+    "caption_tr": "Bu, bir miktar sıcak havanın kokpite giden şartlandırılmış havayla karışmasını sağlar. Bu sayede kokpit hava sıcaklığı arttırılır. ECS kontrol cihazı, kokpitte seçilen sıcaklığı korumak için sıcaklık kontrol valfini sürekli olarak modüle eder. Kabin sıcaklık kontrolü aynıdır.",
+    "title_tr": "bazılarına izin verir"
   },
   {
     "id": "s07",
-    "title": "Manual Temperature Control This mode is used if the AUTO tem…",
+    "title": "Manual Temperature Control",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Manual Temperature Control This mode is used if the AUTO temperature mode function fails. This will occur after a failure of both the generators. ",
-    "caption_tr": ""
+    "caption_tr": "Manuel Sıcaklık Kontrolü Bu mod, OTOMATİK sıcaklık modu işlevi başarısız olursa kullanılır. Bu, her iki jeneratörün de arızalanmasından sonra meydana gelecektir.",
+    "title_tr": "Manuel Sıcaklık Kontrolü"
   },
   {
     "id": "s08",
-    "title": "Selecting the MANUAL TEMP switch ON puts the system in the M…",
+    "title": "MANUAL TEMP switch",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Selecting the MANUAL TEMP switch ON puts the system in the Manual mode. Now, the 2 temperature control valves cockpit and cabin) respond directly to their selectors via the Integrated ECS controller. ",
-    "caption_tr": ""
+    "caption_tr": "MANUAL TEMP anahtarının AÇIK seçilmesi, sistemi Manuel moda geçirir. Artık 2 sıcaklık kontrol valfi (kokpit ve kabin), Entegre ECS kontrol cihazı aracılığıyla seçicilerine doğrudan yanıt veriyor.",
+    "title_tr": "MANUEL SICAKLIK anahtarı"
   },
   {
     "id": "s09",
-    "title": "If a cooler cockpit temperature is selected, the Integrated …",
+    "title": "cooler cockpit temperature",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "If a cooler cockpit temperature is selected, the Integrated ECS controller commands the cockpit temperature control valve to close. This stops the mixing and results in only conditioned air going to the cockpit. Note that there is no automatic temperature control in the Manual mode. The valves remain in their last selected position.",
-    "caption_tr": ""
+    "caption_tr": "Daha soğuk bir kokpit sıcaklığı seçilirse, Entegre ECS kontrol cihazı kokpit sıcaklık kontrol vanasına kapanma komutu verir. Bu, karışımı durdurur ve kokpite yalnızca şartlandırılmış havanın gitmesine neden olur. Manuel modda otomatik sıcaklık kontrolünün bulunmadığını unutmayın. Valfler son seçilen konumlarında kalır.",
+    "title_tr": "soğutucu kokpit sıcaklığı"
   },
   {
     "id": "s10",
-    "title": "The aft tail cone baggage section is unpressurized. This are…",
+    "title": "aft tail cone",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The aft tail cone baggage section is unpressurized. This area is heated by 6 electrical blanket heaters to within a range of - The heater onoff switch is located next to the light switch. There is no cockpit control or indications when the heaters are working.",
-    "caption_tr": ""
+    "caption_tr": "Arka kuyruk konisi bagaj bölümü basınçsızdır. Bu alan 6 adet elektrikli battaniye ısıtıcısıyla aşağıdaki aralıklara kadar ısıtılır: - Isıtıcı açma kapama düğmesi, ışık anahtarının yanında bulunur. Isıtıcılar çalışırken kokpit kontrolü veya göstergesi yoktur.",
+    "title_tr": "kıç kuyruk konisi"
   },
   {
     "id": "s11",
-    "title": "Temperature Indications Only the Cabin temperature is indica…",
+    "title": "Temperature Indications Cabin",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Temperature Indications Only the Cabin temperature is indicated on the EICAS - ECS page. The TEMP CONT indicators show the actual temperature in the supply distribution ducts to the cabin and cockpit. They range from at C to at H.",
-    "caption_tr": ""
+    "caption_tr": "Sıcaklık Göstergeleri EICAS - ECS sayfasında yalnızca Kabin sıcaklığı gösterilir. TEMP CONT göstergeleri kabine ve kokpite giden besleme dağıtım kanallarındaki gerçek sıcaklığı gösterir. C'den H'ye kadar değişirler.",
+    "title_tr": "Sıcaklık Göstergeleri Kabini"
   },
   {
     "id": "s12",
-    "title": "If the cabin supply duct temperature exceeds with the temper…",
+    "title": "cabin duct temperature",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "If the cabin supply duct temperature exceeds with the temperature control in the AUTO mode, the CAB TEMP CONT indicator will turn amber. The cabin temperature control valve will also close. A caution CAS message CABDUCT OVHT will be displayed. The cockpit overheat system is identical.",
-    "caption_tr": ""
+    "caption_tr": "AUTO modundaki sıcaklık kontrolü ile kabin besleme kanalı sıcaklığı aşılırsa CAB TEMP CONT göstergesi sarı renkte yanacaktır. Kabin sıcaklık kontrol vanası da kapanacaktır. Bir uyarı CAS mesajı CABDUCT OVHT görüntülenecektir. Kokpit aşırı ısınma sistemi aynıdır.",
+    "title_tr": "kabin kanalı sıcaklığı"
   },
   {
     "id": "s13",
-    "title": "However, if the cabin supply duct temperature exceeds with t…",
+    "title": "However cabin duct",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "However, if the cabin supply duct temperature exceeds with the temperature control in the Manual mode, only the CAB TEMP CONT indicator will turn amber. The cabin temperature control vaive does not close. The caution CAS message CAB DUCT OVHT is also displayed. ",
-    "caption_tr": ""
+    "caption_tr": "Ancak Manuel moddaki sıcaklık kontrolüyle kabin besleme kanalı sıcaklığı aşılırsa yalnızca CAB TEMP CONT göstergesi sarıya dönecektir. Kabin sıcaklık kontrol vanası kapanmıyor. CAS uyarı mesajı CAB DUCT OVHT de görüntülenir.",
+    "title_tr": "Ancak kabin kanalı"
   }
 ]

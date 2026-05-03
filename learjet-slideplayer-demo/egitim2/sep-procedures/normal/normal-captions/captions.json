@@ -1,106 +1,119 @@
 [
   {
     "id": "s01",
-    "title": "Check that all safety equipment is servicable and correctly …",
+    "title": "Check that safety",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Check that all safety equipment is servicable and correctly located. PE 1 EE .",
-    "caption_tr": ""
+    "caption_tr": "Tüm güvenlik ekipmanlarının bakımının yapılıp yapılmadığını ve doğru şekilde yerleştirildiğini kontrol edin. PE1EE.",
+    "title_tr": "güvenliği kontrol edin"
   },
   {
     "id": "s02",
-    "title": "Make sure all cabin baggage is securely stowed. J 1 EE .",
+    "title": "Make sure cabin",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Make sure all cabin baggage is securely stowed. J 1 EE .",
-    "caption_tr": ""
+    "caption_tr": "Tüm kabin bagajlarının güvenli bir şekilde yerleştirildiğinden emin olun. J1EE.",
+    "title_tr": "Kabinden emin olun"
   },
   {
     "id": "s03",
-    "title": "Check that all swivel seats are locked facing forward. J 1 E…",
+    "title": "Check that swivel",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Check that all swivel seats are locked facing forward. J 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Tüm döner koltukların öne bakacak şekilde kilitlendiğini kontrol edin. J1EE. aa o dy 4 1 I.",
+    "title_tr": "Dönmeyi kontrol et"
   },
   {
     "id": "s04",
-    "title": "Ensure that all seat backs are upright. Cr 1 EE . aa o dy 4 …",
+    "title": "Ensure that seat",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Ensure that all seat backs are upright. Cr 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Tüm koltuk arkalıklarının dik olduğundan emin olun. Cr1EE. aa o dy 4 1 I.",
+    "title_tr": "O koltuğu garantile"
   },
   {
     "id": "s05",
-    "title": "If passengers are carried, the commander shall ensure that a…",
+    "title": "passengers are carried",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "If passengers are carried, the commander shall ensure that a safety briefing, based on the contents of the Safety Information Card, is carried out. EE 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Yolcu taşınması durumunda, kaptan pilot, Güvenlik Bilgi Kartının içeriğine dayalı olarak bir güvenlik brifinginin yürütülmesini sağlayacaktır. EE 1 EE . aa o dy 4 1 I.",
+    "title_tr": "yolcular taşınıyor"
   },
   {
     "id": "s06",
-    "title": "Point out the locations of the passenger oxygen mask stowage…",
+    "title": "Point out locations",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Point out the locations of the passenger oxygen mask stowage compartments and show how a mask is used. Cre 1 EE .",
-    "caption_tr": ""
+    "caption_tr": "Yolcu oksijen maskesi saklama bölmelerinin yerlerini belirtin ve maskenin nasıl kullanıldığını gösterin. Cre 1 EE.",
+    "title_tr": "Konumları belirtin"
   },
   {
     "id": "s07",
-    "title": "Point out where the life-vests are stowed. en on 1 EE . aa o…",
+    "title": "Point out life-vests",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Point out where the life-vests are stowed. en on 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Can yeleklerinin nerede saklandığını gösterin. tr 1 EE'de . aa o dy 4 1 I.",
+    "title_tr": "Can yeleklerini gösterin"
   },
   {
     "id": "s08",
-    "title": "Demostrate how to put on a lifevest and the method of inflat…",
+    "title": "Demostrate how put",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Demostrate how to put on a lifevest and the method of inflation. J 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Can yeleğinin nasıl giyileceğini ve şişirme yöntemini gösterin. J1EE. aa o dy 4 1 I.",
+    "title_tr": "Nasıl konulduğunu göster"
   },
   {
     "id": "s09",
-    "title": "Point out the locations of the emergency exits. J 1 EE . aa …",
+    "title": "Point out locations",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Point out the locations of the emergency exits. J 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Acil çıkışların yerlerini belirtin. J1EE. aa o dy 4 1 I.",
+    "title_tr": "Konumları belirtin"
   },
   {
     "id": "s10",
-    "title": "Brief passengers on how to open the emergency exits. ne 1 EE…",
+    "title": "Brief passengers how",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Brief passengers on how to open the emergency exits. ne 1 EE .",
-    "caption_tr": ""
+    "caption_tr": "Acil durum çıkışlarının nasıl açılacağı konusunda yolculara kısa bilgi. ne 1 EE .",
+    "title_tr": "Yolculara nasıl olduğunu"
   },
   {
     "id": "s11",
-    "title": "Show passengers how to fasten and unfasten a seatbelt eae 1 …",
+    "title": "Show passengers how",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Show passengers how to fasten and unfasten a seatbelt eae 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Yolculara emniyet kemerini nasıl takıp çıkaracaklarını gösterin eae 1 EE . aa o dy 4 1 I.",
+    "title_tr": "Yolculara nasıl yapılacağını"
   },
   {
     "id": "s12",
-    "title": "For all take-offs and landings, ensure that passengers are s…",
+    "title": "take-offs landings ensure",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "For all take-offs and landings, ensure that passengers are seated with their seatbelts fastened. ne 1 EE . aa o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Tüm kalkış ve inişlerde yolcuların emniyet kemerleri bağlı olarak oturduklarından emin olun. ne 1 EE . aa o dy 4 1 I.",
+    "title_tr": "kalkışlar inişler sağlar"
   },
   {
     "id": "s13",
-    "title": "The carriage of infants, handicapped persons and dangerous g…",
+    "title": "carriage infants handicapped",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The carriage of infants, handicapped persons and dangerous goods is normally prohibited. If required refer to the SEP manual for details of the approval authority. ae 1 EE .",
-    "caption_tr": ""
+    "caption_tr": "Bebeklerin, engelli kişilerin ve tehlikeli maddelerin taşınması normalde yasaktır. Gerekirse onay yetkilisinin ayrıntıları için SEP kılavuzuna bakın. ae 1 EE .",
+    "title_tr": "taşıma engelli bebekler"
   }
 ]

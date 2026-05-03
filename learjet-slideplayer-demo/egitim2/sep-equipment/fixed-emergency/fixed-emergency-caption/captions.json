@@ -1,146 +1,164 @@
 [
   {
     "id": "s01",
-    "title": "These sub-modules give a summary of the operation of fixed e…",
+    "title": "These sub-modules give",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "These sub-modules give a summary of the operation of fixed emergency equipment. For a detailed description of the Oxygen and Emergency Lighting systems, return to the Main menu and select the Oxygen and Airplane General titles respectively.",
-    "caption_tr": ""
+    "caption_tr": "Bu alt modüller, sabit acil durum ekipmanının çalışmasının bir özetini verir. Oksijen ve Acil Durum Aydınlatma sistemlerinin detaylı anlatımı için Ana menüye dönüp sırasıyla Oksijen ve Uçak Genel başlıklarını seçiniz.",
+    "title_tr": "Bu alt modüller şunları sağlar"
   },
   {
     "id": "s02",
-    "title": "The passenger oxygen system is controlled by the Pax Oxy Aut…",
+    "title": "passenger oxygen system",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The passenger oxygen system is controlled by the Pax Oxy Auto and the Pax Deploy switch indicators. When both switch indicators are blank, the system is armed for automatic deployment.",
-    "caption_tr": ""
+    "caption_tr": "Yolcu oksijen sistemi, Pax Oxy Auto ve Pax Deploy anahtar göstergeleri tarafından kontrol edilir. Her iki anahtar göstergesi de boş olduğunda, sistem otomatik dağıtım için devreye alınmıştır.",
+    "title_tr": "yolcu oksijen sistemi"
   },
   {
     "id": "s03",
-    "title": "If the cabin altitude exceeds feet, the passenger oxygen sys…",
+    "title": "cabin altitude exceeds",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "If the cabin altitude exceeds feet, the passenger oxygen system will then be turned on automatically.",
-    "caption_tr": ""
+    "caption_tr": "Kabin yüksekliği feet'i aşarsa yolcu oksijen sistemi otomatik olarak açılacaktır.",
+    "title_tr": "kabin yüksekliği aşıldı"
   },
   {
     "id": "s04",
-    "title": "If the aircraft is operated with the Pax Oxy Auto switch ind…",
+    "title": "aircraft operated Pax",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "If the aircraft is operated with the Pax Oxy Auto switch indicator showing OFF, the passenger oxygen system will not be able to turn on automatically.",
-    "caption_tr": ""
+    "caption_tr": "Uçak, Pax Oxy Auto anahtar göstergesi KAPALI olarak gösterilirken çalıştırılırsa yolcu oksijen sistemi otomatik olarak açılmayacaktır.",
+    "title_tr": "uçakla işletilen Pax"
   },
   {
     "id": "s05",
-    "title": "The passenger oxygen system may be turned on at any time by …",
+    "title": "passenger oxygen system",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The passenger oxygen system may be turned on at any time by depressing the Pax Deploy switch indicator.",
-    "caption_tr": ""
+    "caption_tr": "Yolcu oksijen sistemi, Pax Dağıtım anahtarı göstergesine basılarak herhangi bir zamanda açılabilir.",
+    "title_tr": "yolcu oksijen sistemi"
   },
   {
     "id": "s06",
-    "title": "Whenever the passenger oxygen system is turned on, automatic…",
+    "title": "Whenever passenger oxygen",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Whenever the passenger oxygen system is turned on, automatically or manually, the Pax Deploy switch indicator will illuminate ON and a Pax Oxy Deploy message will be displayed on EICAS.",
-    "caption_tr": ""
+    "caption_tr": "Yolcu oksijen sistemi otomatik veya manuel olarak açıldığında, Pax Dağıtım anahtarı göstergesi AÇIK yanacak ve EICAS'ta bir Pax Oxy Dağıtım mesajı görüntülenecektir.",
+    "title_tr": "yolcu oksijeni"
   },
   {
     "id": "s07",
-    "title": "After the passenger oxygen system has been turned on, the sy…",
+    "title": "passenger oxygen system",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "After the passenger oxygen system has been turned on, the system may be reset, if conditions permit, by depressing the Pax Deploy switch indicator. The switch indicator should then be blank.",
-    "caption_tr": ""
+    "caption_tr": "Yolcu oksijen sistemi açıldıktan sonra, koşullar uygunsa, Pax Dağıtım anahtarı göstergesine basılarak sistem sıfırlanabilir. Bu durumda anahtar göstergesi boş olmalıdır.",
+    "title_tr": "yolcu oksijen sistemi"
   },
   {
     "id": "s08",
-    "title": "The observer's oxygen system is currently operated by select…",
+    "title": "observer's oxygen system",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The observer's oxygen system is currently operated by selecting the observer's switch indicator so that it illuminates ON.",
-    "caption_tr": ""
+    "caption_tr": "Gözlemcinin oksijen sistemi şu anda gözlemcinin anahtar göstergesi AÇIK yanacak şekilde seçilerek çalıştırılır.",
+    "title_tr": "gözlemcinin oksijen sistemi"
   },
   {
     "id": "s09",
-    "title": "Crew mask regulators are set at the precent position for fli…",
+    "title": "Crew mask regulators",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Crew mask regulators are set at the precent position for flight. This provides for percent oxygen flow on demand.",
-    "caption_tr": ""
+    "caption_tr": "Mürettebat maskesi düzenleyicileri uçuş için mevcut konuma ayarlanmıştır. Bu, talep üzerine yüzde oksijen akışı sağlar.",
+    "title_tr": "Mürettebat maskesi düzenleyicileri"
   },
   {
     "id": "s10",
-    "title": "When required, the selector is set to Emergency position. Ox…",
+    "title": "required selector set",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "When required, the selector is set to Emergency position. Oxygen flow will be percent under pressure.",
-    "caption_tr": ""
+    "caption_tr": "Gerektiğinde seçici Acil durum konumuna ayarlanır. Oksijen akışı basınç altında yüzde olacaktır.",
+    "title_tr": "gerekli seçici seti"
   },
   {
     "id": "s11",
-    "title": "If armed, the emergency lights automatcially turn on when bo…",
+    "title": "armed emergency lights",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "If armed, the emergency lights automatcially turn on when both engine generators fail or if the passenger oxygen system is deployed.",
-    "caption_tr": ""
+    "caption_tr": "Devredeyse, her iki motor jeneratörü de arızalandığında veya yolcu oksijen sistemi devreye girdiğinde acil durum ışıkları otomatik olarak açılır.",
+    "title_tr": "silahlı acil durum"
   },
   {
     "id": "s12",
-    "title": "Emergency lights may be turned on at any time by selecting t…",
+    "title": "Emergency lights may",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Emergency lights may be turned on at any time by selecting the emergency lights switch to ON.",
-    "caption_tr": ""
+    "caption_tr": "Acil durum ışıkları, acil durum ışıkları anahtarının AÇIK konumuna seçilmesiyle herhangi bir zamanda açılabilir.",
+    "title_tr": "Acil durum ışıkları"
   },
   {
     "id": "s13",
-    "title": "The emergency lighting system turns on the following lights.",
+    "title": "emergency lighting system",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The emergency lighting system turns on the following lights.",
-    "caption_tr": ""
+    "caption_tr": "Acil durum aydınlatma sistemi aşağıdaki ışıkları açar.",
+    "title_tr": "acil aydınlatma sistemi"
   },
   {
     "id": "s14",
-    "title": "An Emergency Locator Transmitter or ELT is fitted in the tai…",
+    "title": "Emergency Locator Transmitter",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "An Emergency Locator Transmitter or ELT is fitted in the tailcone area.",
-    "caption_tr": ""
+    "caption_tr": "Kuyruk konisi alanına bir Acil Durum Konum Belirleyici Vericisi veya ELT takılmıştır.",
+    "title_tr": "Acil Durum Konum"
   },
   {
     "id": "s15",
-    "title": "The switch is left in the ARM position and in this position …",
+    "title": "switch left ARM",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "The switch is left in the ARM position and in this position the system is armed. A high impact force will automatically turn the transmitter on.",
-    "caption_tr": ""
+    "caption_tr": "Anahtar ARM konumunda bırakılır ve bu konumda sistem devreye alınır. Yüksek bir darbe kuvveti vericiyi otomatik olarak açacaktır.",
+    "title_tr": "ARM'i sola çevir"
   },
   {
     "id": "s16",
-    "title": "The transmitter may also be turned on at any time by selecti…",
+    "title": "transmitter may also",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The transmitter may also be turned on at any time by selecting the cockpit switch to ON.",
-    "caption_tr": ""
+    "caption_tr": "Verici ayrıca kokpit anahtarının AÇIK konumuna getirilmesiyle herhangi bir zamanda açılabilir.",
+    "title_tr": "verici de olabilir"
   },
   {
     "id": "s17",
-    "title": "Whenever the transmitter is turned on, the indicator light f…",
+    "title": "Whenever transmitter turned",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Whenever the transmitter is turned on, the indicator light flashes. A buzzer in the transmitter will sound intermittently.",
-    "caption_tr": ""
+    "caption_tr": "Verici her açıldığında gösterge ışığı yanıp söner. Vericideki sesli uyarı aralıklı olarak çalacaktır.",
+    "title_tr": "Verici her döndüğünde"
   },
   {
     "id": "s18",
-    "title": "This transmitter transmits on and megahertz.",
+    "title": "This transmitter transmits",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "This transmitter transmits on and megahertz.",
-    "caption_tr": ""
+    "caption_tr": "Bu verici megahertz üzerinden iletim yapar.",
+    "title_tr": "Bu verici iletir"
   }
 ]

@@ -1,74 +1,83 @@
 [
   {
     "id": "s01",
-    "title": "Item Visually check tyres for wear, condition and proper inf…",
+    "title": "Item Visually check",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Item Visually check tyres for wear, condition and proper inflation. Inform maintenance crew if tyres are worn or damaged.",
-    "caption_tr": ""
+    "caption_tr": "Madde Lastikleri aşınma, durum ve uygun şişirme için görsel olarak kontrol edin. Lastikler aşınmış veya hasar görmüşse bakım ekibini bilgilendirin.",
+    "title_tr": "Öğe Görsel kontrol"
   },
   {
     "id": "s02",
-    "title": "Item Visually check that wheel tie bolts are present in both…",
+    "title": "Item Visually check",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Item Visually check that wheel tie bolts are present in both the nose wheel and main wheels. Wheel replacement will be necessary if any is missing. The tie bolts hold the 2 wheel hubs together. Inform maintenance crew if any bolt is missing.",
-    "caption_tr": ""
+    "caption_tr": "Madde Tekerlek bağlama cıvatalarının burn ve ana tekerleklerde mevcut olup olmadığını görsel olarak kontrol edin. Eğer herhangi biri eksikse tekerlek değiştirme gerekecektir. Bağlama cıvataları 2 tekerlek hubunu bir arada tutar. Eğer herhangi bir cıvata eksikse bakım ekibini bilgilendirin.",
+    "title_tr": "Öğe Görsel kontrol"
   },
   {
     "id": "s03",
-    "title": "Item Check hydraulic systems quantities and service as requi…",
+    "title": "Item Check hydraulic",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Item Check hydraulic systems quantities and service as required. Record uplift in Fuel and Oil log.\" During their exterior checks, crew are to ensure that only the FULL light is illuminated. This means that the reservoirs properly serviced to the correct level.",
-    "caption_tr": ""
+    "caption_tr": "Madde Hidrolik sistemlerin miktarlarını ve gerekli durumlarda hizmetlerini kontrol edin. Yakıt ve Yağ günlüğüne yüklemeyi kaydedin.\" Dış kontroller sırasında, ekip sadece FULL ışığının yanıp söndüğünden emin olmalıdır. Bu, rezervuarların doğru seviyeye uygun olarak hizmet aldığını gösterir.",
+    "title_tr": "Öğe Hidrolik kontrolü"
   },
   {
     "id": "s04",
-    "title": "If the OVER full light is illuminated, this means that the r…",
+    "title": "OVER full light",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "If the OVER full light is illuminated, this means that the reservoir is over-serviced. Crew should inform the maintenance crew to drain off the excess fluid.",
-    "caption_tr": ""
+    "caption_tr": "Madde OVER full ışığı yanıyorsa, bu rezervuarın fazla hizmet aldığını gösterir. Ekip, bakım ekibini fazlaakış için bilgilendirmelidir.",
+    "title_tr": "FAZLA tam ışık"
   },
   {
     "id": "s05",
-    "title": "If the ADD light is illuminated, the fluid level is at the l…",
+    "title": "ADD light illuminated",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "If the ADD light is illuminated, the fluid level is at the low ADD level. An advisory CAS message MAIN LO is also displayed. Maintenance action is required and the reservoir needs to be serviced.",
-    "caption_tr": ""
+    "caption_tr": "Madde ADD ışığı yanıyorsa, bu akış seviyesinin düşük ADD seviyesinde olduğunu gösterir. Bir danışman CAS mesajı MAIN LO da görüntülenir. Bakım eylemi gerekir ve rezervuar hizmet almalıdır.",
+    "title_tr": "EKLE ışığı yanıyor"
   },
   {
     "id": "s06",
-    "title": "To service the reservoir, open the or ground servicing panel…",
+    "title": "service reservoir open",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "To service the reservoir, open the or ground servicing panel door. Next, depressurise the reservoir by removing the pneumatic cap from the hydraulic reservoir air bleed valve. Then, depress the bleed valve stem to allow the air pressure to bleed off.",
-    "caption_tr": ""
+    "caption_tr": "Madde rezervuarı hizmet vermek için, veya yer hizmet paneli kapısını açın. Sonraki, hidrolik rezervuar hava boşaltma valfinden nötral cap'ı kaldırarak rezervuarı depressurize edin. Daha sonra, hava basıncının boşalmasını sağlamak için boşaltma valfi gövdesini basarak hava basıncını boşaltın.",
+    "title_tr": "servis deposu açık"
   },
   {
     "id": "s07",
-    "title": "Then, connect the hydraulic service cart hose to the reservo…",
+    "title": "connect hydraulic service",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Then, connect the hydraulic service cart hose to the reservoir fill coupling. Pump hydraulic fluid into the reservoir until the FULL indicator is illuminated.",
-    "caption_tr": ""
+    "caption_tr": "Madde sonra, hidrolik hizmet arabası mangalını rezervuar doldurma bağına bağlayın. FULL göstergesi yanana kadar hidrolik akışkanı rezervuara pompalayın.",
+    "title_tr": "hidrolik servisini bağlayın"
   },
   {
     "id": "s08",
-    "title": "To achieve a correct servicing, switch on the Auxiliary pump…",
+    "title": "achieve correct servicing",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "To achieve a correct servicing, switch on the Auxiliary pump. The Brake accumulator pressure should indicate psi. After servicing, disconnect the pump hose and re-install the caps on the reservoir air bleed valve and the fill coupling. Then close the servicing panel door.",
-    "caption_tr": ""
+    "caption_tr": "Madde doğru hizmet vermek için, Yardımcı pompa açın. Fren akü basıncı psi göstermelidir. Hizmetten sonra, pompa mangalını ayırın ve rezervuar hava boşaltma valfi ve doldurma bağına kapakları yeniden takın. Daha sonra hizmet paneli kapısını kapatın.",
+    "title_tr": "doğru servise ulaşmak"
   },
   {
     "id": "s09",
-    "title": "Record the hydraulic fluid uplift into the Fuel Qil log.",
+    "title": "Record hydraulic fluid",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Record the hydraulic fluid uplift into the Fuel Qil log.",
-    "caption_tr": ""
+    "caption_tr": "Madde hidrolik akışkanın yüklemesini Yakıt Günlüğüne kaydedin.",
+    "title_tr": "Hidrolik sıvıyı kaydedin"
   }
 ]

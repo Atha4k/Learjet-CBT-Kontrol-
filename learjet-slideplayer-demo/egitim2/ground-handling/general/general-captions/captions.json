@@ -1,35 +1,39 @@
 [
   {
     "id": "s01",
-    "title": "The sole purpose of this Ground Handling is to provide the n…",
+    "title": "sole purpose this",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The sole purpose of this Ground Handling is to provide the necessary information, particularly the procedures, associated with the systems that would normally require servicing during a transit.",
-    "caption_tr": ""
+    "caption_tr": "Bu yer hizmetlerinin tek amacı, normalde bir transit sırasında servis gerektirecek sistemlerle ilgili gerekli bilgileri, özellikle prosedürleri sağlamaktır.",
+    "title_tr": "tek amaç bu"
   },
   {
     "id": "s02",
-    "title": "Only crew who have completed the Ground Handling Course are …",
+    "title": "crew who have",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Only crew who have completed the Ground Handling Course are allowed to carry out this check. A copy of the Transit check sheet is kept in the plastic folder in the Technical Log. Crew are not allowed to clear any defects entered in the Technical Log. Please refer to the Flight Administration Manual (FAM) for the latest updates.",
-    "caption_tr": ""
+    "caption_tr": "Yalnızca Yer Hizmetleri Kursunu tamamlamış personel bu kontrolü gerçekleştirmeye yetkilidir. Geçiş kontrol formunun bir kopyası, Teknik Günlükteki plastik klasörde tutulur. Personel, Teknik Günlükte girilen hiçbir arızayı kaldırmaya yetkili değildir. En son güncellemeler için Uçuş Yönetim Kılavuzuna (FAM) başvurun.",
+    "title_tr": "mürettebatı olan"
   },
   {
     "id": "s03",
-    "title": "Transit checks are to be completed at all transit stops incl…",
+    "title": "Transit checks are",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Transit checks are to be completed at all transit stops including training details. This check must be carried out between 2 flights if the aircraft flies several times in a day. Since some of these inspections tests are already included in the Exterior Interior Preflight checks, only those items not covered will be discussed here.",
-    "caption_tr": ""
+    "caption_tr": "Geçiş kontrolleri, eğitim detayları dahil olmak üzere tüm geçiş duraklarında completed olmalıdır. Uçuşlar arasında bu kontrol, uçak bir gün içinde birkaç kez uçuyorsa yapılmalıdır. Bu tür muayeneler ve testler zaten Dış ve İç Preflight kontrollerinde yer aldığı için, sadece kapsanmayan öğeler burada tartışılacaktır.",
+    "title_tr": "Transit kontrolleri"
   },
   {
     "id": "s04",
-    "title": "Transit Check sheet is as shown above.",
+    "title": "Transit Check sheet",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Transit Check sheet is as shown above.",
-    "caption_tr": ""
+    "caption_tr": "Geçiş Kontrol Formu yukarıda gösterildiği gibi olmalıdır.",
+    "title_tr": "Transit Kontrol sayfası"
   },
   {
     "id": "s05",
@@ -37,7 +41,8 @@
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 5"
   },
   {
     "id": "s06",
@@ -45,7 +50,8 @@
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 6"
   },
   {
     "id": "s07",
@@ -53,7 +59,8 @@
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 7"
   },
   {
     "id": "s08",
@@ -61,7 +68,8 @@
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 8"
   },
   {
     "id": "s09",
@@ -69,6 +77,7 @@
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Slayt 9"
   }
 ]

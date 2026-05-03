@@ -19,8 +19,8 @@
   },
   {
     "id": "s03",
-    "title": "RA & BARO Minimums",
-    "title_tr": "RA ve BARO Minimumları",
+    "title": "RA BARO Minimums",
+    "title_tr": "RA BARO Minimumları",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The controller provides selections for radio altitude (RA) minimum and barometric altitude (BARO) minimum.",

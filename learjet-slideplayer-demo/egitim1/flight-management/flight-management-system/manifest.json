@@ -5,7 +5,7 @@
   "namePrefix": "s",
   "slidesDir": "flight-management-system-slides",
   "audioDir": "flight-management-system-audio",
-  "captionsManifest": "flight-management-system-captions/captions.json",
+  "captionsManifest": "flight-management-system-capitons/captions.json",
   "imgExt": "png",
   "audioExt": "mp3"
 }

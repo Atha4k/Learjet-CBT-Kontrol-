@@ -1,8 +1,8 @@
 [
   {
     "id": "s01",
-    "title": "Primus Flight Guidance System Overview",
-    "title_tr": "Primus Uçuş Yönlendirme Sistemine Genel Bakış",
+    "title": "Primus Flight Guidance",
+    "title_tr": "Primus Uçuş Yönlendirme",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Primus system includes a single channel autopilot, yaw damper and dual synchronised flight directors. These functions are all co-located in two IC-600 computers located in the nose avionics bay.",
@@ -20,7 +20,7 @@
   {
     "id": "s03",
     "title": "Flight Guidance Controller",
-    "title_tr": "Flight Guidance Kontrol Ünitesi",
+    "title_tr": "Flight Guidance Kontrol",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "A flight guidance controller located in the centre of the glareshield panel, provides the means of engaging the autopilotlyaw damper and controlling both flight director systems.",
@@ -28,8 +28,8 @@
   },
   {
     "id": "s04",
-    "title": "Flight Director Transfer Switch",
-    "title_tr": "Flight Director Transfer Anahtarı",
+    "title": "Flight Director Transfer",
+    "title_tr": "Flight Director Transfer",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "It also contains a transfer switch which allows the crew to select either the left or right flight director as master and for autopilot coupling.",
@@ -55,8 +55,8 @@
   },
   {
     "id": "s07",
-    "title": "Autopilot System Data Bus",
-    "title_tr": "Autopilot Sistem Veri Yolu",
+    "title": "Autopilot System Data",
+    "title_tr": "Autopilot Sistem Veri",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The autopilot operation is dependent upon the following systems: -- Dual Attitude and Heading Reference Systems (AHRS) -- Dual IC-600 computers. -- Integrated computer bus (IC BUS)",
@@ -64,8 +64,8 @@
   },
   {
     "id": "s08",
-    "title": "Autopilot and Yaw Damper Systems",
-    "title_tr": "Autopilot ve Yaw Damper Sistemleri",
+    "title": "Autopilot Yaw Damper",
+    "title_tr": "Autopilot Yaw Damper",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The autopilot operation is dependent upon the following systems: -- Dual Attitude and Heading Reference Systems (AHRS) -- Dual IC-600 computers. -- Integrated computer bus (IC BUS) -- Yaw damper",
@@ -73,8 +73,8 @@
   },
   {
     "id": "s09",
-    "title": "Autopilot Flight Director Tracking",
-    "title_tr": "Autopilot Flight Director Takibi",
+    "title": "Autopilot Flight Director",
+    "title_tr": "Autopilot Flight Director",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The autopilot provides airplane control in response to pitch and roll steering commands from either flight director. it simply tracks the pitch and roll steering commands of the selected left or right flight director. Selection of flight director is by the tranfer button.",
@@ -82,8 +82,8 @@
   },
   {
     "id": "s10",
-    "title": "Autopilot Pitch Trim Function",
-    "title_tr": "Autopilot Pitch Trim Fonksiyonu",
+    "title": "Autopilot Pitch Trim",
+    "title_tr": "Autopilot Pitch Trim",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The autopilot system also provides pitch trimming by moving the horizontal stabilizer. The movement of the stabilizer is accomplished by the secondary pitch trim actuator.",
@@ -100,8 +100,8 @@
   },
   {
     "id": "s12",
-    "title": "Autopilot and Yaw Damper Engagement",
-    "title_tr": "Autopilot ve Yaw Damper Devreye Alma",
+    "title": "Autopilot Yaw Damper",
+    "title_tr": "Autopilot Yaw Damper",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "On this aircraft, engaging the autopilot will also engage the yaw damper system. However, yaw damper can be engaged without the autopilot.",

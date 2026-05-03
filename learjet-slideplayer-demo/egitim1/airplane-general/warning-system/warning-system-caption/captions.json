@@ -1,218 +1,245 @@
 [
   {
     "id": "s01",
-    "title": "The warning system may consist of one or more of the followi…",
+    "title": "Warning System",
+    "title_tr": "Uyari Sistemi",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The warning system may consist of one or more of the following: - Messages that may be displayed on the CAS. - They may be announced by chimes. - Master warning or caution lights may flash.",
-    "caption_tr": ""
+    "caption_tr": "Uyarı sistemi aşağıdakilerden bir veya daha fazlasından oluşabilir: - CAS'ta görüntülenebilecek mesajlar. - Zillerle duyurulabilirler. - Ana uyarı veya dikkat ışıkları yanıp sönebilir."
   },
   {
     "id": "s02",
-    "title": "- Lights of the crew Warning Panel or C-W-P may illuminate. …",
+    "title": "Warning Indications",
+    "title_tr": "Uyari Gosterimleri",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "- Lights of the crew Warning Panel or C-W-P may illuminate. - Annunciators may be displayed steady or flashing on EICAS or the R-M-U. - An engine or A-P-U fire will cause the respective Fire Push switch-indicators to illuminate flashing and, - Aural voice warnings may be announced through the cockpit speakers.",
-    "caption_tr": ""
+    "caption_tr": "- Ekip uyarı panelindeki ışıklar yanabilir. - Annunciatorlar EICAS veya R-M-U'da sabit veya yanıp sönen şekilde görüntülenebilir. - Bir motor veya A-P-U yangını, ilgili Yangın Basma anahtarlarını yanıp sönen şekilde açar ve, - Sesli sesli uyarılar kokpit hoparlörlerinden duyurulabilir."
   },
   {
     "id": "s03",
-    "title": "EICAS is divided into three areas. The upper left side shows…",
+    "title": "EICAS Areas",
+    "title_tr": "EICAS Bolumleri",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "EICAS is divided into three areas. The upper left side shows the engine operating parameters and is the Engine Indicating part of EICAS. Depending on the fault that occurs, annunciators may appear at this area. For example, the word FIRE appears flashing within the turbine temperature indicator if fire is detected on an engine.",
-    "caption_tr": ""
+    "caption_tr": "EICAS üç bölgeye ayrılır. Üst sol taraf, motor çalışma parametrelerini gösterir ve EICAS'ın Motor Gösterimi bölümüdür. Oluşan arıza türüne göre, annunciatorlar bu alanda görünür. Örneğin, bir motorda yangın algılanırsa, türbin sıcaklık göstergesi içinde FIRE kelimesi yanıp söner."
   },
   {
     "id": "s04",
-    "title": "The upper right side is the CAS and is normally blank. Fault…",
+    "title": "CAS Messages",
+    "title_tr": "CAS Mesajlari",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The upper right side is the CAS and is normally blank. Fault messages appear at the top of the CAS. Messages are grouped according to the severity of the fault.",
-    "caption_tr": ""
+    "caption_tr": "Üst sağ taraf, CAS'tır ve normalde boştur. Arıza mesajları CAS'ın üst kısmında görünür. Mesajlar, arızanın ciddiyetine göre gruplandırılır."
   },
   {
     "id": "s05",
-    "title": "The latest fault appears at the top of its group. Up to 14 F…",
+    "title": "Hidden Messages",
+    "title_tr": "Gizli Mesajlar",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The latest fault appears at the top of its group. Up to 14 Fault messages may be displayed in this area. If there are more than 14 messages, the UP or DOWN arrows will indicate the number of messages that are \"hidden\". To read the \"hidden\" messages, rotate the selector to scroll the messages up or down into view.",
-    "caption_tr": ""
+    "caption_tr": "En son arıza, grubun en üstünde görünür. Bu alanda en fazla 14 Arıza mesajı görüntülenebilir. 14'ten fazla mesaj varsa, YUKARI veya AŞAĞI okları, \"gizlenmiş\" olan mesajların sayısını gösterecektir. \"Gizlenmiş\" mesajları okumak için seçiciyi döndürerek mesajları yukarı veya aşağı doğru kaydırın."
   },
   {
     "id": "s06",
-    "title": "The status of some systems of the airplane may be displayed …",
+    "title": "System Status",
+    "title_tr": "Sistem Durumu",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The status of some systems of the airplane may be displayed in the System Status Report area. Selection of the desired system to be displayed may be done by using the pushbuttons below the menu. SUMMARY is normally selected as this gives an overview of various systems. Note that the system that is selected will have its title boxed up.",
-    "caption_tr": ""
+    "caption_tr": "Uçak sistemlerinin durumu, Sistem Durum Raporu alanlarında görüntülenebilir. Görüntülenecek istenen sistemin seçilmesi, menünün altında bulunan butonlar kullanılarak yapılabilir. Özet genellikle seçili olur çünkü çeşitli sistemlerin genel bir bakışını sunar. Seçilen sistemin başlığının çerçevelenmiş olacağını unutmayın."
   },
   {
     "id": "s07",
-    "title": "The status of systems may also be displayed on the M-F-D. Th…",
+    "title": "MFD Status",
+    "title_tr": "MFD Durumu",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The status of systems may also be displayed on the M-F-D. The M-F-D can also display navigation information. This will be described in the Avionics module.",
-    "caption_tr": ""
+    "caption_tr": "Sistemlerin durumu, M-F-D üzerinde de görüntülenebilir. M-F-D, navigasyon bilgilerini de gösterebilir. Bu, Avionics modülünde açıklanacaktır."
   },
   {
     "id": "s08",
-    "title": "The Display unit Reversion Selectors, next to each Mastercau…",
+    "title": "Reversion Selectors",
+    "title_tr": "Geri Donus Secici",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The Display unit Reversion Selectors, next to each Mastercaution light allow the display unit displays to be moved around. Pressing either one of the selectors will transfer the EICAS - MFD displays.",
-    "caption_tr": ""
+    "caption_tr": "Görüntü birimi geri dönüş seçicileri, her bir Ana Uyarı ışığının yanında bulunur ve görüntü birimi göstergelerinin çevrilmeye izin verir. Seçicilerden birine basmak, EICAS - MFD göstergelerini aktarır."
   },
   {
     "id": "s09",
-    "title": "White messages on CAS are known as advisory messages. They a…",
+    "title": "White Messages",
+    "title_tr": "Beyaz Mesajlar",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "White messages on CAS are known as advisory messages. They appear flashing for five seconds and then remain steady. They indicate faults, which are the least critical.",
-    "caption_tr": ""
+    "caption_tr": "CAS'de beyaz mesajlar, öneri mesajları olarak bilinir. Bu mesajlar beş saniye boyunca yanıp söner ve ardından sabit kalır. En az kritik arızaları gösterirler."
   },
   {
     "id": "s10",
-    "title": "Some advisory messages require follow up action. Always refe…",
+    "title": "Advisory Messages",
+    "title_tr": "Danisman Mesajlari",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Some advisory messages require follow up action. Always refer to the flight manual to check whether there are any procedures involved with an advisory message.",
-    "caption_tr": ""
+    "caption_tr": "Bazı öneri mesajları takip eylemi gerektirir. Herhangi bir öneri mesajıyla ilgili prosedürler olup olmadığını kontrol etmek için her zaman uçuş kılavuzuna başvurun."
   },
   {
     "id": "s11",
-    "title": "The next level of alert is the caution message. These messag…",
+    "title": "Caution Messages",
+    "title_tr": "Ikaz Mesajlari",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The next level of alert is the caution message. These messages are announced by: - a single tone chime, - flashing master caution lights, and - an amber flashing caution message on CAS. Press the master caution light to cancel it so that it can provide further alerts.",
-    "caption_tr": ""
+    "caption_tr": "Uyarıların bir sonraki düzeyi, uyarı mesajıdır. Bu mesajlar şu şekilde duyurulur: - tek bir ton çanı, - yanıp sönen ana uyarı ışıkları, ve - CAS üzerinde turuncu yanıp sönen uyarı mesajı. Daha fazla uyarıyı sağlamak için ana uyarı ışığını basarak iptal edin."
   },
   {
     "id": "s12",
-    "title": "Some cautions may be accompanied by a voice caution message.…",
+    "title": "Voice Caution",
+    "title_tr": "Sesli Ikaz",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Some cautions may be accompanied by a voice caution message. Reset Master Caution.",
-    "caption_tr": ""
+    "caption_tr": "Bazı uyarılar sesli bir uyarı mesajıyla birlikte gösterilebilir. Ana Uyarıyı Sıfırla."
   },
   {
     "id": "s13",
-    "title": "Amber engine annunciators may also appear on the engine indi…",
+    "title": "Amber Annunciators",
+    "title_tr": "Amber Ikazlar",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "Amber engine annunciators may also appear on the engine indicating part of EICAS following a master caution. Reset master caution.",
-    "caption_tr": ""
+    "caption_tr": "Turuncu motor annunciatorları, ana uyarıdan sonra EICAS'ın motor göstergesi bölümünde de görünebilir. Ana uyarıyı sıfırla."
   },
   {
     "id": "s14",
-    "title": "Figures in the system status display may also change from wh…",
+    "title": "Amber Figures",
+    "title_tr": "Amber Gosterge",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "Figures in the system status display may also change from white to amber.",
-    "caption_tr": ""
+    "caption_tr": "Sistem durumu göstergesindeki rakamlar beyazdan turuncuya değişebilir."
   },
   {
     "id": "s15",
-    "title": "Master caution may be inhibited on ground during cockpit pre…",
+    "title": "Caution Inhibit",
+    "title_tr": "Ikaz Engelleme",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Master caution may be inhibited on ground during cockpit preparation to prevent nuisance triggering of the chime and master caution lights. To inhibit master caution, press and hold either master caution light for at least two seconds. The caution light will flash once and then go off. Note that caution messages are not inhibited.",
-    "caption_tr": ""
+    "caption_tr": "Ana uyarı, kockpit hazırlığı sırasında zorlayıcı tetiklemeyi önlemek için yerde engellenebilir. Ana uyarıyı engellemek için, en az iki saniye boyunca herhangi bir ana uyarı ışığını basılı tutun. Uyarı ışığı bir kez yanıp söner ve ardından söner. Uyarı mesajları engellenmez."
   },
   {
     "id": "s16",
-    "title": "Master caution inhibit is cancelled whenever: - an instrumen…",
+    "title": "Inhibit Cancel",
+    "title_tr": "Engel Iptali",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Master caution inhibit is cancelled whenever: - an instrument light test is carried out, - any engine is started, - or if the airplane is in flight.",
-    "caption_tr": ""
+    "caption_tr": "Ana uyarı engelleme, herhangi bir ekipman ışığı testi yapıldığında, herhangi bir motor başlatıldığında veya uçak havada olduğunda iptal edilir."
   },
   {
     "id": "s17",
-    "title": "A triple chime and flashing master warning lights indicate f…",
+    "title": "Master Warning",
+    "title_tr": "Ana Uyari",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "A triple chime and flashing master warning lights indicate failures of a serious nature. Depending on the failure, warnings may be displayed at one or more of four places.",
-    "caption_tr": ""
+    "caption_tr": "Üçlü bir çan ve yanıp sönen ana uyarı ışıkları, ciddi doğada oluşan arızaları gösterir. Arıza türüne göre, uyarılar dört yerden birinde görüntülenebilir."
   },
   {
     "id": "s18",
-    "title": "Warnings may appear as: - A red flashing message on CAS. - A…",
+    "title": "Red Warnings",
+    "title_tr": "Kirmizi Uyarilar",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Warnings may appear as: - A red flashing message on CAS. - A red warning light on the crew-warning panel. - A red annunciator on the Engine Indicating part of EICAS and, - If the warning is the result of an engine or A-P-U fire, the respective engine or A-P-U FIRE warning light on the control pedestal will illuminate flashing.",
-    "caption_tr": ""
+    "caption_tr": "Uyarılar şu şekilde görünebilir: - CAS üzerinde kırmızı yanıp sönen bir mesaj. - Ekipman uyarı panelindeki kırmızı uyarı ışığı. - EICAS'ın Motor Göstergesi bölümündeki kırmızı annunciator ve, - Eğer uyarı bir motor veya A-P-U yangın sonucuysa, ilgili motor veya A-P-U FIRE uyarı ışığı kontrol pedastalında yanıp söner."
   },
   {
     "id": "s19",
-    "title": "Some warnings are accompanied by a voice warning. Depressing…",
+    "title": "Voice Warning",
+    "title_tr": "Sesli Uyari",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Some warnings are accompanied by a voice warning. Depressing either of the master warning lights will extinguish the master warning lights, stop a red message on CAS from flashing, and cancel some voice warnings.",
-    "caption_tr": ""
+    "caption_tr": "Bazı uyarılar sesli bir uyarı mesajıyla birlikte gösterilebilir. Ana Uyarıyı Sıfırla."
   },
   {
     "id": "s20",
-    "title": "The sudden display of relatively non-critical messages durin…",
+    "title": "Inhibit Modes",
+    "title_tr": "Inhibit Modlari",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "The sudden display of relatively non-critical messages during takeoff or landing may be a distraction during these phases of flight. Inhibit modes prevent the display of Advisory messages and some Caution messages. They also prevent master caution lights from flashing and the attendant single tone chime from sounding.",
-    "caption_tr": ""
+    "caption_tr": "Kalkış veya iniş sırasında nispeten kritik olmayan uyarıların ani olarak görüntülenmesi, bu uçuş aşamalarında dikkat dağıtıcı olabilir. Engelleme modları, danışman mesajlarının ve bazı uyarı mesajlarının görüntülenmesini önler. Ayrıca, ana uyarı ışıklarının yanıp sönmesini ve eşlik eden tek ton çan sesini engeller."
   },
   {
     "id": "s21",
-    "title": "For the Takeoff phase, the CAS Takeoff Inhibit mode is armed…",
+    "title": "Takeoff Inhibit",
+    "title_tr": "Kalkis Inhibit",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "For the Takeoff phase, the CAS Takeoff Inhibit mode is armed with the airplane on ground and when both thrust levers are above the MCR detent. Once airspeed exceeds forty knots during takeoff run, the CAS Takeoff Inhibit system is automatically triggered.",
-    "caption_tr": ""
+    "caption_tr": "Kalkış aşaması için, CAS Kalkış Engelleme modu uçak yere oturduğunda ve hem güç kolları MCR detent'in üzerindeyken etkinleştirilir. Kalkış koşusu sırasında hava hızı kırk knotu geçerse, CAS Kalkış Engelleme sistemi otomatik olarak tetiklenir."
   },
   {
     "id": "s22",
-    "title": "The words \"C-A-S takeoff inhibited\" will appear on the menu …",
+    "title": "Takeoff Message",
+    "title_tr": "Kalkis Mesaji",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "The words \"C-A-S takeoff inhibited\" will appear on the menu section of EICAS. Once airborne, the \"C-A-S takeoff inhibited message will extinguish.",
-    "caption_tr": ""
+    "caption_tr": "C-A-S kalkış engelleme mesajı, EICAS menü bölümünde görünecektir. Havaalanından kalktıktan sonra bu mesaj sönecektir."
   },
   {
     "id": "s23",
-    "title": "On approach to land a similar \"C-A-S landing inhibited\" mode…",
+    "title": "Landing Inhibit",
+    "title_tr": "Inis Inhibit",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "On approach to land a similar \"C-A-S landing inhibited\" mode automatically triggers when thrust levers are retarded, the gears are down and locked and altitude is less than four hundred feet above ground level. Once the airplane touches down this mode will automatically cancel.",
-    "caption_tr": ""
+    "caption_tr": "İniş yaklaşımında benzer bir \"C-A-S iniş engelleme\" modu, güç kolları geri çekildiğinde, tekerlekler indirildi ve kilitlendiğinde ve yükseklik yer seviyesinden dört yüz feetin altındayken otomatik olarak tetiklenir. Uçak pistte touchdownettiğinde bu mod otomatik olarak iptal edilir."
   },
   {
     "id": "s24",
-    "title": "An instrument light test is carried out with the System Test…",
+    "title": "Light Test",
+    "title_tr": "Isik Testi",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "An instrument light test is carried out with the System Test selector located at the forward left side of the control pedestal.",
-    "caption_tr": ""
+    "caption_tr": "Bir alet ışığı testi, kontrol pedastalının ön sol tarafında bulunan Sistem Test seçici ile gerçekleştirilir."
   },
   {
     "id": "s25",
-    "title": "Rotate the selector to the Lights position and press the tes…",
+    "title": "Test Lights",
+    "title_tr": "Test Isiklari",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Rotate the selector to the Lights position and press the test button. - Both master warning-caution lights will flash, - all crew warning panel lights should illuminate, - all switch indicators should illuminate, including the engine and A-P-U fire switch indicators. Digital number displays will show all eights, and - the flight guidance panel switch indicators will illuminate in sequence.",
-    "caption_tr": ""
+    "caption_tr": "Seçiciyi Işık konumuna döndür ve test düğmesine bas. - Her iki ana uyarı-uyarı ışıkları yanıp sönecek, - tüm personel uyarı paneli ışıkları açık kalacak, - tüm anahtar göstergeleri açık kalacak, motor ve A-P-U yangın anahtarı göstergeleri dahil. Sayısal numara ekranları tüm sekizleri gösterecek ve - uçuş rehberliği paneli anahtar göstergeleri sırayla açık kalacak."
   },
   {
     "id": "s26",
-    "title": "If the test button is held in for more than fifteen seconds,…",
+    "title": "Audio Test",
+    "title_tr": "Ses Testi",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "If the test button is held in for more than fifteen seconds, all tones and voice messages will be triggered to come on sequentially. Pressing either master-warning caution light or pressing the mute button of the right thrust lever will cancel the tones and messages.",
-    "caption_tr": ""
+    "caption_tr": "Test düğmesi on beş saniyeden fazla basılı tutulursa, tüm tonlar ve ses mesajları sırayla tetiklenecektir. Herhangi bir ana uyarı-uyarı ışığına basmak veya sağ güç kolu mute düğmesine basmak tonları ve mesajları iptal edecektir."
   },
   {
     "id": "s27",
-    "title": "This completes the lesson on warning systems.",
+    "title": "Lesson Complete",
+    "title_tr": "Ders Sonu",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "This completes the lesson on warning systems.",
-    "caption_tr": ""
+    "caption_tr": "Bu, uyarı sistemleri üzerine eğitimi tamamlar."
   }
 ]

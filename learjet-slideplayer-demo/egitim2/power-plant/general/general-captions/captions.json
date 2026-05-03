@@ -1,74 +1,83 @@
 [
   {
     "id": "s01",
-    "title": "The Learjet 45 uses Garrett TFE - - - 1B engines. The engine…",
+    "title": "Learjet 45 uses",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The Learjet 45 uses Garrett TFE - - - 1B engines. The engine is a two-spool turbofan engine. I 1 o aa a o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Learjet 45, Garrett TFE - - - 1B motorlarını kullanır. Motor iki makaralı bir turbofan motordur. ben 1 o aa a o dy 4 1 I.",
+    "title_tr": "Learjet 45'in kullanım"
   },
   {
     "id": "s02",
-    "title": "The low pressure spool or shaft is referred to as the N1 sha…",
+    "title": "low pressure spool",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The low pressure spool or shaft is referred to as the N1 shaft and consists of a four-stage axial compressor and a three-stage axial turbine.",
-    "caption_tr": ""
+    "caption_tr": "Düşük basınçlı makara veya şaft, N1 şaftı olarak adlandırılır ve dört aşamalı bir eksenel kompresör ve üç aşamalı bir eksenel türbinden oluşur.",
+    "title_tr": "alçak basınç makarası"
   },
   {
     "id": "s03",
-    "title": "The front of the N1 shaft drives a gearbox which in turn dri…",
+    "title": "front N1 shaft",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The front of the N1 shaft drives a gearbox which in turn drives the single-stage axial fan. N1 shaft speed is sensed by an N1 sensor located at the rear of the N1 shaft.",
-    "caption_tr": ""
+    "caption_tr": "N1 şaftının ön kısmı, tek kademeli eksenel fanı çalıştıran bir dişli kutusunu çalıştırır. N1 şaft hızı, N1 şaftının arkasında bulunan bir N1 sensörü tarafından algılanır.",
+    "title_tr": "ön N1 mili"
   },
   {
     "id": "s04",
-    "title": "The high pressure spool or shaft is referred to as the N2 sh…",
+    "title": "high pressure spool",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The high pressure spool or shaft is referred to as the N2 shaft and consists of a centrifugal compressor and a single stage axial turbine. It is concentric with the N1 shaft. J 1 o aa a o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Yüksek basınç makarası veya şaftı, N2 şaftı olarak adlandırılır ve bir santrifüj kompresör ile tek kademeli bir eksenel türbinden oluşur. N1 şaftı ile eş merkezlidir. J 1 o aa a o dy 4 1 I.",
+    "title_tr": "yüksek basınç makarası"
   },
   {
     "id": "s05",
-    "title": "The N2 shaft also drives an accessory gearbox via shafts and…",
+    "title": "N2 shaft also",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The N2 shaft also drives an accessory gearbox via shafts and a transfer gearbox. N2 shaft speed is sensed by an N2 sensor located at the transfer gearbox. J 1 o aa a o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "N2 şaftı ayrıca şaftlar ve bir aktarma dişli kutusu aracılığıyla bir aksesuar dişli kutusunu da tahrik eder. N2 şaft hızı, transfer dişli kutusunda bulunan bir N2 sensörü tarafından algılanır. J 1 o aa a o dy 4 1 I.",
+    "title_tr": "N2 mili ayrıca"
   },
   {
     "id": "s06",
-    "title": "The accessory gearbox drives the startergenerator, AC altern…",
+    "title": "accessory gearbox startergenerator",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The accessory gearbox drives the startergenerator, AC alternator, hydraulic pump, motive flow pump, engine oil and fuel pumps, and the fuel control unit. These components are mounted in front and behind the accessory gearbox. J 1 o aa a o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Aksesuar dişli kutusu marş jeneratörünü, AC alternatörü, hidrolik pompayı, itici akış pompasını, motor yağı ve yakıt pompalarını ve yakıt kontrol ünitesini çalıştırır. Bu bileşenler aksesuar dişli kutusunun önüne ve arkasına monte edilir. J 1 o aa a o dy 4 1 I.",
+    "title_tr": "aksesuar şanzıman marş"
   },
   {
     "id": "s07",
-    "title": "This modulates to prevent compressor surges. Fuel scheduling…",
+    "title": "This modulates compressor",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "This modulates to prevent compressor surges. Fuel scheduling is also controlled by the DEEC, which directs the correct amount of fuel from the FUEL Control Unit to the combustion chamber. J 1 o aa a o dy 4 1 I.",
-    "caption_tr": ""
+    "caption_tr": "Bu, kompresör dalgalanmalarını önlemek için modülasyon yapar. Yakıt planlaması aynı zamanda YAKIT Kontrol Ünitesinden yanma odasına doğru miktarda yakıt yönlendiren DEEC tarafından da kontrol edilir. J 1 o aa a o dy 4 1 I.",
+    "title_tr": "kompresörü modüle eder"
   },
   {
     "id": "s08",
-    "title": "The combustion chamber is an annular type and there are two …",
+    "title": "combustion chamber annular",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The combustion chamber is an annular type and there are two ignitor plugs. Engine temperature is sensed by ten thermocouples spaced around the engine and located between the low and high pressure turbines. Engine temperature is referred to as or Interstage Turbine Temperature.",
-    "caption_tr": ""
+    "caption_tr": "Yanma odası halka şeklinde olup iki adet ateşleme bujisi bulunmaktadır. Motor sıcaklığı, motorun etrafına yerleştirilmiş ve alçak ve yüksek basınç türbinleri arasına yerleştirilmiş on termokupl tarafından algılanır. Motor sıcaklığına Kademeli Türbin Sıcaklığı denir.",
+    "title_tr": "yanma odası halka"
   },
   {
     "id": "s09",
-    "title": "Each engine develops pounds of thrust, static at sea level u…",
+    "title": "engine develops pounds",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Each engine develops pounds of thrust, static at sea level up to 32 degrees centrigrade. An automatic Performance Reserve system allows the maximum thrust to be increased to pounds under the same temperature conditions.",
-    "caption_tr": ""
+    "caption_tr": "Her motor, deniz seviyesinde 32 santigrat dereceye kadar statik olan poundluk bir itme kuvveti geliştirir. Otomatik Performans Rezervi sistemi, aynı sıcaklık koşulları altında maksimum itme kuvvetinin pound'a çıkarılmasına olanak tanır.",
+    "title_tr": "motor pound geliştirir"
   }
 ]

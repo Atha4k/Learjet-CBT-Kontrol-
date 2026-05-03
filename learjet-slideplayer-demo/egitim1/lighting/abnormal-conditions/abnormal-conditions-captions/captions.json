@@ -1,8 +1,8 @@
 [
   {
     "id": "s01",
-    "title": "Lighting Effects of Single Generator Failure",
-    "title_tr": "Tek Jeneratör Arızasının Aydınlatmaya Etkisi",
+    "title": "Lighting Effects Single",
+    "title_tr": "Tek Jeneratör Arızası",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Following a single generator failure, the airplane electrical system automatically sheds the non-essential buses. Lighting affected by a single generator failure consists mainly of cabin area lights.",
@@ -10,8 +10,8 @@
   },
   {
     "id": "s02",
-    "title": "Dual Generator Failure and Lighting Impact",
-    "title_tr": "Çift Jeneratör Arızası ve Aydınlatmaya Etkisi",
+    "title": "Dual Generator Failure",
+    "title_tr": "Çift Jeneratör Arızası",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "In the unlikely event of a dual generator failure, cockpit interior lighting is affected in addition to the cabin lighting already lost. Batteries become the sole source of power, and only selected instruments remain illuminated.",
@@ -19,8 +19,8 @@
   },
   {
     "id": "s03",
-    "title": "Lighting Systems Remaining Operational",
-    "title_tr": "Çalışmaya Devam Eden Aydınlatma Sistemleri",
+    "title": "Lighting Systems Remaining",
+    "title_tr": "Çalışmaya Devam Eden",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "All switch-indicator lights continue to operate normally, as do landing gear indicator lights and the magnetic compass light. Cockpit flood lights and map lights remain operational as long as the left main battery is online.",
@@ -28,8 +28,8 @@
   },
   {
     "id": "s04",
-    "title": "Emergency Battery Powered Lighting",
-    "title_tr": "Acil Durum Bataryası ile Beslenen Aydınlatma",
+    "title": "Emergency Battery Powered",
+    "title_tr": "Acil Durum Bataryası",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "If both main batteries are depleted, the emergency battery supplies power to essential cockpit instruments. Landing gear indicator lights and the magnetic compass light remain operational, while all switch-indicator lights become inoperative.",

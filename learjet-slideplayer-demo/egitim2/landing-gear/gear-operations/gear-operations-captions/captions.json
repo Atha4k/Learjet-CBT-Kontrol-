@@ -1,226 +1,254 @@
 [
   {
     "id": "s01",
-    "title": "We will now discuss the various methods of extending and ret…",
+    "title": "We will discuss",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "We will now discuss the various methods of extending and retracting the landing gears. We will begin with normal gear retraction.",
-    "caption_tr": ""
+    "caption_tr": "Şimdi iniş takımlarını uzatma ve geri çekmenin çeşitli yöntemlerini tartışacağız. Normal dişli geri çekilmesiyle başlayacağız.",
+    "title_tr": "tartışacağız"
   },
   {
     "id": "s02",
-    "title": "Landing Gear Operation - Retraction Prior to take-off, the 3…",
+    "title": "Landing Gear -",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Landing Gear Operation - Retraction Prior to take-off, the 3 green DOWN lights are illuminated. The crew then selects the auxiliary pump on to provide a back-up for the normal brakes as well as for charging the brake accumulator. Thus its ON light is illuminated as well.",
-    "caption_tr": ""
+    "caption_tr": "İniş Takımlarının Çalıştırılması - Geri Çekme Kalkıştan önce 3 yeşil AŞAĞI ışığı yanar. Ekip daha sonra normal frenlere destek sağlamak ve fren akümülatörünü şarj etmek için yardımcı pompayı çalıştırıyor. Böylece ON ışığı da yanar.",
+    "title_tr": "İniş Takımı -"
   },
   {
     "id": "s03",
-    "title": "After lift-off, when the gear control switch is selected UP,…",
+    "title": "lift-off gear control",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "After lift-off, when the gear control switch is selected UP, the auxiliary pump stops running and its ON light extinguishes. The 2 main gears advisory lights illuminate immediately to indicate a gear control switch and actual gear position disagreement.",
-    "caption_tr": ""
+    "caption_tr": "Kalkıştan sonra vites kontrol anahtarı YUKARI seçildiğinde yardımcı pompanın çalışması durur ve ON ışığı söner. 2 ana vites uyarı ışığı, vites kontrol anahtarını ve gerçek vites konumu anlaşmazlığını belirtmek için hemen yanar.",
+    "title_tr": "kaldırma dişlisi kontrolü"
   },
   {
     "id": "s04",
-    "title": "Hydraulic pressure is then directed to open the main gear in…",
+    "title": "Hydraulic pressure directed",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Hydraulic pressure is then directed to open the main gear inboard doors. Next, after the inboard doors are fully opened, hydraulic pressure is directed to retract all the 3 landing gears together. The 3 DOWN lights extinguish when the gear actuators are unlocked.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra hidrolik basınç ana dişli iç kapılarını açacak şekilde yönlendirilir. Daha sonra, iç kapılar tamamen açıldıktan sonra, hidrolik basınç 3 iniş takımının tamamının birlikte geri çekilmesi için yönlendirilir. Dişli aktüatörlerinin kilidi açıldığında 3 AŞAĞI ışığı söner.",
+    "title_tr": "Hidrolik basınç yönlendirildi"
   },
   {
     "id": "s05",
-    "title": "When the Nose Gear is up and locked, its advisory light exti…",
+    "title": "Nose Gear locked",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "When the Nose Gear is up and locked, its advisory light extinguishes.",
-    "caption_tr": ""
+    "caption_tr": "Burun Dişlisi yukarı ve kilitlendiğinde uyarı ışığı söner.",
+    "title_tr": "Burun Dişlisi kilitli"
   },
   {
     "id": "s06",
-    "title": "Next, hydraulic pressure is removed from the 3 gear actuator…",
+    "title": "Next hydraulic pressure",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Next, hydraulic pressure is removed from the 3 gear actuators. As a result of this, the main gears rest on the inboard doors while the nose gear is held up by the up-lock hook. The normal retraction cycle takes 11 seconds with both engine driven pumps operating.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra 3 dişli aktüatörün hidrolik basıncı kaldırılır. Bunun sonucunda ana dişliler iç kapıların üzerinde dururken, burun dişlisi yukarı kilit kancası tarafından yukarıda tutulur. Motor tahrikli pompaların her ikisi de çalışırken normal geri çekme döngüsü 11 saniye sürer.",
+    "title_tr": "Sonraki hidrolik basınç"
   },
   {
     "id": "s07",
-    "title": "Landing Gear Operation - Extension There are 3 ways to exten…",
+    "title": "Landing Gear -",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Landing Gear Operation - Extension There are 3 ways to extend the landing gears. They are, in priority of extension :- - by using the main hydraulic system - a free-fall method - by using the auxiliary hydraulic system",
-    "caption_tr": ""
+    "caption_tr": "İniş Takımlarının Çalıştırılması - Uzatılması İniş takımlarını uzatmanın 3 yolu vardır. Bunlar, öncelikli olarak aşağıdaki gibidir: - - ana hidrolik sistemi kullanarak - bir serbest düşme yöntemi - yardımcı hidrolik sistemi kullanarak",
+    "title_tr": "İniş Takımı -"
   },
   {
     "id": "s08",
-    "title": "Free-fall is attempted after normal extension to conserve th…",
+    "title": "Free-fall attempted normal",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Free-fall is attempted after normal extension to conserve the auxiliary system fluid for flaps and brakes operation.",
-    "caption_tr": ""
+    "caption_tr": "Flapların ve frenlerin çalışması için yardımcı sistem sıvısını korumak amacıyla normal uzatmadan sonra serbest düşmeye çalışılır.",
+    "title_tr": "Serbest düşme girişimi"
   },
   {
     "id": "s09",
-    "title": "Gear Extension - Normal In flight, all the gear status light…",
+    "title": "Gear Extension -",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Gear Extension - Normal In flight, all the gear status lights are extinguished. To extend the gears, place the landing gear control switch DOWN.",
-    "caption_tr": ""
+    "caption_tr": "Vites Uzatma - Normal Uçuş sırasında tüm vites durum ışıkları söner. Dişlileri uzatmak için iniş takımı kontrol anahtarını AŞAĞI konumuna getirin.",
+    "title_tr": "Dişli Uzatma -"
   },
   {
     "id": "s10",
-    "title": "Placing the gear control switch to DOWN also starts the auxi…",
+    "title": "Placing gear control",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Placing the gear control switch to DOWN also starts the auxiliary hydraulic pump. This backs up the main brake system and also charges the brake accumulator.",
-    "caption_tr": ""
+    "caption_tr": "Vites kontrol anahtarının AŞAĞI konumuna getirilmesi aynı zamanda yardımcı hidrolik pompayı da çalıştırır. Bu, ana fren sistemini yedekler ve aynı zamanda fren akümülatörünü de şarj eder.",
+    "title_tr": "Vites kontrolünün yerleştirilmesi"
   },
   {
     "id": "s11",
-    "title": "Next, the main hydraulic system pressure retracts the two ma…",
+    "title": "Next main hydraulic",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Next, the main hydraulic system pressure retracts the two main gears. This relieves the load on the inboard doors as they unlatch and open. After the inboard doors are opened, the nose gear up-lock hook unlatches and all the 3 gears extend together.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra ana hidrolik sistem basıncı iki ana dişliyi geri çeker. Bu, mandallar açılıp açıldığında iç kapıların üzerindeki yükü hafifletir. İç kapılar açıldıktan sonra burun dişlisi yukarı kilitleme kancası açılır ve 3 dişlinin tümü birlikte uzanır.",
+    "title_tr": "Sonraki ana hidrolik"
   },
   {
     "id": "s12",
-    "title": "The nose gear advisory light illuminates when the nose gear …",
+    "title": "nose gear advisory",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The nose gear advisory light illuminates when the nose gear actuator is unlocked.",
-    "caption_tr": ""
+    "caption_tr": "Burun dişlisi aktüatörünün kilidi açıldığında burun dişlisi uyarı ışığı yanar.",
+    "title_tr": "burun dişlisi tavsiyesi"
   },
   {
     "id": "s13",
-    "title": "When the main gears are down and locked, the 2 green DOWN li…",
+    "title": "main gears are",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "When the main gears are down and locked, the 2 green DOWN lights will illuminate.",
-    "caption_tr": ""
+    "caption_tr": "Ana dişliler aşağıda ve kilitlendiğinde 2 yeşil AŞAĞI ışığı yanacaktır.",
+    "title_tr": "ana dişliler"
   },
   {
     "id": "s14",
-    "title": "The gear actuators are pressurised and mechanically locked i…",
+    "title": "gear actuators are",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The gear actuators are pressurised and mechanically locked in the extended position. After a normal gear extension, only 3 green DOWN lights are illuminated. The normal gear extension cycle takes less than 11 seconds to complete with both engine driven pumps operating.",
-    "caption_tr": ""
+    "caption_tr": "Dişli aktüatörleri basınç altındadır ve uzatılmış konumda mekanik olarak kilitlenir. Normal bir vites uzatmasından sonra yalnızca 3 yeşil AŞAĞI ışığı yanar. Normal dişli uzatma çevriminin her iki motor tahrikli pompa çalışırken tamamlanması 11 saniyeden az sürer.",
+    "title_tr": "dişli aktüatörler"
   },
   {
     "id": "s15",
-    "title": "Confirmation of Nose Gear Down and Locked If the nose gear D…",
+    "title": "Confirmation Nose Gear",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Confirmation of Nose Gear Down and Locked If the nose gear DOWN light failed to illuminate, select the NOSE STEER switch on. Provided there is no Nose Wheel Steering fault, the ON light will illuminate if the nose gear is down and locked.",
-    "caption_tr": ""
+    "caption_tr": "Burun Dişlisinin Aşağı ve Kilitli Olduğunun Doğrulanması Burun dişlisi AŞAĞI ışığı yanmazsa, NOSE STEER (NOSE STEER) anahtarını açın. Burun Tekerleği Dümenleme arızası olmaması koşuluyla, burun dişlisi aşağıda ve kilitliyse AÇIK ışığı yanacaktır.",
+    "title_tr": "Onay Burun Dişlisi"
   },
   {
     "id": "s16",
-    "title": "Confirmation of Main Gear Down and Locked If the left main g…",
+    "title": "Confirmation Main Gear",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "Confirmation of Main Gear Down and Locked If the left main gear DOWN light fails to illuminate, switch on the left TAXY light. If the taxy light illuminates, this shows that the left main gear is down and locked. Likewise, switch on the right taxy light for the right gear.",
-    "caption_tr": ""
+    "caption_tr": "Ana Dişlinin Aşağı ve Kilitli Olduğunun Doğrulanması Sol ana dişli AŞAĞI ışığı yanmazsa, sol TAXY ışığını açın. Taksi ışığı yanıyorsa, bu sol ana vitesin aşağıda ve kilitli olduğunu gösterir. Aynı şekilde, doğru vites için doğru taksi ışığını açın.",
+    "title_tr": "Onay Ana Dişlisi"
   },
   {
     "id": "s17",
-    "title": "Gear Extension - Free Fall The emergency landing gear extens…",
+    "title": "Gear Extension -",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Gear Extension - Free Fall The emergency landing gear extension system is a mechanically controlled, gravity free-fall system. It is used to extend the landing gears in the event of a hydraulic system failure or an electrical malfunction that prevents a normal extension.",
-    "caption_tr": ""
+    "caption_tr": "Dişli Uzatması - Serbest Düşme Acil durum iniş takımı uzatma sistemi, mekanik olarak kontrol edilen, yer çekimiyle serbest düşme sistemidir. Hidrolik sistem arızası veya normal uzamayı engelleyen elektriksel bir arıza durumunda iniş takımlarının uzatılmasında kullanılır.",
+    "title_tr": "Dişli Uzatma -"
   },
   {
     "id": "s18",
-    "title": "This system is activated by pushing the free-fall lever, loc…",
+    "title": "This system activated",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "This system is activated by pushing the free-fall lever, located on the co-pilot's side of the center pedestal, to the down and latched position.",
-    "caption_tr": ""
+    "caption_tr": "Bu sistem, orta kaidenin yardımcı pilot tarafında bulunan serbest düşme kolunun aşağı ve kilitli konuma itilmesiyle devreye girer.",
+    "title_tr": "Bu sistem etkinleştirildi"
   },
   {
     "id": "s19",
-    "title": "To extend the gears using the free-fall method, 1. First pla…",
+    "title": "extend gears free-fall",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "To extend the gears using the free-fall method, 1. First place the landing gear control switch to DOWN. Note that the auxiliary pump is automatically activated. 2. Then select the AUX switch off. 3. Next, push the free-fall lever fully down and latch it forward.",
-    "caption_tr": ""
+    "caption_tr": "Serbest düşüş yöntemini kullanarak dişlileri uzatmak için, 1. Öncelikle iniş takımı kontrol anahtarını AŞAĞI konumuna getirin. Yardımcı pompanın otomatik olarak etkinleştirildiğini unutmayın. 2. Ardından AUX anahtarını kapatmayı seçin. 3. Daha sonra serbest düşme kolunu tamamen aşağı doğru itin ve ileri doğru kilitleyin.",
+    "title_tr": "Dişliler serbest düşüşünü"
   },
   {
     "id": "s20",
-    "title": "Activation of the free-fall lever releases the nose gear up-…",
+    "title": "Activation free-fall lever",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "Activation of the free-fall lever releases the nose gear up-lock hook and the main gear inboard doors latches. The nose gear advisory light illuminates as itis no longer Up and Locked. The main gear inboard doors open from the weight of the main gears and all the 3 landing gears extend by gravity. During this time, all the 3 advisory lights are illuminated.",
-    "caption_tr": ""
+    "caption_tr": "Serbest düşme kolunun etkinleştirilmesi, burun dişlisi yukarı kilitleme kancasını ve ana dişli iç kapı mandallarını serbest bırakır. Burun dişlisi uyarı ışığı artık Yukarı ve Kilitli olmadığı için yanar. Ana dişli iç kapıları ana dişlilerin ağırlığından açılır ve 3 iniş takımının tümü yer çekiminin etkisiyle açılır. Bu süre zarfında 3 uyarı ışığının tümü yanar.",
+    "title_tr": "Etkinleştirme serbest düşme"
   },
   {
     "id": "s21",
-    "title": "When the gears are fully extended, they are held down and lo…",
+    "title": "gears are fully",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "When the gears are fully extended, they are held down and locked by the mechanical lock inside each gear actuator.",
-    "caption_tr": ""
+    "caption_tr": "Dişliler tamamen uzatıldığında, her bir dişli aktüatörünün içindeki mekanik kilit tarafından basılı tutulur ve kilitlenir.",
+    "title_tr": "vitesler tam"
   },
   {
     "id": "s22",
-    "title": "For the main gears, there will be 2 DOWN and 2 Advisory ligh…",
+    "title": "main gears there",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "For the main gears, there will be 2 DOWN and 2 Advisory lights illuminated. The advisory lights remain illuminated as the inboard gear doors do not close after a free-fall extension. Free-fall extension takes about 60 seconds after the leveris placed down.",
-    "caption_tr": ""
+    "caption_tr": "Ana dişliler için 2 adet AŞAĞI ve 2 adet Uyarı ışığı yanacaktır. Serbest düşüşlü bir uzatmanın ardından iç dişli kapıları kapanmadığından uyarı ışıkları yanık kalır. Kol aşağı indirildikten sonra serbest düşme uzaması yaklaşık 60 saniye sürer.",
+    "title_tr": "ana dişliler orada"
   },
   {
     "id": "s23",
-    "title": "Gear Extension - Auxiliary Hydraulics The last priority to e…",
+    "title": "Gear Extension -",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Gear Extension - Auxiliary Hydraulics The last priority to extend the landing gears is by using the auxiliary hydraulic system. First, select the XFLOW switch on.",
-    "caption_tr": ""
+    "caption_tr": "Dişli Uzatma - Yardımcı Hidrolik İniş takımlarını uzatmanın son önceliği yardımcı hidrolik sistemin kullanılmasıdır. İlk önce XFLOW anahtarını açın.",
+    "title_tr": "Dişli Uzatma -"
   },
   {
     "id": "s24",
-    "title": "Selecting the XFLOW switch ON opens the hydraulic cross-flow…",
+    "title": "XFLOW switch opens",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Selecting the XFLOW switch ON opens the hydraulic cross-flow valve and an advisory CAS message XFLOW ON will be displayed.",
-    "caption_tr": ""
+    "caption_tr": "XFLOW anahtarının AÇIK seçilmesi hidrolik çapraz akış valfini açar ve bir XFLOW ON tavsiye niteliğinde CAS mesajı görüntülenecektir.",
+    "title_tr": "XFLOW anahtarı açılır"
   },
   {
     "id": "s25",
-    "title": "Next, select the AUX switch ON.",
+    "title": "Next select AUX",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "Next, select the AUX switch ON.",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra AUX anahtarını AÇIK olarak seçin.",
+    "title_tr": "Daha AUX'u seçin"
   },
   {
     "id": "s26",
-    "title": "Auxiliary hydraulic system pressure is then used to unlock a…",
+    "title": "Auxiliary hydraulic system",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "Auxiliary hydraulic system pressure is then used to unlock and extend the gears.",
-    "caption_tr": ""
+    "caption_tr": "Yardımcı hidrolik sistem basıncı daha sonra dişlilerin kilidini açmak ve uzatmak için kullanılır.",
+    "title_tr": "Yardımcı hidrolik sistem"
   },
   {
     "id": "s27",
-    "title": "Should the fluid level within the auxiliary hydraulic system…",
+    "title": "Should fluid level",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "Should the fluid level within the auxiliary hydraulic system reservoir become low during the gear extension, the hydraulic cross-flow valve will automatically close to conserve remaining fluid for the brake system. The ON light and its CAS message will extinguish and a caution CAS message AUX LO will be displayed.",
-    "caption_tr": ""
+    "caption_tr": "Dişli uzatma sırasında yardımcı hidrolik sistem deposundaki sıvı seviyesi düşerse hidrolik çapraz akış valfi, fren sistemi için kalan sıvıyı korumak üzere otomatik olarak kapanacaktır. ON ışığı ve CAS mesajı sönecek ve bir uyarı CAS mesajı AUX LO görüntülenecektir.",
+    "title_tr": "Sıvı seviyesi olmalı"
   },
   {
     "id": "s28",
-    "title": "The auxiliary hydraulic gear extension sequence is similar t…",
+    "title": "auxiliary hydraulic gear",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The auxiliary hydraulic gear extension sequence is similar to the normal hydraulics extension.",
-    "caption_tr": ""
+    "caption_tr": "Yardımcı hidrolik dişli uzatma sırası normal hidrolik uzatma sırasına benzer.",
+    "title_tr": "yardımcı hidrolik dişli"
   }
 ]

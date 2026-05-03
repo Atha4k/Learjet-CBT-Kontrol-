@@ -1,554 +1,623 @@
 [
   {
     "id": "s01",
-    "title": "Two RMUs, RMU 1 and RMU 2, are located on the centre of the …",
+    "title": "Two RMUs RMU",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Two RMUs, RMU 1 and RMU 2, are located on the centre of the instrument panel. They are the central control units for the entire radio system, which has the complete capability for controlling the operating modes, frequencies and codes within all the units of the radio system.",
-    "caption_tr": ""
+    "caption_tr": "Gösterge panelinin ortasında iki RMU, RMU 1 ve RMU 2 bulunur. Bunlar, radyo sisteminin tüm birimlerindeki çalışma modlarını, frekansları ve kodları kontrol etme konusunda tam kapasiteye sahip olan, tüm radyo sisteminin merkezi kontrol üniteleridir.",
+    "title_tr": "İki RMU RMU"
   },
   {
     "id": "s02",
-    "title": "The RMU is a colour, liquid crystal display and flat panel e…",
+    "title": "RMU colour liquid",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The RMU is a colour, liquid crystal display and flat panel electronic controller. It is used to select a function by pushing a line select key adjacent to the parameter to be controlled. Any selectable parameter, such as VOR station frequency, can be changed by pushing the line key next to the displayed parameter. This places the cursor around that parameter and the value for that parameters are set by rotating the concentric tuning knob.",
-    "caption_tr": ""
+    "caption_tr": "RMU renkli, sıvı kristal ekranlı ve düz panelli bir elektronik denetleyicidir. Kontrol edilecek parametrenin yanındaki hat seçme tuşuna basılarak bir fonksiyonun seçilmesi için kullanılır. VOR istasyon frekansı gibi seçilebilir herhangi bir parametre, görüntülenen parametrenin yanındaki hat tuşuna basılarak değiştirilebilir. Bu, imleci o parametrenin etrafına yerleştirir ve bu parametrelerin değeri, eşmerkezli ayarlama düğmesinin döndürülmesiyle ayarlanır.",
+    "title_tr": "RMU renkli sıvı"
   },
   {
     "id": "s03",
-    "title": "The RMU screen is divided into several dedicated windows. Ea…",
+    "title": "RMU screen divided",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The RMU screen is divided into several dedicated windows. Each window groups the data associated with a function. RMU 1 windows are labelled COM1, NAV1, ATC and ADF1. RMU 2 has COM2, NAV2, ATC and ADF2 labels on the windows.",
-    "caption_tr": ""
+    "caption_tr": "RMU ekranı birkaç özel pencereye bölünmüştür. Her pencere bir işlevle ilişkili verileri gruplandırır. RMU 1 pencereleri COM1, NAV1, ATC ve ADF1 olarak etiketlenmiştir. RMU 2'nin pencerelerinde COM2, NAV2, ATC ve ADF2 etiketleri bulunur.",
+    "title_tr": "RMU ekranı bölünmüş"
   },
   {
     "id": "s04",
-    "title": "The RMU controls shown above are described as follows: The p…",
+    "title": "p",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The RMU controls shown above are described as follows: The photo sensor senses the ambient light and causes the brightness to be automatically adjusted to compensate for varying levels of light as the aircraft maneuvers in the sunlight.",
-    "caption_tr": ""
+    "caption_tr": "Yukarıda gösterilen RMU kontrolleri şu şekilde açıklanmaktadır: Fotoğraf sensörü ortam ışığını algılar ve uçak güneş ışığında manevra yaparken değişen ışık seviyelerini telafi etmek için parlaklığın otomatik olarak ayarlanmasına neden olur.",
+    "title_tr": "P"
   },
   {
     "id": "s05",
-    "title": "The transfer key, when pushed, flip-flop the active frequenc…",
+    "title": "transfer key pushed",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The transfer key, when pushed, flip-flop the active frequency (top line) and the preset frequency (bottom line) of the COM or NAV window. Touch the transfer key highlighted by the arrow.",
-    "caption_tr": ""
+    "caption_tr": "Transfer anahtarına basıldığında COM veya NAV penceresinin aktif frekansını (üst satır) ve önceden ayarlanmış frekansını (alt satır) değiştirir. Okla vurgulanan aktarım anahtarına dokunun.",
+    "title_tr": "transfer anahtarına basıldı"
   },
   {
     "id": "s06",
-    "title": "The first push of the line select key moves the yellow curso…",
+    "title": "first push line",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The first push of the line select key moves the yellow cursor to surround the data field associated with that particular line select key. This then electronically connects that data field to the tuning knobs so that frequency or mode may be changed.",
-    "caption_tr": ""
+    "caption_tr": "Hat seçme tuşuna ilk basıldığında, sarı imleç söz konusu hat seçme tuşuyla ilişkili veri alanını çevreleyecek şekilde hareket eder. Bu daha sonra bu veri alanını elektronik olarak ayar düğmelerine bağlar, böylece frekans veya mod değiştirilebilir.",
+    "title_tr": "ilk itme hattı"
   },
   {
     "id": "s07",
-    "title": "For some functions, additional pushes of the line select key…",
+    "title": "some functions additional",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "For some functions, additional pushes of the line select key will toggle ADF modes and ATC to ON. Line select key, if pressed and held for certain functions, allows ADF and ATC memories to be recalled. Line select key, if pressed and held for 2 seconds will enter and exit direct tune mode for the COM and NAV.",
-    "caption_tr": ""
+    "caption_tr": "Bazı işlevler için hat seçme tuşuna daha fazla basılması ADF modlarını ve ATC'yi AÇIK konuma getirecektir. Hat seçme tuşu belirli işlevler için basılı tutulduğunda ADF ve ATC hafızalarının çağrılmasına olanak sağlar. Hat seçme tuşu, 2 saniye basılı tutulursa COM ve NAV için doğrudan ayar moduna girecek ve çıkacaktır.",
+    "title_tr": "bazı işlevler ek"
   },
   {
     "id": "s08",
-    "title": "The yellow cursor encloses the data field selected by the li…",
+    "title": "yellow cursor encloses",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The yellow cursor encloses the data field selected by the line select key. The home position of the cursor is the COM preset frequency.",
-    "caption_tr": ""
+    "caption_tr": "Sarı imleç, satır seçme tuşuyla seçilen veri alanını çevreler. İmlecin ana konumu COM ön ayar frekansıdır.",
+    "title_tr": "sarı imleç çevreler"
   },
   {
     "id": "s09",
-    "title": "If the cursor is displaced from its home position, and if th…",
+    "title": "cursor displaced its",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "If the cursor is displaced from its home position, and if there is no activity for more than 20 seconds after that, it will move back to its home position. Watch",
-    "caption_tr": ""
+    "caption_tr": "İmleç ana konumundan çıkarılırsa ve bundan sonra 20 saniyeden fazla bir süre boyunca herhangi bir etkinlik olmazsa, başlangıç ​​konumuna geri dönecektir. Kol saati",
+    "title_tr": "imleç yerini değiştirdi"
   },
   {
     "id": "s10",
-    "title": "The tuning knobs are used to modify the data field enclosed …",
+    "title": "tuning knobs are",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "The tuning knobs are used to modify the data field enclosed by the cursor. This may be the frequency or mode depending upon the selected data field.",
-    "caption_tr": ""
+    "caption_tr": "Ayar düğmeleri, imlecin çevrelediği veri alanını değiştirmek için kullanılır. Bu, seçilen veri alanına bağlı olarak frekans veya mod olabilir.",
+    "title_tr": "ayar düğmeleri"
   },
   {
     "id": "s11",
-    "title": "The 8 keys at the bottom are the function keys. Pressing the…",
+    "title": "8 keys bottom",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The 8 keys at the bottom are the function keys. Pressing the SQ (squelch) key causes the COM radio to open its squelch and allow any noise or signal present in the radio to be heard in the audio system. The squelch key is strictly a toggle switch. The letter SQ is annunciated along the top line of the COM window when selected.",
-    "caption_tr": ""
+    "caption_tr": "Alttaki 8 tuş fonksiyon tuşlarıdır. SQ (susturma) tuşuna basılması COM radyonun susturucusunu açmasına ve radyoda mevcut herhangi bir gürültü veya sinyalin ses sisteminde duyulmasına izin vermesine neden olur. Susturma anahtarı kesinlikle bir geçiş anahtarıdır. SQ harfi seçildiğinde COM penceresinin üst satırında duyurulur.",
+    "title_tr": "8 tuş alt"
   },
   {
     "id": "s12",
-    "title": "Pressing the DIM key connects the RMU brightness control to …",
+    "title": "Pressing DIM key",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Pressing the DIM key connects the RMU brightness control to the tuning knob allowing the display to be adjusted to match overall cockpit brightness. The level of brightness is indicated by white bar which appears below the RMU when the dimming function is selected. The bar moves from left to right when the tuning knob is turned clockwise to increase brightness, and vice-versa. To return the tuning knob to normal operation select any other key. The bar disappears at the same time.",
-    "caption_tr": ""
+    "caption_tr": "DIM tuşuna basmak, RMU parlaklık kontrolünü ayar düğmesine bağlar ve ekranın genel kokpit parlaklığına uyacak şekilde ayarlanmasına olanak tanır. Parlaklık düzeyi, karartma işlevi seçildiğinde RMU'nun altında görünen beyaz çubukla gösterilir. Parlaklığı artırmak için ayar düğmesi saat yönünde çevrildiğinde çubuk soldan sağa doğru hareket eder ve bunun tersi de geçerlidir. Ayar düğmesini normal çalışmaya döndürmek için başka bir tuşu seçin. Aynı anda çubuk da kaybolur.",
+    "title_tr": "DIM tuşuna basma"
   },
   {
     "id": "s13",
-    "title": "With the cursor in any window except the ATC, pressing 12 ke…",
+    "title": "cursor any window",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "With the cursor in any window except the ATC, pressing 12 key transfers the entire RMU operation and display to the cross-side system. Touch 12 button. Cross-side tuning will be discussed later under RMU tuning operation.",
-    "caption_tr": ""
+    "caption_tr": "İmleç ATC dışında herhangi bir penceredeyken 12 tuşuna basılması tüm RMU işlemini ve ekranı çapraz taraftaki sisteme aktarır. 12 düğmesine dokunun. Çapraz taraf ayarlama daha sonra RMU ayarlama işlemi altında ele alınacaktır.",
+    "title_tr": "herhangi pencere imleci"
   },
   {
     "id": "s14",
-    "title": "If the cursor is in the ATC window, pressing this key select…",
+    "title": "cursor ATC window",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "If the cursor is in the ATC window, pressing this key selects which transponder will be in operation. Watch",
-    "caption_tr": ""
+    "caption_tr": "İmleç ATC penceresindeyse, bu tuşa basıldığında hangi transponderin çalışacağı seçilir. Kol saati",
+    "title_tr": "imleç ATC penceresi"
   },
   {
     "id": "s15",
-    "title": "Pushing the STO key stores a temporary (TEMP) COMNAV presele…",
+    "title": "Pushing STO key",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Pushing the STO key stores a temporary (TEMP) COMNAV preselect frequency into RMU memory and assigns a numbered location, if the cursor has first been placed around that frequency. In the above example, the cursor encloses the COM preset frequency of and TEMP-3 is show below. Pressing STO key will store that frequency into memory sequence number 3. Watch",
-    "caption_tr": ""
+    "caption_tr": "STO tuşuna basmak, geçici (TEMP) COMNAV ön seçim frekansını RMU belleğine kaydeder ve imleç ilk önce bu frekansın çevresine yerleştirildiyse, numaralı bir konum atar. Yukarıdaki örnekte imleç COM ön ayar frekansını içine alır ve TEMP-3 aşağıda gösterilmektedir. STO tuşuna basıldığında bu frekans 3 numaralı hafıza sırasına kaydedilecektir.",
+    "title_tr": "STO tuşuna basılıyor"
   },
   {
     "id": "s16",
-    "title": "The ADF and ATC each have one memory location. When the curs…",
+    "title": "ADF ATC have",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "The ADF and ATC each have one memory location. When the cursor is placed around the current ADF frequency or ATC code, the STO key is pushed to store it in memory.",
-    "caption_tr": ""
+    "caption_tr": "ADF ve ATC'nin her birinin bir hafıza konumu vardır. İmleç geçerli ADF frekansının veya ATC kodunun etrafına yerleştirildiğinde, bunu hafızaya kaydetmek için STO tuşuna basılır.",
+    "title_tr": "ADF ATC'nin var"
   },
   {
     "id": "s17",
-    "title": "Pressing the ID key places the transponder in the identifica…",
+    "title": "Pressing ID key",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Pressing the ID key places the transponder in the identification response mode. The ID squawk terminates after 18 seconds.",
-    "caption_tr": ""
+    "caption_tr": "Kimlik tuşuna basılması, aktarıcıyı kimlik yanıt moduna geçirir. Kimlik ciyaklaması 18 saniye sonra sona erer.",
+    "title_tr": "Kimlik tuşuna basmak"
   },
   {
     "id": "s18",
-    "title": "Pushing activates the internal self-test circuits for the co…",
+    "title": "Pushing activates internal",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Pushing activates the internal self-test circuits for the component associated with yellow cursor present position. The self-test is a complete end-to-end test of the function. Hold the button down for the duration of the test; about 2 seconds for COM transceiver, 5 to 7 seconds for DME, ATC, ADF, and about 20 seconds for NAV (VORIILS). If the button is held for 30 seconds or more, the radios are automatically commanded back into normal operation.",
-    "caption_tr": ""
+    "caption_tr": "Basmak, sarı imlecin mevcut konumuyla ilişkili bileşen için dahili otomatik test devrelerini etkinleştirir. Kendi kendine test, işlevin uçtan uca tam bir testidir. Test süresince düğmeyi basılı tutun; COM alıcı-vericisi için yaklaşık 2 saniye, DME, ATC, ADF için 5 ila 7 saniye ve NAV (VORIILS) için yaklaşık 20 saniye. Düğme 30 saniye veya daha uzun süre basılı tutulursa telsizlere otomatik olarak normal çalışmaya dönme komutu verilir.",
+    "title_tr": "İtmek dahiliyi etkinleştirir"
   },
   {
     "id": "s19",
-    "title": "Subsequently, pushing the DME key switches the display and D…",
+    "title": "Subsequently pushing DME",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "Subsequently, pushing the DME key switches the display and DME channel formats between and tactical air navigation (TACAN).",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra, DME tuşuna basıldığında ekran ve DME kanal formatları ile taktik hava navigasyonu (TACAN) arasında geçiş yapılır.",
+    "title_tr": "Daha DME'yi itmek"
   },
   {
     "id": "s20",
-    "title": "The PGE (page) key provides access to the page menu. From th…",
+    "title": "PGE key access",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "The PGE (page) key provides access to the page menu. From this menu the following functions can be accessed: - COM MEMORY - NAV MEMORY -ATCITCAS -RETURN TO RADIO - NAVIGATION - ENGINE PAGE -MAINTENANCE",
-    "caption_tr": ""
+    "caption_tr": "PGE (sayfa) tuşu sayfa menüsüne erişim sağlar. Bu menüden aşağıdaki fonksiyonlara erişilebilir: - COM BELLEĞİ - NAV BELLEĞİ -ATCITCAS - RADYOYA DÖNÜŞ - NAVİGASYON - MOTOR SAYFASI -BAKIM",
+    "title_tr": "PGE anahtarı erişimi"
   },
   {
     "id": "s21",
-    "title": "Pressing RETURN TO RADIO line select key returns the display…",
+    "title": "Pressing RETURN RADIO",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "Pressing RETURN TO RADIO line select key returns the display to main radio page.",
-    "caption_tr": ""
+    "caption_tr": "RADYOYA DÖN hat seçme tuşuna basıldığında ekran ana radyo sayfasına döner.",
+    "title_tr": "RETURN RADIO'ya basmak"
   },
   {
     "id": "s22",
-    "title": "Pressing COM MEMORY line select button displays first page o…",
+    "title": "Pressing COM MEMORY",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "Pressing COM MEMORY line select button displays first page of the preset COM frequencies. Selecting MORE button leads to the second page. Each page can store 6 frequencies, and therefore, each RMU can store up to 12 COM frequencies.",
-    "caption_tr": ""
+    "caption_tr": "COM MEMORY hat seçme düğmesine basıldığında, önceden ayarlanmış COM frekanslarının ilk sayfası görüntülenir. DAHA FAZLA düğmesinin seçilmesi ikinci sayfaya yönlendirir. Her sayfa 6 frekansı saklayabilir ve bu nedenle her RMU 12'ye kadar COM frekansını saklayabilir.",
+    "title_tr": "COM MEMORY tuşuna"
   },
   {
     "id": "s23",
-    "title": "The first page of COM MEMORIES shows the active COM frequenc…",
+    "title": "first page COM",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "The first page of COM MEMORIES shows the active COM frequency on top row. This is followed by 6 positions for preset frequencies. Beneath the frequency fields are function selection options.",
-    "caption_tr": ""
+    "caption_tr": "COM HAFIZALARININ ilk sayfasında üst satırda aktif COM frekansı gösterilir. Bunu önceden ayarlanmış frekanslar için 6 konum takip eder. Frekans alanlarının altında fonksiyon seçim seçenekleri bulunur.",
+    "title_tr": "ilk sayfa COM"
   },
   {
     "id": "s24",
-    "title": "Depressing the line select key adjacent to MORE allows crew …",
+    "title": "Depressing line select",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Depressing the line select key adjacent to MORE allows crew to toggle back-and-forth between page 1 and page 2 of the memory pages. Page 2 looks similar to page 1, except it has memory locations labeled 7 through",
-    "caption_tr": ""
+    "caption_tr": "MORE'un yanındaki hat seçme tuşuna basılması mürettebatın hafıza sayfalarının 1. ve 2. sayfaları arasında ileri geri geçiş yapmasına olanak tanır. Sayfa 2, sayfa 1'e benzer ancak 7'den 7'ye kadar etiketlenmiş bellek konumlarına sahiptir.",
+    "title_tr": "İç karartıcı satır"
   },
   {
     "id": "s25",
-    "title": "The function selection at the bottom, left corner is labeled…",
+    "title": "function selection bottom",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "The function selection at the bottom, left corner is labeled RADIOS. Depressing the key adjacent to it will return to the main radio page.",
-    "caption_tr": ""
+    "caption_tr": "Sol alt köşedeki işlev seçimi RADYOLAR olarak etiketlenmiştir. Yanındaki tuşa basıldığında ana radyo sayfasına dönülecektir.",
+    "title_tr": "fonksiyon seçimi alt"
   },
   {
     "id": "s26",
-    "title": "Any of the 12 stored frequencies can be made active. This is…",
+    "title": "Any 12 stored",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "Any of the 12 stored frequencies can be made active. This is done by placing the cursor over the desired frequency and depress the transfer key. In the above picture, the cursoris on Touch highlighted key.",
-    "caption_tr": ""
+    "caption_tr": "Kaydedilen 12 frekanstan herhangi biri aktif hale getirilebilir. Bu, imleci istenen frekansın üzerine getirip transfer tuşuna basılarak yapılır. Yukarıdaki resimde imleç, Dokunmatik vurgulanan tuşun üzerindedir.",
+    "title_tr": "Herhangi 12 depolanmış"
   },
   {
     "id": "s27",
-    "title": "To change any frequency in the MEMORY page, ensure cursor is…",
+    "title": "change any frequency",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "To change any frequency in the MEMORY page, ensure cursor is on the frequency you wish to change. Then turn the tuning knob to a new frequency. Watch the change in the cursor.",
-    "caption_tr": ""
+    "caption_tr": "MEMORY sayfasındaki herhangi bir frekansı değiştirmek için imlecin değiştirmek istediğiniz frekansın üzerinde olduğundan emin olun. Daha sonra ayar düğmesini yeni bir frekansa çevirin. İmleçteki değişimi izleyin.",
+    "title_tr": "herhangi frekansı değiştir"
   },
   {
     "id": "s28",
-    "title": "If itis desired to add a new frequency in a particular numbe…",
+    "title": "itis desired add",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "If itis desired to add a new frequency in a particular numbered field or location, first depress the line select key beside that location. This places the cursor box over the frequency field.",
-    "caption_tr": ""
+    "caption_tr": "Belirli bir numaralı alan veya konuma yeni frekans eklenmek isteniyorsa öncelikle o konumun yanındaki hat seçme tuşuna basın. Bu, imleç kutusunu frekans alanının üzerine yerleştirir.",
+    "title_tr": "eklenmesi arzu edilir"
   },
   {
     "id": "s29",
-    "title": "Next, press the line select key against INSERT. This will cr…",
+    "title": "Next press line",
     "imgSrc": "slides/s29.png",
     "audioSrc": "audio/s29.mp3",
     "caption_en": "Next, press the line select key against INSERT. This will create a space for the new frequency on that location. A defaulted figure of exists in the cursor. All other frequencies from that number onwards move one position higher. Now touch the tuning knob to simulate selecting",
-    "caption_tr": ""
+    "caption_tr": "Daha sonra INSERT'e karşı hat seçme tuşuna basın. Bu, o lokasyonda yeni frekans için bir alan yaratacaktır. İmleçte varsayılan bir rakam mevcuttur. Bu sayıdan itibaren diğer tüm frekanslar bir konum daha yükseğe çıkar. Şimdi seçimi simüle etmek için ayar düğmesine dokunun",
+    "title_tr": "Sonraki basın hattı"
   },
   {
     "id": "s30",
-    "title": "To delete a frequency from memory, first highlight that freq…",
+    "title": "delete frequency memory",
     "imgSrc": "slides/s30.png",
     "audioSrc": "audio/s30.mp3",
     "caption_en": "To delete a frequency from memory, first highlight that frequency with the cursor.",
-    "caption_tr": ""
+    "caption_tr": "Bellekten bir frekansı silmek için önce o frekansı imleçle vurgulayın.",
+    "title_tr": "frekans hafızasını sil"
   },
   {
     "id": "s31",
-    "title": "To delete a frequency from memory, first highlight that freq…",
+    "title": "delete frequency memory",
     "imgSrc": "slides/s31.png",
     "audioSrc": "audio/s31.mp3",
     "caption_en": "To delete a frequency from memory, first highlight that frequency with the cursor. Then depress the key adjacent to the DELETE function label.",
-    "caption_tr": ""
+    "caption_tr": "Bellekten bir frekansı silmek için önce o frekansı imleçle vurgulayın. Daha sonra DELETE işlev etiketinin yanındaki tuşa basın.",
+    "title_tr": "frekans hafızasını sil"
   },
   {
     "id": "s32",
-    "title": "To delete a frequency from memory, first highlight that freq…",
+    "title": "delete frequency memory",
     "imgSrc": "slides/s32.png",
     "audioSrc": "audio/s32.mp3",
     "caption_en": "To delete a frequency from memory, first highlight that frequency with the cursor. Then depress the key adjacent to the DELETE function label. The frequency enclosed by the cursor will then be deleted from memory and the other frequencies, with a higher number will then move forward to fill the empty location.",
-    "caption_tr": ""
+    "caption_tr": "Bellekten bir frekansı silmek için önce o frekansı imleçle vurgulayın. Daha sonra DELETE işlev etiketinin yanındaki tuşa basın. İmlecin içine aldığı frekans daha sonra hafızadan silinecek ve diğer frekanslar, daha yüksek bir sayı ile boş yeri doldurmak için ileriye doğru hareket edecektir.",
+    "title_tr": "frekans hafızasını sil"
   },
   {
     "id": "s33",
-    "title": "In a similar manner, NAV MEMORY is selected from the PAGE ME…",
+    "title": "similar manner NAV",
     "imgSrc": "slides/s33.png",
     "audioSrc": "audio/s33.mp3",
     "caption_en": "In a similar manner, NAV MEMORY is selected from the PAGE MENU. The RMU is capable of storing 12 preset frequencies in the NAV MEMORY. All descriptions on COM MEMORY with reference to storing and deleting of frequency; and making preset frequency active, apply to NAV MEMORY also.",
-    "caption_tr": ""
+    "caption_tr": "Benzer şekilde SAYFA MENÜSÜNDEN NAV BELLEĞİ seçilir. RMU, NAV BELLEĞİNDE 12 önceden ayarlanmış frekansı saklama kapasitesine sahiptir. Frekansın saklanması ve silinmesine ilişkin COM MEMORY'deki tüm açıklamalar; ve ön ayarlı frekansı aktif hale getirmek NAV BELLEĞİ'ne de uygulanır.",
+    "title_tr": "benzer şekilde NAV"
   },
   {
     "id": "s34",
-    "title": "The backup engine and systems pages can be selected by depre…",
+    "title": "backup engine systems",
     "imgSrc": "slides/s34.png",
     "audioSrc": "audio/s34.mp3",
     "caption_en": "The backup engine and systems pages can be selected by depressing the line select key adjacent to ENGINE on PAGE MENU. It calls up page 1 of backup engine display.",
-    "caption_tr": ""
+    "caption_tr": "Yedek motor ve sistem sayfaları, SAYFA MENÜSÜ'ndeki MOTOR'un yanındaki hat seçme tuşuna basılarak seçilebilir. Yedek motor ekranının 1. sayfasını çağırır.",
+    "title_tr": "yedek motor sistemleri"
   },
   {
     "id": "s35",
-    "title": "Selecting MORE on page 1 leads to page 2 of backup engine di…",
+    "title": "MORE page 1",
     "imgSrc": "slides/s35.png",
     "audioSrc": "audio/s35.mp3",
     "caption_en": "Selecting MORE on page 1 leads to page 2 of backup engine display. Pushing MORE button toggles between these two pages.",
-    "caption_tr": ""
+    "caption_tr": "1. sayfada DAHA FAZLA seçeneğinin seçilmesi, yedekleme motoru ekranının 2. sayfasına yönlendirir. DAHA FAZLA düğmesine basıldığında bu iki sayfa arasında geçiş yapılır.",
+    "title_tr": "DAHA FAZLA sayfa"
   },
   {
     "id": "s36",
-    "title": "Through default logic, the RMU 1 will automatically display …",
+    "title": "Through default logic",
     "imgSrc": "slides/s36.png",
     "audioSrc": "audio/s36.mp3",
     "caption_en": "Through default logic, the RMU 1 will automatically display backup engine page 1 if neither IC-600 computer is out-putting the EICAS display format to one of the large DUs. This was discussed in Avionics Part 1.",
-    "caption_tr": ""
+    "caption_tr": "Varsayılan mantık yoluyla, IC-600 bilgisayarlarından hiçbiri EICAS ekran formatını büyük DU'lardan birine aktarmıyorsa, RMU 1 otomatik olarak yedek motor sayfası 1'i görüntüler. Bu, Aviyonik Bölüm 1'de tartışılmıştır.",
+    "title_tr": "Varsayılan mantık aracılığıyla"
   },
   {
     "id": "s37",
-    "title": "Once the backup engine page has been automatically selected,…",
+    "title": "Once backup engine",
     "imgSrc": "slides/s37.png",
     "audioSrc": "audio/s37.mp3",
     "caption_en": "Once the backup engine page has been automatically selected, and the crew then selects another page for display, the RMU will automatically return to page 1 of the backup engine display 20 seconds after the last user input to the system. Watch",
-    "caption_tr": ""
+    "caption_tr": "Yedek motor sayfası otomatik olarak seçildiğinde ve ekip daha sonra görüntülenmek üzere başka bir sayfayı seçtiğinde, RMU, sisteme son kullanıcı girişinden 20 saniye sonra otomatik olarak yedek motor ekranının 1. sayfasına geri dönecektir. Kol saati",
+    "title_tr": "kez yedek motor"
   },
   {
     "id": "s38",
-    "title": "If the DUs revert to their normal displays following an auto…",
+    "title": "DUs revert their",
     "imgSrc": "slides/s38.png",
     "audioSrc": "audio/s38.mp3",
     "caption_en": "If the DUs revert to their normal displays following an automatic pop up of backup engine display on RMU 1, RMU 1 will return to main radio tuning page.",
-    "caption_tr": ""
+    "caption_tr": "RMU 1'de yedek motor ekranının otomatik olarak açılmasının ardından DU'lar normal ekranlarına dönerse, RMU 1 ana radyo ayarlama sayfasına dönecektir.",
+    "title_tr": "DU'lar eski durumuna"
   },
   {
     "id": "s39",
-    "title": "Page 1 of the backup engine display contains a combination v…",
+    "title": "Page 1 backup",
     "imgSrc": "slides/s39.png",
     "audioSrc": "audio/s39.mp3",
     "caption_en": "Page 1 of the backup engine display contains a combination vertical analog and digital readout for N1 at the top of the display.",
-    "caption_tr": ""
+    "caption_tr": "Yedek motor ekranının 1. sayfasında, ekranın üst kısmında N1 için dikey analog ve dijital okuma kombinasyonu bulunur.",
+    "title_tr": "Sayfa 1 yedekleme"
   },
   {
     "id": "s40",
-    "title": "The following digital displays appear below the N1 display: …",
+    "title": "The following digital displays",
     "imgSrc": "slides/s40.png",
     "audioSrc": "audio/s40.mp3",
     "caption_en": "The following digital displays appear below the N1 display: - ITT - interstage turbine temperature - OP-oil pressure - FUEL - left and right wing quantity only. Fuselage is not shown",
-    "caption_tr": ""
+    "caption_tr": "N1 ekranının altında aşağıdaki dijital ekranlar görünür: - ITT - kademeler arası türbin sıcaklığı - OP-yağ basıncı - FUEL - yalnızca sol ve sağ kanat miktarı. Gövde gösterilmiyor",
+    "title_tr": "Aşağıdaki dijital ekranlar"
   },
   {
     "id": "s41",
-    "title": "- HYDM-B-hydraulic pressure for main system on left side, an…",
+    "title": "- HYDM-B-hydraulic pressure",
     "imgSrc": "slides/s41.png",
     "audioSrc": "audio/s41.mp3",
     "caption_en": "- HYDM-B-hydraulic pressure for main system on left side, and brake accumulator pressure on the right. - SPL-FLP-spoiler extension on the left, and flap extension on the right.",
-    "caption_tr": ""
+    "caption_tr": "- Sol tarafta ana sistem için HYDM-B-hidrolik basıncı, sağ tarafta ise fren akümülatör basıncı. - Solda SPL-FLP spoiler uzantısı ve sağda kanat uzantısı.",
+    "title_tr": "- HYDM-B-hidrolik basınç"
   },
   {
     "id": "s42",
-    "title": "Page 2 of the backup engine display contain digital readouts…",
+    "title": "Page 2 backup",
     "imgSrc": "slides/s42.png",
     "audioSrc": "audio/s42.mp3",
     "caption_en": "Page 2 of the backup engine display contain digital readouts of the following, starting at the top: - N1--fan speed - N2--turbine speed - OIL C--oil temperature - FF KGH--fuel flow in kilogram per hour -VOLTS--DC volts on left and right essential buses - EMER volts on the emergency battery bus - AMP S-eft and right generators current output",
-    "caption_tr": ""
+    "caption_tr": "Yedek motor ekranının 2. sayfasında, üstten başlayarak aşağıdakilerin dijital değerleri bulunur: - N1--fan hızı - N2--türbin hızı - OIL C--yağ sıcaklığı - FF KGH--saatte kilogram cinsinden yakıt akışı -VOLTS--sol ve sağ temel otobüslerdeki DC volt - acil durum akü veriyolundaki EMER volt - AMP S-eft ve sağ jeneratör akım çıkışı",
+    "title_tr": "Sayfa 2 yedekleme"
   },
   {
     "id": "s43",
-    "title": "Celsius on the right. - TRIM-PIT--pitch trim in units - AlL-…",
+    "title": "Celsius right -",
     "imgSrc": "slides/s43.png",
     "audioSrc": "audio/s43.mp3",
     "caption_en": "Celsius on the right. - TRIM-PIT--pitch trim in units - AlL--aileron trim, unit L or R for left wing down or right wing down - RUD--rudder trim units left or right",
-    "caption_tr": ""
+    "caption_tr": "Sağdaki Santigrat. - TRIM-PIT-birimler halinde eğim trimi - AllL--kanatçık trimi, sol kanat aşağı veya sağ kanat aşağı için L veya R ünitesi - RUD--sol veya sağ dümen trim üniteleri",
+    "title_tr": "Santigrat sağa -"
   },
   {
     "id": "s44",
-    "title": "The colour coding of the digital indications on the backup e…",
+    "title": "colour coding digital",
     "imgSrc": "slides/s44.png",
     "audioSrc": "audio/s44.mp3",
     "caption_en": "The colour coding of the digital indications on the backup engine pages is similar to the normal EICAS display colours. Digits are displayed in white for normal range, amber for caution range and red for the warning range.",
-    "caption_tr": ""
+    "caption_tr": "Yedek motor sayfalarındaki dijital göstergelerin renk kodlaması normal EICAS ekran renklerine benzer. Rakamlar normal aralık için beyaz, uyarı aralığı için sarı ve uyarı aralığı için kırmızı renkte görüntülenir.",
+    "title_tr": "renk kodlaması dijital"
   },
   {
     "id": "s45",
-    "title": "Digital data failure is shown by amber dashes. N1 data failu…",
+    "title": "Digital data failure",
     "imgSrc": "slides/s45.png",
     "audioSrc": "audio/s45.mp3",
     "caption_en": "Digital data failure is shown by amber dashes. N1 data failure is shown with a red X and removal of the pointer.",
-    "caption_tr": ""
+    "caption_tr": "Dijital veri hatası sarı çizgilerle gösterilir. N1 veri hatası kırmızı bir X ile ve işaretçinin kaldırılmasıyla gösterilir.",
+    "title_tr": "Dijital veri hatası"
   },
   {
     "id": "s46",
-    "title": "Failure of the RMU to display engine data is annunciated wit…",
+    "title": "Failure RMU engine",
     "imgSrc": "slides/s46.png",
     "audioSrc": "audio/s46.mp3",
     "caption_en": "Failure of the RMU to display engine data is annunciated with ENGINE DATA UNAVAILABLE.",
-    "caption_tr": ""
+    "caption_tr": "RMU'nun motor verilerini görüntülemedeki başarısızlığı, MOTOR VERİLERİ KULLANILAMAZ olarak bildirilir.",
+    "title_tr": "Arıza RMU motoru"
   },
   {
     "id": "s47",
-    "title": "The backup navigation display is accessed by depressing the …",
+    "title": "backup navigation accessed",
     "imgSrc": "slides/s47.png",
     "audioSrc": "audio/s47.mp3",
     "caption_en": "The backup navigation display is accessed by depressing the PGE key on the RMU and the PAGE MENU will be displayed. Selecting the NAVIGATION option with the line select key displays the backup navigation page.",
-    "caption_tr": ""
+    "caption_tr": "Yedek navigasyon ekranına RMU üzerindeki PGE tuşuna basılarak erişilir ve SAYFA MENÜSÜ görüntülenecektir. Hat seçme tuşuyla NAVİGASYON seçeneğinin seçilmesi, yedek navigasyon sayfasını görüntüler.",
+    "title_tr": "yedekleme navigasyonuna erişildi"
   },
   {
     "id": "s48",
-    "title": "Backup navigation can be displayed on either RMU.",
+    "title": "Backup navigation can",
     "imgSrc": "slides/s48.png",
     "audioSrc": "audio/s48.mp3",
     "caption_en": "Backup navigation can be displayed on either RMU.",
-    "caption_tr": ""
+    "caption_tr": "Yedekleme navigasyonu her iki RMU'da da görüntülenebilir.",
+    "title_tr": "Yedekleme navigasyonu"
   },
   {
     "id": "s49",
-    "title": "Whether the backup navigation is selected on RMU 1 or RMU 2,…",
+    "title": "Whether backup navigation",
     "imgSrc": "slides/s49.png",
     "audioSrc": "audio/s49.mp3",
     "caption_en": "Whether the backup navigation is selected on RMU 1 or RMU 2, navigation data displayed is from integrated navigation unit 1.",
-    "caption_tr": ""
+    "caption_tr": "Yedek navigasyonun ister RMU 1'de ister RMU 2'de seçili olsun, görüntülenen navigasyon verileri entegre navigasyon ünitesi 1'den gelir.",
+    "title_tr": "Yedekleme navigasyonu olup"
   },
   {
     "id": "s50",
-    "title": "Whether the backup navigation is selected on RMU 1 or RMU 2,…",
+    "title": "Whether backup navigation",
     "imgSrc": "slides/s50.png",
     "audioSrc": "audio/s50.mp3",
     "caption_en": "Whether the backup navigation is selected on RMU 1 or RMU 2, navigation data displayed is from integrated navigation unit 1. The heading reference is from Attitude and Heading Reference System 2 (AHR",
-    "caption_tr": ""
+    "caption_tr": "Yedek navigasyonun RMU 1 veya RMU 2'de seçilip seçilmediğinden bağımsız olarak görüntülenen navigasyon verileri entegre navigasyon ünitesi 1'den gelir. Yön referansı Tutum ve Yön Referans Sistemi 2'den (AHR) alınır.",
+    "title_tr": "Yedekleme navigasyonu olup"
   },
   {
     "id": "s51",
-    "title": "In a dual generator failure situation, all DUs are required …",
+    "title": "dual generator failure",
     "imgSrc": "slides/s51.png",
     "audioSrc": "audio/s51.mp3",
     "caption_en": "In a dual generator failure situation, all DUs are required to be shutdown, as is called for by the checklist. The standby navigation will be used as substitute to provide navigation information to the pilots. Using the RMU to display backup navigation will enable main batteries to last for 1 hour since the RMUs consume minimum electrical power.",
-    "caption_tr": ""
+    "caption_tr": "Çift jeneratör arızası durumunda, kontrol listesinin gerektirdiği şekilde tüm DU'ların kapatılması gerekir. Pilotlara navigasyon bilgisi sağlamak için yedek navigasyon kullanılacaktır. Yedek navigasyonu görüntülemek için RMU'yu kullanmak, RMU'lar minimum elektrik gücü tükettiğinden ana pillerin 1 saat dayanmasını sağlayacaktır.",
+    "title_tr": "çift ​​jeneratör arızası"
   },
   {
     "id": "s52",
-    "title": "The following features are found on the backup navigation pa…",
+    "title": "following features are",
     "imgSrc": "slides/s52.png",
     "audioSrc": "audio/s52.mp3",
     "caption_en": "The following features are found on the backup navigation page when valid data is available: Heading Arc Display: - The compass arc extends an angle of 90 on the RMU. The digits and arc shown in white.",
-    "caption_tr": ""
+    "caption_tr": "Geçerli veriler mevcut olduğunda yedek navigasyon sayfasında aşağıdaki özellikler bulunur: Yön Yayı Görüntüleme: - Pusula yayı RMU üzerinde 90 derecelik bir açıya uzanır. Rakamlar ve yay beyaz renkte gösterilmiştir.",
+    "title_tr": "aşağıdaki özellikler şunlardır"
   },
   {
     "id": "s53",
-    "title": "Course Pointer With Display: - A green course arrow is displ…",
+    "title": "- green course",
     "imgSrc": "slides/s53.png",
     "audioSrc": "audio/s53.mp3",
     "caption_en": "Course Pointer With Display: - A green course arrow is displayed. - A digital readout ( in green) of the selected course is displayed in the lower left corner.",
-    "caption_tr": ""
+    "caption_tr": "Ekranlı Rota İşaretçisi: - Yeşil bir rota oku görüntülenir. - Seçilen kursun dijital okuması (yeşil) sol alt köşede görüntülenir.",
+    "title_tr": "- yeşil parkur"
   },
   {
     "id": "s54",
-    "title": "When the RMU line select key next to the course readout is p…",
+    "title": "RMU line select",
     "imgSrc": "slides/s54.png",
     "audioSrc": "audio/s54.mp3",
     "caption_en": "When the RMU line select key next to the course readout is pushed, it is boxed in yellow. The RMU tuning knob is used to set the new course. The inner knob select 1 changes, the outer knob selects 10 changes.",
-    "caption_tr": ""
+    "caption_tr": "Ders okumasının yanındaki RMU hattı seçme tuşuna basıldığında sarı kutucuk içine alınır. RMU ayar düğmesi yeni rotayı ayarlamak için kullanılır. İç düğme 1 değişikliği seçer, dış düğme 10 değişikliği seçer.",
+    "title_tr": "RMU hattı seçimi"
   },
   {
     "id": "s55",
-    "title": "The selected course is the home position of the cursor. When…",
+    "title": "selected course home",
     "imgSrc": "slides/s55.png",
     "audioSrc": "audio/s55.mp3",
     "caption_en": "The selected course is the home position of the cursor. When the cursor is displaced from its home position and there is no activity for 20 seconds or more, the cursor will revert to the selected course.",
-    "caption_tr": ""
+    "caption_tr": "Seçilen kurs imlecin ana konumudur. İmleç başlangıç ​​konumundan farklı bir konuma getirildiğinde ve 20 saniye veya daha uzun bir süre boyunca herhangi bir etkinlik olmadığında imleç seçilen rotaya geri dönecektir.",
+    "title_tr": "seçilen kurs ana"
   },
   {
     "id": "s56",
-    "title": "With TOFROM Indication: - The centre of the HSI contains an …",
+    "title": "- centre HSI",
     "imgSrc": "slides/s56.png",
     "audioSrc": "audio/s56.mp3",
     "caption_en": "With TOFROM Indication: - The centre of the HSI contains an aircraft symbol and lateral deviation is two dots on either side of the centred position. This represents navigation from the selected course for the specific source.",
-    "caption_tr": ""
+    "caption_tr": "TOFROM Göstergesi ile: - HSI'nin merkezi bir uçak sembolü içerir ve yanal sapma, ortalanmış konumun her iki yanında iki noktadır. Bu, belirli bir kaynak için seçilen kurstan gezinmeyi temsil eder.",
+    "title_tr": "- merkez HSI"
   },
   {
     "id": "s57",
-    "title": "- A green TO or FR (from) indication is shown to the right o…",
+    "title": "- green FR",
     "imgSrc": "slides/s57.png",
     "audioSrc": "audio/s57.mp3",
     "caption_en": "- A green TO or FR (from) indication is shown to the right of the digital course readout.",
-    "caption_tr": ""
+    "caption_tr": "- Dijital kurs okumasının sağında yeşil bir TO veya FR (from) göstergesi gösterilir.",
+    "title_tr": "- yeşil FR"
   },
   {
     "id": "s58",
-    "title": "Vertical Deviation Scale: -When a ILS frequency is tuned, th…",
+    "title": "-When ILS frequency",
     "imgSrc": "slides/s58.png",
     "audioSrc": "audio/s58.mp3",
     "caption_en": "Vertical Deviation Scale: -When a ILS frequency is tuned, the white glideslope scale is displayed, and the VOR bearing pointer, VOR bearing readout, and bearing label are removed. The valid glideslope pointer is green.",
-    "caption_tr": ""
+    "caption_tr": "Dikey Sapma Ölçeği: -Bir ILS frekansı ayarlandığında, beyaz kayma eğimi ölçeği görüntülenir ve VOR yön göstergesi, VOR yön okuması ve yön etiketi kaldırılır. Geçerli kayma eğimi işaretçisi yeşildir.",
+    "title_tr": "-ILS frekansı"
   },
   {
     "id": "s59",
-    "title": "DME: - DME distance to the selected VOR or ILS is shown in t…",
+    "title": "- DME distance",
     "imgSrc": "slides/s59.png",
     "audioSrc": "audio/s59.mp3",
     "caption_en": "DME: - DME distance to the selected VOR or ILS is shown in the lower right corner, the digit are green.",
-    "caption_tr": ""
+    "caption_tr": "DME: - Seçilen VOR veya ILS'ye olan DME mesafesi sağ alt köşede gösterilir, rakamlar yeşildir.",
+    "title_tr": "- DME mesafesi"
   },
   {
     "id": "s60",
-    "title": "Bearing Pointer: - The bearing pointer, and its legend and d…",
+    "title": "- bearing pointer",
     "imgSrc": "slides/s60.png",
     "audioSrc": "audio/s60.mp3",
     "caption_en": "Bearing Pointer: - The bearing pointer, and its legend and digital position display are in cyan. - When the pointer (or its tail) is not in view, a single cyan arrow is displayed above the compass arc, on either the left or right side to indicate its location.",
-    "caption_tr": ""
+    "caption_tr": "Yön İşaretçisi: - Yön işaretçisi ve onun açıklaması ve dijital konum ekranı camgöbeği rengindedir. - İşaretçi (veya kuyruğu) görüş alanında olmadığında, pusula yayının üzerinde, konumunu belirtmek için sol veya sağ tarafta tek bir camgöbeği ok görüntülenir.",
+    "title_tr": "- yön işaretçisi"
   },
   {
     "id": "s61",
-    "title": "Bearing Pointer: - The bearing pointer, and its legend and d…",
+    "title": "- bearing pointer",
     "imgSrc": "slides/s61.png",
     "audioSrc": "audio/s61.mp3",
     "caption_en": "Bearing Pointer: - The bearing pointer, and its legend and digital position display are in white. - When the pointer (or its tail) is not in view, a double white arrow is displayed above the compass arc, on either the left or right side to indicate its location.",
-    "caption_tr": ""
+    "caption_tr": "Yön İşaretçisi: - Yön işaretçisi, açıklaması ve dijital konum ekranı beyaz renktedir. - İşaretçi (veya kuyruğu) görüş alanında olmadığında, pusula yayının üzerinde, konumunu belirtmek için sol veya sağ tarafta çift beyaz bir ok görüntülenir.",
+    "title_tr": "- yön işaretçisi"
   },
   {
     "id": "s62",
-    "title": "Frequency Display: - The VORIILS tuned frequency is displaye…",
+    "title": "- VORIILS tuned",
     "imgSrc": "slides/s62.png",
     "audioSrc": "audio/s62.mp3",
     "caption_en": "Frequency Display: - The VORIILS tuned frequency is displayed in the upper left corner of the backup navigation.",
-    "caption_tr": ""
+    "caption_tr": "Frekans Ekranı: - VORIILS'in ayarladığı frekans, yedekleme navigasyonunun sol üst köşesinde görüntülenir.",
+    "title_tr": "- VORIILS ayarlandı"
   },
   {
     "id": "s63",
-    "title": "Frequency Display: - The VORIILS tuned frequency is displaye…",
+    "title": "- VORIILS tuned",
     "imgSrc": "slides/s63.png",
     "audioSrc": "audio/s63.mp3",
     "caption_en": "Frequency Display: - The VORIILS tuned frequency is displayed in the upper left corner of the backup navigation. - The ADF frequency is displayed in the upper right corner. Both frequencies are white.",
-    "caption_tr": ""
+    "caption_tr": "Frekans Ekranı: - VORIILS'in ayarladığı frekans, yedekleme navigasyonunun sol üst köşesinde görüntülenir. - ADF frekansı sağ üst köşede görüntülenir. Her iki frekans da beyazdır.",
+    "title_tr": "- VORIILS ayarlandı"
   },
   {
     "id": "s64",
-    "title": "When the RMU line select key adjacent to the respective wind…",
+    "title": "RMU line select",
     "imgSrc": "slides/s64.png",
     "audioSrc": "audio/s64.mp3",
     "caption_en": "When the RMU line select key adjacent to the respective window is pushed, that frequency is enclosed with the yellow cursor. This will link the frequency to the tuning knob and adjustment can be made. Now touch the tuning knob to simulate changing frequency",
-    "caption_tr": ""
+    "caption_tr": "İlgili pencerenin yanındaki RMU hat seçme tuşuna basıldığında o frekans sarı imlecin içine alınır. Bu, frekansı ayar düğmesine bağlayacaktır ve ayarlama yapılabilir. Şimdi değişen frekansı simüle etmek için ayar düğmesine dokunun",
+    "title_tr": "RMU hattı seçimi"
   },
   {
     "id": "s65",
-    "title": "Marker Beacon - The beacon display is to the left of the DME…",
+    "title": "Marker Beacon -",
     "imgSrc": "slides/s65.png",
     "audioSrc": "audio/s65.mp3",
     "caption_en": "Marker Beacon - The beacon display is to the left of the DME data. Outer Marker appears in cyan, Middle Marker in yellow and Inner Marker in white.",
-    "caption_tr": ""
+    "caption_tr": "Marker Beacon - İşaret ekranı DME verilerinin solundadır. Dış İşaretçi camgöbeği renginde, Orta İşaretçisi sarı renkte ve İç İşaretçisi beyaz renkte görünür.",
+    "title_tr": "İşaretleyici İşareti -"
   },
   {
     "id": "s66",
-    "title": "When VOR information is not available, the following are see…",
+    "title": "VOR information available",
     "imgSrc": "slides/s66.png",
     "audioSrc": "audio/s66.mp3",
     "caption_en": "When VOR information is not available, the following are seen on the display: - digital bearing for the VOR is removed - VOR bearing pointer is removed - lateral deviation bar is removed and the scale is overwritten with red",
-    "caption_tr": ""
+    "caption_tr": "VOR bilgisi mevcut olmadığında ekranda aşağıdakiler görülür: - VOR için dijital yön kaldırılır - VOR yön göstergesi kaldırılır - yanal sapma çubuğu kaldırılır ve ölçeğin üzerine kırmızı renk yazılır",
+    "title_tr": "VOR bilgisi mevcut"
   },
   {
     "id": "s67",
-    "title": "- TOFROM indication is removed. - DME distance is replace wi…",
+    "title": "- TOFROM indication",
     "imgSrc": "slides/s67.png",
     "audioSrc": "audio/s67.mp3",
     "caption_en": "- TOFROM indication is removed. - DME distance is replace with yellow dashes.",
-    "caption_tr": ""
+    "caption_tr": "- TOFROM göstergesi kaldırıldı. - DME mesafesi sarı çizgilerle değiştirildi.",
+    "title_tr": "- TOFROM göstergesi"
   },
   {
     "id": "s68",
-    "title": "If the ILS information is not available, - the lateral devia…",
+    "title": "ILS information available",
     "imgSrc": "slides/s68.png",
     "audioSrc": "audio/s68.mp3",
     "caption_en": "If the ILS information is not available, - the lateral deviation bar is removed and the scale is overwritten with ared X - the glideslope pointer is removed and the scale is overwritten with a red X - the DME distance is replaced with yellow dashes.",
-    "caption_tr": ""
+    "caption_tr": "ILS bilgisi mevcut değilse, - yanal sapma çubuğu kaldırılır ve kırmızı X ile ölçeğin üzerine yazılır - kayma eğimi işaretçisi kaldırılır ve kırmızı bir X ile ölçeğin üzerine yazılır - DME mesafesinin yerine sarı çizgiler konulur.",
+    "title_tr": "ILS bilgileri mevcut"
   },
   {
     "id": "s69",
-    "title": "If ARHS 2 fails, FAIL in red is placed in the centre of the …",
+    "title": "ARHS 2 fails",
     "imgSrc": "slides/s69.png",
     "audioSrc": "audio/s69.mp3",
     "caption_en": "If ARHS 2 fails, FAIL in red is placed in the centre of the arc display. The course pointer and its digital readout are removed. All bearing pointer information is removed.",
-    "caption_tr": ""
+    "caption_tr": "ARHS 2 başarısız olursa, kırmızı renkli FAIL, yay ekranının ortasına yerleştirilir. Rota işaretçisi ve dijital okuması kaldırılır. Tüm yön işaretçisi bilgileri kaldırılır.",
+    "title_tr": "ARHS 2 başarısız"
   }
 ]

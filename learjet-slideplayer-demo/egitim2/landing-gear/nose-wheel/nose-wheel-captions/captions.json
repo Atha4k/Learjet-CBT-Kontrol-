@@ -1,122 +1,137 @@
 [
   {
     "id": "s01",
-    "title": "Nose Wheel Steering System ( ) The Learjet 45 nose wheel ste…",
+    "title": "Nose Wheel Steering",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Nose Wheel Steering System ( ) The Learjet 45 nose wheel steering system enables the pilot to maneuver the airplane on the ground.",
-    "caption_tr": ""
+    "caption_tr": "Burun Tekerleği Yönlendirme Sistemi ( ) Learjet 45 burun tekerleği yönlendirme sistemi, pilotun uçağı yerde manevra yapmasına olanak sağlar.",
+    "title_tr": "Burun Tekerleği Yönlendirmesi"
   },
   {
     "id": "s02",
-    "title": "The digital nose wheel steering system is a steer- by-wire s…",
+    "title": "digital nose wheel",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The digital nose wheel steering system is a steer- by-wire system. It provides a nose wheel deflection of up to This steering authority depends on the ground speed and rudder pedal inputs by the crew.",
-    "caption_tr": ""
+    "caption_tr": "Dijital burun tekerleği yönlendirme sistemi, kablolu bir yönlendirme sistemidir. 1.000 m'ye kadar burun tekerleği sapması sağlar. Bu dümenleme yetkisi, mürettebatın yer hızına ve dümen pedalı girişlerine bağlıdır.",
+    "title_tr": "dijital burun tekerleği"
   },
   {
     "id": "s03",
-    "title": "The system consists of 4 rudder pedal force transducers 2 pe…",
+    "title": "system 4 rudder",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The system consists of 4 rudder pedal force transducers 2 per pilot), a nose wheel steering computer, steering servo actuator and gearbox.",
-    "caption_tr": ""
+    "caption_tr": "Sistem, 4 dümen pedalı kuvvet dönüştürücüsü (pilot başına 2 adet), bir burun tekerleği yönlendirme bilgisayarı, direksiyon servo aktüatörü ve dişli kutusundan oluşur.",
+    "title_tr": "sistem 4 dümen"
   },
   {
     "id": "s04",
-    "title": "The rudder pedals have 2 sets of stops. The primary stop is …",
+    "title": "rudder pedals have",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The rudder pedals have 2 sets of stops. The primary stop is where the rudder reaches its physical stop. This gives a nose deflection",
-    "caption_tr": ""
+    "caption_tr": "Dümen pedallarında 2 set durdurma bulunur. Birincil durak, dümenin fiziksel durağına ulaştığı yerdir. Bu burun sapmasına neden olur",
+    "title_tr": "dümen pedalları var"
   },
   {
     "id": "s05",
-    "title": "The steering computer is powered by the DC Left ESS bus. It …",
+    "title": "steering computer powered",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "The steering computer is powered by the DC Left ESS bus. It uses the wheel speeds from the 4 main wheel transducers in computing nose wheel deflection. As the ground speed increases, the deflection decreases. These deflections decrease to 0 at 80 knots.",
-    "caption_tr": ""
+    "caption_tr": "Direksiyon bilgisayarına DC Sol ESS veri yolu tarafından güç sağlanır. Burun tekerleği sapmasını hesaplamak için 4 ana tekerlek dönüştürücüsünden gelen tekerlek hızlarını kullanır. Yer hızı arttıkça sapma azalır. Bu sapmalar 80 knot'ta 0'a düşüyor.",
+    "title_tr": "direksiyon bilgisayarı destekli"
   },
   {
     "id": "s06",
-    "title": "The steering actuator gearbox is located on top of the nose …",
+    "title": "steering actuator gearbox",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "The steering actuator gearbox is located on top of the nose gear. When commanded by the computer, it rotates the inner strut through gears to steer the",
-    "caption_tr": ""
+    "caption_tr": "Direksiyon aktüatör dişli kutusu burun dişlisinin üstünde bulunur. Bilgisayar tarafından komut verildiğinde, içteki çubuğu dişliler aracılığıyla döndürerek aracı yönlendirir.",
+    "title_tr": "direksiyon aktüatörü şanzıman"
   },
   {
     "id": "s07",
-    "title": "Operation The system is armed when the NOSE STEER switch is …",
+    "title": "system armed NOSE",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Operation The system is armed when the NOSE STEER switch is selected on. An ON light illuminates on the switch. During slow taxy, deflecting the rudder pedals to the secondary stops will cause the computer to command a steering",
-    "caption_tr": ""
+    "caption_tr": "Çalıştırma BURUN YÖNLENDİRME anahtarı açık seçildiğinde sistem devreye girer. Anahtarda bir ON ışığı yanar. Yavaş taksi sırasında, dümen pedallarının ikincil duraklara saptırılması, bilgisayarın bir direksiyon komutu vermesine neden olacaktır.",
+    "title_tr": "sistem silahlı BURUN"
   },
   {
     "id": "s08",
-    "title": "At 90 knots, the computer initiates a 0 steering command to …",
+    "title": "90 knots computer",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "At 90 knots, the computer initiates a 0 steering command to center the nose wheel, after which power is removed from the computer.",
-    "caption_tr": ""
+    "caption_tr": "90 knot'ta bilgisayar, burun tekerleğini ortalamak için 0 dümen komutunu başlatır ve ardından bilgisayarın gücü kesilir.",
+    "title_tr": "90 knot bilgisayar"
   },
   {
     "id": "s09",
-    "title": "Two seconds after lift-off, electrical power is restored mom…",
+    "title": "Two seconds lift-off",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Two seconds after lift-off, electrical power is restored momentarily to the computer to center the nose wheel again before gear retraction.",
-    "caption_tr": ""
+    "caption_tr": "Kalkıştan iki saniye sonra, dişli geri çekilmeden önce burun tekerleğini tekrar ortalamak için bilgisayara elektrik gücü anlık olarak geri verilir.",
+    "title_tr": "İki saniyelik kalkış"
   },
   {
     "id": "s10",
-    "title": "When the gear control switch is placed UP, the system disarm…",
+    "title": "gear control switch",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "When the gear control switch is placed UP, the system disarms and the ON light extinguishes.",
-    "caption_tr": ""
+    "caption_tr": "Vites kontrol anahtarı YUKARI konuma getirildiğinde sistem devreden çıkar ve ON ışığı söner.",
+    "title_tr": "vites kontrol anahtarı"
   },
   {
     "id": "s11",
-    "title": "During approach, the system is automatically re-armed when t…",
+    "title": "approach system automatically",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "During approach, the system is automatically re-armed when the gear control switch is placed DOWN.",
-    "caption_tr": ""
+    "caption_tr": "Yaklaşma sırasında vites kontrol anahtarı AŞAĞI konumuna getirildiğinde sistem otomatik olarak yeniden devreye girer.",
+    "title_tr": "sisteme otomatik yaklaşma"
   },
   {
     "id": "s12",
-    "title": "After touch-down, when the airplane decelerates to 90 knots,…",
+    "title": "touch-down airplane decelerates",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "After touch-down, when the airplane decelerates to 90 knots, electrical power is re-applied to the computer. Note that no steering commands are available until the airplane is below 80 knots.",
-    "caption_tr": ""
+    "caption_tr": "İnişten sonra uçak 90 knot'a yavaşladığında bilgisayara yeniden elektrik gücü veriliyor. Uçak 80 deniz milinin altına inene kadar hiçbir yönlendirme komutunun mevcut olmadığını unutmayın.",
+    "title_tr": "yere inen uçak"
   },
   {
     "id": "s13",
-    "title": "The normal steering rate is about 7sec of nose wheel deflect…",
+    "title": "normal steering rate",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "The normal steering rate is about 7sec of nose wheel deflection. To make a sharp angle turn on a heavy airplane, depress the Touch Control Steering button while pushing on the rudder pedals. This enables a turn rate of 26sec of nose wheel deflection.",
-    "caption_tr": ""
+    "caption_tr": "Normal direksiyon hızı burun tekerleği sapmasının yaklaşık 7 saniyesidir. Ağır bir uçakta keskin açılı dönüş yapmak için dümen pedallarına basarken Dokunmatik Kontrollü Direksiyon düğmesine basın. Bu, 26 saniyelik burun tekerleği sapması dönüş hızına olanak sağlar.",
+    "title_tr": "normal direksiyon hızı"
   },
   {
     "id": "s14",
-    "title": "If a fault occurs during normal steering operation, the comp…",
+    "title": "fault occurs normal",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "If a fault occurs during normal steering operation, the computer automatically downgrades the system to a degraded mode. This means a lesser steering command with the same rudder pedal deflection.",
-    "caption_tr": ""
+    "caption_tr": "Normal direksiyon çalışması sırasında bir arıza meydana gelirse, bilgisayar sistemi otomatik olarak düşük moda geçirir. Bu, aynı dümen pedalı sapması ile daha az direksiyon komutu anlamına gelir.",
+    "title_tr": "Arıza normal ortaya"
   },
   {
     "id": "s15",
-    "title": "A caution CAS message FAIL will be displayed if the system f…",
+    "title": "caution CAS message",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "A caution CAS message FAIL will be displayed if the system fails or if the NOSE STEER switch is off.",
-    "caption_tr": ""
+    "caption_tr": "Sistem arızalanırsa veya NOSE STEER anahtarı kapalıysa bir uyarı CAS mesajı FAIL görüntülenecektir.",
+    "title_tr": "dikkat CAS mesajı"
   }
 ]

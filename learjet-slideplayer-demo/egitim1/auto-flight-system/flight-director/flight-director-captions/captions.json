@@ -1,67 +1,75 @@
 [
   {
     "id": "s01",
-    "title": "The PRIMUS Integrated Avionics System includes two flight di…",
+    "title": "PRIMUS Integrated Avionics",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "The PRIMUS Integrated Avionics System includes two flight directors that are resident, one each, in the two IC-600 computers.",
-    "caption_tr": ""
+    "caption_tr": "PRIMUS Entegre Aviyonik Sistemi, iki IC-600 bilgisayarında her biri birer tane yerleşik olan iki uçuş direktörünü içerir.",
+    "title_tr": "PRIMUS Entegre Aviyonik"
   },
   {
     "id": "s02",
-    "title": "The transfer button is used to select the active The active …",
+    "title": "transfer button select",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "The flight guadiance controller transfer button is used to select the active The active FD is termed the \"master\" flight director, and the opposite is called the slave flight director.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yönlendirme kontrolörü transfer düğmesi aktif olanı seçmek için kullanılır. Aktif FD'ye \"ana\" uçuş yöneticisi denir ve bunun tersi de yardımcı uçuş yöneticisi olarak adlandırılır.",
+    "title_tr": "aktarma düğmesi seçimi"
   },
   {
     "id": "s03",
-    "title": "The transfer button is used to select the active The active …",
+    "title": "transfer button select",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The transfer button is used to select the active The active FD is termed the \"master\" flight director, and the opposite is called the slave flight director. The left FD is selected as master on power-up.",
-    "caption_tr": ""
+    "caption_tr": "Transfer düğmesi aktif olanı seçmek için kullanılır. Aktif FD'ye \"ana\" uçuş yöneticisi denir ve bunun tersi de yardımcı uçuş yöneticisi olarak adlandırılır. Sol FD, açılışta master olarak seçilir.",
+    "title_tr": "aktarma düğmesi seçimi"
   },
   {
     "id": "s04",
-    "title": "The flight guadiance controller transfer arrow head is also repeated by the arrow on the…",
+    "title": "flight guadiance controller",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "The transfer arrow head is also repeated by the arrow on the PFDs.",
-    "caption_tr": ""
+    "caption_tr": "Aktarım ok başlığı PFD'lerdeki okla da tekrarlanır.",
+    "title_tr": "uçuş yönlendirme kontrolörü"
   },
   {
     "id": "s05",
-    "title": "If the AP is engaged, it will couple to the master",
+    "title": "AP engaged it",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "If the AP is engaged, it will couple to the master",
-    "caption_tr": ""
+    "caption_tr": "AP devredeyse ana cihaza bağlanacaktır",
+    "title_tr": "AP devreye girdi"
   },
   {
     "id": "s06",
-    "title": "If left FD is the master, AP will be coupled to the left FD …",
+    "title": "left FD master",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "If left FD is the master, AP will be coupled to the left FD when it is engaged.",
-    "caption_tr": ""
+    "caption_tr": "Sol FD ana ise, AP devreye girdiğinde sol FD'ye bağlanacaktır.",
+    "title_tr": "FD ustasından ayrıldı"
   },
   {
     "id": "s07",
-    "title": "The master FD not only provides steering commands to the AP,…",
+    "title": "master FD steering",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "The master FD not only provides steering commands to the AP, it also provide the following to both the pilot's and co-pilot's PFDs when FD modes are selected",
-    "caption_tr": ""
+    "caption_tr": "Ana FD yalnızca AP'ye yönlendirme komutları sağlamakla kalmaz, aynı zamanda FD modları seçildiğinde hem pilotun hem de yardımcı pilotun PFD'lerine aşağıdakileri sağlar:",
+    "title_tr": "usta FD direksiyon"
   },
   {
     "id": "s08",
-    "title": "The master FD not only provides steering commands to the AP,…",
+    "title": "master FD steering",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "The master FD not only provides steering commands to the AP, it also provide the following to both the pilot's and co-pilot's PFDs when FD modes are selected on -- pitch and roll FD mode annunciations, and",
-    "caption_tr": ""
+    "caption_tr": "Ana FD, yalnızca AP'ye yönlendirme komutları sağlamakla kalmaz, aynı zamanda FD modları seçildiğinde hem pilotun hem de yardımcı pilotun PFD'lerine aşağıdakileri sağlar: eğim ve dönüş FD modu duyuruları ve",
+    "title_tr": "usta FD direksiyon"
   },
   {
     "id": "s09",
@@ -69,158 +77,178 @@
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The master FD not only provides steering commands to the AP, it also provide the following to both the pilot's and co-pilot's PFDs when FD modes are selected on FGC: - pitch and roll FD mode annunciations, and -- pitch and roll command bars. All these are repeated on the opposite (slave) PFD.",
-    "caption_tr": ""
+    "caption_tr": "Ana FD, yalnızca AP'ye yönlendirme komutları sağlamakla kalmaz, aynı zamanda FGC'de FD modları seçildiğinde hem pilotun hem de yardımcı pilotun PFD'lerine aşağıdakileri sağlar: - eğim ve dönüş FD modu bildirimleri ve - eğim ve dönüş komut çubukları. Bütün bunlar karşıt (slave) PFD'de tekrarlanır.",
+    "title_tr": "Slayt 9"
   },
   {
     "id": "s10",
-    "title": "For this reason, it is essential that slave has the same nav…",
+    "title": "this reason it",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "For this reason, it is essential that slave has the same navigation source selected as the master so that the navigation information on the slave HSI is compatible to the steering movements of the command bars which are driven by the master",
-    "caption_tr": ""
+    "caption_tr": "Bu nedenle, ikincil HSI'deki navigasyon bilgilerinin, ana makine tarafından çalıştırılan komut çubuklarının direksiyon hareketleriyle uyumlu olması için, ikincil öğenin ana öğeyle aynı gezinme kaynağına sahip olması önemlidir.",
+    "title_tr": "bu nedenle"
   },
   {
     "id": "s11",
-    "title": "The flight guidance controller is the prime controller for t…",
+    "title": "flight guidance controller",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "The flight guidance controller is the prime controller for the FD and APYD. The flight guidance controller provides the means, via push-button switches, for FD mode selection, couple status and APYD engage selection.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yönlendirme kontrolörü, FD ve APYD'nin ana kontrolörüdür. Uçuş yönlendirme kontrolörü, basmalı düğme anahtarları aracılığıyla FD modu seçimi, çift durumu ve APYD devreye alma seçimi için araçlar sağlar.",
+    "title_tr": "uçuş rehberlik kontrolörü"
   },
   {
     "id": "s12",
-    "title": "The FD modes engage status is indicated to the crew via gree…",
+    "title": "FD modes engage",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "The FD modes engage status is indicated to the crew via green light on the right hand edge of each mode switch, which is illuminated when the mode is active or arm and extinguished when the mode is inactive.",
-    "caption_tr": ""
+    "caption_tr": "FD modlarının devreye girme durumu, her bir mod anahtarının sağ kenarındaki yeşil ışık aracılığıyla mürettebata gösterilir; bu ışık, mod etkin olduğunda veya etkinleştirildiğinde yanar ve mod etkin olmadığında söner.",
+    "title_tr": "FD modları devreye"
   },
   {
     "id": "s13",
-    "title": "A field, located at the very top, centre of the is dedicated…",
+    "title": "field located very",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "A field, located at the very top, centre of the is dedicated to FD annunciations and the APFD arrow.",
-    "caption_tr": ""
+    "caption_tr": "En üstte, ortada yer alan bir alan, FD duyurularına ve APFD okuna ayrılmıştır.",
+    "title_tr": "alan çok yer"
   },
   {
     "id": "s14",
-    "title": "The roll mode is on the left of the arrow and the pitch mode…",
+    "title": "roll mode left",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The roll mode is on the left of the arrow and the pitch mode is on the right.",
-    "caption_tr": ""
+    "caption_tr": "Yuvarlanma modu okun solunda, eğim modu ise sağındadır.",
+    "title_tr": "sola yuvarlanma modu"
   },
   {
     "id": "s15",
-    "title": "Touch button to select heading mode.",
+    "title": "Touch button select",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "Touch button to select heading mode.",
-    "caption_tr": ""
+    "caption_tr": "Yön modunu seçmek için düğmeye dokunun.",
+    "title_tr": "Dokunmatik düğme seçimi"
   },
   {
     "id": "s16",
-    "title": "As you have noticed, a newly selected mode is displayed in g…",
+    "title": "you have noticed",
     "imgSrc": "slides/s16.png",
     "audioSrc": "audio/s16.mp3",
     "caption_en": "As you have noticed, a newly selected mode is displayed in green and is boxed in white. The white box stays for about 8 seconds. Also, any first selection of FD mode, roll or pitch, will bring roll and pitch command bars into view.",
-    "caption_tr": ""
+    "caption_tr": "Fark ettiğiniz gibi, yeni seçilen mod yeşil renkte görüntülenir ve beyaz kutu içine alınır. Beyaz kutu yaklaşık 8 saniye kalır. Ayrıca, FD modunun (roll veya pitch) herhangi bir ilk seçimi, roll ve pitch komut çubuklarını görünüme getirecektir.",
+    "title_tr": "fark ettin"
   },
   {
     "id": "s17",
-    "title": "Armed mode annunciators are located outboard of active modes…",
+    "title": "Armed mode annunciators",
     "imgSrc": "slides/s17.png",
     "audioSrc": "audio/s17.mp3",
     "caption_en": "Armed mode annunciators are located outboard of active modes. They appear in white in the armed condition. When the armed mode becomes captured, it will move inboard, turn green and is boxed in white for 8 seconds.",
-    "caption_tr": ""
+    "caption_tr": "Silahlı mod bildirim cihazları aktif modların dışına yerleştirilmiştir. Silahlı durumda beyazlar içinde görünüyorlar. Silahlı mod yakalandığında içeriye doğru hareket edecek, yeşile dönecek ve 8 saniye boyunca beyaz kutuyla çerçevelenecektir.",
+    "title_tr": "Silahlı mod uyarı"
   },
   {
     "id": "s18",
-    "title": "Armed mode annunciators are located outboard of active modes…",
+    "title": "Armed mode annunciators",
     "imgSrc": "slides/s18.png",
     "audioSrc": "audio/s18.mp3",
     "caption_en": "Armed mode annunciators are located outboard of active modes. They appear in white in the armed condition. When the armed mode becomes captured, it will move inboard, turn green and is boxed in white for 8 seconds. ",
-    "caption_tr": ""
+    "caption_tr": "Silahlı mod bildirim cihazları aktif modların dışına yerleştirilmiştir. Silahlı durumda beyazlar içinde görünüyorlar. Silahlı mod yakalandığında içeriye doğru hareket edecek, yeşile dönecek ve 8 saniye boyunca beyaz kutuyla çerçevelenecektir.",
+    "title_tr": "Silahlı mod uyarı"
   },
   {
     "id": "s19",
-    "title": "The flight director select switches, FD 1 and FD 2, are loca…",
+    "title": "flight director select",
     "imgSrc": "slides/s19.png",
     "audioSrc": "audio/s19.mp3",
     "caption_en": "The flight director select switches, FD 1 and FD 2, are located on the upper left and right corners of the flight guidance controller.",
-    "caption_tr": ""
+    "caption_tr": "Uçuş yöneticisi seçme anahtarları FD 1 ve FD 2, uçuş yönlendirme kontrol cihazının sol ve sağ üst köşelerinde bulunur.",
+    "title_tr": "uçuş direktörü seç"
   },
   {
     "id": "s20",
-    "title": "Depressing these switches alone will not bring the FD comman…",
+    "title": "Depressing these switches",
     "imgSrc": "slides/s20.png",
     "audioSrc": "audio/s20.mp3",
     "caption_en": "Depressing these switches alone will not bring the FD command bars into view. Any FD mode selection causes the FD command bars to appear on both PFDs.",
-    "caption_tr": ""
+    "caption_tr": "Bu anahtarlara tek başına basıldığında FD komut çubukları görüntülenmez. Herhangi bir FD modu seçimi, FD komut çubuklarının her iki PFD'de görünmesine neden olur.",
+    "title_tr": "Bu anahtarlara basmak"
   },
   {
     "id": "s21",
-    "title": "Touch button to select speed mode.",
+    "title": "Touch button select",
     "imgSrc": "slides/s21.png",
     "audioSrc": "audio/s21.mp3",
     "caption_en": "",
-    "caption_tr": ""
+    "caption_tr": "",
+    "title_tr": "Dokunmatik düğme seçimi"
   },
   {
     "id": "s22",
-    "title": "When the FD command bars are in view on both PFDs and the AP…",
+    "title": "FD command bars",
     "imgSrc": "slides/s22.png",
     "audioSrc": "audio/s22.mp3",
     "caption_en": "When the FD command bars are in view on both PFDs and the AP is not engaged, depressing the master FD switch will disengage all FD modes and remove the command bars on both PFDs.",
-    "caption_tr": ""
+    "caption_tr": "FD komut çubukları her iki PFD'de de görüntülendiğinde ve AP devreye girmediğinde, ana FD anahtarına basılması tüm FD modlarını devre dışı bırakacak ve her iki PFD'deki komut çubuklarını kaldıracaktır.",
+    "title_tr": "FD komut çubukları"
   },
   {
     "id": "s23",
-    "title": "Once removed by the master FD switch, depressing the same sw…",
+    "title": "Once removed master",
     "imgSrc": "slides/s23.png",
     "audioSrc": "audio/s23.mp3",
     "caption_en": "Once removed by the master FD switch, depressing the same switch again will not bring back the command bars and FD modes.",
-    "caption_tr": ""
+    "caption_tr": "Ana FD anahtarı tarafından kaldırıldıktan sonra aynı anahtara tekrar basılması komut çubuklarını ve FD modlarını geri getirmez.",
+    "title_tr": "Master kaldırıldıktan sonra"
   },
   {
     "id": "s24",
-    "title": "Pressing the slave FD button removes the FD modes and comman…",
+    "title": "Pressing slave FD",
     "imgSrc": "slides/s24.png",
     "audioSrc": "audio/s24.mp3",
     "caption_en": "Pressing the slave FD button removes the FD modes and command bars on that only.",
-    "caption_tr": ""
+    "caption_tr": "Yardımcı FD düğmesine basıldığında yalnızca FD modları ve komut çubukları kaldırılır.",
+    "title_tr": "Köle FD'ye basmak"
   },
   {
     "id": "s25",
-    "title": "If the AP is engaged, pressing the master FD switch has no e…",
+    "title": "AP engaged pressing",
     "imgSrc": "slides/s25.png",
     "audioSrc": "audio/s25.mp3",
     "caption_en": "If the AP is engaged, pressing the master FD switch has no effect The FD modes and command bars will not disapear either side.",
-    "caption_tr": ""
+    "caption_tr": "AP devredeyse, ana FD anahtarına basmanın hiçbir etkisi olmaz. FD modları ve komut çubukları her iki tarafta da kaybolmayacaktır.",
+    "title_tr": "AP basmaya başladı"
   },
   {
     "id": "s26",
-    "title": "However, the slave command bars can be removed and brought b…",
+    "title": "However slave command",
     "imgSrc": "slides/s26.png",
     "audioSrc": "audio/s26.mp3",
     "caption_en": "However, the slave command bars can be removed and brought back if the associated FD switch is pushed repeatedly.",
-    "caption_tr": ""
+    "caption_tr": "Bununla birlikte, ilgili FD anahtarına tekrar tekrar basılması durumunda yardımcı komut çubukları çıkarılabilir ve geri getirilebilir.",
+    "title_tr": "Ancak köle komutu"
   },
   {
     "id": "s27",
-    "title": "However, the slave command bars can be removed and brought b…",
+    "title": "However slave command",
     "imgSrc": "slides/s27.png",
     "audioSrc": "audio/s27.mp3",
     "caption_en": "However, the slave command bars can be removed and brought back if the associated FD switch is pushed repeatedly.",
-    "caption_tr": ""
+    "caption_tr": "Bununla birlikte, ilgili FD anahtarına tekrar tekrar basılması durumunda yardımcı komut çubukları çıkarılabilir ve geri getirilebilir.",
+    "title_tr": "Ancak köle komutu"
   },
   {
     "id": "s28",
-    "title": "The table shows the function of the FD switches in relation …",
+    "title": "table function FD",
     "imgSrc": "slides/s28.png",
     "audioSrc": "audio/s28.mp3",
     "caption_en": "The table shows the function of the FD switches in relation to AP engaged and AP disengaged.",
-    "caption_tr": ""
+    "caption_tr": "Tablo, AP'nin devreye girmesi ve AP'nin devre dışı bırakılmasıyla ilgili olarak FD anahtarlarının işlevini gösterir.",
+    "title_tr": "tablo işlevi FD"
   }
 ]

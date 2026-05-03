@@ -1,122 +1,137 @@
 [
   {
     "id": "s01",
-    "title": "Wing Stabilizer Anti-ice System The leading edges of the win…",
+    "title": "Wing Stabilizer Anti-ice",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Wing Stabilizer Anti-ice System The leading edges of the wing and stabilizer are heated to prevent ice build-up. There are 2 wingstabilizer anti-ice vaives and they use the HP air from the engines for heating.",
-    "caption_tr": ""
+    "caption_tr": "Kanat Sabitleyici Buz Önleyici Sistem Kanadın ve dengeleyicinin ön kenarları buz oluşumunu önlemek için ısıtılır. 2 adet kanat stabilizatörü buz önleyici valf bulunmaktadır ve motorlardan gelen HP havasını ısıtma için kullanırlar.",
+    "title_tr": "Kanat Sabitleyici Buz"
   },
   {
     "id": "s02",
-    "title": "Both these 2 valves are controlled by the Integrated ECS Con…",
+    "title": "these 2 valves",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Both these 2 valves are controlled by the Integrated ECS Controller through the WINGSTAB switch. For the left WINGSTAB valve to operate, the L BLEED switch must also be ON. Likewise, the R BLEED switch must be ON for the right WINGSTAB valve operation. The WINGSTAB switch is also monitored by the ice detection system.",
-    "caption_tr": ""
+    "caption_tr": "Bu 2 valfin her ikisi de WINGSTAB anahtarı aracılığıyla Entegre ECS Kontrol Cihazı tarafından kontrol edilir. Sol WINGSTAB valfinin çalışması için L BLEED anahtarının da AÇIK olması gerekir. Benzer şekilde, WINGSTAB valfinin doğru çalışması için R BLEED anahtarının AÇIK olması gerekir. WINGSTAB anahtarı aynı zamanda buz algılama sistemi tarafından da izlenir.",
+    "title_tr": "bu 2 valf"
   },
   {
     "id": "s03",
-    "title": "The WingStab anti-ice shut-off valves are powered by the lef…",
+    "title": "WingStab anti-ice shut-off",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "The WingStab anti-ice shut-off valves are powered by the left and right main busses respectively. These valves will close if they become electrically unpowered.",
-    "caption_tr": ""
+    "caption_tr": "WingStab buzlanma önleyici kapatma vanaları sırasıyla sol ve sağ ana veri yollarından güç alır. Bu vanalar elektrik enerjisinin kesilmesi durumunda kapanacaktır.",
+    "title_tr": "WingStab buzlanma önleyici"
   },
   {
     "id": "s04",
-    "title": "Selecting the WINGSTAB switch ON opens both the valves. The …",
+    "title": "WINGSTAB switch opens",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "Selecting the WINGSTAB switch ON opens both the valves. The HP air then flows into the leading edges of both the wings and the stabilizer.",
-    "caption_tr": ""
+    "caption_tr": "WINGSTAB anahtarının AÇIK seçilmesi her iki valfi de açar. HP havası daha sonra hem kanatların hem de dengeleyicinin ön kenarlarına akar.",
+    "title_tr": "WINGSTAB anahtarı açılır"
   },
   {
     "id": "s05",
-    "title": "This hot bleed air warms the leading edges via piccolo tubes…",
+    "title": "This hot bleed",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "This hot bleed air warms the leading edges via piccolo tubes to prevent ice build-up. Piccolo tubes are tubes with holes in them, just like a flute. The excess air is vented overboard.",
-    "caption_tr": ""
+    "caption_tr": "Bu sıcak hava, buz oluşumunu önlemek için pikolo tüpler aracılığıyla ön kenarları ısıtır. Piccolo tüpleri, tıpkı flüt gibi, içinde delikler bulunan tüplerdir. Fazla hava denize atılır.",
+    "title_tr": "Bu sıcak kanama"
   },
   {
     "id": "s06",
-    "title": "Temperature Control The wing skin temperatures on both wings…",
+    "title": "Temperature Control wing",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Temperature Control The wing skin temperatures on both wings are continuously monitored by the 2 wing skin temperature sensors. This information is sent to the Integrated ECS controller which modulates the anti-ice valves to maintain the colder of the wings",
-    "caption_tr": ""
+    "caption_tr": "Sıcaklık Kontrolü Her iki kanattaki kanat derisi sıcaklıkları, 2 adet kanat derisi sıcaklık sensörü tarafından sürekli olarak izlenir. Bu bilgi, kanatların daha soğuk olmasını sağlamak için buzlanma önleyici valfleri modüle eden Entegre ECS kontrolörüne gönderilir.",
+    "title_tr": "Sıcaklık Kontrol kanadı"
   },
   {
     "id": "s07",
-    "title": "Apart from the 2 wing skin temperature sensors, there are 4 …",
+    "title": "Apart 2 wing",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Apart from the 2 wing skin temperature sensors, there are 4 overheat temperature sensors, one on each wing and stabilizer. They will be activated when they sense a temperature of more than",
-    "caption_tr": ""
+    "caption_tr": "2 adet kanat derisi sıcaklık sensörünün yanı sıra, her kanatta birer adet olmak üzere 4 adet aşırı ısınma sıcaklık sensörü ve stabilizatör bulunmaktadır. 0.000'den fazla sıcaklık algıladıklarında etkinleştirilecekler.",
+    "title_tr": "Apart 2 kanat"
   },
   {
     "id": "s08",
-    "title": "There are also 4 under-heat sensors, one on each wing and st…",
+    "title": "There are also",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "There are also 4 under-heat sensors, one on each wing and stabilizer. They will be activated when they sense a temperature of less than",
-    "caption_tr": ""
+    "caption_tr": "Ayrıca her kanatta birer adet olmak üzere 4 adet düşük ısı sensörü ve stabilizatör bulunmaktadır. altında bir sıcaklık algıladıklarında etkinleştirileceklerdir.",
+    "title_tr": "Ayrıca var"
   },
   {
     "id": "s09",
-    "title": "The under-heat sensors monitor the wing and stabilizer tempe…",
+    "title": "under-heat sensors monitor",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "The under-heat sensors monitor the wing and stabilizer temperatures and provide under-heat signals to the controller. If the wing temperature falls below 4C for more than 10 seconds, a caution CAS message WING TEMP LOW is displayed. For a low stabilizer temperature, the caution CAS message STAB TEMP LOW is displayed.",
-    "caption_tr": ""
+    "caption_tr": "Düşük ısınma sensörleri kanat ve stabilizatör sıcaklıklarını izler ve kontrol ünitesine düşük ısınma sinyalleri sağlar. Kanat sıcaklığı 10 saniyeden daha uzun bir süre 4°C'nin altına düşerse, bir CAS mesajı WING TEMP LOW (KANAT SICAKLIĞI DÜŞÜK) görüntülenir. Düşük stabilizatör sıcaklığı için CAS mesajı STAB TEMP LOW uyarısı görüntülenir.",
+    "title_tr": "düşük ısı sensörleri"
   },
   {
     "id": "s10",
-    "title": "If the stabilizer skin temperature exceeds as sensed by the …",
+    "title": "stabilizer skin temperature",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "If the stabilizer skin temperature exceeds as sensed by the over-heat sensor, a warning CAS message STAB OVHT is displayed. This is followed by a warning message STAB OVHT. For a wing overheat, the warning message WING OVHT is displayed on both CAS and The anti-ice valves do not close automatically.",
-    "caption_tr": ""
+    "caption_tr": "Dengeleyici yüzey sıcaklığı, aşırı ısınma sensörü tarafından algılanan değeri aşarsa, bir CAS mesajı STAB OVHT görüntülenir. Bunu bir uyarı mesajı STAB OVHT takip eder. Kanatın aşırı ısınması durumunda, hem CAS hem de WING OVHT uyarı mesajı görüntülenir. Buz önleme valfleri otomatik olarak kapanmaz.",
+    "title_tr": "stabilizatör cilt sıcaklığı"
   },
   {
     "id": "s11",
-    "title": "If any of the stabilizer under-heat or overheat sensors fail…",
+    "title": "any stabilizer under-heat",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "If any of the stabilizer under-heat or overheat sensors fails, an advisory CAS message STAB FAULT will be displayed. Likewise, for the wing sensors failure, an advisory CAS message WING FAULT will also be displayed.",
-    "caption_tr": ""
+    "caption_tr": "Dengeleyicinin düşük ısınma veya aşırı ısınma sensörlerinden herhangi biri arızalanırsa, tavsiye niteliğinde bir CAS mesajı STAB FAULT görüntülenecektir. Benzer şekilde, kanat sensörleri arızası durumunda, bir tavsiye niteliğindeki CAS mesajı KANAT HATASI da görüntülenecektir.",
+    "title_tr": "ısı altında herhangi"
   },
   {
     "id": "s12",
-    "title": "WingStab Anti-ice Leak Detection The ducting for the wing an…",
+    "title": "WingStab Anti-ice Leak",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "WingStab Anti-ice Leak Detection The ducting for the wing and stabilizer anti-ice bleed air system is monitored by a leak detection unit. A series of inter-connected heat detection elements is routed beside the anti-ice ducting and ends at the leak detector unit.",
-    "caption_tr": ""
+    "caption_tr": "WingStab Buz Önleyici Sızıntı Tespiti Kanat ve stabilizatör buz önleyici hava tahliye sistemi kanalları, bir sızıntı tespit ünitesi tarafından izlenir. Bir dizi birbirine bağlı ısı algılama elemanı, buzlanma önleyici kanalın yanına yönlendirilir ve kaçak dedektör ünitesinde sonlanır.",
+    "title_tr": "WingStab Buz Önleyici"
   },
   {
     "id": "s13",
-    "title": "These warnings remain on until the temperature decreases. No…",
+    "title": "These warnings remain",
     "imgSrc": "slides/s13.png",
     "audioSrc": "audio/s13.mp3",
     "caption_en": "These warnings remain on until the temperature decreases. Note that the wingstabilizer anti-ice valves do not close automatically.",
-    "caption_tr": ""
+    "caption_tr": "Bu uyarılar sıcaklık düşene kadar devam eder. Kanat stabilizatörü buzlanma önleyici valflerin otomatik olarak kapanmadığını unutmayın.",
+    "title_tr": "uyarılar devam ediyor"
   },
   {
     "id": "s14",
-    "title": "The flight manual corrective procedure for this malfunction …",
+    "title": "flight manual corrective",
     "imgSrc": "slides/s14.png",
     "audioSrc": "audio/s14.mp3",
     "caption_en": "The flight manual corrective procedure for this malfunction is to turn the STABWING anti-ice switch off and avoid flight into icing conditions.",
-    "caption_tr": ""
+    "caption_tr": "Bu arızaya yönelik uçuş kılavuzundaki düzeltme prosedürü, STABWING buz önleme düğmesini kapatmak ve buzlanma koşullarına doğru uçuşu önlemektir.",
+    "title_tr": "uçuş el kitabı"
   },
   {
     "id": "s15",
-    "title": "WingStab Anti-ice System Test The WingStab anti-ice system i…",
+    "title": "WingStab Anti-ice System",
     "imgSrc": "slides/s15.png",
     "audioSrc": "audio/s15.mp3",
     "caption_en": "WingStab Anti-ice System Test The WingStab anti-ice system is tested with the ANTI-ICE position on the system test knob. A satisfactory test is followed by the warning messages WING OVHT and STAB OVHT and an advisory CAS message WGSTAB HT OK.",
-    "caption_tr": ""
+    "caption_tr": "WingStab Buz Önleme Sistemi Testi WingStab buz önleme sistemi, sistem test düğmesi üzerindeki BUZ ÖNLEME konumuyla test edilir. Tatmin edici bir testin ardından WING OVHT ve STAB OVHT uyarı mesajları ve bir tavsiye niteliğindeki CAS mesajı WGSTAB HT OK gelir.",
+    "title_tr": "WingStab Buz Önleyici"
   }
 ]

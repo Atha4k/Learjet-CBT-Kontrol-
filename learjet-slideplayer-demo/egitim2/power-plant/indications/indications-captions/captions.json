@@ -1,98 +1,110 @@
 [
   {
     "id": "s01",
-    "title": "Engine indications are displayed on EICAS.",
+    "title": "Engine indications are",
     "imgSrc": "slides/s01.png",
     "audioSrc": "audio/s01.mp3",
     "caption_en": "Engine indications are displayed on EICAS.",
-    "caption_tr": ""
+    "caption_tr": "Motor göstergeleri EICAS'ta görüntülenir.",
+    "title_tr": "Motor göstergeleri"
   },
   {
     "id": "s02",
-    "title": "Engine speed is shown as a percentage of the normal maximum",
+    "title": "Engine speed percentage",
     "imgSrc": "slides/s02.png",
     "audioSrc": "audio/s02.mp3",
     "caption_en": "Engine speed is shown as a percentage of the normal maximum",
-    "caption_tr": ""
+    "caption_tr": "Motor hızı normal maksimumun yüzdesi olarak gösterilir",
+    "title_tr": "Motor hızı yüzdesi"
   },
   {
     "id": "s03",
-    "title": "Engine temperature, ITT, or Interstage Turbine Temperature i…",
+    "title": "Engine temperature ITT",
     "imgSrc": "slides/s03.png",
     "audioSrc": "audio/s03.mp3",
     "caption_en": "Engine temperature, ITT, or Interstage Turbine Temperature is also shown on a representative instrument with a moving pointer. The acutal temperature is shown in digital form within the instrument.",
-    "caption_tr": ""
+    "caption_tr": "Motor sıcaklığı, ITT veya Aşamalar Arası Türbin Sıcaklığı da hareketli bir işaretçi ile temsili bir cihaz üzerinde gösterilir. Gerçek sıcaklık cihaz içerisinde dijital biçimde gösterilir.",
+    "title_tr": "Motor sıcaklığı ITT"
   },
   {
     "id": "s04",
-    "title": "N2 indication is shown in digital form, also as a percentage…",
+    "title": "N2 indication digital",
     "imgSrc": "slides/s04.png",
     "audioSrc": "audio/s04.mp3",
     "caption_en": "N2 indication is shown in digital form, also as a percentage of the normal maximum",
-    "caption_tr": ""
+    "caption_tr": "N2 göstergesi dijital biçimde ve ayrıca normal maksimumun yüzdesi olarak gösterilir",
+    "title_tr": "N2 göstergesi dijital"
   },
   {
     "id": "s05",
-    "title": "Oil Pressure is shown in digital form in PSI.",
+    "title": "Oil Pressure digital",
     "imgSrc": "slides/s05.png",
     "audioSrc": "audio/s05.mp3",
     "caption_en": "Oil Pressure is shown in digital form in PSI.",
-    "caption_tr": ""
+    "caption_tr": "Yağ Basıncı PSI cinsinden dijital biçimde gösterilir.",
+    "title_tr": "Yağ Basıncı dijital"
   },
   {
     "id": "s06",
-    "title": "Oil Temperature is shown in digital form in degrees C.",
+    "title": "Oil Temperature digital",
     "imgSrc": "slides/s06.png",
     "audioSrc": "audio/s06.mp3",
     "caption_en": "Oil Temperature is shown in digital form in degrees C.",
-    "caption_tr": ""
+    "caption_tr": "Yağ Sıcaklığı C derece cinsinden dijital biçimde gösterilir.",
+    "title_tr": "Yağ Sıcaklığı dijital"
   },
   {
     "id": "s07",
-    "title": "Fuel Flow is shown in digital form in kilograms per hour.",
+    "title": "Fuel Flow digital",
     "imgSrc": "slides/s07.png",
     "audioSrc": "audio/s07.mp3",
     "caption_en": "Fuel Flow is shown in digital form in kilograms per hour.",
-    "caption_tr": ""
+    "caption_tr": "Yakıt Akışı dijital biçimde saatte kilogram cinsinden gösterilir.",
+    "title_tr": "Yakıt Akışı dijital"
   },
   {
     "id": "s08",
-    "title": "Engine indications are also available on the RMUs. RMU Engin…",
+    "title": "Engine indications are",
     "imgSrc": "slides/s08.png",
     "audioSrc": "audio/s08.mp3",
     "caption_en": "Engine indications are also available on the RMUs. RMU Engine Page one displays N1 ITT, and oil pressure. The N1 presentation is in the form of a vertial tape with a moving pointer as well as a digital readout.",
-    "caption_tr": ""
+    "caption_tr": "RMU'larda motor göstergeleri de mevcuttur. RMU Motor Birinci Sayfada N1 ITT ve yağ basıncı görüntülenir. N1 sunumu, hareketli bir işaretçinin yanı sıra dijital bir okuma içeren dikey bir bant biçimindedir.",
+    "title_tr": "Motor göstergeleri"
   },
   {
     "id": "s09",
-    "title": "Engine page two displays both N1 and N2 oil temperature and …",
+    "title": "Engine page two",
     "imgSrc": "slides/s09.png",
     "audioSrc": "audio/s09.mp3",
     "caption_en": "Engine page two displays both N1 and N2 oil temperature and fuel flow.",
-    "caption_tr": ""
+    "caption_tr": "İkinci motor sayfası hem N1 hem de N2 yağ sıcaklığını ve yakıt akışını gösterir.",
+    "title_tr": "Motor sayfası iki"
   },
   {
     "id": "s10",
-    "title": "Digital readouts are normally in white. Some readouts change…",
+    "title": "Digital readouts are",
     "imgSrc": "slides/s10.png",
     "audioSrc": "audio/s10.mp3",
     "caption_en": "Digital readouts are normally in white. Some readouts change to amber or red if the reading reaches abnormal levels.",
-    "caption_tr": ""
+    "caption_tr": "Dijital okumalar normalde beyaz renktedir. Okuma anormal seviyelere ulaştığında bazı okumalar sarıya veya kırmızıya döner.",
+    "title_tr": "Dijital okumalar"
   },
   {
     "id": "s11",
-    "title": "Eicas may also display words in the areas shown shaded. Thes…",
+    "title": "Eicas may also",
     "imgSrc": "slides/s11.png",
     "audioSrc": "audio/s11.mp3",
     "caption_en": "Eicas may also display words in the areas shown shaded. These displays are referred to as annunciators.",
-    "caption_tr": ""
+    "caption_tr": "Eicas ayrıca gölgeli olarak gösterilen alanlardaki kelimeleri de görüntüleyebilir. Bu görüntülere duyurucular denir.",
+    "title_tr": "Eicas da olabilir"
   },
   {
     "id": "s12",
-    "title": "Annunciators may be white, green, amber or red. Some amber a…",
+    "title": "Annunciators may white",
     "imgSrc": "slides/s12.png",
     "audioSrc": "audio/s12.mp3",
     "caption_en": "Annunciators may be white, green, amber or red. Some amber annunciators are connected to master caution. Red annunciators are connected to master warning.",
-    "caption_tr": ""
+    "caption_tr": "Müjdeciler beyaz, yeşil, kehribar veya kırmızı olabilir. Bazı kehribar rengi uyarıcılar ustalıkla bağlantılıdır. Kırmızı uyarı cihazları ana uyarıya bağlanır.",
+    "title_tr": "Anonsçular beyaz olabilir"
   }
 ]

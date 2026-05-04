@@ -77,9 +77,10 @@ body.focus-mode .preview{
 body.focus-mode #slideImg{
   width:100vw;height:100vh;max-height:100vh;object-fit:contain;background:#000;
 }
-body.focus-mode .logo{top:18px;right:18px}
+body.focus-mode .logo{top:18px;left:18px;right:auto}
 body.focus-mode .preview-hint{display:none}
 body.focus-mode .focus-actions{display:flex}
+.focus-badge{align-self:center}
 @media (max-width:1100px){ .main{grid-template-columns:1fr} }
 @media (max-width:700px){
   .wrapper{padding:6px}
@@ -143,6 +144,7 @@ body.focus-mode .focus-actions{display:flex}
 </div>
 
 <div class="focus-actions" id="focusActions" aria-label="Focused slide controls">
+  <span class="badge focus-badge" id="focusCounter">0/0</span>
   <button class="iconbtn mute active" id="focusMuteBtn" title="Mute or unmute audio">🔇</button>
   <button class="iconbtn" id="focusPrevBtn" title="Previous">◀</button>
   <button class="iconbtn" id="focusNextBtn" title="Next">▶</button>
@@ -305,6 +307,7 @@ pkg = pkg
   const capSub   = $('#capSubTitle');
   const caption  = $('#captionText');
   const counter  = $('#counter');
+  const focusCounter = $('#focusCounter');
   const btnEn    = $('#btnEn');
   const btnTr    = $('#btnTr');
   const slidesTitle = $('#slidesTitle');
@@ -414,7 +417,11 @@ pkg = pkg
   }
 
   async function load(k){
-    if (!data.length){ counter.textContent='0/0'; return; }
+    if (!data.length){
+      counter.textContent='0/0';
+      focusCounter.textContent='0/0';
+      return;
+    }
     i = Math.max(0, Math.min(data.length-1, k|0));
 
     const s = data[i] || {};
@@ -428,7 +435,9 @@ pkg = pkg
     }
 
     await renderCaption();
-    counter.textContent = `${i+1}/${data.length}`;
+    const countText = `${i+1}/${data.length}`;
+    counter.textContent = countText;
+    focusCounter.textContent = countText;
     setActive(i);
   }
 
